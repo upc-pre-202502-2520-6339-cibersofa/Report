@@ -66,62 +66,30 @@
 </div>
 
 # Project Report Collaboration Insights
-
-[URL de la Landing Page] ()  
-[URL del Front end Aplication] ()
-[URL del Back end] ()
-
-**Informe:**
-
-
-
-**Front end:**
-
-
-**Back end:**
-
+<tr>
+    <td><b> TB1 </b> 24/08/2024</td>
+</tr>
+<img src="" alt=""/></img>  
+<tr>
+    
 # Contenido
 
-[Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+# Contenido
+## Tabla de Contenidos
+### [Registro de versiones del informe](#registro-de-versiones-del-informe)
+### [Project Report Collaboration Insights](#project-report-collaboration-insights)
+### [Contenido](#contenido)
+### [Student Outcome](#student-outcome-1)
+### [Capítulo I: Introducción](#capc3adtulo-i-introduccic3b3n-1)
+- [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+- [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process](#122-lean-ux-process)
+        - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+        - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+        - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+        - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-[Project Report Collaboration Insights](#project-report-collaboration-insights)
-
-[Student Outcome](#student-outcome)
-
-[Capítulo I: Introducción](#capítulo-i-introducción)
-
-[Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
-
-[Capítulo III: Requirements Specificatio](#capítulo-iii-requirements-specification)
-
-[Capítulo IV: Product Desig](#capítulo-iv-product-design)
-
-[Capítulo V: Product Implementation, Validation & Deploymen](#capítulo-v-product-implementation-validation--deployment)
-
-[Conclusiones](#conclusiones)
-
-[Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-
-[Video About-the-Team](#video-about-the-team)
-
-[Bibliografía](#bibliografía)
-
-[Anexos](#anexos)
-
-# Student Outcome
-
-# Capítulo I: Introducción
-
-# Capítulo II: Requirements Elicitation & Analysis
-
-# Capítulo III: Requirements Specification
-
-# Capítulo IV: Product Design
-
-# Capítulo V: Product Implementation, Validation & Deployment
-
-# Conclusiones y recomendaciones.
-
-# Video About-the-Team.
-
-# Bibliografía
