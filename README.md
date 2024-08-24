@@ -27,7 +27,7 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-                <td>Barrionuevo Reto, Jean Franco Joel</td>
+                <td>Barrionuevo Reto,  Jean Franco Joel</td>
             <td>U202219284</td>
         </tr>
         <tr>
