@@ -27,7 +27,7 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-                <td>Barrionuevo Reto, Jean Franco Joel</td>
+                <td>Barrionuevo Reto,  Jean Franco Joel</td>
             <td>U202219284</td>
         </tr>
         <tr>
@@ -179,7 +179,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
   <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
-         
+
    </td>
     <td>TB1<br><br>
 
@@ -188,7 +188,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
 
 
 <br><br>
- 
+
 
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
@@ -217,11 +217,19 @@ En esta sección describiremos el perfil de nuestra Startup.
 
 ### 1.1.1. Description de la StartUp
 
-Descripción
+Car2Go es una startup creada en 2024 por un grupo de estudiantes de Ingeniería de Software.
+Nuestra plataforma está dedicada a transformar el mercado de autos de segunda mano,
+ofreciendo una solución innovadora y accesible para personas que desean comprar o vender vehículos usados.
 
-- Misión: 
 
-- Visión: 
+- Misión: Nuestra misión es facilitar la compra y venta de autos de segunda mano mediante
+  una plataforma intuitiva y eficiente, proporcionando a nuestros usuarios todas
+  las herramientas necesarias para que el proceso sea sencillo, seguro y confiable.
+
+
+- Visión: Aspiramos a convertirnos en la principal plataforma Nacional para la compra y
+  venta de autos de segunda mano, impulsando la confianza y
+  la satisfacción de nuestros usuarios en cada transacción.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -284,41 +292,51 @@ características distintivas, propuestas de valor y estrategias de monetización
 
 **Product Name:** Car2Go
 
-**Product Description:** 
+**Product Description:** Car2Go es una plataforma innovadora diseñada para facilitar la compra y
+venta de autos de segunda mano, conectando de manera eficiente a compradores y vendedores.
+La plataforma ofrece una experiencia fluida y sin problemas, permitiendo a los usuarios explorar vehículos,
+gestionar sus publicaciones y comunicarse de manera efectiva. Car2Go proporciona herramientas de seguimiento
+en tiempo real para las transacciones y opciones de personalización que garantizan una experiencia óptima y segura.
 
-**Monetización:**
+**Monetización:**  Car2Go generará ingresos mediante una combinación de planes de suscripción y
+comisiones por venta. Los vendedores podrán elegir entre diferentes planes de suscripción,
+que ofrecen acceso a funciones avanzadas como la destacación de anuncios, herramientas de marketing
+y análisis detallados. Además, se aplicará una comisión básica por cada transacción completada.
+Los compradores realizarán el pago a través de transferencia bancaria, subiendo una captura de pantalla
+del comprobante para que el vendedor confirme la transacción. Esta estrategia mixta asegura que tanto los usuarios que opten por un plan de
+suscripción como aquellos que prefieran pagar por transacción puedan beneficiarse de la plataforma.
 
 ### 1.2.1. Antecedentes y problemática
 Descripción
 
 -   **What?**
 
- 
+
 
 
 -   **When?**
 
-   
+
 
 -   **Where?**
 
-   
+
 
 -   **Who?**
 
-    
+
 
 - **Why?**
 
- 
+
 
 -   **How?**
 
-    
+
 
 -   **How much?**
 
-    
+
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
@@ -371,11 +389,11 @@ Descripción
 
 
 **Feature Assumptions**
-- **Creemos que** 
+- **Creemos que**
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- Creemos que al 
+- Creemos que al
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -391,7 +409,7 @@ Descripción
 
 
 5. **Conclusiones técnicas:**
-    
+
 ## Recomendaciones
 
 # VII. Bibliografía.
@@ -400,11 +418,11 @@ Descripción
 # VIII. Anexos.
 
 - Registro de entrevistas:
-- Trello: 
-- Enlace de Miro: 
-- Prouct Backlog: 
-- Structurizr: 
-- Organización Github: 
-- Landing Page: 
-- Backend: 
+- Trello:
+- Enlace de Miro:
+- Prouct Backlog:
+- Structurizr:
+- Organización Github:
+- Landing Page:
+- Backend:
 - Reporte: 
