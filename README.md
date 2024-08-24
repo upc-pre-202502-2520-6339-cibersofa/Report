@@ -73,8 +73,6 @@
 <tr>
     
 # Contenido
-
-# Contenido
 ## Tabla de Contenidos
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
 ### [Project Report Collaboration Insights](#project-report-collaboration-insights)
@@ -92,4 +90,56 @@
         - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
         - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+- 
+### [Conclusiones](#conclusiones-1)
+- [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
+### [Bibliografía](#bibliografc3ada-1)
+### [Anexos](#anexos-1)
+
+# Student Outcome
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+  <tr>
+    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td> TB1<br><br>
+         
+   </td>
+    <td>TB1<br><br>
+
+
+</tr>
+
+
+<br><br>
+
+
+  </tr>
+
+  <tr>
+    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+
+<td> 
+TB1<br><br>
+
+
+<br><br>
+
+   </td>
+    <td>TB1<br><br>
+
+
+</tr>
+<br><br>
+
+
+</table>
+
+<br><br>
