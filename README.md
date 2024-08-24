@@ -90,7 +90,7 @@
         - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
         - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- 
+
 ### [Conclusiones](#conclusiones-1)
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
 
@@ -189,7 +189,7 @@ Nombre
 ## 1.2. Solution Profile
 
 En esta sección se detallan los aspectos claves de nuestra solución de software, incluyendo sus
-carcateristicas distintivas, propuestas de valor y estrategias de monetización.
+características distintivas, propuestas de valor y estrategias de monetización.
 
 **Product Name:** Car2Go
 
@@ -294,3 +294,26 @@ Descripción
 
 ## 1.3. Segmentos Objetivo
 ...
+
+# VI. Conclusiones y recomendaciones.
+## Conclusiones
+
+
+5. **Conclusiones técnicas:**
+    
+## Recomendaciones
+
+# VII. Bibliografía.
+
+
+# VIII. Anexos.
+
+- Registro de entrevistas:
+- Trello: 
+- Enlace de Miro: 
+- Prouct Backlog: 
+- Structurizr: 
+- Organización Github: 
+- Landing Page: 
+- Backend: 
+- Reporte: 
