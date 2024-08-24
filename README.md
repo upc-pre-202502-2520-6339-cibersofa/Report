@@ -5,7 +5,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"><br>
     <strong>Ingeniería de Software</strong><br>
     <strong></strong><br>
-    <strong>Profesorr:</strong><br>
+    <strong>Profesor:</strong><br>
     <br>INFORME
 </p>
 
