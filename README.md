@@ -306,7 +306,30 @@ Gerald Patricio Serrano Uchuya
         Soy Gerald Serrano. Estoy en 6to ciclo de Ingeniería de software. Me enfoco en las tecnologías web como React, ASP.net y Spring. Soy alguien muy entusiasta al momento de aprender nuevas tecnologías y me gusta cumplir lo mejor que pueda mis responsibilidades en un grupo de trabajo.
         </td>
     </tr>
-
+    <tr align="center">
+        <td rowspan="3">
+<img src="/assets/Harold-integrante.jpg">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+Harold Jaime Mayta Lopez
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Hola, soy Harold Mayta, actualmente estudio Ingeniería de Software en la Univerisidad Peruana de Ciencias Aplicadas. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante.Asi mismo, considero que puedo aportar al grupo con soluciones optimas a futuros porblemas.
+        </td>
+    </tr>
 </table>
 
 ## 1.2. Solution Profile
