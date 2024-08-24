@@ -354,15 +354,23 @@ del comprobante para que el vendedor confirme la transacción. Esta estrategia m
 suscripción como aquellos que prefieran pagar por transacción puedan beneficiarse de la plataforma.
 
 ### 1.2.1. Antecedentes y problemática
-Descripción
+La industria de compra y venta de autos de segunda mano enfrenta desafíos significativos 
+en términos de seguridad, eficiencia y accesibilidad. Los compradores y vendedores se encuentran 
+bajo presión debido a la creciente demanda de vehículos usados, pero enfrentan obstáculos como la falta
+de plataformas seguras, la dificultad para verificar la autenticidad de los pagos,
+y la escasez de herramientas tecnológicas que faciliten transacciones confiables y sin fricciones.
 
 -   **What?**
 
-
+La industria automotriz de segunda mano enfrenta desafíos importantes en la 
+gestión eficiente de las transacciones y la seguridad de las mismas, 
+debido a la falta de plataformas tecnológicas adecuadas que garanticen procesos transparentes y seguros.
 
 
 -   **When?**
 
+Este problema se ha intensificado en los últimos años, especialmente con el crecimiento del mercado de autos usados, 
+impulsado por el aumento de la demanda y la necesidad de opciones más accesibles para los consumidores.
 
 
 -   **Where?**
