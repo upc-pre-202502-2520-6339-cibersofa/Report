@@ -282,6 +282,30 @@ Karito Dianeth Medina Chocce
         Hola, soy Karito Medina, actualmente estudio Ingeniería de Software en la Universidad de Ciencias Aplicadas (UPC). Me considero una persona responsable, respetuosa y con una fuerte habilidad para trabajar en equipo. Me esfuerzo por contribuir positivamente a cada proyecto en el que participo, buscando siempre mejorar los resultados grupales y alcanzar los objetivos comunes. Estoy entusiasmada por aplicar mis conocimientos y habilidades para enfrentar nuevos desafíos y seguir creciendo en el campo de la tecnología.
         </td>
     </tr>
+<tr align="center">
+        <td rowspan="3">
+<img src="/assets/integrante-Gerald.jpeg">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+Gerald Patricio Serrano Uchuya
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy Gerald Serrano. Estoy en 6to ciclo de Ingeniería de software. Me enfoco en las tecnologías web como React, ASP.net y Spring. Soy alguien muy entusiasta al momento de aprender nuevas tecnologías y me gusta cumplir lo mejor que pueda mis responsibilidades en un grupo de trabajo.
+        </td>
+    </tr>
 
 </table>
 
