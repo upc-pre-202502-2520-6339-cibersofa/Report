@@ -14,28 +14,43 @@
 </p>
 
 
-<center>
+<p align="center">
+    <strong>Startup: Viajeros del cibersofá </strong><br>
+    <strong>Producto:  Car2Go </strong>
+</p>
 
-#### Startup: ** **
+<h3 align="center" >Team Members:</h3>
+<div>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+                <td>Barrionuevo Reto, Jean Franco Joel</td>
+            <td>U202219284</td>
+        </tr>
+        <tr>
+            <td>Carranza Tesen, Joaquin Enrique</td>
+            <td>U20191B935</td>
+        </tr>
+        <tr>
+                <td>Mayta López, Harold</td>
+            <td>U202114851</td>
+        </tr>
+        <tr>
+            <td>Medina Chocce, Karito Dianeth</td>
+            <td>U20221C769</td>
+        </tr>
+        <tr>
+            <td>Serrano Uchuya, Gerald Patricio</td>
+            <td>U202122876</td>
+        </tr>
+    </table>
 
-#### Product: ** i **
-
-</center>
-
-# Team  Members:
-
-<div align="center">
-
-|             Member             |    Code    |
-|:-------------------------------:|:---------:|
-|||
-|||
-|||
-|||
-|||
-
-
-
+<tr>
+    <td><b>Mes y año: </b> 23/08/2024</td>
+</tr>
 </div>
 
 # Registro de Versiones del Informe
