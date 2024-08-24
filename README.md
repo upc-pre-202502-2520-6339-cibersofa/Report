@@ -48,8 +48,6 @@
 
 # Project Report Collaboration Insights
 
-[URL de la organización] (https://github.com/DispositivosMoviles-WX63)  
-[URL del repositorio] (https://github.com/DispositivosMoviles-WX63/informe-trabajo-final.git)  
 [URL de la Landing Page] ()  
 [URL del Front end Aplication] ()
 [URL del Back end] ()
