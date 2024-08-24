@@ -19,9 +19,9 @@
     <strong>Producto:  Car2Go </strong>
 </p>
 
-<h3 align="center" >Team Members:</h3>
+<h3 align="center">Team Members:</h3>
 <div>
-    <table>
+    <table align="center">
         <tr>
             <th style="text-align:center;">Member</th>
             <th style="text-align:center;">Code</th>
@@ -251,7 +251,7 @@ Jean Franco Barrionuevo Reto
         </td>
         <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-Franco.jpeg">
+<img src="/assets/integrante-Gerald.jpeg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
