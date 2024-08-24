@@ -143,3 +143,154 @@ TB1<br><br>
 </table>
 
 <br><br>
+
+# Capítulo I: Introducción
+## 1.1. StartUp Profile
+En esta sección describiremos el perfil de nuestra Startup.
+
+### 1.1.1. Description de la StartUp
+
+Descripción
+
+- Misión: 
+
+- Visión: 
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+     <tr align="center">
+        <td rowspan="3">
+<img src="/assets/integrante-Mathias.jpg">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+Nombre
+</td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+            Descripción personal
+        </td>
+    </tr>
+    
+</table>
+
+## 1.2. Solution Profile
+
+En esta sección se detallan los aspectos claves de nuestra solución de software, incluyendo sus
+carcateristicas distintivas, propuestas de valor y estrategias de monetización.
+
+**Product Name:** Car2Go
+
+**Product Description:** 
+
+**Monetización:**
+
+### 1.2.1. Antecedentes y problemática
+Descripción
+
+-   **What?**
+
+ 
+
+
+-   **When?**
+
+   
+
+-   **Where?**
+
+   
+
+-   **Who?**
+
+    
+
+- **Why?**
+
+ 
+
+-   **How?**
+
+    
+
+-   **How much?**
+
+    
+
+### 1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+- ...
+
+
+#### 1.2.2.2. Lean UX Assumptions
+
+**Business Outcomes:**
+
+...
+
+**Users Assumptions :**
+
+**1. ¿Quien es el usuario?**
+...
+
+**2. ¿Donde entra nuestro producto en su trabajo o su vida?**
+...
+
+**3. ¿Cual es el problema que nuestro producto soluciona?**
+...
+
+**4. ¿Como y cuando nuestro producto es usado?**
+...
+
+**5. ¿Que caracteristicas son importantes?**
+...
+
+**6. ¿Como deberia nuestro producto verse o comportarse?**
+...
+
+
+**User Outcomes:**
+...
+
+¿Que está intentando conseguir el usuario?
+
+
+¿Como se quiere sentir el usuario?
+
+
+¿Como nuestro producto lo acerca a su objetivo?
+
+
+¿Por que nuestros usuarios se interesarian por nuestro producto? ¿Que beneficio podrian obtener?
+
+
+¿Que cambio en su comportamiento veremos que nos dira que nuestro objetivo ha sido logrado?
+
+
+**Feature Assumptions**
+- **Creemos que** 
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Creemos que al 
+
+#### 1.2.2.4. Lean UX Canvas
+
+<div align=center>
+    <img src="" alt="Canvas"/>
+</div>
+
+## 1.3. Segmentos Objetivo
+...
