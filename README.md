@@ -375,23 +375,27 @@ impulsado por el aumento de la demanda y la necesidad de opciones más accesible
 
 -   **Where?**
 
-
+Este problema es global y afecta a compradores y vendedores en diversas regiones del mundo, tanto en mercados desarrollados como en desarrollo.
 
 -   **Who?**
 
-
+Los compradores y vendedores de autos usados, desde individuos hasta concesionarios pequeños, están directamente involucrados en estas dificultades,
+ya que son responsables de realizar transacciones seguras y exitosas en un mercado competitivo.
 
 - **Why?**
 
-
+Es crucial abordar esta problemática porque la compra y venta de autos de segunda mano es una parte esencial de la economía global, ofreciendo opciones 
+asequibles para los consumidores y contribuyendo al desarrollo económico de muchos países.
 
 -   **How?**
 
-
+Se necesitan soluciones tecnológicas innovadoras que ayuden a los usuarios a realizar transacciones de manera más segura, eficiente y confiable, optimizando
+la experiencia de compra y venta y garantizando la transparencia en cada paso del proceso.
 
 -   **How much?**
 
-
+El costo de implementar estas soluciones tecnológicas puede variar según la escala de la plataforma y los 
+recursos disponibles para la adopción de tecnología en el mercado de autos de segunda mano.
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
