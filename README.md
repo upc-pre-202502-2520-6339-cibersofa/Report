@@ -249,6 +249,7 @@ Jean Franco Barrionuevo Reto
         <br>
         Soy Franco Barrionuevo, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, responsable y con muchas ganas de aprender. Me gusta trabajar en equipo y aportar ideas para el desarrollo de proyectos.
         </td>
+        <tr align="center">
         <td rowspan="3">
 <img src="/assets/integrante-Franco.jpeg">
         </td>
