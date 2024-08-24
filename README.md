@@ -2,11 +2,15 @@
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+<br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"><br>
-    <strong>Ingeniería de Software</strong><br>
-    <strong></strong><br>
-    <strong>Profesor:</strong><br>
-    <br>INFORME
+<br>
+    <strong>Ingeniería de Software - 5to Ciclo</strong><br>
+<br>
+    <strong>Desarrollo de Aplicaciones Open Source - WX51</strong><br>  
+<br>
+    <strong>Profesor: Alberto Wilmer Sanchez Seña</strong><br>
+    <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
 </p>
 
 
