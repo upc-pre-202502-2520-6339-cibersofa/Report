@@ -330,6 +330,30 @@ Harold Jaime Mayta Lopez
         Hola, soy Harold Mayta, actualmente estudio Ingeniería de Software en la Univerisidad Peruana de Ciencias Aplicadas. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante.Asi mismo, considero que puedo aportar al grupo con soluciones optimas a futuros porblemas.
         </td>
     </tr>
+    <tr align="center">
+        <td rowspan="3">
+<img src="">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+Joaquín Enrique Carranza Tesén
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy Joaquín Carranza, estudiante de la carrera de ingeniería de software. Me considero una persona responsable y comunicativa. Me gusta hacer deporte así como los videojuegos. Soy proactivo a la hora de proponer soluciones y me gusta trabajar en equipo.
+        </td>
+    </tr>
 </table>
 
 ## 1.2. Solution Profile
