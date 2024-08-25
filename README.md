@@ -399,69 +399,140 @@ recursos disponibles para la adopción de tecnología en el mercado de autos de 
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
-- ...
+- En la industria de compra y venta de autos de segunda mano, existe
+una falta de plataformas tecnológicas integradas que permitan a los compradores y vendedores realizar 
+transacciones de manera segura y eficiente. Este vacío tecnológico dificulta la confianza entre las partes y
+la optimización del proceso de compra-venta, lo que conduce a una experiencia frustrante y puede limitar el crecimiento de este mercado. 
+Además, mejorar la colaboración entre compradores, vendedores y talleres técnicos es crucial para garantizar transacciones transparentes y 
+satisfactorias para todas las partes involucradas.
 
 
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Outcomes:**
 
-...
+- Lograr un crecimiento mensual del 20% en el número de usuarios activos de la plataforma, medido por el número de transacciones realizadas a través de Car2Go.
+
+- Tener al menos 200 vehículos vendidos a través de la plataforma en el primer año de lanzamiento.
+
+- Alcanzar una tasa de satisfacción del 85% entre los usuarios al final del primer año, lo que indicará una alta retención y confianza en la plataforma.
+
 
 **Users Assumptions :**
 
 **1. ¿Quien es el usuario?**
-...
+- Compradores de autos usados
+- Vendedores de autos usados
+- Talleres técnicos
 
 **2. ¿Donde entra nuestro producto en su trabajo o su vida?**
-...
+- Car2Go se integra directamente en la vida de los compradores y vendedores al facilitar el proceso de transacción, haciéndolo más seguro y accesible.
 
 **3. ¿Cual es el problema que nuestro producto soluciona?**
-...
+- Falta de transparencia y confianza en las transacciones de autos usados.
+
+- Dificultades en la verificación del estado del vehículo y la confirmación de pagos.
+
+- Complejidad en la comunicación entre compradores, vendedores y talleres técnicos.
 
 **4. ¿Como y cuando nuestro producto es usado?**
-...
+- La plataforma será utilizada durante todo el proceso de compra y venta, desde la búsqueda del vehículo hasta
+la confirmación del pago. Los talleres técnicos usarán aquella información para ofrecer sus servicios.
+
 
 **5. ¿Que caracteristicas son importantes?**
-...
+- Sistema de filtrado y verificación de vehículos
+- Transacciones seguras mediante verificación de pago.
+- Organización y seguimiento del proceso de compra-venta.
+- Información detallada y transparente sobre los vehículos
+- Comunicación eficiente entre compradores y vendedores
+
 
 **6. ¿Como deberia nuestro producto verse o comportarse?**
-...
+-  El producto debe verse con una interfaz simple, interactiva, atractiva e inclusiva. Debe poder comportarse correctamente, ser capaz de llamar la atención de quien la use, pero tambien otorgar una experiencia innovadora y acogedora a nuestro segmento objetivo.
 
 
 **User Outcomes:**
-...
+- **Compradores de Autos Usados:** Establecer como objetivo aumentar la confianza en el proceso de compra de vehículos usados, logrando una reducción del 30% en el número de incidencias críticas reportadas por compradores durante el primer año de uso de Car2Go. 
+- **Vendedores de Autos Usados:** Mejorar la tasa de conversión de ventas en un 25% durante el primer año, garantizando que solo los vehículos verificados y aprobados sean listados en la plataforma. Esto reducirá los problemas relacionados con la venta y aumentará la satisfacción del vendedor.
+- **Talleres Técnicos:** Incrementar el número de inspecciones y certificaciones realizadas en un 40% durante el primer año, facilitando una mayor colaboración con Car2Go. Este aumento se logrará mediante la integración eficiente de sus servicios en la plataforma y la generación de más oportunidades de verificación.
+
 
 ¿Que está intentando conseguir el usuario?
-
+- **Compradores:** Quiero encontrar un auto confiable y realizar la compra de manera segura.
+- **Vendedores:** Quiero vender mis autos de manera rápida y segura.
+- **Talleres Técnicos:** Quiero ofrecer mis servicios de inspección y certificación de vehículos de manera eficiente y confiable.
 
 ¿Como se quiere sentir el usuario?
-
+- **Compradores de autos usados:** Quiero sentir confianza y seguridad al momento de realizar mi compra.
+- **Vendedores de autos usados:** Quiero sentirme respaldado y protegido durante el proceso de venta.
+- **Talleres Técnicos:** Quiero sentirme valorado y reconocido por mi trabajo en la plataforma.
 
 ¿Como nuestro producto lo acerca a su objetivo?
+
+- **Compradores de autos usados:** Les proporciona una plataforma segura para encontrar y comprar vehículos usados.
+- **Vendedores de autos usados:** Les facilita el proceso de venta, asegurando la transacción y reduciendo riesgos.
+- **Talleres Técnicos:** Les conecta con clientes potenciales, incrementando la demanda de sus servicios.
 
 
 ¿Por que nuestros usuarios se interesarian por nuestro producto? ¿Que beneficio podrian obtener?
 
+- **Compradores de autos usados:** Acceso a una plataforma segura y confiable para comprar autos usados.
+- **Vendedores de autos usados:** Capacidad de vender sus vehículos de manera rápida y sin riesgos.
+- **Talleres Técnicos:** Oportunidad de ofrecer servicios a un mercado específico y creciente.
 
 ¿Que cambio en su comportamiento veremos que nos dira que nuestro objetivo ha sido logrado?
 
+- **Compradores y Vendedores:** Esperamos que la plataforma se utilice de manera constante para todas las transacciones
+de autos usados, lo que indicará un aumento en la confianza y la seguridad en el proceso. Un incremento en el número de
+transacciones realizadas a través de Car2Go, junto con una reducción en las quejas o disputas relacionadas con la transparencia 
+y la verificación, nos indicará que la plataforma está cumpliendo su objetivo de mejorar la confianza en el mercado de autos usados.
+
+- **Talleres Técnicos:** Esperamos que los talleres técnicos vean un aumento en la demanda de sus servicios a través de la plataforma,
+lo que indicará que los usuarios confían en su trabajo y están dispuestos a pagar por sus servicios. Un incremento en el número de inspecciones
+y certificaciones realizadas a través de Car2Go demostrará que los talleres técnicos están obteniendo beneficios significativos de su colaboración con la plataforma.
+
 
 **Feature Assumptions**
-- **Creemos que**
+
+- **Creemos que** el producto debe contar con planes estándar y premium que se adapten a las necesidades del usuario, ofreciendo flexibilidad y valor agregado.
+- **Creemos que** el producto debe poder proporcionar opciones de valoración y revisión de autos por parte de los talleres técnicos.
+- **Creemos que** el producto debe ofrecer un sistema de verificación de pagos y transacciones seguras.
+- **Creemos que** el producto debe facilitar la comunicación directa entre compradores y vendedores para mejorar la transparencia y la confianza.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- Creemos que al
-
+- Creemos que al implementar un proceso riguroso de verificación para cada vehículo antes de su inclusión en la plataforma, podemos aumentar la confianza de los compradores en la calidad y la transparencia de las ofertas, lo que resultará en una mayor seguridad en las transacciones y una reducción en las disputas.
+  <br><br>
+- Creemos que al integrar un sistema de inspecciones y certificaciones realizadas por talleres técnicos a través de Car2Go, podemos incrementar la demanda de servicios técnicos, lo que beneficiará a los talleres y garantizará la calidad de los vehículos disponibles en la plataforma.
+  <br><br>
+- Creemos que al ofrecer una plataforma exclusiva sin freemium y con un filtro de calidad para los vehículos, podemos mejorar la eficiencia del proceso de compra-venta, aumentando la satisfacción del cliente y optimizando las transacciones al asegurar que solo los vehículos que cumplen con los estándares de calidad sean mostrados.
+  <br><br>
+- Creemos que al proporcionar una interfaz intuitiva y amigable, podemos mejorar la experiencia general del usuario en la plataforma, resultando en una mayor satisfacción y un aumento en el uso continuo de Car2Go.
+  <br><br>
+- Creemos que al implementar un sistema de verificación de pagos y transacciones seguras, podemos reducir los riesgos de fraude y estafas, lo que aumentará la confianza de los usuarios en la plataforma y fomentará la realización de transacciones seguras y confiables.
 #### 1.2.2.4. Lean UX Canvas
 
 <div align=center>
-    <img src="" alt="Canvas"/>
+    <img src="assets/lean_ux_canvas.png" alt="Canvas" width="500" />
 </div>
 
 ## 1.3. Segmentos Objetivo
-...
+**Compradores de Autos Usados:**
+- Personas interesadas en adquirir un vehículo de segunda mano, que buscan opciones asequibles y confiables en el mercado.
+- Buscan una plataforma que garantice la calidad y transparencia de los vehículos.
+- Interesados en un proceso de compra sencillo, con acceso a vehículos certificados y con historial claro.
+
+**Vendedores de Autos Usados:**
+- Individuos que desean vender sus vehículos de manera rápida y segura.
+- Buscan una plataforma que les permita listar sus vehículos de forma eficiente y atraer a compradores potenciales.
+- Interesados en un proceso de venta transparente y sin complicaciones, con opciones de verificación y pagos seguros.
+
+**Talleres Técnicos:**
+- Empresas y profesionales que ofrecen servicios de inspección y certificación de vehículos.
+- Buscan una plataforma que les permita promocionar sus servicios y colaborar con compradores y vendedores.
+- Interesados en una mayor visibilidad y demanda de sus servicios, con la posibilidad de ofrecer valor agregado a los usuarios.
+
 
 # VI. Conclusiones y recomendaciones.
 ## Conclusiones
