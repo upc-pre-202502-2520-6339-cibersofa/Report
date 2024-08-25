@@ -337,9 +337,9 @@ Harold Jaime Mayta Lopez
 En esta sección se detallan los aspectos claves de nuestra solución de software, incluyendo sus
 características distintivas, propuestas de valor y estrategias de monetización.
 
-**Product Name:** Car2Go
+**Nombre del producto:** Car2Go
 
-**Product Description:** Car2Go es una plataforma innovadora diseñada para facilitar la compra y
+**Descripción:** Car2Go es una plataforma innovadora diseñada para facilitar la compra y
 venta de autos de segunda mano, conectando de manera eficiente a compradores y vendedores.
 La plataforma ofrece una experiencia fluida y sin problemas, permitiendo a los usuarios explorar vehículos,
 gestionar sus publicaciones y comunicarse de manera efectiva. Car2Go proporciona herramientas de seguimiento
@@ -360,43 +360,35 @@ bajo presión debido a la creciente demanda de vehículos usados, pero enfrentan
 de plataformas seguras, la dificultad para verificar la autenticidad de los pagos,
 y la escasez de herramientas tecnológicas que faciliten transacciones confiables y sin fricciones.
 
--   **What?**
 
+-   **What?**   
 La industria automotriz de segunda mano enfrenta desafíos importantes en la 
 gestión eficiente de las transacciones y la seguridad de las mismas, 
 debido a la falta de plataformas tecnológicas adecuadas que garanticen procesos transparentes y seguros.
-
-
--   **When?**
-
+<br><br>  
+- **When?**                      
 Este problema se ha intensificado en los últimos años, especialmente con el crecimiento del mercado de autos usados, 
 impulsado por el aumento de la demanda y la necesidad de opciones más accesibles para los consumidores.
-
-
--   **Where?**
-
+<br><br>
+-   **Where?**                         
 Este problema es global y afecta a compradores y vendedores en diversas regiones del mundo, tanto en mercados desarrollados como en desarrollo.
-
--   **Who?**
-
+<br><br>
+-   **Who?**           
 Los compradores y vendedores de autos usados, desde individuos hasta concesionarios pequeños, están directamente involucrados en estas dificultades,
 ya que son responsables de realizar transacciones seguras y exitosas en un mercado competitivo.
-
-- **Why?**
-
+<br><br>
+- **Why?**             
 Es crucial abordar esta problemática porque la compra y venta de autos de segunda mano es una parte esencial de la economía global, ofreciendo opciones 
 asequibles para los consumidores y contribuyendo al desarrollo económico de muchos países.
-
--   **How?**
-
+<br><br>
+-   **How?**                    
 Se necesitan soluciones tecnológicas innovadoras que ayuden a los usuarios a realizar transacciones de manera más segura, eficiente y confiable, optimizando
 la experiencia de compra y venta y garantizando la transparencia en cada paso del proceso.
-
--   **How much?**
-
+<br><br>
+-   **How much?**                         
 El costo de implementar estas soluciones tecnológicas puede variar según la escala de la plataforma y los 
 recursos disponibles para la adopción de tecnología en el mercado de autos de segunda mano.
-
+<br><br>
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 - En la industria de compra y venta de autos de segunda mano, existe
@@ -412,9 +404,9 @@ satisfactorias para todas las partes involucradas.
 **Business Outcomes:**
 
 - Lograr un crecimiento mensual del 20% en el número de usuarios activos de la plataforma, medido por el número de transacciones realizadas a través de Car2Go.
-
+  <br><br>
 - Tener al menos 200 vehículos vendidos a través de la plataforma en el primer año de lanzamiento.
-
+  <br><br>
 - Alcanzar una tasa de satisfacción del 85% entre los usuarios al final del primer año, lo que indicará una alta retención y confianza en la plataforma.
 
 
@@ -422,7 +414,9 @@ satisfactorias para todas las partes involucradas.
 
 **1. ¿Quien es el usuario?**
 - Compradores de autos usados
+ <br><br>
 - Vendedores de autos usados
+<br><br>
 - Talleres técnicos
 
 **2. ¿Donde entra nuestro producto en su trabajo o su vida?**
@@ -496,8 +490,11 @@ y certificaciones realizadas a través de Car2Go demostrará que los talleres t�
 **Feature Assumptions**
 
 - **Creemos que** el producto debe contar con planes estándar y premium que se adapten a las necesidades del usuario, ofreciendo flexibilidad y valor agregado.
+  <br><br>
 - **Creemos que** el producto debe poder proporcionar opciones de valoración y revisión de autos por parte de los talleres técnicos.
+  <br><br>
 - **Creemos que** el producto debe ofrecer un sistema de verificación de pagos y transacciones seguras.
+  <br><br>
 - **Creemos que** el producto debe facilitar la comunicación directa entre compradores y vendedores para mejorar la transparencia y la confianza.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
