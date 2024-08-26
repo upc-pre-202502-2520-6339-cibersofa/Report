@@ -332,7 +332,7 @@ Harold Jaime Mayta Lopez
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="">
+<img src="/assets/integrante-Joaquin.png">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
