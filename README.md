@@ -554,6 +554,214 @@ y certificaciones realizadas a través de Car2Go demostrará que los talleres t�
 - Buscan una plataforma que les permita promocionar sus servicios y colaborar con compradores y vendedores.
 - Interesados en una mayor visibilidad y demanda de sus servicios, con la posibilidad de ofrecer valor agregado a los usuarios.
 
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
+Nuestros competidores abarcan una variedad de empresas en el mercado de autos de segunda mano, que se han ido fortaleciendo a lo largo del tiempo en plataformas digitales. Esto abarca grandes sitios webs de venta de vehículos usados.
+
+Aquí unos competidores directos que proporcionan servicios similares al nuestro:
+
+
+- **NeoAuto**: [NeoAuto](https://neoauto.com/venta-de-autos-usados-en-lima?gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQtS4NTpmRTLgjG9aqoxczpnBP_zQPfrGnqWX53OOE22ruL_N90cup8aAvHuEALw_wcB)
+
+  NeoAuto es una plataforma en línea disponible para web y dispositivos móviles que facilita la compra y venta de autos de segunda mano. Fundada por un equipo de innovadores peruanos, NeoAuto ha logrado posicionarse como uno de los líderes en el mercado automotriz de segunda mano en Perú. La plataforma permite a los usuarios acceder a una amplia variedad de vehículos usados, todos verificados para garantizar su calidad y confiabilidad. Gracias a su gran aceptación, NeoAuto se ha expandido y ahora es un referente en el sector automotriz en el país, ayudando a miles de peruanos a encontrar su auto ideal.
+ 
+<br><br>
+- **AUTOLAND Perú**: [AutoLand Perú](https://autoland.com.pe/seminuevos/)
+
+  AutoLand Perú es un portal en línea especializado en la compra y venta de vehículos de segunda mano, accesible tanto desde su sitio web como desde su aplicación móvil. Fundado por un grupo de expertos en el sector automotriz peruano, AutoLand Perú se ha destacado por ofrecer una plataforma confiable y segura para transacciones de autos usados. La plataforma permite a los usuarios explorar una extensa selección de vehículos, todos sometidos a rigurosas inspecciones para asegurar su calidad. Gracias a su enfoque en la satisfacción del cliente, AutoLand Perú se ha consolidado como una de las opciones preferidas en el mercado de autos de segunda mano en el país.
+
+<br><br>
+- **Autopia.pe**: [Autopia.pe](https://www.autopia.pe)
+
+  Autopia.pe es una plataforma digital especializada en la compra y venta de autos de segunda mano, diseñada para brindar a los usuarios una experiencia simple y segura. Fundada por un equipo de emprendedores peruanos apasionados por el sector automotriz, Autopia.pe se ha posicionado rápidamente como una opción confiable para quienes buscan vehículos usados en Perú. La plataforma ofrece una amplia gama de autos, todos inspeccionados y certificados para garantizar su estado y calidad. Gracias a su enfoque en la transparencia y la satisfacción del cliente, Autopia.pe se ha convertido en una referencia clave en el mercado automotriz de segunda mano en el país.
+
+## 2.1.1. Análisis competitivo
+<table>
+ <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+  <th>¿Por qué llevar a cabo este análisis?</th>
+    <td colspan="6"> Realizaremos un análisis competitivo porque es muy importante identificar oportunidades de diferenciación, entender las fortalezas y debilidades de los competidores, y adaptar la estrategia para posicionar mejor la plataforma en el mercado.</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th>Car2Go</th>
+    <th>NeoAuto</th>
+    <th>AutoLand Perú</th>
+    <th>Autopia.pe</th>
+  </tr>
+  <tr>
+    <th rowspan="2">Perfil</th>
+    <td><strong>Overview</strong></td>
+    <td>Plataforma de compra y venta de autos de segunda mano con un fuerte énfasis en la verificación y certificación de datos.</td>
+    <td>Plataforma en línea para la compra y venta de autos de segunda mano en Perú, con una sólida presencia en el mercado.</td>
+    <td>Plataforma especializada en la compra y venta de vehículos usados, con un énfasis en la confiabilidad y seguridad de las transacciones.</td>
+    <td>Plataforma digital enfocada en la simplicidad y seguridad de la compra y venta de autos de segunda mano.</td>
+  </tr>
+  <tr>
+    <td><strong>Ventaja competitiva ¿Qué valor ofrece a los clientes?</strong></td>
+    <td>Seguridad y confianza al comprar, sabiendo que todos los datos y fotos están verificados y actualizados regularmente. Ahorran tiempo al evitar pasos adicionales de verificación.</td>
+    <td>Acceso a una gran cantidad de opciones y confianza en una plataforma bien establecida.</td>
+    <td>Tranquilidad al saber que los autos han pasado por un proceso de inspección.</td>
+    <td>Proceso de compra sencillo y seguro, con una selección de vehículos que han sido inspeccionados.</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Perfil de Marketing</th>
+    <td><strong>Mercado objetivo</strong></td>
+    <td>Compradores y vendedores de autos de segunda mano que buscan seguridad y confianza en su adquisición.</td>
+    <td>Consumidores peruanos interesados en comprar o vender autos usados a través de una plataforma confiable.</td>
+    <td>Consumidores peruanos que priorizan la seguridad y confiabilidad en la compra de un auto de segunda mano.</td>
+    <td>Usuarios que buscan una plataforma fácil de usar para comprar o vender autos usados, con énfasis en la transparencia y satisfacción del cliente.</td>
+  </tr>
+  <tr>
+    <td><strong>Estrategias de marketing</strong></td>
+    <td>Campañas focalizadas en redes sociales y Google ads, orientadas a personas que buscan comprar un auto usado.</td>
+    <td>Campañas de branding en televisión, radio y redes sociales para mantener la visibilidad de la marca a nivel nacional.</td>
+    <td>Anuncios en prensa, radio y televisión local que resalten la confiabilidad y las rigurosas inspecciones de los autos en venta.</td>
+    <td>Campañas en redes sociales enfocadas a un público más joven, destacando la facilidad de uso y la transparencia de la plataforma.</td>
+  </tr>
+  <tr>
+    <th rowspan="3">Perfil de Producto</th>
+    <td><strong>Productos & Servicios</strong></td>
+    <td>Autos verificados y certificados mensualmente, con asesoría personalizada.</td>
+    <td>Amplio catálogo de autos usados, con servicios adicionales como financiamiento y seguros.</td>
+    <td>Autos usados con inspecciones rigurosas y garantía limitada.</td>
+    <td>Autos seleccionados con inspección única al momento de la publicación, enfocados en la transparencia.</td>
+  </tr>
+  <tr>
+    <td><strong>Precios & Costos</strong></td>
+    <td>Precios medio-altos debido a las certificaciones mensuales; costos operativos elevados por las inspecciones regulares.</td>
+    <td>Variedad de precios, desde opciones económicas hasta de alta gama; costos moderados por verificación básica.</td>
+    <td>Precios competitivos con un enfoque en el valor a través de la calidad; costos relacionados con inspecciones detalladas.</td>
+    <td>Precios variados con enfoque en la transparencia; costos de mantenimiento digital y una única certificación inicial.</td>
+  </tr>
+  <tr>
+    <td><strong>Canales de distribución (Web y/o Móvil)</strong></td>
+    <td>Distribución digital a través de web y app, con apoyo de talleres asociados.</td>
+    <td>Distribución principal en su sitio web y aplicación móvil, con apoyo de socios financieros.</td>
+    <td>Distribución en línea y en puntos de venta físicos.</td>
+    <td>Distribución digital a través de su sitio web y app, con atención al cliente en línea.</td>
+  </tr>
+  <tr>
+    <th rowspan="4">Análisis SWOT</th>
+    <td><strong>Fortalezas</strong></td>
+    <td>Verificación y certificación mensual de vehículo, lo que garantiza alta confianza y seguridad para el comprador.</td>
+    <td>Amplia oferta de vehículos y sólida presencia en el mercado, con servicios adicionales como financiamiento.</td>
+    <td>Inspecciones rigurosas y garantía limitada que refuerzan la calidad y seguridad de los autos vendidos.</td>
+    <td>Transparencia en la información del vehículo y proceso de compra simplificado.</td>
+  </tr>
+  <tr>
+    <td><strong>Debilidades</strong></td>
+    <td>Costos operativos altos debido a las inspecciones mensuales, lo que puede traducirse en precios más altos para los usuarios.</td>
+    <td>Menor enfoque en la verificación continua de datos, lo que puede generar dudas sobre la autenticidad de la información.</td>
+    <td>Dependencia de puntos de venta físicos puede limitar el alcance y la comodidad en comparación con plataformas digitales puras.</td>
+    <td>Inspección única puede no ofrecer el mismo nivel de garantía continua que la verificación mensual de Car2Go.</td>
+  </tr>
+  <tr>
+    <td><strong>Oportunidades</strong></td>
+    <td>Expansión de otros mercados que valoren la verificación continua y el valor añadido de vehículos certificados.</td>
+    <td>Expansión de servicios adicionales como seguros y financiamiento para atraer a más compradores.</td>
+    <td>Potencial para integrar más tecnología y herramientas digitales para mejorar la experiencia del usuario.</td>
+    <td>Ampliar la oferta de servicios adicionales y mejorar la frecuencia de inspección para competir con plataformas que ofrezcan verificación continua.</td>
+  </tr>
+  <tr>
+    <td><strong>Amenazas</strong></td>
+    <td>Competencia de plataformas con menores costos operativos y precios más bajos que no ofrecen verificación continua.</td>
+    <td>Riesgo de pérdida de credibilidad si no se mejora la verificación de datos frente a competidores más transparentes.</td>
+    <td>Competencia creciente de plataformas digitales que ofrecen una experiencia más ágil y moderna.</td>
+    <td>Riesgo de quedar atrás si no se actualizan las prácticas de verificación y certificación para igualar a competidores con procesos más exhaustivos.</td>
+  </tr>
+</table>
+
+## 2.1.2. Estrategias y tácticas frente a competidores
+
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th>Categoría</th>
+      <th>Estrategias y Tácticas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Oportunidades</strong></td>
+      <td>- O1: Verificación continua<br>- O2: Expansión de mercado<br>- O3: Alianzas estratégicas<br>- O4: Valor añadido de servicios adicionales</td>
+    </tr>
+    <tr>
+      <td><strong>Amenazas</strong></td>
+      <td>- A1: Competencia de precios bajos<br>- A2: Plataforma digital de competencia<br>- A3: Mayor alcance y visibilidad</td>
+    </tr>
+    <tr>
+      <td><strong>Fortalezas</strong></td>
+      <td>- F1: Garantía de calidad<br>- F2: Seguridad al comprador<br>- F3: Proceso de compra simplificado<br>- F4: Credibilidad de información</td>
+    </tr>
+    <tr>
+      <td><strong>Estrategias FO (Ofensivas)</strong></td>
+      <td>- FO1: Promoción de verificación continua<br>- FO2: Expansión a nuevos mercados</td>
+    </tr>
+    <tr>
+      <td><strong>Estrategias FA (Defensivas)</strong></td>
+      <td>- FA1: Fortalecimiento de la experiencia del usuario<br>- FA2: Mejora continua en el proceso de verificación<br>- FA3: Mantenimiento de precios competitivos</td>
+    </tr>
+    <tr>
+      <td><strong>Debilidades</strong></td>
+      <td>- D1: Costos operativos<br>- D2: Menor flexibilidad<br>- D3: Menor alcance de mercado</td>
+    </tr>
+    <tr>
+      <td><strong>Estrategias DO (Reorientación)</strong></td>
+      <td>- DO1: Optimización de costos operativos<br>- DO2: Expansión digital</td>
+    </tr>
+    <tr>
+      <td><strong>Estrategias DA (Supervivencia)</strong></td>
+      <td>- DA1: Ajuste de precios<br>- DA2: Reducción de costos<br>- DA3: A</td>
+    </tr>
+  </tbody>
+</table>
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+#### Segmento 1: Compradores de Autos de Segunda Mano
+1. ¿Cuáles son los factores más importantes para ti al comprar un auto de segunda mano?
+2. ¿Qué tipo de información consideras imprescindible antes de decidirte a comprar un vehículo?
+3. ¿Cómo sueles verificar la credibilidad del vendedor y el estado del vehículo?
+4. ¿Te sentirías más seguro si el auto tuviera un historial de revisiones verificadas por talleres?
+5. ¿Qué tan importante es para ti la transparencia en la información del vehículo (kilometraje, accidentes previos, etc.)?
+6. ¿Estarías dispuesto a pagar más por un auto con datos verificables y reportes de un taller confiable?
+7. ¿Qué dificultades has enfrentado en el pasado al intentar comprar un auto usado?
+8. ¿Qué tan cómodo te sientes utilizando aplicaciones o plataformas en línea para comprar vehículos?
+9. ¿Qué funciones adicionales te gustaría ver en una plataforma que te conecte con vendedores de autos usados?
+10. ¿Confías más en un vendedor particular o en concesionarios al comprar autos de segunda mano? ¿Por qué?
+
+#### Segmento 2: Vendedores de Autos de Segunda Mano
+11. ¿Cuáles son los principales desafíos que enfrentas al vender un auto de segunda mano?
+12. ¿Cómo sueles garantizar la credibilidad y confiabilidad de la información que proporcionas a los compradores?
+13. ¿Qué tan dispuesto estarías a someter tu vehículo a una revisión en un taller para obtener un reporte verificable?
+14. ¿Crees que la existencia de un historial de revisiones ayudaría a vender más rápido tu vehículo?
+15. ¿Qué información consideras clave para atraer a compradores potenciales?
+16. ¿Qué tan cómodo te sentirías subiendo y compartiendo datos detallados y verificados del vehículo en una plataforma en línea?
+17. ¿Cómo evalúas el impacto de una plataforma que asegure la veracidad de los datos en el proceso de venta de tu vehículo?
+18. ¿Cuáles son tus expectativas en cuanto al tiempo que te toma vender un auto? ¿Crees que esta plataforma podría acelerarlo?
+19. ¿Qué tan dispuesto estarías a pagar una tarifa adicional por servicios que aumenten la confianza del comprador?
+20. ¿Qué características o servicios adicionales te gustaría que ofreciera una plataforma dedicada a la venta de autos de segunda mano?
+
+#### Segmento 3: Talleres mecánicos encargados de revisiones
+21. ¿Cuál es tu nivel de experiencia en realizar inspecciones y revisiones para la venta de autos de segunda mano?
+22. ¿Qué tipos de revisiones crees que son esenciales para garantizar la calidad y seguridad de un vehículo usado?
+23. ¿Qué tan interesado estarías en asociarte con una plataforma que te conecte con vendedores que buscan revisiones pagadas?
+24. ¿Qué tipo de certificaciones o informes sueles emitir después de realizar una inspección completa?
+25. ¿Cómo garantizarías la precisión y objetividad en los datos que proporcionas sobre un vehículo?
+26. ¿Qué tipos de revisiones o servicios adicionales te gustaría ofrecer a través de una plataforma de venta de autos?
+27. ¿Cómo gestionarías la demanda de revisiones si el volumen de solicitudes aumenta debido a la asociación con la plataforma?
+28. ¿Qué tan importante es para ti mantener una buena reputación y confianza entre compradores y vendedores?
+29. ¿Cómo valorarías la oportunidad de aumentar tus ingresos a través de estas revisiones pagadas?
+30. ¿Qué consideraciones adicionales tendrías al integrarte en una plataforma que busca asegurar la credibilidad de los autos en venta?
+
 
 # VI. Conclusiones y recomendaciones.
 ## Conclusiones
