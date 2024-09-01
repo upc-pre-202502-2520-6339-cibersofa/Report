@@ -380,6 +380,7 @@ Descripción
 
 **Cuadro de User  Stories**
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|-----------------|--------|-------------|-------------------------|---------------------------|
 | US-01 | Registro de Usuario | Como visitante, quiero registrarme en la plataforma para poder comprar o vender autos. | Dado que el visitante está en la página de registro, cuando ingresa datos válidos, entonces el sistema debe crear una cuenta y redirigir al usuario al perfil. | EP01 |
 | US-02 | Búsqueda de Autos | Como comprador, quiero buscar autos usados por diferentes criterios para encontrar opciones adecuadas. | Dado que el comprador está en la página de búsqueda, cuando aplica filtros y hace una búsqueda, entonces se deben mostrar los autos que cumplen con los criterios. | EP01 |
 | US-03 | Listado de Autos | Como vendedor, quiero listar mi auto para que los compradores puedan verlo y contactarme. | Dado que el vendedor está en la página de listado, cuando completa el formulario y envía la información, entonces el auto debe aparecer en el listado de autos disponibles. | EP01 |
