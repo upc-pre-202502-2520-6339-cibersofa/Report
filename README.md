@@ -362,6 +362,60 @@ Descripción
 ## 1.3. Segmentos Objetivo
 ...
 
+# Cápitulo III: Requirements Specifications
+## 3.1. To-Be Scenario Mapping
+
+## 3.2. User Stories
+
+**Cuadro de Epics**
+| Epic ID | Título | Descripción |
+|---------|--------|-------------|
+| EP01    | Plataforma de Compra y Venta de Autos | Implementar la plataforma principal para la compra y venta de autos usados, facilitando la interacción entre compradores y vendedores. |
+| EP02     | Certificación y Verificación de Autos | Implementar el proceso para la certificación y verificación de autos a través de talleres técnicos, asegurando la calidad de los vehículos. |
+| EP03     | Seguridad en la Transacción | Garantizar que las transacciones de compra y venta sean seguras y confiables mediante sistemas de pago y confirmación de transacciones. |
+| EP04      | Plataforma de Talleres Técnicos | Facilitar la integración y gestión de talleres técnicos en la plataforma para ofrecer servicios de certificación y verificación. |
+| EP05   | Soporte y Atención al Cliente | Implementar un sistema de soporte y atención al cliente para resolver dudas y problemas de los usuarios. |
+| EP06   | Experiencia de Usuario en Móvil | Optimizar la plataforma para ofrecer una experiencia de usuario fluida y eficiente en dispositivos móviles. |
+| EP07    | Análisis y Reportes | Implementar herramientas para el análisis y reporte de datos de transacciones y uso de la plataforma. |
+
+**Cuadro de User  Stories**
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+| US-01 | Registro de Usuario | Como visitante, quiero registrarme en la plataforma para poder comprar o vender autos. | Dado que el visitante está en la página de registro, cuando ingresa datos válidos, entonces el sistema debe crear una cuenta y redirigir al usuario al perfil. | EP01 |
+| US-02 | Búsqueda de Autos | Como comprador, quiero buscar autos usados por diferentes criterios para encontrar opciones adecuadas. | Dado que el comprador está en la página de búsqueda, cuando aplica filtros y hace una búsqueda, entonces se deben mostrar los autos que cumplen con los criterios. | EP01 |
+| US-03 | Listado de Autos | Como vendedor, quiero listar mi auto para que los compradores puedan verlo y contactarme. | Dado que el vendedor está en la página de listado, cuando completa el formulario y envía la información, entonces el auto debe aparecer en el listado de autos disponibles. | EP01 |
+| US-04 | Edición de Listado de Autos | Como vendedor, quiero poder editar el listado de mi auto para actualizar la información si es necesario. | Dado que el vendedor está en su listado de autos, cuando edita la información y guarda los cambios, entonces el listado debe actualizarse con la nueva información. | EP01 |
+| US-05 | Eliminación de Listado de Autos | Como vendedor, quiero eliminar el listado de mi auto si decido no venderlo. | Dado que el vendedor está en la página de gestión de listados, cuando selecciona eliminar un listado, entonces el auto debe ser removido de la plataforma. | EP01 |
+| US-06 | Ver Detalles del Auto | Como comprador, quiero ver los detalles completos de un auto al hacer clic en él. | Dado que el comprador está en la lista de autos, cuando hace clic en un auto, entonces se deben mostrar los detalles completos del auto en una nueva página. | EP01 |
+| US-07 | Comparar Autos | Como comprador, quiero comparar diferentes autos para tomar una decisión informada. | Dado que el comprador está en la página de comparación, cuando selecciona varios autos, entonces se debe mostrar una tabla comparativa con las características clave de cada auto. | EP01 |
+| US-08 | Guardar Autos Favoritos | Como comprador, quiero guardar autos favoritos para revisarlos más tarde. | Dado que el comprador está viendo un auto, cuando selecciona "guardar como favorito", entonces el auto debe ser añadido a su lista de favoritos accesible desde su perfil. | EP01 |
+| US-09 | Notificaciones de Nuevos Listados | Como comprador, quiero recibir notificaciones cuando se listan autos que coinciden con mis criterios de búsqueda. | Dado que el comprador ha guardado sus criterios de búsqueda, cuando se listan nuevos autos que coinciden, entonces debe recibir una notificación por correo electrónico o en la plataforma. | EP01 |
+| US-10 | Notificación de Actualización de Estado del Auto | Como comprador, quiero recibir notificaciones cuando el estado del auto en el que estoy interesado cambia, como si se vende o se actualiza la información. | Dado que el comprador ha mostrado interés en un auto, cuando el estado del auto cambia (se vende, se actualiza, etc.), entonces el sistema debe enviar una notificación al comprador sobre el cambio. | EP01 |
+| US-11 | Solicitud de Certificación | Como vendedor, quiero solicitar una certificación para mi auto a un taller técnico. | Dado que el vendedor está en la página de certificación, cuando envía una solicitud, entonces el sistema debe notificar al taller técnico y al vendedor. | EP02 |
+| US-12 | Informe de Certificación | Como comprador, quiero ver el informe de certificación del auto para asegurarme de su estado. | Dado que el comprador está en la página del auto, cuando selecciona ver el informe de certificación, entonces el sistema debe mostrar el informe generado por el taller técnico. | EP02 |
+| US-13 | Solicitud de Inspección de Auto | Como vendedor, quiero solicitar una inspección del auto para asegurar su calidad antes de listar. | Dado que el vendedor está en la página de inspección, cuando envía una solicitud de inspección, entonces el taller técnico debe recibir una notificación para coordinar la inspección. | EP02 |
+| US-14 | Confirmación de Inspección | Como vendedor, quiero recibir una confirmación de la inspección para saber que está programada. | Dado que el taller técnico ha programado una inspección, cuando confirma la cita, entonces el vendedor debe recibir una notificación con los detalles de la inspección. | EP02 |
+| US-15 | Actualización del Estado de Inspección | Como vendedor, quiero recibir actualizaciones sobre el estado de la inspección de mi auto. | Dado que la inspección está en progreso, cuando el taller técnico actualiza el estado, entonces el vendedor debe recibir una notificación con la actualización. | EP02 |
+| US-16 | Sistema de Pago Seguro | Como comprador, quiero un sistema de pago seguro para completar mi compra. | Dado que el comprador está en la página de pago, cuando introduce los datos de pago y confirma, entonces el sistema debe procesar el pago y enviar una confirmación. | EP03 |
+| US-17 | Confirmación de Transacción | Como vendedor, quiero recibir una confirmación de la venta para asegurarme de que la transacción fue exitosa. | Dado que la venta ha sido completada, cuando el sistema procesa el pago, entonces el vendedor debe recibir una confirmación por correo electrónico y en su perfil. | EP03 |
+| US-18 | Historial de Transacciones | Como usuario, quiero ver un historial de todas mis transacciones realizadas en la plataforma. | Dado que el usuario está en su perfil, cuando accede a la sección de historial, entonces debe ver una lista de todas las transacciones realizadas con detalles. | EP03 |
+| US-19 | Reembolso de Transacción | Como comprador, quiero solicitar un reembolso en caso de problemas con la compra. | Dado que el comprador está en la página de historial de transacciones, cuando solicita un reembolso, entonces el sistema debe procesar la solicitud y notificar al comprador del estado. | EP03 |
+| US-20 | Registro de Taller Técnico | Como taller técnico, quiero registrarme en la plataforma para ofrecer servicios de certificación. | Dado que el taller está en la página de registro, cuando completa el formulario y envía la información, entonces el taller debe aparecer en la lista de talleres disponibles. | EP04 |
+| US-21 | Gestión de Solicitudes de Certificación | Como taller técnico, quiero gestionar solicitudes de certificación para coordinar inspecciones. | Dado que el taller está en la página de gestión de solicitudes, cuando recibe una nueva solicitud, entonces debe poder aceptarla o rechazarla y coordinar una inspección. | EP04 |
+| US-22 | Actualización de Información del Taller | Como taller técnico, quiero actualizar mi información de perfil en la plataforma. | Dado que el taller técnico está en la página de perfil, cuando actualiza la información y guarda los cambios, entonces el perfil debe reflejar la nueva información. | EP04 |
+| US-23 | Revisión de Certificaciones | Como taller técnico, quiero revisar todas las certificaciones realizadas para llevar un registro. | Dado que el taller está en la página de certificaciones, cuando revisa la lista, entonces debe ver todas las certificaciones realizadas con detalles y estado. | EP04 |
+| US-24 | Sistema de Soporte en Vivo | Como usuario, quiero tener acceso a soporte en vivo para resolver problemas o dudas de inmediato. | Dado que el usuario está en la plataforma, cuando accede a la función de soporte en vivo, entonces debe poder iniciar una conversación con un agente de soporte. | EP05 |
+| US-25 | Centro de Ayuda y FAQ | Como usuario, quiero acceder a un centro de ayuda y FAQ para encontrar respuestas a mis preguntas comunes. | Dado que el usuario está en la página de ayuda, cuando busca en el centro de ayuda, entonces debe encontrar respuestas a preguntas frecuentes y soluciones a problemas comunes. | EP05 |
+| US-26 | Envío de Consultas por Correo Electrónico | Como usuario, quiero enviar consultas por correo electrónico para recibir asistencia cuando no puedo usar el chat en vivo. | Dado que el usuario está en la página de soporte, cuando envía una consulta por correo electrónico, entonces el sistema debe confirmar la recepción y proporcionar un tiempo estimado de respuesta. | EP05 |
+| US-27 | Optimización para Móviles | Como usuario, quiero que la plataforma esté optimizada para dispositivos móviles para tener una experiencia de usuario fluida. | Dado que el usuario accede a la plataforma desde un dispositivo móvil, entonces la interfaz debe adaptarse y funcionar correctamente en pantallas pequeñas. | EP06 |
+| US-28 | Pruebas de Usabilidad en Móviles | Como desarrollador, quiero realizar pruebas de usabilidad en móviles para asegurar una experiencia de usuario eficiente. | Dado que el desarrollador está realizando pruebas, cuando evalúa la plataforma en diferentes dispositivos móviles, entonces debe identificar y corregir problemas de usabilidad. | EP06 |
+| US-29 | Reportes de Transacciones | Como administrador, quiero generar reportes de transacciones para analizar el rendimiento de la plataforma. | Dado que el administrador está en la página de reportes, cuando solicita un reporte, entonces debe recibir un archivo con los datos de transacciones en el formato solicitado. | EP07 |
+| US-30 | Análisis de Datos de Uso | Como administrador, quiero analizar datos de uso de la plataforma para identificar tendencias y oportunidades de mejora. | Dado que el administrador está en la página de análisis, cuando selecciona el rango de fechas y los parámetros de análisis, entonces debe recibir gráficos y estadísticas detalladas. | EP07 |
+
+## 3.3. Impact Mapping
+
+## 3.4. Product Backlog
+
+
 # VI. Conclusiones y recomendaciones.
 ## Conclusiones
 
