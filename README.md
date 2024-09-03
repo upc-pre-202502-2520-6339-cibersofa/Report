@@ -211,178 +211,109 @@ TB1<br><br>
 
 <br><br>
 
-# Capítulo I: Introducción
-## 1.1. StartUp Profile
-En esta sección describiremos el perfil de nuestra Startup.
+# Capítulo IV: Product Design
+## 4.1. Style Guidelines.
 
-### 1.1.1. Description de la StartUp
+### 4.1.1. General Style Guidelines
 
-Descripción
-
-- Misión: 
-
-- Visión: 
-
-### 1.1.2. Perfiles de integrantes del equipo
-
-<table align="center"  border="1" width="70%" style="text-align:center;">
-     <tr align="center">
-        <td rowspan="3">
-<img src="/assets/integrante-Franco.jpeg">
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-Jean Franco Barrionuevo Reto
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ing. de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Soy Franco Barrionuevo, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, responsable y con muchas ganas de aprender. Me gusta trabajar en equipo y aportar ideas para el desarrollo de proyectos.
-        </td>
-    </tr>
-
-</table>
-
-## 1.2. Solution Profile
-
-En esta sección se detallan los aspectos claves de nuestra solución de software, incluyendo sus
-características distintivas, propuestas de valor y estrategias de monetización.
-
-**Product Name:** Car2Go
-
-**Product Description:** 
-
-**Monetización:**
-
-### 1.2.1. Antecedentes y problemática
-Descripción
-
--   **What?**
-
- 
+### Branding:
 
 
--   **When?**
 
-   
+### Typography:
 
--   **Where?**
 
-   
+### Colors:
 
--   **Who?**
+
+### 4.1.2. Web Style Guidelines
+
+
+
+## 4.2. Information Architecture
+### 4.2.1. Organization Systems
+
+
+
+### 4.2.2. Labeling Systems
+
+
+### 4.2.3. SEO Tags and Meta Tags
+
+
+
+
+
+### 4.2.4. Searching Systems
+
+
+
+### 4.2.5. Navigation Systems
+
+
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+
+
+### 4.3.2. Landing Page Mock-up
+
+
+
+# 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes
+
+
+
+
+### 4.4.2. Web Applications Wireflow Diagrams.
+
+
+
+### 4.4.3. Web Applications Mock-ups
+
+
+
+### 4.4.4. Web Applications User Flow Diagrams.
+
+
+
+# 4.5. Web Applications Prototyping.
+
+
+# 4.6. Domain-Driven Software Architecture
+
+
+
+## 4.6.1. Software Architecture Context Diagram
+
+
+## 4.6.2. Software Architecture Container Diagram
+
+
+
+## 4.6.3. Software Architecture Components Diagrams
+
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+
+### 4.7.2. Class Dictionary
+
+
+## 4.8 Database Design
+
+
+### Database Diagram
+
+### 4.8.1 Database Diagram
+
+
+
+
 
     
 
-- **Why?**
 
- 
-
--   **How?**
-
-    
-
--   **How much?**
-
-    
-
-### 1.2.2. Lean UX Process
-#### 1.2.2.1. Lean UX Problem Statements
-- ...
-
-
-#### 1.2.2.2. Lean UX Assumptions
-
-**Business Outcomes:**
-
-...
-
-**Users Assumptions :**
-
-**1. ¿Quien es el usuario?**
-...
-
-**2. ¿Donde entra nuestro producto en su trabajo o su vida?**
-...
-
-**3. ¿Cual es el problema que nuestro producto soluciona?**
-...
-
-**4. ¿Como y cuando nuestro producto es usado?**
-...
-
-**5. ¿Que caracteristicas son importantes?**
-...
-
-**6. ¿Como deberia nuestro producto verse o comportarse?**
-...
-
-
-**User Outcomes:**
-...
-
-¿Que está intentando conseguir el usuario?
-
-
-¿Como se quiere sentir el usuario?
-
-
-¿Como nuestro producto lo acerca a su objetivo?
-
-
-¿Por que nuestros usuarios se interesarian por nuestro producto? ¿Que beneficio podrian obtener?
-
-
-¿Que cambio en su comportamiento veremos que nos dira que nuestro objetivo ha sido logrado?
-
-
-**Feature Assumptions**
-- **Creemos que** 
-
-#### 1.2.2.3. Lean UX Hypothesis Statements
-
-- Creemos que al 
-
-#### 1.2.2.4. Lean UX Canvas
-
-<div align=center>
-    <img src="" alt="Canvas"/>
-</div>
-
-## 1.3. Segmentos Objetivo
-...
-
-# VI. Conclusiones y recomendaciones.
-## Conclusiones
-
-
-
-
-5. **Conclusiones técnicas:**
-    
-## Recomendaciones
-
-# VII. Bibliografía.
-
-
-# VIII. Anexos.
-
-- Registro de entrevistas:
-- Trello: 
-- Enlace de Miro: 
-- Prouct Backlog: 
-- Structurizr: 
-- Organización Github: 
-- Landing Page: 
-- Backend: 
-- Reporte: 
