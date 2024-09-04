@@ -212,23 +212,86 @@ TB1<br><br>
 <br><br>
 
 # Capítulo IV: Product Design
-## 4.1. Style Guidelines.
+## [4.1. Style Guidelines.]((#41-style-guidelines))
 
-### 4.1.1. General Style Guidelines
+### [4.1.1. General Style Guidelines](#411-general-style-guidelines)
 
-### Branding:
+**Branding:**
+
+ * Logo representativo de _Car2Go_
+![logo-car2go](assets/logo.png)
+
+**Typography:**
+
+* La tipografía de nuestro logotipo adoptará el elegante estilo Roboto, reconocido por su modernidad y su atractivo visual para nuestros usuarios. Este estilo no solo refleja la innovación y la creatividad que caracterizarán a nuestra aplicación, sino que también resalta la vanguardia que buscamos transmitir.
+
+![typografia](assets/typografia1.jpg)
+---
+![typografia](assets/typografia2.1.jpg)
+
+**Colors:**
+* Hemos seleccionado el color #F4C23D como color primario porque transmite confianza y amabilidad, cualidades esenciales para crear una plataforma donde los usuarios se sientan bienvenidos y seguros al interactuar. Este tono dorado, cálido y acogedor, invita a la participación y genera un ambiente positivo para las transacciones.
+
+* Como color secundario, hemos elegido #2959AD por su asociación con el profesionalismo y la seriedad. Este azul oscuro añade un toque de credibilidad y formalidad a la plataforma, asegurando a los usuarios que están realizando sus transacciones en un entorno confiable y bien gestionado.
+
+![colors](assets/colors.jpg)
+
+### [4.1.2. Web Style Guidelines](#422-labeling-systems)
+
+_Icons:_
+
+* Cuando se trata de diseñar una página web, los íconos juegan un papel crucial en la creación de una interfaz de usuario intuitiva y fácil de usar. Estos elementos visuales pequeños tienen el poder de mejorar la comprensión de los usuarios sobre la funcionalidad de diferentes partes de nuestra página. Los íconos permiten a los usuarios entender rápidamente la función de cada elemento y su simplicidad y claridad los hacen fácilmente comprensibles. Mantener una consistencia en el uso de íconos en toda la página ayuda a evitar confusiones entre los usuarios.
+
+![Icons:](assets/icons.jpg)
+
+_Breackpoints_
+
+* Los breakpoints más conocidos en **ANGULAR** son los siguientes:
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;">Breakpoint</th>
+      <th style="text-align:center;">Class infix</th>
+      <th style="text-align:center;">Dimensions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center;">X-Small</td>
+      <td style="text-align:center;">None</td>
+      <td style="text-align:center;">&lt;576px</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Small</td>
+      <td style="text-align:center;">sm</td>
+      <td style="text-align:center;">≥576px</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Medium</td>
+      <td style="text-align:center;">md</td>
+      <td style="text-align:center;">≥768px</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Large</td>
+      <td style="text-align:center;">lg</td>
+      <td style="text-align:center;">≥992px</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Extra large</td>
+      <td style="text-align:center;">xl</td>
+      <td style="text-align:center;">≥1200px</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Extra extra large</td>
+      <td style="text-align:center;">xxl</td>
+      <td style="text-align:center;">≥1400px</td>
+    </tr>
+  </tbody>
+</table>
 
 
-
-### Typography:
-
-
-### Colors:
-
-
-### 4.1.2. Web Style Guidelines
-
-
+* Y los que usaremos en el proyecto principalmente son los de 768px y 1024px, ya que son los más comunes en los dispositivos móviles y de escritorio.
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
