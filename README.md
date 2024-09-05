@@ -852,6 +852,114 @@ En las dos entrevistas realizadas, se menciona la importancia de revisar compone
 
 A continuación, presentaremos los User Task Matrix de los segmentos objetivos que encontramos.
 
+<table>
+ <tr>
+    <th>Task Matrix</th>
+    <th colspan="2">Vendedor de autos</th>
+    <th colspan="2">Comprador de autos</th>
+    <th colspan="2">Talleres Mecánicos</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+</table>
+
 Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo se diferencian en ciertas partes técnicas, como el mecánico, y estética, en cuanto a los vendedores y compradores.
 
 ## 2.3.3. User Journey Mapping.
