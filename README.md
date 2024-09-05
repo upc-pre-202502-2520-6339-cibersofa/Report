@@ -838,9 +838,15 @@ En las dos entrevistas realizadas, se menciona la importancia de revisar compone
 
 ### Compradores de segunda mano:
 
+<img src="/assets/UserPersona_Comprador.png">
+
 ### Vendedores de segunda mano:
 
+<img src="/assets/UserPersona_Vendedor.jpg">
+
 ### Talleres mecánicos:
+
+<img src="/assets/UserPersona_Talleres.png">
 
 ## 2.3.2. User Task Matrix.
 
