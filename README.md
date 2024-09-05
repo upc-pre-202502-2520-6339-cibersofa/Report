@@ -872,9 +872,15 @@ Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo
 
 ### Compradores de segunda mano:
 
+<img src="/assets/Empathy_Comprador.png">
+
 ### Vendedores de segunda mano:
 
+<img src="/assets/Empathy_Vendedor.png">
+
 ### Talleres mecánicos:
+
+<img src="/assets/Empathy_Talleres.png">
 
 ## 2.3.5. As-is Sceneario Mapping
 
