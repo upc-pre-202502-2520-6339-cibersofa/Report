@@ -858,9 +858,15 @@ Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo
 
 ### Compradores de segunda mano:
 
+<img src="/assets/Journey_Comprador.png">
+
 ### Vendedores de segunda mano:
 
+<img src="/assets/Journey_Vendedor.png">
+
 ### Talleres mecánicos:
+
+<img src="/assets/Journey_Talleres.png">
 
 ## 2.3.4. Empathy Mapping.
 
