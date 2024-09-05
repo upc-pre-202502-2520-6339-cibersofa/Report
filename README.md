@@ -771,7 +771,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 - Edad: 24
 - Evidencia de la reunión: 
 
-- URL del video:
+- URL del video: [Entrevista Gabriel Martel](https://drive.google.com/file/d/1YznXlogzH-frkOJSidbpxDnY-FqzV_7P/view?usp=drive_link)
 - Informe de Resumen sobre la entrevista: Gabriel Martel, de 24 años, es estudiante de la carrera de ingeniería de software. Durante la entrevista, nos comentó que está interesado en comprar un auto de segunda mano. Mencionó que lo primero en lo que se fijaría es en la pintura, ya que es un buen indicio del cuidado que el vendedor le ha dado al auto, además del kilometraje y otros aspectos. Para realizar una compra, también se deben revisar las multas del auto y los antecedentes del vendedor…
 
 ### Entrevistado 2:
@@ -779,7 +779,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 - Edad: 22
 - Evidencia de la reunión:
 
-- URL del video:
+- URL del video: [Entrevista Antaloy Noriega](https://drive.google.com/file/d/1nsinQLnXp5GqQo6zBM83FUFXMzeT1wzR/view?usp=drive_link)
 - Informe de Resumen sobre la entrevista: Anatoly Noriega, de 22 años, es compradora de autos de segunda mano. Nos comentó que lo más importante para ella es el estado del vehículo y la transparencia del vendedor al momento de ofrecerlo. Además, considera fundamental saber si el auto ha pasado por revisiones técnicas y si ha tenido reparaciones importantes...
 
 ### Segmento 2: Vendedores de Autos de Segunda Mano
@@ -789,7 +789,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 - Edad: 22
 - Evidencia de la reunión:
 
-- URL del video:
+- URL del video: [Entrevista Mijael Yen](https://drive.google.com/file/d/1cH2Qm0MXNg0-eg08rE_p2YE1JoY2oTh0/view?usp=drive_link)
 - Informe de Resumen sobre la entrevista: Mijael Yen, de 22 años, es analista en ciberseguridad, pero de forma secundaria se dedica a vender autos con su padre. Nos comentó que la venta de autos es difícil debido a la confianza que se debe generar entre el vendedor y el comprador antes de realizar cualquier operación. Por ello, proporciona una serie de documentos que garantizan al 100% la veracidad del estado del vehículo.…
 
 ### Entrevistado 2:
@@ -797,17 +797,17 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 - Edad: 22
 - Evidencia de la reunión:
 
-- URL del video:
+- URL del video: [Entrevista Jefrey Sanchez](https://drive.google.com/file/d/1W94XKcJt1DB80ZJmbILidTUjbzsZlyTK/view?usp=drive_link)
 - Informe de Resumen sobre la entrevista: Jefrey Sanchez, de 22 años, está estudiando la carrera de ingeniería de software. Nos comentó que tiene un auto de segunda mano que desea vender. También nos indicó que la desconfianza de las personas al momento de adquirir un auto de segunda mano puede dificultar la venta, así como también estimar un precio justo para que el proceso no se demore demasiado...
 
-### Segmento 3: Compradores de Autos de Segunda Mano
+### Segmento 3: Talleres mecánicos
 
 ### Entrevistado 1:
 - Nombre y Apellido: Maomed Chocce
 - Edad: 29
 - Evidencia de la reunión:
 
-- URL del video:
+- URL del video: [Entrevista Maomed Chocce](https://drive.google.com/file/d/1aSj3C0nIPHU4ErxcG_h0y5Sk6ii9Z6WC/view?usp=drive_link)
 - Informe de Resumen sobre la entrevista: Maomed Chocce, de 29 años, tiene una amplia experiencia en la revisión de autos. Nos comentó que su equipo se enfoca en evaluar el estado de los vehículos para repararlos de manera óptima. También mencionó algunos componentes que priorizan para verificar el estado óptimo del vehículo, como los frenos, el motor, la batería, entre otros...
 
 ### Entrevistado 2:
@@ -815,7 +815,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 - Edad: 26
 - Evidencia de la reunión:
 
-- URL del video:
+- URL del video: [Entrevista Oscar Román](https://drive.google.com/file/d/1KKzR2ZnZNBZshO1PwSfq174Z4NhFXuTz/view?usp=drive_link)
 - Informe de Resumen sobre la entrevista: : Oscar Román, de 26 años, tiene varios años de experiencia trabajando para una concesionaria. Nos comentó que lo primordial para verificar el estado de un auto es el kilometraje, ya que este dato permite evaluar el tiempo de uso del vehículo. También indicó que estaría interesado en colaborar con una aplicación que le proporcione posibles clientes, ya que no está familiarizado con esa parte del mercado y considera que sería beneficiosa y con potencial de crecimiento...
 
 ## 2.2.3. Análisis de entrevistas.
