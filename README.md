@@ -874,20 +874,11 @@ A continuación, presentaremos los User Task Matrix de los segmentos objetivos q
     <th>Alta</th>
     <th>Alta</th>
     <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
+    <th>Media</th>
+    <th>Media</th>
   </tr>
   <tr>
-    <th>Inspeccionar la pintura del vehículo</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-  </tr>
-  <tr>
-    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Revisar el kilometraje</th>
     <th>Alta</th>
     <th>Alta</th>
     <th>Alta</th>
@@ -896,7 +887,43 @@ A continuación, presentaremos los User Task Matrix de los segmentos objetivos q
     <th>Alta</th>
   </tr>
   <tr>
-    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Revisar el historial de mantenimiento</th>
+    <th>Media</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Evaluar el interior del vehículo</th>
+    <th>Alta</th>
+    <th>Media</th>
+    <th>Alta</th>
+    <th>Media</th>
+    <th>Media</th>
+    <th>Baja</th>
+  </tr>
+  <tr>
+    <th>Verificar el funcionamiento del motor</th>
+    <th>Media</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Comprobar el sistema de frenos</th>
+    <th>Media</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Verificar los documentos legales</th>
     <th>Alta</th>
     <th>Alta</th>
     <th>Alta</th>
@@ -905,8 +932,17 @@ A continuación, presentaremos los User Task Matrix de los segmentos objetivos q
     <th>Alta</th>
   </tr>
   <tr>
-    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Revisar el estado de la batería</th>
+    <th>Media</th>
+    <th>Media</th>
+    <th>Media</th>
+    <th>Media</th>
     <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Verificar las llantas y la suspensión</th>
+    <th>Media</th>
     <th>Alta</th>
     <th>Alta</th>
     <th>Alta</th>
@@ -914,46 +950,10 @@ A continuación, presentaremos los User Task Matrix de los segmentos objetivos q
     <th>Alta</th>
   </tr>
   <tr>
-    <th>Inspeccionar la pintura del vehículo</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-  </tr>
-  <tr>
-    <th>Inspeccionar la pintura del vehículo</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-  </tr>
-  <tr>
-    <th>Inspeccionar la pintura del vehículo</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-  </tr>
-  <tr>
-    <th>Inspeccionar la pintura del vehículo</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
-  </tr>
-  <tr>
-    <th>Inspeccionar la pintura del vehículo</th>
-    <th>Alta</th>
-    <th>Alta</th>
-    <th>Alta</th>
+    <th>Revisar posibles fugas de fluidos</th>
+    <th>Baja</th>
+    <th>Media</th>
+    <th>Media</th>
     <th>Alta</th>
     <th>Alta</th>
     <th>Alta</th>
