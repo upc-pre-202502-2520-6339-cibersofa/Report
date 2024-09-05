@@ -1002,7 +1002,7 @@ Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo
 
 <img src="/assets/Empathy_Talleres.png">
 
-## 2.3.5. As-is Sceneario Mapping
+## 2.3.5. As-is Scenario Mapping
 
 ### Segmento Objetivo #1:  Compradores de autos de segunda mano (25-45 años)
 
