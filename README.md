@@ -762,10 +762,119 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 29. ¿Cómo valorarías la oportunidad de aumentar tus ingresos a través de estas revisiones pagadas?
 30. ¿Qué consideraciones adicionales tendrías al integrarte en una plataforma que busca asegurar la credibilidad de los autos en venta?
 
+## 2.2.2. Registro de entrevistas.
 
+### Segmento 1: Compradores de Autos de Segunda Mano
+
+### Entrevistado 1:
+- Nombre y Apellido: Gabriel Martel
+- Edad: 24
+- Evidencia de la reunión: 
+
+- URL del video:
+- Informe de Resumen sobre la entrevista: Gabriel Martel, de 24 años, es estudiante de la carrera de ingeniería de software. Durante la entrevista, nos comentó que está interesado en comprar un auto de segunda mano. Mencionó que lo primero en lo que se fijaría es en la pintura, ya que es un buen indicio del cuidado que el vendedor le ha dado al auto, además del kilometraje y otros aspectos. Para realizar una compra, también se deben revisar las multas del auto y los antecedentes del vendedor…
+
+### Entrevistado 2:
+- Nombre y Apellido: Anatoly Noriega
+- Edad: 22
+- Evidencia de la reunión:
+
+- URL del video:
+- Informe de Resumen sobre la entrevista: Anatoly Noriega, de 22 años, es compradora de autos de segunda mano. Nos comentó que lo más importante para ella es el estado del vehículo y la transparencia del vendedor al momento de ofrecerlo. Además, considera fundamental saber si el auto ha pasado por revisiones técnicas y si ha tenido reparaciones importantes...
+
+### Segmento 2: Vendedores de Autos de Segunda Mano
+
+### Entrevistado 1:
+- Nombre y Apellido: Mijael Yen
+- Edad: 22
+- Evidencia de la reunión:
+
+- URL del video:
+- Informe de Resumen sobre la entrevista: Mijael Yen, de 22 años, es analista en ciberseguridad, pero de forma secundaria se dedica a vender autos con su padre. Nos comentó que la venta de autos es difícil debido a la confianza que se debe generar entre el vendedor y el comprador antes de realizar cualquier operación. Por ello, proporciona una serie de documentos que garantizan al 100% la veracidad del estado del vehículo.…
+
+### Entrevistado 2:
+- Nombre y Apellido: Jefrey Sanchez
+- Edad: 22
+- Evidencia de la reunión:
+
+- URL del video:
+- Informe de Resumen sobre la entrevista: Jefrey Sanchez, de 22 años, está estudiando la carrera de ingeniería de software. Nos comentó que tiene un auto de segunda mano que desea vender. También nos indicó que la desconfianza de las personas al momento de adquirir un auto de segunda mano puede dificultar la venta, así como también estimar un precio justo para que el proceso no se demore demasiado...
+
+### Segmento 3: Compradores de Autos de Segunda Mano
+
+### Entrevistado 1:
+- Nombre y Apellido: Maomed Chocce
+- Edad: 29
+- Evidencia de la reunión:
+
+- URL del video:
+- Informe de Resumen sobre la entrevista: Maomed Chocce, de 29 años, tiene una amplia experiencia en la revisión de autos. Nos comentó que su equipo se enfoca en evaluar el estado de los vehículos para repararlos de manera óptima. También mencionó algunos componentes que priorizan para verificar el estado óptimo del vehículo, como los frenos, el motor, la batería, entre otros...
+
+### Entrevistado 2:
+- Nombre y Apellido: Oscar Román
+- Edad: 26
+- Evidencia de la reunión:
+
+- URL del video:
+- Informe de Resumen sobre la entrevista: : Oscar Román, de 26 años, tiene varios años de experiencia trabajando para una concesionaria. Nos comentó que lo primordial para verificar el estado de un auto es el kilometraje, ya que este dato permite evaluar el tiempo de uso del vehículo. También indicó que estaría interesado en colaborar con una aplicación que le proporcione posibles clientes, ya que no está familiarizado con esa parte del mercado y considera que sería beneficiosa y con potencial de crecimiento...
+
+## 2.2.3. Análisis de entrevistas.
+
+### Segmento 1: Compradores de autos de segunda mano:
+
+Realizamos dos entrevistas y se menciona que, al comprar un auto de segunda mano, es importante fijarse en la pintura como un indicador del cuidado del vehículo, así como en el kilometraje y otros aspectos clave. También se destacó la relevancia del estado general del vehículo y la transparencia del vendedor, además de la necesidad de que el auto haya pasado por revisiones técnicas y la verificación de reparaciones importantes.
+
+### Segmento 2: Vendedores de autor de segunda mano:
+
+En dos entrevistas realizadas, se menciona que la confianza entre comprador y vendedor es un desafío clave en la venta de autos de segunda mano. Para contrarrestar esto, se sugiere proporcionar documentos que garanticen la veracidad del estado del vehículo. Además, se señaló que la desconfianza de los compradores puede dificultar la venta y que es importante estimar un precio justo para facilitar una transacción rápida.
+
+### Segmento 3: Talleres mecánicos:
+
+En las dos entrevistas realizadas, se menciona la importancia de revisar componentes clave como los frenos, el motor y la batería para garantizar que los vehículos estén en óptimas condiciones antes de ser reparados. También se destacó que el kilometraje es un factor crucial para evaluar el estado del auto y que sería beneficioso colaborar con una aplicación que facilite el acceso a más clientes.
+
+## 2.3. Needfinding.
+
+## 2.3.1. User Personas.
+
+### Compradores de segunda mano:
+
+### Vendedores de segunda mano:
+
+### Talleres mecánicos:
+
+## 2.3.2. User Task Matrix.
+
+A continuación, presentaremos los User Task Matrix de los segmentos objetivos que encontramos.
+
+Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo se diferencian en ciertas partes técnicas, como el mecánico, y estética, en cuanto a los vendedores y compradores.
+
+## 2.3.3. User Journey Mapping.
+
+### Compradores de segunda mano:
+
+### Vendedores de segunda mano:
+
+### Talleres mecánicos:
+
+## 2.3.4. Empathy Mapping.
+
+### Compradores de segunda mano:
+
+### Vendedores de segunda mano:
+
+### Talleres mecánicos:
+
+## 2.3.5. As-is Sceneario Mapping
+
+### Segmento Objetivo #1:  Compradores de autos de segunda mano (25-45 años)
+
+### Segmento Objetivo #2: Vendedores de autos de segunda mano (25-55 años)
+
+### Segmento Objetivo #3:  Talleres mecánicos
+
+[MIRO](https://miro.com/app/board/uXjVMm70eUI=/?share_link_id=313743584808)
 # VI. Conclusiones y recomendaciones.
 ## Conclusiones
-
 
 5. **Conclusiones técnicas:**
 
