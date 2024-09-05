@@ -886,9 +886,15 @@ Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo
 
 ### Segmento Objetivo #1:  Compradores de autos de segunda mano (25-45 años)
 
+<img src="/assets/As-Is_Comprador.png">
+
 ### Segmento Objetivo #2: Vendedores de autos de segunda mano (25-55 años)
 
+<img src="/assets/As-Is_Vendedor.png">
+
 ### Segmento Objetivo #3:  Talleres mecánicos
+
+<img src="/assets/As-Is_Talleres.png">
 
 [MIRO](https://miro.com/app/board/uXjVMm70eUI=/?share_link_id=313743584808)
 # VI. Conclusiones y recomendaciones.
