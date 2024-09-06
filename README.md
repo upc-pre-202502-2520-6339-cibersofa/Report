@@ -391,14 +391,115 @@ Por otro lado, se agregará la paginación en la parte inferior de la cuadrícul
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<img src="assets/classDiagram.jpeg" alt="class diagram"/>
 
 ### 4.7.2. Class Dictionary
+Clase User
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| userID  | int | Identificador único del usuario
+|  names  | string  | Nombres del usuario
+| last_name  | string | Apellidos del usuario
+| phone_number  | string | Número telefónio del usuario
+| email  | string | Correo del usuario |
+| password  | string  | Contraseña del usuario
+| role |string| Rol del usuario
+| subscriptionPlan | string | Plan de subscripción
+| transactionHistory| list | Historial de transacciones
 
+<br><br/>
+Clase SubscriptionPlan
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| planID  | int | Identificador único del plan de subscripción
+| name | string | Nombre del plan
+| price | double | Precio del plan
+| features | list | Características del plan
 
+<br><br/>
+Clase Transaction
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| transactionID  | int | Identificador único de la transacción
+| buyer | User | Comprador del auto
+| seller | User | Vendedor del auto
+| vehicle | Vehicle| Vehículo vendido
+| amount | double | Precio de venta
+| date | date| Fecha de la transacción
+| paymentStatus | string | Estado del pago de la transacción
+
+<br><br/>
+Clase Payment
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| paymentID  | int | Identificador único del pago
+| transaction | Transaction | Transación perteniente al pago
+| paymentMethod | string | Método de pago
+| paymentDate | date | Fecha del pago
+
+<br><br/>
+Clase Search
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| searchID  | int | Identificador único de la búsqueda
+| query | string | Términos de la búsqueda
+| filters | list | Filtros de búsqueda
+| results | list | Resultados de la búsqueda
+
+<br><br/>
+Clase Post
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| postID  | int | Identificador único del post
+| vehicle | Vehicle | Vehículo en venta
+| seller | User | Vendedor
+| title | string | Título del post
+| description | string | Descripción del post
+| price | double | Precio del vehículo
+| status | string | Status del post
+| createdDate | date | Fecha de creación del post
+| location | string | Ubicación del vehículo
+| images | list | Imágenes del vehículo
+
+<br><br/>
+Clase Vehicle
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| vehicleID  | int | Identificador único del vehículo
+| brand | string | Marca del vehículo
+| model | string | Modelo
+| year | int | Año de fabricación
+| price | double | Precio del vehículo
+| color | string | Color principal del vehículo
+| mileage | double | Kilometraje
+| location | string | Ubicación del vehículo
+| images | list | Imágenes del vehículo
+| description | string | Descripción
+| maintenanceHistory | list | Historial de mantenimiento
+
+<br><br/>
+Clase Contact
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| contactID  | int | Identificador único del contacto entre comprador y vendedor
+| sender | User | Usuario interesado en el vehículo
+| receiver | User | Usuario dueño del vehículo
+| message | string | Mensaje enviado
+| date | date | Fecha del mensaje
+
+<br><br/>
+Clase Review
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| reviewID  | int | Identificador único de la reseña de un vendedor
+| user | User | Usuario que publicó la reseña
+| seller | User | Vendedor que recibe las reseñas
+| rating | int | Calificación del vendedor
+| comment | string | Comentarios de la reseña
+| date | date | Fecha de publicación
+
+ 
 ## 4.8 Database Design
-
-
-### Database Diagram
 
 ### 4.8.1 Database Diagram
 
