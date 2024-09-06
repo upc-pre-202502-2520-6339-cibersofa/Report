@@ -365,6 +365,18 @@ Descripción
 # Capítulo III: Requirements Specifications
 ## 3.1. To-Be Scenario Mapping
 
+**Segmento objetivo: Compradores de Autos Usados**
+![image](assets/tobeMap-compradores.jpg)
+*Imagen (N°10). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKiyuKZA=/?share_link_id=172702013556). https://miro.com/app/board/uXjVKiyuKZA=/?share_link_id=172702013556*
+
+**Segmento objetivo: Vendedores de Autos Usados**
+![image](assets/tobeMap-vendedores.jpg)
+*Imagen (N°11). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKiyuKZA=/?share_link_id=172702013556). https://miro.com/app/board/uXjVKiyuKZA=/?share_link_id=172702013556*
+
+**Segmento objetivo: Talleres Técnicos**
+![image](assets/tobeMap-talleres.jpg)
+*Imagen (N°12). Elaboración propia. Realizado en [Miro](https://miro.com/app/board/uXjVKiyuKZA=/?share_link_id=172702013556). https://miro.com/app/board/uXjVKiyuKZA=/?share_link_id=172702013556*
+
 ## 3.2. User Stories
 
 **Cuadro de Epics**
@@ -377,6 +389,7 @@ Descripción
 | EP05   | Soporte y Atención al Cliente | Implementar un sistema de soporte y atención al cliente para resolver dudas y problemas de los usuarios. |
 | EP06   | Experiencia de Usuario en Móvil | Optimizar la plataforma para ofrecer una experiencia de usuario fluida y eficiente en dispositivos móviles. |
 | EP07    | Análisis y Reportes | Implementar herramientas para el análisis y reporte de datos de transacciones y uso de la plataforma. |
+| EP08    | Gestión de Publicidad y Promociones | Implementar funcionalidades para que los vendedores puedan promocionar sus autos mediante anuncios destacados, y para que la plataforma pueda ofrecer promociones y campañas publicitarias a compradores y vendedores. |
 
 **Cuadro de User  Stories**
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
@@ -411,6 +424,14 @@ Descripción
 | US-28 | Pruebas de Usabilidad en Móviles | Como desarrollador, quiero realizar pruebas de usabilidad en móviles para asegurar una experiencia de usuario eficiente. | Dado que el desarrollador está realizando pruebas, cuando evalúa la plataforma en diferentes dispositivos móviles, entonces debe identificar y corregir problemas de usabilidad. | EP06 |
 | US-29 | Reportes de Transacciones | Como administrador, quiero generar reportes de transacciones para analizar el rendimiento de la plataforma. | Dado que el administrador está en la página de reportes, cuando solicita un reporte, entonces debe recibir un archivo con los datos de transacciones en el formato solicitado. | EP07 |
 | US-30 | Análisis de Datos de Uso | Como administrador, quiero analizar datos de uso de la plataforma para identificar tendencias y oportunidades de mejora. | Dado que el administrador está en la página de análisis, cuando selecciona el rango de fechas y los parámetros de análisis, entonces debe recibir gráficos y estadísticas detalladas. | EP07 |
+| US-31 | Publicar Anuncio Destacado | Como vendedor, quiero poder publicar un anuncio destacado para que mi auto tenga mayor visibilidad. | Dado que el vendedor está en la página de listado, cuando selecciona "Anuncio Destacado" y paga, el auto debe aparecer en una sección destacada de la plataforma. | EP08 |
+| US-32 | Configuración de Duración del Anuncio Destacado | Como vendedor, quiero elegir la duración de tiempo durante la cual mi anuncio estará destacado. | Dado que el vendedor está configurando el anuncio destacado, cuando selecciona la duración y paga, el sistema debe mostrar el anuncio en la sección destacada durante el tiempo elegido. | EP08 |
+| US-33 | Crear Promociones para Compradores | Como administrador, quiero crear promociones y descuentos para atraer compradores a la plataforma. | Dado que el administrador está en la página de promociones, cuando crea una nueva promoción, el sistema debe aplicarla a los autos correspondientes y notificar a los compradores. | EP08 |
+| US-34 | Notificaciones de Promociones | Como comprador, quiero recibir notificaciones sobre nuevas promociones y descuentos disponibles. | Dado que el comprador ha optado por recibir notificaciones, cuando se crea una nueva promoción, el sistema debe enviar una notificación por correo electrónico o en la plataforma. | EP08 |
+| US-35 | Gestión de Promociones para Vendedores | Como vendedor, quiero gestionar mis propias promociones para aumentar la visibilidad de mis autos. | Dado que el vendedor está en la página de promociones, cuando crea o actualiza una promoción, el sistema debe reflejar los cambios en la visibilidad de su anuncio. | EP08 |
+| US-36 | Reportes de Efectividad de Promociones | Como administrador, quiero ver reportes sobre la efectividad de las promociones para analizar su impacto. | Dado que el administrador está en la página de reportes de promociones, cuando solicita un reporte, debe recibir información detallada sobre la efectividad de las promociones en términos de vistas y conversiones. | EP08 |
+| US-37 | Configuración de Anuncios Publicitarios | Como administrador, quiero configurar anuncios publicitarios en la plataforma para monetizar el tráfico. | Dado que el administrador está en la página de configuración de anuncios, cuando establece parámetros y carga anuncios, estos deben mostrarse en áreas específicas de la plataforma. | EP08 |
+
 
 ## 3.3. Impact Mapping
 
