@@ -326,7 +326,7 @@ A continuación, se listarán las principales etiquetas según las principales f
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Con el fin de mejorar la visibilidad en los motores de búsqueda y brindar información relevante del landing page y aplicación web a los usuarios, se añadirán los siguientes "Seo tags" y "Meta tags":
+Con el fin de mejorar la prioridad en los motores de búsqueda, facilitar la llegada de nuevas usuarios y brindarles información relevante del landing page y la aplicación web, se añadirán los siguientes "Meta tags" como etiquetas HTML en las principales páginas de nuestra plataforma:
 
 ````
 <title>Car2Go - Compra y Venta de Autos de Segunda Mano</title>
@@ -337,7 +337,7 @@ Con el fin de mejorar la visibilidad en los motores de búsqueda y brindar infor
 
 ### 4.2.4. Searching Systems
 Es importante facilitar la búsqueda y el filtro de información para los usuarios con el fin de que puedan utilizar la plataforma sin problemas. La mayoría de las páginas tendrá la barra de búsqueda disponible en la parte superior. Sumado a esto, se podrán aplicar una variedad de filtros (marca, modelo, rango de precio, año de fabricación, etc.) accediendo a la búsqueda avanzada para que cada usuario encuentre el auto de su preferencia. <br><br/> 
-Con respecto a los resultados obtenidos de la búsqueda, estos se mostrarán en una cuadrícula, donde cada auto incluirá una imagen, su precio, marca, modelo y ubicación. Por último, estos resultados también podrán ser ordenados por precio o antiguedad.
+Los resultados de la búsqueda se mostrarán en una cuadrícula, donde cada vehículo incluirá una foto, su precio, marca, modelo y ubicación. Además, estos resultados podrán ordenarse por precio o antigüedad. Finalmente, al hacer clic en un resultado específico, se mostrarán más imágenes y detalles del vehículo, junto con un botón para contactar al vendedor.
 
 ### 4.2.5. Navigation Systems
 Navegar por nuestra plataforma debe ser lo suficientemente intuitivo para que los usuarios puedan cumplir satisfactoriamente sus objetivos. Con esto en mente, la principal forma desplazarse en el contenido será una barra de navegación ubicada en la parte superior de todas las páginas. Esta contendrá las siguientes secciones: Inicio, Buscar, Mis Anuncios, Perfil. Además, se incluirán "call to action" en distintas partes de cada sección. Por ejemplo, "Publicar Anuncio" en Mis Anuncios y "Contactar Vendedor" en los ofertas publicadas. <br><br/>
