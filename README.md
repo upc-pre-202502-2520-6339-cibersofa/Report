@@ -295,24 +295,53 @@ _Breackpoints_
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+El sitio web se dividirá en las siguientes secciones:
+- Home: Aquí se ubicará el eslogan de la marca y un botón para dirigir a los usuarios a la aplicación web. <br><br/>
+- Services: Se muestran las principales características que ofrece la aplicación. <br><br/>
+- Plans: Se ubican los planes de suscripción para los segmentos objetivos y las ventajas de cada uno. <br><br/>
+- About us: Descripción de la plataforma, misión, visión y los integrantes del proyecto<br><br/>
+- Contact us: Formulario para enviar dudas de los usuarios por correo más información de contacto.<br><br/>
 
-
+Con relación al sistema secuencial, se tienen 2 procesos principales:
+- Compra de vehículo: Seleccionar, contactar, pagar y confirmar. <br><br/>
+- Publicación de venta: Añadir fotos, detalles del vehículo, información adicional y publicar la oferta. 
 
 ### 4.2.2. Labeling Systems
+Colocar las etiquetas adecuadas en las secciones, botones y otros elementos en el landing page y la aplicación web permiten que los usuarios comprendan rápidamente las funcionalidades y contenido de la plataforma.
+A continuación, se listarán las principales etiquetas según las principales funcionalidades:
+- Navegación Principal: "Inicio", "Buscar", "Anuncios", "Planes", "Perfil"
+<br></br>
+- Búsqueda de vehículos: "Marca", "Modelo", "Precio", "Ubicación", "Filtros"
+<br></br>
+- Detalle del vehículo: "Precio", "Fotos", "Descripción", "Características", "Contactar Vendedor"
+<br></br>
+- Publicación de oferta: "Fotos", "Detalles", "Precio", "Publicar"
+<br></br>
+- Proceso de compra: "Contactar", "Pagar", "Confirmar"
+<br></br>
+- Perfil del usuario: "Datos", "Historial", "Configuración"
+<br></br>
+- Soporte: "FAQ", "Contacto"
 
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+Con el fin de mejorar la visibilidad en los motores de búsqueda y brindar información relevante del landing page y aplicación web a los usuarios, se añadirán los siguientes "Seo tags" y "Meta tags":
 
-
-
+````
+<title>Car2Go - Compra y Venta de Autos de Segunda Mano</title>
+<meta name="description" content="Car2Go es tu plataforma ideal para comprar y vender autos de segunda mano de manera rápida y segura. Explora vehículos, publica anuncios y coordina sin complicaciones.">
+<meta name="keywords" content="compra autos segunda mano, venta autos usados, plataforma autos, anuncios vehículos, comprar coches">
+<meta name="author" content="Car2Go Team">
+````
 
 ### 4.2.4. Searching Systems
-
-
+Es importante facilitar la búsqueda y el filtro de información para los usuarios con el fin de que puedan utilizar la plataforma sin problemas. La mayoría de las páginas tendrá la barra de búsqueda disponible en la parte superior. Sumado a esto, se podrán aplicar una variedad de filtros (marca, modelo, rango de precio, año de fabricación, etc.) accediendo a la búsqueda avanzada para que cada usuario encuentre el auto de su preferencia. <br><br/> 
+Con respecto a los resultados obtenidos de la búsqueda, estos se mostrarán en una cuadrícula, donde cada auto incluirá una imagen, su precio, marca, modelo y ubicación. Por último, estos resultados también podrán ser ordenados por precio o antiguedad.
 
 ### 4.2.5. Navigation Systems
-
+Navegar por nuestra plataforma debe ser lo suficientemente intuitivo para que los usuarios puedan cumplir satisfactoriamente sus objetivos. Con esto en mente, la principal forma desplazarse en el contenido será una barra de navegación ubicada en la parte superior de todas las páginas. Esta contendrá las siguientes secciones: Inicio, Buscar, Mis Anuncios, Perfil. Además, se incluirán "call to action" en distintas partes de cada sección. Por ejemplo, "Publicar Anuncio" en Mis Anuncios y "Contactar Vendedor" en los ofertas publicadas. <br><br/>
+Por otro lado, se agregará la paginación en la parte inferior de la cuadrícula de los resultados. Finalmente, el footer contendrá secciones como "Sobre nosotros", "Términos y condiciones" y "Política de Privacidad", así como información de contacto.
 
 
 ## 4.3. Landing Page UI Design
