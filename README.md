@@ -20,39 +20,33 @@
 </p>
 
 <h3 align="center" >Team Members:</h3>
-<div style="margin-left: 490px;
-            margin-right: auto;
-           ">
-<div >
-    <table>
-        <tr>
-            <th style="text-align:center;">Member</th>
-            <th style="text-align:center;">Code</th>
-        </tr>
-        <tr>
-                <td>Barrionuevo Reto,  Jean Franco Joel</td>
-            <td>U202219284</td>
-        </tr>
-        <tr>
-            <td>Carranza Tesen, Joaquin Enrique</td>
-            <td>U20191B935</td>
-        </tr>
-        <tr>
-                <td>Mayta López, Harold</td>
-            <td>U202114851</td>
-        </tr>
-        <tr>
-            <td>Medina Chocce, Karito Dianeth</td>
-            <td>U20221C769</td>
-        </tr>
-        <tr>
-            <td>Serrano Uchuya, Gerald Patricio</td>
-            <td>U202122876</td>
-        </tr>
-    </table>
+<table>
+  <tr>
+      <th style="text-align:center;">Member</th>
+      <th style="text-align:center;">Code</th>
+  </tr>
+  <tr>
+      <td>Barrionuevo Reto,  Jean Franco Joel</td>
+      <td>U202219284</td>
+  </tr>
+  <tr>
+      <td>Carranza Tesen, Joaquin Enrique</td>
+      <td>U20191B935</td>
+  </tr>
+  <tr>
+      <td>Mayta López, Harold</td>
+      <td>U202114851</td>
+  </tr>
+  <tr>
+      <td>Medina Chocce, Karito Dianeth</td>
+      <td>U20221C769</td>
+  </tr>
+  <tr>
+      <td>Serrano Uchuya, Gerald Patricio</td>
+      <td>U202122876</td>
+  </tr>
+</table>
 
-
-</div>
 </div>
 <tr>
 <div align="center">
@@ -245,7 +239,7 @@ ofreciendo una solución innovadora y accesible para personas que desean comprar
 <table align="center"  border="1" width="70%" style="text-align:center;">
      <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-Franco.jpeg">
+<img src="assets/integrante-Franco.jpeg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -269,7 +263,7 @@ Jean Franco Barrionuevo Reto
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-Karito.jpeg">
+<img src="assets/integrante-Karito.jpeg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -293,7 +287,7 @@ Karito Dianeth Medina Chocce
     </tr>
 <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-Gerald.jpeg">
+<img src="assets/integrante-Gerald.jpeg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -317,7 +311,7 @@ Gerald Patricio Serrano Uchuya
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="/assets/Harold-integrante.jpg">
+<img src="assets/Harold-integrante.jpg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -341,7 +335,7 @@ Harold Jaime Mayta Lopez
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="/assets/integrante-Joaquin.png">
+<img src="assets/integrante-Joaquin.png">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -541,6 +535,11 @@ y certificaciones realizadas a través de Car2Go demostrará que los talleres t�
 - Creemos que al proporcionar una interfaz intuitiva y amigable, podemos mejorar la experiencia general del usuario en la plataforma, resultando en una mayor satisfacción y un aumento en el uso continuo de Car2Go.
   <br><br>
 - Creemos que al implementar un sistema de verificación de pagos y transacciones seguras, podemos reducir los riesgos de fraude y estafas, lo que aumentará la confianza de los usuarios en la plataforma y fomentará la realización de transacciones seguras y confiables.
+
+<br><br>
+<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 #### 1.2.2.4. Lean UX Canvas
 
 <div align=center>
@@ -548,6 +547,7 @@ y certificaciones realizadas a través de Car2Go demostrará que los talleres t�
 </div>
 
 ## 1.3. Segmentos Objetivo
+
 **Compradores de Autos Usados:**
 - Personas interesadas en adquirir un vehículo de segunda mano, que buscan opciones asequibles y confiables en el mercado.
 - Buscan una plataforma que garantice la calidad y transparencia de los vehículos.
@@ -562,6 +562,7 @@ y certificaciones realizadas a través de Car2Go demostrará que los talleres t�
 - Empresas y profesionales que ofrecen servicios de inspección y certificación de vehículos.
 - Buscan una plataforma que les permita promocionar sus servicios y colaborar con compradores y vendedores.
 - Interesados en una mayor visibilidad y demanda de sus servicios, con la posibilidad de ofrecer valor agregado a los usuarios.
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -585,6 +586,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 - **Autopia.pe**: [Autopia.pe](https://www.autopia.pe)
 
   Autopia.pe es una plataforma digital especializada en la compra y venta de autos de segunda mano, diseñada para brindar a los usuarios una experiencia simple y segura. Fundada por un equipo de emprendedores peruanos apasionados por el sector automotriz, Autopia.pe se ha posicionado rápidamente como una opción confiable para quienes buscan vehículos usados en Perú. La plataforma ofrece una amplia gama de autos, todos inspeccionados y certificados para garantizar su estado y calidad. Gracias a su enfoque en la transparencia y la satisfacción del cliente, Autopia.pe se ha convertido en una referencia clave en el mercado automotriz de segunda mano en el país.
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 2.1.1. Análisis competitivo
 <table>
@@ -771,6 +773,8 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 29. ¿Cómo valorarías la oportunidad de aumentar tus ingresos a través de estas revisiones pagadas?
 30. ¿Qué consideraciones adicionales tendrías al integrarte en una plataforma que busca asegurar la credibilidad de los autos en venta?
 
+<br><br><br><br>
+
 ## 2.2.2. Registro de entrevistas.
 
 ### **Segmento 1: Compradores de Autos de Segunda Mano**
@@ -783,7 +787,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   <br><br>
 
  <div align="center">
-    <img src="/assets/Entrevista_Gabriel.png" alt="Entrevista Gabriel" width="800"/>
+    <img src="assets/Entrevista_Gabriel.png" alt="Entrevista Gabriel" width="800"/>
 </div>
 <br><br>
 
@@ -795,6 +799,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   Gabriel Martel, de 24 años, es un estudiante de ingeniería de software interesado en adquirir un auto de segunda mano. Durante la entrevista, mencionó que sus principales preocupaciones al comprar un auto incluyen el estado estético del vehículo, especialmente la pintura, ya que considera que este aspecto refleja el cuidado que el propietario le ha dado al automóvil. También evalúa el kilometraje como un indicador clave del uso del vehículo. Además, Gabriel destacó la importancia de verificar los antecedentes del auto, tales como multas y reparaciones previas, para evitar futuros problemas. Comentó que prefiere comprar un auto que tenga una clara documentación y que haya pasado revisiones técnicas confiables.
 
 ---
+<br><br><br><br><br><br><br><br><br><br>
 
 ### **Entrevistado 2:**
 - **Nombre y Apellido:** Anatoly Noriega
@@ -804,17 +809,19 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   <br><br>
 
   <div align=center>
-    <img src="/assets/Entrevista_Anatoly.png" alt="Entrevista Anatoly" width="800"/>
+    <img src="assets/Entrevista_Anatoly.png" alt="Entrevista Anatoly" width="800"/>
   </div>
 <br><br>
 
 - **URL del video:** [Entrevista Anatoly Noriega](https://upcedupe-my.sharepoint.com/personal/u202219284_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219284%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20TB1%20%2D%20Car2Go%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E75317dcc%2De611%2D4257%2D9159%2D8dce69a6ca2a)
 <br><br>
+
 - **Informe de Resumen sobre la entrevista:**
 
   Anatoly Noriega, de 22 años, es un comprador que ya ha adquirido autos de segunda mano en el pasado. En la entrevista, mencionó que lo más importante para ella al comprar un auto es la transparencia del vendedor, especialmente en cuanto a las reparaciones y el historial de mantenimiento del vehículo. Considera fundamental que el auto haya pasado revisiones técnicas recientes, ya que le proporciona seguridad sobre su estado. También mencionó que preferiría un proceso de compra más digitalizado y que incluya certificaciones verificadas por plataformas o talleres mecánicos de confianza.
 
 ---
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### **Segmento 2: Vendedores de Autos de Segunda Mano**
 
@@ -826,7 +833,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   <br><br>
 
   <div align=center>
-    <img src="/assets/Entrevista_Mijael.png" alt="Entrevista Mijael" width="800"/>
+    <img src="assets/Entrevista_Mijael.png" alt="Entrevista Mijael" width="800"/>
   </div>
 <br><br>
 
@@ -837,6 +844,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   Mijael Yen, de 22 años, es analista de ciberseguridad y vendedor ocasional de autos junto a su padre. Explicó que uno de los mayores desafíos al vender autos de segunda mano es generar confianza con los compradores, ya que la venta implica una inversión significativa. Por ello, Mijael enfatiza la importancia de proporcionar toda la documentación del auto, incluyendo certificados de revisión técnica y detalles sobre reparaciones. Comentó que un comprador informado y que tiene acceso a los antecedentes del auto es más probable que confíe en la venta, lo que agiliza el proceso.
 
 ---
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### **Entrevistado 2:**
 - **Nombre y Apellido:** Jefrey Sanchez
@@ -846,7 +854,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   <br><br>
 
   <div align=center>
-    <img src="/assets/Entrevista_Jefrey.png" alt="Entrevista Jefrey" width="800"/>
+    <img src="assets/Entrevista_Jefrey.png" alt="Entrevista Jefrey" width="800"/>
   </div>
 <br><br>
 
@@ -858,6 +866,8 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   Jefrey Sanchez, de 22 años, estudiante de ingeniería de software, habló sobre su experiencia al intentar vender su auto de segunda mano. Mencionó que, en su experiencia, la desconfianza de los compradores es el principal obstáculo en la venta de autos usados. Para él, uno de los puntos clave es establecer un precio justo para que el vehículo se venda rápidamente. Jefrey comentó que muchas veces la espera para vender un auto puede ser larga debido a la negociación constante sobre el precio y las preocupaciones de los compradores sobre el estado del vehículo.
 
 ---
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 ### **Segmento 3: Talleres mecánicos**
 
@@ -869,7 +879,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   <br><br>
 
   <div align=center>
-    <img src="/assets/Entrevista_Maomed.png" alt="Entrevista Maomed" width="800"/>
+    <img src="assets/Entrevista_Maomed.png" alt="Entrevista Maomed" width="800"/>
   </div>
 <br><br>
 
@@ -881,6 +891,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   Maomed Chocce, de 29 años, trabaja en un taller mecánico especializado en la revisión y reparación de autos usados. Durante la entrevista, explicó que su equipo se enfoca en la revisión integral de los componentes más importantes del auto, como los frenos, el motor y la batería. También mencionó que el estado de la carrocería es una prioridad, ya que, según su experiencia, los compradores tienden a fijarse mucho en la estética del vehículo. Además, Maomed resaltó la importancia de ofrecer un informe claro y detallado después de la inspección, para que el vendedor pueda mostrarlo a potenciales compradores.
 
 ---
+<br><br><br><br><br><br><br><br><br><br>
 
 ### **Entrevistado 2:**
 - **Nombre y Apellido:** Oscar Román
@@ -890,7 +901,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   <br><br>
 
   <div align=center>
-    <img src="/assets/Entrevista_Roman.png" alt="Entrevista Roman" width="800"/>
+    <img src="assets/Entrevista_Roman.png" alt="Entrevista Roman" width="800"/>
   </div>
 <br><br>
 
@@ -903,7 +914,8 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   Oscar Román, de 26 años, trabaja en una concesionaria de autos y tiene amplia experiencia en la revisión de vehículos de segunda mano. Mencionó que el kilometraje es uno de los factores más importantes para determinar el estado general de un auto. Según él, un kilometraje bajo generalmente indica menos desgaste, lo cual es un atractivo para los compradores. Oscar también expresó su interés en utilizar aplicaciones tecnológicas que le permitan encontrar clientes interesados en revisiones técnicas, ya que cree que le ayudaría a ampliar su red de contactos y aumentar sus ingresos.
 
 
-### Resumen de entrevistas
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 2.2.3. Análisis de entrevistas
 **Segmento objetivo: Compradores de Autos de Segunda Mano**
@@ -918,20 +930,29 @@ Mijael Yen y Jefrey Sanchez coincidieron en que la desconfianza de los comprador
 
 Tanto Maomed Chocce como Oscar Román destacaron la importancia de revisar los componentes clave del vehículo, como los frenos, el motor y la batería, antes de ponerlos a la venta. Ambos coincidieron en que el kilometraje es uno de los factores más importantes para evaluar el estado del auto. Además, ambos ven en las plataformas tecnológicas una oportunidad para atraer más clientes interesados en revisar autos antes de comprarlos, lo que mejoraría la seguridad en las transacciones.
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 ## 2.3. Needfinding.
 ## 2.3.1. User Personas.
 
 ### Compradores de segunda mano:
 
-<img src="/assets/UserPersona_Comprador.png">
+<img src="assets/UserPersona_Comprador.png">
+
+
 
 ### Vendedores de segunda mano:
 
-<img src="/assets/UserPersona_Vendedor.jpg">
+<img src="assets/UserPersona_Vendedor.jpg">
+
+<br><br><br><br><br><br>
 
 ### Talleres mecánicos:
 
-<img src="/assets/UserPersona_Talleres.png">
+<img src="assets/UserPersona_Talleres.png">
+<br><br><br><br>
+
 
 ## 2.3.2. User Task Matrix.
 
@@ -1046,51 +1067,59 @@ A continuación, presentaremos los User Task Matrix de los segmentos objetivos q
 </table>
 
 Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo se diferencian en ciertas partes técnicas, como el mecánico, y estética, en cuanto a los vendedores y compradores.
+<br><br><br><br>
 
 ## 2.3.3. User Journey Mapping.
 
 ### Compradores de segunda mano:
 
-<img src="/assets/Journey_Comprador.png">
+<img src="assets/Journey_Comprador.png">
+<br><br><br><br><br><br><br><br>
 
 ### Vendedores de segunda mano:
 
-<img src="/assets/Journey_Vendedor.png">
+<img src="assets/Journey_Vendedor.png">
 
 ### Talleres mecánicos:
 
-<img src="/assets/Journey_Talleres.png">
+<img src="assets/Journey_Talleres.png">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 2.3.4. Empathy Mapping.
 
 ### Compradores de segunda mano:
 
-<img src="/assets/Empathy_Comprador.png">
+<img src="assets/Empathy_Comprador.png">
+<br><br><br><br><br><br>
 
 ### Vendedores de segunda mano:
 
-<img src="/assets/Empathy_Vendedor.png">
+<img src="assets/Empathy_Vendedor.png">
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Talleres mecánicos:
 
-<img src="/assets/Empathy_Talleres.png">
+<img src="assets/Empathy_Talleres.png">
+<br><br><br><br><br><br><br><br><br>
 
 ## 2.3.5. As-is Scenario Mapping
 
 ### Segmento Objetivo #1:  Compradores de autos de segunda mano (25-45 años)
 
-<img src="/assets/As-Is_Comprador.png">
+<img src="assets/As-Is_Comprador.png">
 
 ### Segmento Objetivo #2: Vendedores de autos de segunda mano (25-55 años)
 
-<img src="/assets/As-Is_Vendedor.png">
+<img src="assets/As-Is_Vendedor.png">
 
 ### Segmento Objetivo #3:  Talleres mecánicos
 
-<img src="/assets/As-Is_Talleres.png">
+<img src="assets/As-Is_Talleres.png">
 
 
-[MIRO](https://miro.com/app/board/uXjVMm70eUI=/?share_link_id=313743584808)
+[LINK DEL MIRO](https://miro.com/app/board/uXjVMm70eUI=/?share_link_id=313743584808)
+<br><br>
 
 ## 2.4 Ubiquitous Language
 1. **Comprador:** Persona que está interesada en adquirir un auto de segunda mano.
