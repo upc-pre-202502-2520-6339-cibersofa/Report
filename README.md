@@ -369,6 +369,47 @@ Por otro lado, se agregará la paginación en la parte inferior de la cuadrícul
 # 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes
 
+![Landing-Page-Mock-up:](assets/wireframe-1.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-2.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-3.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-4.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-5.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-6.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-7.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-8.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-9.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-10.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-12.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-13.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-14.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-15.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-16.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-17.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-18.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-19.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-20.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-21.png)
+---
+![Landing-Page-Mock-up:](assets/wireframe-22.png)
 
 
 
