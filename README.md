@@ -1623,7 +1623,157 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 
 ## Recomendaciones
 
+
 # VII. Bibliografía.
+=======
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| userID  | int | Identificador único del usuario
+|  names  | string  | Nombres del usuario
+| last_name  | string | Apellidos del usuario
+| phone_number  | string | Número telefónio del usuario
+| email  | string | Correo del usuario |
+| password  | string  | Contraseña del usuario
+| role |string| Rol del usuario
+| subscriptionPlan | string | Plan de subscripción
+| transactionHistory| list | Historial de transacciones
+
+<br><br/>
+Clase SubscriptionPlan
+
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| planID  | int | Identificador único del plan de subscripción
+| name | string | Nombre del plan
+| price | double | Precio del plan
+| features | list | Características del plan
+
+<br><br/>
+Clase Transaction
+
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| transactionID  | int | Identificador único de la transacción
+| buyer | User | Comprador del auto
+| seller | User | Vendedor del auto
+| vehicle | Vehicle| Vehículo vendido
+| amount | double | Precio de venta
+| date | date| Fecha de la transacción
+| paymentStatus | string | Estado del pago de la transacción
+
+<br><br/>
+Clase Payment
+
+| Atributo      | Tipo        | Descripción                    |
+|---------------|-------------|--------------------------------|
+| paymentID     | int         | Identificador único del pago   |
+| transaction   | Transaction | Transación perteniente al pago |
+| paymentMethod | string      | Método de pago                 |
+| paymentDate   | date        | Fecha del pago                 |
+
+<br><br/>
+Clase Search
+
+| Atributo | Tipo   | Descripción                        |
+|----------|--------|------------------------------------|
+| searchID | int    | Identificador único de la búsqueda |
+| query    | string | Términos de la búsqueda            |
+| filters  | list   | Filtros de búsqueda                |
+| results  | list   | Resultados de la búsqueda          |
+
+<br><br/>
+Clase Post
+
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| postID  | int | Identificador único del post
+| vehicle | Vehicle | Vehículo en venta
+| seller | User | Vendedor
+| title | string | Título del post
+| description | string | Descripción del post
+| price | double | Precio del vehículo
+| status | string | Status del post
+| createdDate | date | Fecha de creación del post
+| location | string | Ubicación del vehículo
+| images | list | Imágenes del vehículo
+
+<br><br/>
+Clase Vehicle
+
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| vehicleID  | int | Identificador único del vehículo
+| brand | string | Marca del vehículo
+| model | string | Modelo
+| year | int | Año de fabricación
+| price | double | Precio del vehículo
+| color | string | Color principal del vehículo
+| mileage | double | Kilometraje
+| location | string | Ubicación del vehículo
+| images | list | Imágenes del vehículo
+| description | string | Descripción
+| maintenanceHistory | list | Historial de mantenimiento
+
+<br><br/>
+Clase Contact
+
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| contactID  | int | Identificador único del contacto entre comprador y vendedor
+| sender | User | Usuario interesado en el vehículo
+| receiver | User | Usuario dueño del vehículo
+| message | string | Mensaje enviado
+| date | date | Fecha del mensaje
+
+<br><br/>
+Clase Review
+
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| reviewID  | int | Identificador único de la reseña de un vendedor
+| user | User | Usuario que publicó la reseña
+| seller | User | Vendedor que recibe las reseñas
+| rating | int | Calificación del vendedor
+| comment | string | Comentarios de la reseña
+| date | date | Fecha de publicación
+
+<br><br/>
+Clase Maintenance
+
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| maintenanceID  | int | Identificador único del mantenimiento
+| vehicle | Vehicle | Vehículo objetivo del mantenimiento
+| date | date | Fecha del mantenimiento
+| description | string | Descripción del mantenimiento
+| cost | double | Costo del mantenimiento
+| mechanic | Mechanic | Mecánico a cargo del mantenimiento
+
+<br><br/>
+Clase Mechanic
+
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| mechanicID  | int | Identificador único del mecánico
+| names | string | Nombres
+| last_name | string | Apellidos
+| phonenumber | string | Número telefónico
+| address | string | Dirección del taller automotriz
+| company | string | Nombre del taller automotriz
+| email | string | Correo del mecánico
+|password| string| Contraseña de la cuenta del mecánico
+
+
+## 4.8 Database Design
+El sistema de gestión de bases de datos relacional (RDBMS) que utilizaremos para generar las tablas y establecer sus relaciones en nuestra plataforma será MySQL. Hemos elegido MySQL por su facilidad de uso y por su integración con MySQL Workbench, que nos proporciona una herramienta visual eficiente para la administración de la base de datos.
+
+### 4.8.1 Database Diagram
+<img src="assets/databaseDiagram.png" alt="database diagram"/>
+
+
+
+    
+>>>>>>> feature/chapter-04
 
 
 # VIII. Anexos.
