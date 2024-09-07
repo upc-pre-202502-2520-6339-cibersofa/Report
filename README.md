@@ -554,10 +554,573 @@ y certificaciones realizadas a través de Car2Go demostrará que los talleres t�
 - Buscan una plataforma que les permita promocionar sus servicios y colaborar con compradores y vendedores.
 - Interesados en una mayor visibilidad y demanda de sus servicios, con la posibilidad de ofrecer valor agregado a los usuarios.
 
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
+Nuestros competidores abarcan una variedad de empresas en el mercado de autos de segunda mano, que se han ido fortaleciendo a lo largo del tiempo en plataformas digitales. Esto abarca grandes sitios webs de venta de vehículos usados.
+
+Aquí unos competidores directos que proporcionan servicios similares al nuestro:
+
+
+- **NeoAuto**: [NeoAuto](https://neoauto.com/venta-de-autos-usados-en-lima?gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQtS4NTpmRTLgjG9aqoxczpnBP_zQPfrGnqWX53OOE22ruL_N90cup8aAvHuEALw_wcB)
+
+  NeoAuto es una plataforma en línea disponible para web y dispositivos móviles que facilita la compra y venta de autos de segunda mano. Fundada por un equipo de innovadores peruanos, NeoAuto ha logrado posicionarse como uno de los líderes en el mercado automotriz de segunda mano en Perú. La plataforma permite a los usuarios acceder a una amplia variedad de vehículos usados, todos verificados para garantizar su calidad y confiabilidad. Gracias a su gran aceptación, NeoAuto se ha expandido y ahora es un referente en el sector automotriz en el país, ayudando a miles de peruanos a encontrar su auto ideal.
+ 
+<br><br>
+- **AUTOLAND Perú**: [AutoLand Perú](https://autoland.com.pe/seminuevos/)
+
+  AutoLand Perú es un portal en línea especializado en la compra y venta de vehículos de segunda mano, accesible tanto desde su sitio web como desde su aplicación móvil. Fundado por un grupo de expertos en el sector automotriz peruano, AutoLand Perú se ha destacado por ofrecer una plataforma confiable y segura para transacciones de autos usados. La plataforma permite a los usuarios explorar una extensa selección de vehículos, todos sometidos a rigurosas inspecciones para asegurar su calidad. Gracias a su enfoque en la satisfacción del cliente, AutoLand Perú se ha consolidado como una de las opciones preferidas en el mercado de autos de segunda mano en el país.
+
+<br><br>
+- **Autopia.pe**: [Autopia.pe](https://www.autopia.pe)
+
+  Autopia.pe es una plataforma digital especializada en la compra y venta de autos de segunda mano, diseñada para brindar a los usuarios una experiencia simple y segura. Fundada por un equipo de emprendedores peruanos apasionados por el sector automotriz, Autopia.pe se ha posicionado rápidamente como una opción confiable para quienes buscan vehículos usados en Perú. La plataforma ofrece una amplia gama de autos, todos inspeccionados y certificados para garantizar su estado y calidad. Gracias a su enfoque en la transparencia y la satisfacción del cliente, Autopia.pe se ha convertido en una referencia clave en el mercado automotriz de segunda mano en el país.
+
+## 2.1.1. Análisis competitivo
+<table>
+ <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+  <th>¿Por qué llevar a cabo este análisis?</th>
+    <td colspan="6"> Realizaremos un análisis competitivo porque es muy importante identificar oportunidades de diferenciación, entender las fortalezas y debilidades de los competidores, y adaptar la estrategia para posicionar mejor la plataforma en el mercado.</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th>Car2Go</th>
+    <th>NeoAuto</th>
+    <th>AutoLand Perú</th>
+    <th>Autopia.pe</th>
+  </tr>
+  <tr>
+    <th rowspan="2">Perfil</th>
+    <td><strong>Overview</strong></td>
+    <td>Plataforma de compra y venta de autos de segunda mano con un fuerte énfasis en la verificación y certificación de datos.</td>
+    <td>Plataforma en línea para la compra y venta de autos de segunda mano en Perú, con una sólida presencia en el mercado.</td>
+    <td>Plataforma especializada en la compra y venta de vehículos usados, con un énfasis en la confiabilidad y seguridad de las transacciones.</td>
+    <td>Plataforma digital enfocada en la simplicidad y seguridad de la compra y venta de autos de segunda mano.</td>
+  </tr>
+  <tr>
+    <td><strong>Ventaja competitiva ¿Qué valor ofrece a los clientes?</strong></td>
+    <td>Seguridad y confianza al comprar, sabiendo que todos los datos y fotos están verificados y actualizados regularmente. Ahorran tiempo al evitar pasos adicionales de verificación.</td>
+    <td>Acceso a una gran cantidad de opciones y confianza en una plataforma bien establecida.</td>
+    <td>Tranquilidad al saber que los autos han pasado por un proceso de inspección.</td>
+    <td>Proceso de compra sencillo y seguro, con una selección de vehículos que han sido inspeccionados.</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Perfil de Marketing</th>
+    <td><strong>Mercado objetivo</strong></td>
+    <td>Compradores y vendedores de autos de segunda mano que buscan seguridad y confianza en su adquisición.</td>
+    <td>Consumidores peruanos interesados en comprar o vender autos usados a través de una plataforma confiable.</td>
+    <td>Consumidores peruanos que priorizan la seguridad y confiabilidad en la compra de un auto de segunda mano.</td>
+    <td>Usuarios que buscan una plataforma fácil de usar para comprar o vender autos usados, con énfasis en la transparencia y satisfacción del cliente.</td>
+  </tr>
+  <tr>
+    <td><strong>Estrategias de marketing</strong></td>
+    <td>Campañas focalizadas en redes sociales y Google ads, orientadas a personas que buscan comprar un auto usado.</td>
+    <td>Campañas de branding en televisión, radio y redes sociales para mantener la visibilidad de la marca a nivel nacional.</td>
+    <td>Anuncios en prensa, radio y televisión local que resalten la confiabilidad y las rigurosas inspecciones de los autos en venta.</td>
+    <td>Campañas en redes sociales enfocadas a un público más joven, destacando la facilidad de uso y la transparencia de la plataforma.</td>
+  </tr>
+  <tr>
+    <th rowspan="3">Perfil de Producto</th>
+    <td><strong>Productos & Servicios</strong></td>
+    <td>Autos verificados y certificados mensualmente, con asesoría personalizada.</td>
+    <td>Amplio catálogo de autos usados, con servicios adicionales como financiamiento y seguros.</td>
+    <td>Autos usados con inspecciones rigurosas y garantía limitada.</td>
+    <td>Autos seleccionados con inspección única al momento de la publicación, enfocados en la transparencia.</td>
+  </tr>
+  <tr>
+    <td><strong>Precios & Costos</strong></td>
+    <td>Precios medio-altos debido a las certificaciones mensuales; costos operativos elevados por las inspecciones regulares.</td>
+    <td>Variedad de precios, desde opciones económicas hasta de alta gama; costos moderados por verificación básica.</td>
+    <td>Precios competitivos con un enfoque en el valor a través de la calidad; costos relacionados con inspecciones detalladas.</td>
+    <td>Precios variados con enfoque en la transparencia; costos de mantenimiento digital y una única certificación inicial.</td>
+  </tr>
+  <tr>
+    <td><strong>Canales de distribución (Web y/o Móvil)</strong></td>
+    <td>Distribución digital a través de web y app, con apoyo de talleres asociados.</td>
+    <td>Distribución principal en su sitio web y aplicación móvil, con apoyo de socios financieros.</td>
+    <td>Distribución en línea y en puntos de venta físicos.</td>
+    <td>Distribución digital a través de su sitio web y app, con atención al cliente en línea.</td>
+  </tr>
+  <tr>
+    <th rowspan="4">Análisis SWOT</th>
+    <td><strong>Fortalezas</strong></td>
+    <td>Verificación y certificación mensual de vehículo, lo que garantiza alta confianza y seguridad para el comprador.</td>
+    <td>Amplia oferta de vehículos y sólida presencia en el mercado, con servicios adicionales como financiamiento.</td>
+    <td>Inspecciones rigurosas y garantía limitada que refuerzan la calidad y seguridad de los autos vendidos.</td>
+    <td>Transparencia en la información del vehículo y proceso de compra simplificado.</td>
+  </tr>
+  <tr>
+    <td><strong>Debilidades</strong></td>
+    <td>Costos operativos altos debido a las inspecciones mensuales, lo que puede traducirse en precios más altos para los usuarios.</td>
+    <td>Menor enfoque en la verificación continua de datos, lo que puede generar dudas sobre la autenticidad de la información.</td>
+    <td>Dependencia de puntos de venta físicos puede limitar el alcance y la comodidad en comparación con plataformas digitales puras.</td>
+    <td>Inspección única puede no ofrecer el mismo nivel de garantía continua que la verificación mensual de Car2Go.</td>
+  </tr>
+  <tr>
+    <td><strong>Oportunidades</strong></td>
+    <td>Expansión de otros mercados que valoren la verificación continua y el valor añadido de vehículos certificados.</td>
+    <td>Expansión de servicios adicionales como seguros y financiamiento para atraer a más compradores.</td>
+    <td>Potencial para integrar más tecnología y herramientas digitales para mejorar la experiencia del usuario.</td>
+    <td>Ampliar la oferta de servicios adicionales y mejorar la frecuencia de inspección para competir con plataformas que ofrezcan verificación continua.</td>
+  </tr>
+  <tr>
+    <td><strong>Amenazas</strong></td>
+    <td>Competencia de plataformas con menores costos operativos y precios más bajos que no ofrecen verificación continua.</td>
+    <td>Riesgo de pérdida de credibilidad si no se mejora la verificación de datos frente a competidores más transparentes.</td>
+    <td>Competencia creciente de plataformas digitales que ofrecen una experiencia más ágil y moderna.</td>
+    <td>Riesgo de quedar atrás si no se actualizan las prácticas de verificación y certificación para igualar a competidores con procesos más exhaustivos.</td>
+  </tr>
+</table>
+
+## 2.1.2. Estrategias y tácticas frente a competidores
+
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th>Categoría</th>
+      <th>Estrategias y Tácticas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Oportunidades</strong></td>
+      <td>- O1: Verificación continua<br>- O2: Expansión de mercado<br>- O3: Alianzas estratégicas<br>- O4: Valor añadido de servicios adicionales</td>
+    </tr>
+    <tr>
+      <td><strong>Amenazas</strong></td>
+      <td>- A1: Competencia de precios bajos<br>- A2: Plataforma digital de competencia<br>- A3: Mayor alcance y visibilidad</td>
+    </tr>
+    <tr>
+      <td><strong>Fortalezas</strong></td>
+      <td>- F1: Garantía de calidad<br>- F2: Seguridad al comprador<br>- F3: Proceso de compra simplificado<br>- F4: Credibilidad de información</td>
+    </tr>
+    <tr>
+      <td><strong>Estrategias FO (Ofensivas)</strong></td>
+      <td>- FO1: Promoción de verificación continua<br>- FO2: Expansión a nuevos mercados</td>
+    </tr>
+    <tr>
+      <td><strong>Estrategias FA (Defensivas)</strong></td>
+      <td>- FA1: Fortalecimiento de la experiencia del usuario<br>- FA2: Mejora continua en el proceso de verificación<br>- FA3: Mantenimiento de precios competitivos</td>
+    </tr>
+    <tr>
+      <td><strong>Debilidades</strong></td>
+      <td>- D1: Costos operativos<br>- D2: Menor flexibilidad<br>- D3: Menor alcance de mercado</td>
+    </tr>
+    <tr>
+      <td><strong>Estrategias DO (Reorientación)</strong></td>
+      <td>- DO1: Optimización de costos operativos<br>- DO2: Expansión digital</td>
+    </tr>
+    <tr>
+      <td><strong>Estrategias DA (Supervivencia)</strong></td>
+      <td>- DA1: Ajuste de precios<br>- DA2: Reducción de costos<br>- DA3: A</td>
+    </tr>
+  </tbody>
+</table>
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+#### Segmento 1: Compradores de Autos de Segunda Mano
+1. ¿Cuáles son los factores más importantes para ti al comprar un auto de segunda mano?
+2. ¿Qué tipo de información consideras imprescindible antes de decidirte a comprar un vehículo?
+3. ¿Cómo sueles verificar la credibilidad del vendedor y el estado del vehículo?
+4. ¿Te sentirías más seguro si el auto tuviera un historial de revisiones verificadas por talleres?
+5. ¿Qué tan importante es para ti la transparencia en la información del vehículo (kilometraje, accidentes previos, etc.)?
+6. ¿Estarías dispuesto a pagar más por un auto con datos verificables y reportes de un taller confiable?
+7. ¿Qué dificultades has enfrentado en el pasado al intentar comprar un auto usado?
+8. ¿Qué tan cómodo te sientes utilizando aplicaciones o plataformas en línea para comprar vehículos?
+9. ¿Qué funciones adicionales te gustaría ver en una plataforma que te conecte con vendedores de autos usados?
+10. ¿Confías más en un vendedor particular o en concesionarios al comprar autos de segunda mano? ¿Por qué?
+
+#### Segmento 2: Vendedores de Autos de Segunda Mano
+11. ¿Cuáles son los principales desafíos que enfrentas al vender un auto de segunda mano?
+12. ¿Cómo sueles garantizar la credibilidad y confiabilidad de la información que proporcionas a los compradores?
+13. ¿Qué tan dispuesto estarías a someter tu vehículo a una revisión en un taller para obtener un reporte verificable?
+14. ¿Crees que la existencia de un historial de revisiones ayudaría a vender más rápido tu vehículo?
+15. ¿Qué información consideras clave para atraer a compradores potenciales?
+16. ¿Qué tan cómodo te sentirías subiendo y compartiendo datos detallados y verificados del vehículo en una plataforma en línea?
+17. ¿Cómo evalúas el impacto de una plataforma que asegure la veracidad de los datos en el proceso de venta de tu vehículo?
+18. ¿Cuáles son tus expectativas en cuanto al tiempo que te toma vender un auto? ¿Crees que esta plataforma podría acelerarlo?
+19. ¿Qué tan dispuesto estarías a pagar una tarifa adicional por servicios que aumenten la confianza del comprador?
+20. ¿Qué características o servicios adicionales te gustaría que ofreciera una plataforma dedicada a la venta de autos de segunda mano?
+
+#### Segmento 3: Talleres mecánicos encargados de revisiones
+21. ¿Cuál es tu nivel de experiencia en realizar inspecciones y revisiones para la venta de autos de segunda mano?
+22. ¿Qué tipos de revisiones crees que son esenciales para garantizar la calidad y seguridad de un vehículo usado?
+23. ¿Qué tan interesado estarías en asociarte con una plataforma que te conecte con vendedores que buscan revisiones pagadas?
+24. ¿Qué tipo de certificaciones o informes sueles emitir después de realizar una inspección completa?
+25. ¿Cómo garantizarías la precisión y objetividad en los datos que proporcionas sobre un vehículo?
+26. ¿Qué tipos de revisiones o servicios adicionales te gustaría ofrecer a través de una plataforma de venta de autos?
+27. ¿Cómo gestionarías la demanda de revisiones si el volumen de solicitudes aumenta debido a la asociación con la plataforma?
+28. ¿Qué tan importante es para ti mantener una buena reputación y confianza entre compradores y vendedores?
+29. ¿Cómo valorarías la oportunidad de aumentar tus ingresos a través de estas revisiones pagadas?
+30. ¿Qué consideraciones adicionales tendrías al integrarte en una plataforma que busca asegurar la credibilidad de los autos en venta?
+
+## 2.2.2. Registro de entrevistas.
+
+### **Segmento 1: Compradores de Autos de Segunda Mano**
+
+### **Entrevistado 1:**
+- **Nombre y Apellido:** Gabriel Martel
+- **Edad:** 24 años
+- **Tiempo de la entrevista:** 00:00 - 17:19
+- **Evidencia de la reunión:**
+  <br><br>
+
+ <div align="center">
+    <img src="/assets/Entrevista_Gabriel.png" alt="Entrevista Gabriel" width="800"/>
+</div>
+<br><br>
+
+- **URL del video:** [Entrevista Gabriel Martel](https://upcedupe-my.sharepoint.com/personal/u202219284_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219284%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20TB1%20%2D%20Car2Go%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E75317dcc%2De611%2D4257%2D9159%2D8dce69a6ca2a)
+  <br><br>
+
+- **Informe de Resumen sobre la entrevista:**
+
+  Gabriel Martel, de 24 años, es un estudiante de ingeniería de software interesado en adquirir un auto de segunda mano. Durante la entrevista, mencionó que sus principales preocupaciones al comprar un auto incluyen el estado estético del vehículo, especialmente la pintura, ya que considera que este aspecto refleja el cuidado que el propietario le ha dado al automóvil. También evalúa el kilometraje como un indicador clave del uso del vehículo. Además, Gabriel destacó la importancia de verificar los antecedentes del auto, tales como multas y reparaciones previas, para evitar futuros problemas. Comentó que prefiere comprar un auto que tenga una clara documentación y que haya pasado revisiones técnicas confiables.
+
+---
+
+### **Entrevistado 2:**
+- **Nombre y Apellido:** Anatoly Noriega
+- **Edad:** 22 años
+- **Tiempo de la entrevista:** 17:20 - 23:33
+- **Evidencia de la reunión:**
+  <br><br>
+
+  <div align=center>
+    <img src="/assets/Entrevista_Anatoly.png" alt="Entrevista Anatoly" width="800"/>
+  </div>
+<br><br>
+
+- **URL del video:** [Entrevista Anatoly Noriega](https://upcedupe-my.sharepoint.com/personal/u202219284_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219284%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20TB1%20%2D%20Car2Go%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E75317dcc%2De611%2D4257%2D9159%2D8dce69a6ca2a)
+<br><br>
+- **Informe de Resumen sobre la entrevista:**
+
+  Anatoly Noriega, de 22 años, es un comprador que ya ha adquirido autos de segunda mano en el pasado. En la entrevista, mencionó que lo más importante para ella al comprar un auto es la transparencia del vendedor, especialmente en cuanto a las reparaciones y el historial de mantenimiento del vehículo. Considera fundamental que el auto haya pasado revisiones técnicas recientes, ya que le proporciona seguridad sobre su estado. También mencionó que preferiría un proceso de compra más digitalizado y que incluya certificaciones verificadas por plataformas o talleres mecánicos de confianza.
+
+---
+
+### **Segmento 2: Vendedores de Autos de Segunda Mano**
+
+### **Entrevistado 1:**
+- **Nombre y Apellido:** Mijael Yen
+- **Edad:** 22 años
+- **Tiempo de la entrevista:** 23:34 - 32:18
+- **Evidencia de la reunión:**
+  <br><br>
+
+  <div align=center>
+    <img src="/assets/Entrevista_Mijael.png" alt="Entrevista Mijael" width="800"/>
+  </div>
+<br><br>
+
+- **URL del video:** [Entrevista Mijael Yen](https://drive.google.com/file/d/1cH2Qm0MXNg0-eg08rE_p2YE1JoY2oTh0/view?usp=drive_link)
+  <br><br>
+- **Informe de Resumen sobre la entrevista:**
+
+  Mijael Yen, de 22 años, es analista de ciberseguridad y vendedor ocasional de autos junto a su padre. Explicó que uno de los mayores desafíos al vender autos de segunda mano es generar confianza con los compradores, ya que la venta implica una inversión significativa. Por ello, Mijael enfatiza la importancia de proporcionar toda la documentación del auto, incluyendo certificados de revisión técnica y detalles sobre reparaciones. Comentó que un comprador informado y que tiene acceso a los antecedentes del auto es más probable que confíe en la venta, lo que agiliza el proceso.
+
+---
+
+### **Entrevistado 2:**
+- **Nombre y Apellido:** Jefrey Sanchez
+- **Edad:** 22 años
+- **Tiempo de la entrevista:** 32:19 - 44:28
+- **Evidencia de la reunión:**
+  <br><br>
+
+  <div align=center>
+    <img src="/assets/Entrevista_Jefrey.png" alt="Entrevista Jefrey" width="800"/>
+  </div>
+<br><br>
+
+- **URL del video:** [Entrevista Jefrey Sanchez](https://upcedupe-my.sharepoint.com/personal/u202219284_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219284%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20TB1%20%2D%20Car2Go%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E75317dcc%2De611%2D4257%2D9159%2D8dce69a6ca2a)
+  <br><br>
+
+- **Informe de Resumen sobre la entrevista:**
+
+  Jefrey Sanchez, de 22 años, estudiante de ingeniería de software, habló sobre su experiencia al intentar vender su auto de segunda mano. Mencionó que, en su experiencia, la desconfianza de los compradores es el principal obstáculo en la venta de autos usados. Para él, uno de los puntos clave es establecer un precio justo para que el vehículo se venda rápidamente. Jefrey comentó que muchas veces la espera para vender un auto puede ser larga debido a la negociación constante sobre el precio y las preocupaciones de los compradores sobre el estado del vehículo.
+
+---
+
+### **Segmento 3: Talleres mecánicos**
+
+### **Entrevistado 1:**
+- **Nombre y Apellido:** Maomed Chocce
+- **Edad:** 29 años
+- **Tiempo de la entrevista:** 44:29 - 54:03
+- **Evidencia de la reunión:**
+  <br><br>
+
+  <div align=center>
+    <img src="/assets/Entrevista_Maomed.png" alt="Entrevista Maomed" width="800"/>
+  </div>
+<br><br>
+
+- **URL del video:** [Entrevista Maomed Chocce](https://upcedupe-my.sharepoint.com/personal/u202219284_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219284%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20TB1%20%2D%20Car2Go%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E75317dcc%2De611%2D4257%2D9159%2D8dce69a6ca2a)
+  <br><br>
+
+- **Informe de Resumen sobre la entrevista:**
+
+  Maomed Chocce, de 29 años, trabaja en un taller mecánico especializado en la revisión y reparación de autos usados. Durante la entrevista, explicó que su equipo se enfoca en la revisión integral de los componentes más importantes del auto, como los frenos, el motor y la batería. También mencionó que el estado de la carrocería es una prioridad, ya que, según su experiencia, los compradores tienden a fijarse mucho en la estética del vehículo. Además, Maomed resaltó la importancia de ofrecer un informe claro y detallado después de la inspección, para que el vendedor pueda mostrarlo a potenciales compradores.
+
+---
+
+### **Entrevistado 2:**
+- **Nombre y Apellido:** Oscar Román
+- **Edad:** 26 años
+- **Tiempo de la entrevista:** 54:04 - 1:00:50
+- **Evidencia de la reunión:**
+  <br><br>
+
+  <div align=center>
+    <img src="/assets/Entrevista_Roman.png" alt="Entrevista Roman" width="800"/>
+  </div>
+<br><br>
+
+
+- **URL del video:** [Entrevista Oscar Román](https://upcedupe-my.sharepoint.com/personal/u202219284_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219284%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20TB1%20%2D%20Car2Go%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E75317dcc%2De611%2D4257%2D9159%2D8dce69a6ca2a)
+  <br><br>
+
+- **Informe de Resumen sobre la entrevista:**
+
+  Oscar Román, de 26 años, trabaja en una concesionaria de autos y tiene amplia experiencia en la revisión de vehículos de segunda mano. Mencionó que el kilometraje es uno de los factores más importantes para determinar el estado general de un auto. Según él, un kilometraje bajo generalmente indica menos desgaste, lo cual es un atractivo para los compradores. Oscar también expresó su interés en utilizar aplicaciones tecnológicas que le permitan encontrar clientes interesados en revisiones técnicas, ya que cree que le ayudaría a ampliar su red de contactos y aumentar sus ingresos.
+
+
+### Resumen de entrevistas
+
+## 2.2.3. Análisis de entrevistas
+**Segmento objetivo: Compradores de Autos de Segunda Mano**
+
+En las entrevistas con Gabriel Martel y Anatoly Noriega, encontramos que ambos coinciden en la importancia de la transparencia por parte del vendedor, así como en la necesidad de contar con revisiones técnicas recientes para garantizar el estado del auto. Ambos compradores también priorizan el kilometraje como un factor clave en su decisión de compra. Sin embargo, mientras Gabriel se fija en aspectos estéticos como la pintura, Anatoly pone mayor énfasis en la digitalización del proceso de compra y la obtención de certificaciones verificadas. Este análisis revela que los compradores buscan confianza y seguridad en sus transacciones, siendo la transparencia y la documentación los elementos más valorados.
+
+**Segmento objetivo: Vendedores de Autos de Segunda Mano**
+
+Mijael Yen y Jefrey Sanchez coincidieron en que la desconfianza de los compradores es el principal desafío al intentar vender autos de segunda mano. Ambos destacaron la importancia de proporcionar documentación que garantice la autenticidad del estado del vehículo. Mijael ve en la transparencia una oportunidad para generar confianza con el comprador, mientras que Jefrey considera que establecer un precio justo es clave para acelerar la venta. El análisis muestra que la confianza y una comunicación clara sobre el estado del auto son factores determinantes en el éxito de una venta.
+
+**Segmento objetivo: Talleres Mecánicos**
+
+Tanto Maomed Chocce como Oscar Román destacaron la importancia de revisar los componentes clave del vehículo, como los frenos, el motor y la batería, antes de ponerlos a la venta. Ambos coincidieron en que el kilometraje es uno de los factores más importantes para evaluar el estado del auto. Además, ambos ven en las plataformas tecnológicas una oportunidad para atraer más clientes interesados en revisar autos antes de comprarlos, lo que mejoraría la seguridad en las transacciones.
+
+## 2.3. Needfinding.
+## 2.3.1. User Personas.
+
+### Compradores de segunda mano:
+
+<img src="/assets/UserPersona_Comprador.png">
+
+### Vendedores de segunda mano:
+
+<img src="/assets/UserPersona_Vendedor.jpg">
+
+### Talleres mecánicos:
+
+<img src="/assets/UserPersona_Talleres.png">
+
+## 2.3.2. User Task Matrix.
+
+A continuación, presentaremos los User Task Matrix de los segmentos objetivos que encontramos.
+
+<table>
+ <tr>
+    <th>Task Matrix</th>
+    <th colspan="2">Vendedor de autos</th>
+    <th colspan="2">Comprador de autos</th>
+    <th colspan="2">Talleres Mecánicos</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <th>Inspeccionar la pintura del vehículo</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Media</th>
+    <th>Media</th>
+  </tr>
+  <tr>
+    <th>Revisar el kilometraje</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Revisar el historial de mantenimiento</th>
+    <th>Media</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Evaluar el interior del vehículo</th>
+    <th>Alta</th>
+    <th>Media</th>
+    <th>Alta</th>
+    <th>Media</th>
+    <th>Media</th>
+    <th>Baja</th>
+  </tr>
+  <tr>
+    <th>Verificar el funcionamiento del motor</th>
+    <th>Media</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Comprobar el sistema de frenos</th>
+    <th>Media</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Verificar los documentos legales</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Revisar el estado de la batería</th>
+    <th>Media</th>
+    <th>Media</th>
+    <th>Media</th>
+    <th>Media</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Verificar las llantas y la suspensión</th>
+    <th>Media</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+  <tr>
+    <th>Revisar posibles fugas de fluidos</th>
+    <th>Baja</th>
+    <th>Media</th>
+    <th>Media</th>
+    <th>Alta</th>
+    <th>Alta</th>
+    <th>Alta</th>
+  </tr>
+</table>
+
+Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo se diferencian en ciertas partes técnicas, como el mecánico, y estética, en cuanto a los vendedores y compradores.
+
+## 2.3.3. User Journey Mapping.
+
+### Compradores de segunda mano:
+
+<img src="/assets/Journey_Comprador.png">
+
+### Vendedores de segunda mano:
+
+<img src="/assets/Journey_Vendedor.png">
+
+### Talleres mecánicos:
+
+<img src="/assets/Journey_Talleres.png">
+
+## 2.3.4. Empathy Mapping.
+
+### Compradores de segunda mano:
+
+<img src="/assets/Empathy_Comprador.png">
+
+### Vendedores de segunda mano:
+
+<img src="/assets/Empathy_Vendedor.png">
+
+### Talleres mecánicos:
+
+<img src="/assets/Empathy_Talleres.png">
+
+## 2.3.5. As-is Scenario Mapping
+
+### Segmento Objetivo #1:  Compradores de autos de segunda mano (25-45 años)
+
+<img src="/assets/As-Is_Comprador.png">
+
+### Segmento Objetivo #2: Vendedores de autos de segunda mano (25-55 años)
+
+<img src="/assets/As-Is_Vendedor.png">
+
+### Segmento Objetivo #3:  Talleres mecánicos
+
+<img src="/assets/As-Is_Talleres.png">
+
+[MIRO](https://miro.com/app/board/uXjVMm70eUI=/?share_link_id=313743584808)
+
+## 2.4 Ubiquitous Language
+1. **Comprador:** Persona que está interesada en adquirir un auto de segunda mano.
+
+
+2. **Vendedor:** Persona que ofrece su auto para la venta en la plataforma.
+
+
+3. **Auto Verificado:** Vehículo que ha pasado por una inspección técnica realizada por un taller mecánico asociado.
+
+
+5. **Taller Mecánico:** Entidad o empresa encargada de revisar y certificar el estado de los autos listados en la plataforma.
+
+
+6. **Transacción Segura:** Proceso de compra-venta en el que se utiliza el sistema de pagos de la plataforma para asegurar que ambas partes cumplan con sus compromisos.
+
+
+7. **Anuncio Destacado:** Publicación que aparece en la parte superior de los resultados de búsqueda para mejorar la visibilidad del auto que está en venta.
+
+
+8. **Inspección Técnica:** Proceso mediante el cual un taller verifica el estado del auto en términos de mecánica, carrocería, y documentación.
+
+
+9. **Historial del Auto:** Registro de los eventos relevantes asociados al vehículo, como reparaciones, multas o accidentes anteriores.
+
+
+10. **Kilometraje:** Distancia total recorrida por el auto, un indicador clave del desgaste del vehículo.
+ 
+
+
+
+
+
+
+
+
+
 
 # VI. Conclusiones y recomendaciones.
 ## Conclusiones
-
 
 5. **Conclusiones técnicas:**
 
@@ -567,13 +1130,3 @@ y certificaciones realizadas a través de Car2Go demostrará que los talleres t�
 
 
 # VIII. Anexos.
-
-- Registro de entrevistas:
-- Trello:
-- Enlace de Miro:
-- Prouct Backlog:
-- Structurizr:
-- Organización Github:
-- Landing Page:
-- Backend:
-- Reporte: 
