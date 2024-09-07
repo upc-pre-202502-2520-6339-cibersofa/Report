@@ -1171,7 +1171,7 @@ En esta sección, el equipo presenta el To-Be Scenario Mapping para Car2Go, que 
 
 ## 3.2. User Stories
 
-**Cuadro de Epics**
+**Cuadro de Epics** 
 
 | Epic ID | Título | Descripción |
 |---------|--------|-------------|
