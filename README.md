@@ -2110,7 +2110,24 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 ## Recomendaciones
 
 
-## VII. Bibliografía.
+## VII. Bibliografía
+
+- Asociación Automotriz del Perú. (s.f.). Inestabilidad y desempeño de la economía del país se refleja en ventas de vehículos. Recuperado de https://aap.org.pe/inestabilidad-y-desempeño-de-la-economia-del-pais-se-refleja-en-ventas-de-vehiculos-sunarp/
+<br><br>
+- Dittrich, J. (s.f.). A Beginner's Guide to Finding User Needs. Recuperado de https://jdittrich.github.io/userNeedResearchBook/
+  <br><br>
+- Gastulo, R. (2023, 6 de marzo). Autos usados: segunda opción. Recuperado de https://www.elperuano.pe/noticia/207031-autos-usados-segunda-opcion
+  <br><br>
+- IBM. (s.f.). As-is Scenario Map  Build a better understanding of your users' current experience. Recuperado de https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+  <br><br>
+- IBM. (s.f.). To-be Scenario Map  Draft a vision of your user's future experience to show how your ideas address their current needs. Recuperado de https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+  <br><br>
+- Ríos, W. (2024, 11 de marzo). Mercado de autos seminuevos: oportunidades para compradores y vendedores. Recuperado de https://andina.pe/agencia/noticia-mercado-autos-seminuevos-oportunidades-para-compradores-y-vendedores-977602.aspx
+  <br><br>
+- SUNARP. (2018, 23 de mayo). Cómo realizar una transferencia vehicular sin problemas. Recuperado de https://www.sunarp.gob.pe/PRENSA/inicio/post/2018/05/23/como-realizar-una-transferencia-vehicular-sin-problemas
+  <br><br>
+- Tune, N. (2015, 15 de agosto). Domain-Driven Architecture Diagrams. Recuperado de https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578
 
 
-## VIII. Anexos.
+
+## VIII. Anexos
