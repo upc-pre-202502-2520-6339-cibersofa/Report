@@ -362,8 +362,10 @@ Descripción
 ## 1.3. Segmentos Objetivo
 ...
 
-# Capítulo III: Requirements Specifications
+# Cápitulo III: Requirements Specifications
 ## 3.1. To-Be Scenario Mapping
+
+En esta sección, el equipo presenta el To-Be Scenario Mapping para Car2Go, que ilustra las mejoras propuestas en el proceso de compra y venta de autos de segunda mano a través de nuestra plataforma. Este proceso comenzó con una fase de preparación, seguida de una lluvia de ideas individual para identificar mejoras potenciales. Posteriormente, se llevó a cabo una revisión y se identificaron las fases relevantes, que se organizaron en las columnas de Phases, Doing, Thinking y Feeling en la herramienta de mapeo seleccionada. El To-Be Scenario Mapping se comparó con el As-Is Scenario Mapping para identificar y resaltar los cambios propuestos que optimizarán la experiencia del usuario. La captura del mapeo realizado proporciona una visión clara de cómo estas mejoras impactarán en las diferentes etapas del proceso, abordando las necesidades y expectativas de cada User Persona y contribuyendo a nuestra misión de facilitar un proceso de compra y venta intuitivo, seguro y eficiente.
 
 **Segmento objetivo: Compradores de Autos Usados**
 ![image](assets/tobeMap-compradores.jpg)
@@ -432,10 +434,75 @@ Descripción
 | US-36 | Reportes de Efectividad de Promociones | Como administrador, quiero ver reportes sobre la efectividad de las promociones para analizar su impacto. | Dado que el administrador está en la página de reportes de promociones, cuando solicita un reporte, debe recibir información detallada sobre la efectividad de las promociones en términos de vistas y conversiones. | EP08 |
 | US-37 | Configuración de Anuncios Publicitarios | Como administrador, quiero configurar anuncios publicitarios en la plataforma para monetizar el tráfico. | Dado que el administrador está en la página de configuración de anuncios, cuando establece parámetros y carga anuncios, estos deben mostrarse en áreas específicas de la plataforma. | EP08 |
 
-
 ## 3.3. Impact Mapping
 
+En esta sección, se presenta el Impact Mapping para Car2Go, diseñado para alcanzar el objetivo de establecerse como la plataforma líder en la compra y venta de autos de segunda mano en el mercado nacional en el próximo año. El Impact Mapping se centra en tres segmentos clave: Compradores de Autos Usados, Vendedores de Autos Usados y Talleres Técnicos. Para cada segmento, se han definido impactos específicos que contribuirán a lograr el objetivo general, junto con los entregables necesarios para provocar estos impactos. Las historias de usuario resultantes guiarán el desarrollo de funcionalidades y características, asegurando que Car2Go cumpla con las expectativas de sus usuarios y facilite una experiencia de compra y venta de autos que sea intuitiva, segura y confiable. Esta planificación se ha realizado utilizando la plataforma UXPressia.
+
+
+**Segmento objetivo: Compradores de Autos Usados**
+
+#### Impact Mapping 1: 
+
+![image](assets/Impact%20map%201.png)
+*Imagen (N°13). Elaboración propia. Realizado en UXPRESSIA*
+
+**Segmento objetivo: Vendedores de Autos Usados**
+
+#### Impact Mapping 2: 
+
+![image](assets/Impact%20map%202.png)
+*Imagen (N°14). Elaboración propia. Realizado en UXPRESSIA*
+
+**Segmento objetivo: Talleres Técnicos**
+
+#### Impact Mapping 3: 
+
+![image](assets/Impact%20map%203.png)
+*Imagen (N°15). Elaboración propia. Realizado en UXPRESSIA*
+
 ## 3.4. Product Backlog
+
+En esta sección del Product Backlog se encuentran recopiladas todas las User Stories identificadas para el desarrollo de nuestra plataforma Car2Go. Cada User Story representa una funcionalidad o requerimiento específico que contribuirá a mejorar la experiencia del usuario y a alcanzar los objetivos del proyecto. Las historias están ordenadas por prioridad, considerando tanto la importancia para los usuarios como la complejidad técnica y el valor de negocio. El Product Backlog será actualizado periódicamente a medida que se avanza en el desarrollo y se obtienen nuevos requerimientos, asegurando que siempre refleje las necesidades actuales del proyecto.
+
+| #Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
+|--------|---------------|--------|------------|--------------------------|
+| 1 | US-16 | Confirmación de Transacción | Como comprador, quiero un sistema de pago seguro para completar mi compra. Dado que el comprador está en la página de pago, cuando introduce los datos de pago y confirma, entonces el sistema debe procesar el pago y enviar una confirmación. | 5 |
+| 2 | US-17 | Sistema de Pago Seguro | Como vendedor, quiero recibir una confirmación de la venta para asegurarme de que la transacción fue exitosa. Dado que la venta ha sido completada, cuando el sistema procesa el pago, entonces el vendedor debe recibir una confirmación por correo electrónico y en su perfil. | 3 |
+| 3 | US-11 | Solicitud de Inspección de Auto | Como vendedor, quiero solicitar una inspección del auto para asegurar su calidad antes de listar. Dado que el vendedor está en la página de inspección, cuando envía una solicitud de inspección, entonces el taller técnico debe recibir una notificación para coordinar la inspección. | 5 |
+| 4 | US-13 | Solicitud de Inspección de Auto | Como vendedor, quiero solicitar una inspección del auto para asegurar su calidad antes de listar. Dado que el vendedor está en la página de inspección, cuando envía una solicitud de inspección, entonces el taller técnico debe recibir una notificación para coordinar la inspección. | 5 |
+| 5 | US-12 | Informe de Certificación | Como comprador, quiero ver el informe de certificación del auto para asegurarme de su estado. Dado que el comprador está en la página del auto, cuando selecciona ver el informe de certificación, entonces el sistema debe mostrar el informe generado por el taller técnico. | 3 |
+| 6 | US-20 | Registro de Taller Técnico | Como taller técnico, quiero registrarme en la plataforma para ofrecer servicios de certificación. Dado que el taller está en la página de registro, cuando completa el formulario y envía la información, entonces el taller debe aparecer en la lista de talleres disponibles. | 3 |
+| 7 | US-21 | Gestión de Solicitudes de Certificación | Como taller técnico, quiero gestionar solicitudes de certificación para coordinar inspecciones. Dado que el taller está en la página de gestión de solicitudes, cuando recibe una nueva solicitud, entonces debe poder aceptarla o rechazarla y coordinar una inspección. | 5 |
+| 8 | US-22 | Actualización de Información del Taller | Como taller técnico, quiero actualizar mi información de perfil en la plataforma. Dado que el taller técnico está en la página de perfil, cuando actualiza la información y guarda los cambios, entonces el perfil debe reflejar la nueva información. | 2 |
+| 9 | US-23 | Revisión de Certificaciones | Como taller técnico, quiero revisar todas las certificaciones realizadas para llevar un registro. Dado que el taller está en la página de certificaciones, cuando revisa la lista, entonces debe ver todas las certificaciones realizadas con detalles y estado. | 3 |
+| 10 | US-27 | Optimización para Móviles | Como usuario, quiero que la plataforma esté optimizada para dispositivos móviles para tener una experiencia de usuario fluida. Dado que el usuario accede a la plataforma desde un dispositivo móvil, entonces la interfaz debe adaptarse y funcionar correctamente en pantallas pequeñas. | 5 |
+| 11 | US-24 | Sistema de Soporte en Vivo | Como usuario, quiero tener acceso a soporte en vivo para resolver problemas o dudas de inmediato. Dado que el usuario está en la plataforma, cuando accede a la función de soporte en vivo, entonces debe poder iniciar una conversación con un agente de soporte. | 5 |
+| 12 | US-25 | Centro de Ayuda y FAQ | Como usuario, quiero acceder a un centro de ayuda y FAQ para encontrar respuestas a mis preguntas comunes. Dado que el usuario está en la página de ayuda, cuando busca en el centro de ayuda, entonces debe encontrar respuestas a preguntas frecuentes y soluciones a problemas comunes. | 3 |
+| 13 | US-29 | Reportes de Transacciones | Como administrador, quiero generar reportes de transacciones para analizar el rendimiento de la plataforma. Dado que el administrador está en la página de reportes, cuando solicita un reporte, entonces debe recibir un archivo con los datos de transacciones en el formato solicitado. | 5 |
+| 14 | US-30 | Análisis de Datos de Uso | Como administrador, quiero analizar datos de uso de la plataforma para identificar tendencias y oportunidades de mejora. Dado que el administrador está en la página de análisis, cuando selecciona el rango de fechas y los parámetros de análisis, entonces debe recibir gráficos y estadísticas detalladas. | 5 |
+| 15 | US-31 | Publicar Anuncio Destacado | Como vendedor, quiero poder publicar un anuncio destacado para que mi auto tenga mayor visibilidad. Dado que el vendedor está en la página de listado, cuando selecciona "Anuncio Destacado" y paga, el auto debe aparecer en una sección destacada de la plataforma. | 5 |
+| 16 | US-33 | Crear Promociones para Compradores | Como administrador, quiero crear promociones y descuentos para atraer compradores a la plataforma. Dado que el administrador está en la página de promociones, cuando crea una nueva promoción, el sistema debe aplicarla a los autos correspondientes y notificar a los compradores. | 5 |
+| 17 | US-34 | Notificaciones de Promociones | Como comprador, quiero recibir notificaciones sobre nuevas promociones y descuentos disponibles. Dado que el comprador ha optado por recibir notificaciones, cuando se crea una nueva promoción, el sistema debe enviar una notificación por correo electrónico o en la plataforma. | 3 |
+| 18 | US-35 | Gestión de Promociones para Vendedores | Como vendedor, quiero gestionar mis propias promociones para aumentar la visibilidad de mis autos. Dado que el vendedor está en la página de promociones, cuando crea o actualiza una promoción, el sistema debe reflejar los cambios en la visibilidad de su anuncio. | 3 |
+| 19 | US-36 | Reportes de Efectividad de Promociones | Como administrador, quiero ver reportes sobre la efectividad de las promociones para analizar su impacto. Dado que el administrador está en la página de reportes de promociones, cuando solicita un reporte, debe recibir información detallada sobre la efectividad de las promociones en términos de vistas y conversiones. | 5 |
+| 20 | US-37 | Configuración de Anuncios Publicitarios | Como administrador, quiero configurar anuncios publicitarios en la plataforma para monetizar el tráfico. Dado que el administrador está en la página de configuración de anuncios, cuando establece parámetros y carga anuncios, estos deben mostrarse en áreas específicas de la plataforma. | 5 |
+| 21 | US-01 | Registro de Usuario | Como visitante, quiero registrarme en la plataforma para poder comprar o vender autos. Dado que el visitante está en la página de registro, cuando ingresa datos válidos, entonces el sistema debe crear una cuenta y redirigir al usuario al perfil. | 3 |
+| 22 | US-03 | Listado de Autos | Como vendedor, quiero listar mi auto para que los compradores puedan verlo y contactarme. Dado que el vendedor está en la página de listado, cuando completa el formulario y envía la información, entonces el auto debe aparecer en el listado de autos disponibles. | 3 |
+| 23 | US-02 | Búsqueda de Autos | Como comprador, quiero buscar autos usados por diferentes criterios para encontrar opciones adecuadas. Dado que el comprador está en la página de búsqueda, cuando aplica filtros y hace una búsqueda, entonces se deben mostrar los autos que cumplen con los criterios. | 5 |
+| 24 | US-06 | Ver Detalles del Auto | Como comprador, quiero ver los detalles completos de un auto al hacer clic en él. Dado que el comprador está en la lista de autos, cuando hace clic en un auto, entonces se deben mostrar los detalles completos del auto en una nueva página. | 3 |
+| 25 | US-07 | Comparar Autos | Como comprador, quiero comparar diferentes autos para tomar una decisión informada. Dado que el comprador está en la página de comparación, cuando selecciona varios autos, entonces se debe mostrar una tabla comparativa con las características clave de cada auto. | 5 |
+| 26 | US-08 | Guardar Autos Favoritos | Como comprador, quiero guardar autos favoritos para revisarlos más tarde. Dado que el comprador está viendo un auto, cuando selecciona "guardar como favorito", entonces el auto debe ser añadido a su lista de favoritos accesible desde su perfil. | 2 |
+| 27 | US-09 | Notificaciones de Nuevos Listados | Como comprador, quiero recibir notificaciones cuando se listan autos que coinciden con mis criterios de búsqueda. Dado que el comprador ha guardado sus criterios de búsqueda, cuando se listan nuevos autos que coinciden, entonces debe recibir una notificación por correo electrónico o en la plataforma. | 3 |
+| 28 | US-10 | Notificación de Actualización de Estado del Auto | Como comprador, quiero recibir notificaciones cuando el estado del auto en el que estoy interesado cambia, como si se vende o se actualiza la información. Dado que el comprador ha mostrado interés en un auto, cuando el estado del auto cambia (se vende, se actualiza, etc.), entonces el sistema debe enviar una notificación al comprador sobre el cambio. | 3 |
+| 29 | US-04 | Edición de Listado de Autos | Como vendedor, quiero poder editar el listado de mi auto para actualizar la información si es necesario. Dado que el vendedor está en su listado de autos, cuando edita la información y guarda los cambios, entonces el listado debe actualizarse con la nueva información. | 3 |
+| 30 | US-05 | Eliminación de Listado de Autos | Como vendedor, quiero eliminar el listado de mi auto si decido no venderlo. Dado que el vendedor está en la página de gestión de listados, cuando selecciona eliminar un listado, entonces el auto debe ser removido de la plataforma. | 2 |
+| 31 | US-19 | Reembolso de Transacción | Como comprador, quiero solicitar un reembolso en caso de problemas con la compra. Dado que el comprador está en la página de historial de transacciones, cuando solicita un reembolso, entonces el sistema debe procesar la solicitud y notificar al comprador del estado. | 5 |
+| 32 | US-25 | Centro de Ayuda y FAQ | Como usuario, quiero acceder a un centro de ayuda y FAQ para encontrar respuestas a mis preguntas comunes. Dado que el usuario está en la página de ayuda, cuando busca en el centro de ayuda, entonces debe encontrar respuestas a preguntas frecuentes y soluciones a problemas comunes. | 3 |
+| 33 | US-30 | Análisis de Datos de Uso | Como administrador, quiero analizar datos de uso de la plataforma para identificar tendencias y oportunidades de mejora. Dado que el administrador está en la página de análisis, cuando selecciona el rango de fechas y los parámetros de análisis, entonces debe recibir gráficos y estadísticas detalladas. | 5 |
+| 34 | US-34 | Notificaciones de Promociones | Como comprador, quiero recibir notificaciones sobre nuevas promociones y descuentos disponibles. Dado que el comprador ha optado por recibir notificaciones, cuando se crea una nueva promoción, el sistema debe enviar una notificación por correo electrónico o en la plataforma. | 3 |
+| 35 | US-37 | Configuración de Anuncios Publicitarios | Como administrador, quiero configurar anuncios publicitarios en la plataforma para monetizar el tráfico. Dado que el administrador está en la página de configuración de anuncios, cuando establece parámetros y carga anuncios, estos deben mostrarse en áreas específicas de la plataforma. | 5 |
+| 36 | US-16 | Sistema de Pago Seguro | Como comprador, quiero un sistema de pago seguro para completar mi compra. Dado que el comprador está en la página de pago, cuando introduce los datos de pago y confirma, entonces el sistema debe procesar el pago y enviar una confirmación. | 5 |
+| 37 | US-28 | Implementación de Medidas de Seguridad | Como administrador, quiero implementar medidas de seguridad para proteger la plataforma de ataques y fraudes. Dado que el administrador está en la página de seguridad, debe configurar y monitorizar medidas de seguridad como autenticación de dos factores, cifrado de datos y detección de fraudes. | 5 |
 
 
 # VI. Conclusiones y recomendaciones.
