@@ -343,7 +343,7 @@ Es importante facilitar la búsqueda y el filtro de información para los usuari
 Los resultados de la búsqueda se mostrarán en una cuadrícula, donde cada vehículo incluirá una foto, su precio, marca, modelo, ubicación, entre otros datos.Finalmente, al hacer clic en un resultado específico, se mostrarán más imágenes y detalles del vehículo, junto con un botón para contactar al vendedor.
 
 ### 4.2.5. Navigation Systems 
-Navegar por nuestra plataforma debe ser lo suficientemente intuitivo para que los usuarios puedan cumplir satisfactoriamente sus objetivos. Con esto en mente, la principal forma desplazarse en el contenido será una barra de navegación ubicada en la parte superior de todas las páginas. Esta contendrá las siguientes secciones: Home, Car Listing, Profile, Plans, etc. Además, se incluirán "call to action" en distintas partes de cada sección. Por ejemplo, "Sell Car" en "Car Listing" Anuncios y "Add Offer" en los ofertas publicadas. <br><br/>
+Navegar por nuestra plataforma debe ser lo suficientemente intuitivo para que los usuarios puedan cumplir satisfactoriamente sus objetivos. Con esto en mente, la principal forma desplazarse en el contenido será una barra de navegación ubicada en la parte superior de todas las páginas. Esta contendrá las siguientes secciones: Home, Car Listing, Profile, Plans, etc. Además, se incluirán "call to action" en distintas partes de cada sección. Por ejemplo, "Sell Car" en "Car Listing" y "Add Offer" en los ofertas publicadas. <br><br/>
 Por otro lado, se agregará la paginación en la parte inferior de la cuadrícula de los resultados. Finalmente, el footer contendrá secciones como "About Us", "Terms and conditions" y "Privacy Policy", así como información de contacto.
  
 ## 4.3. Landing Page UI Design
@@ -421,6 +421,35 @@ Por otro lado, se agregará la paginación en la parte inferior de la cuadrícul
 
 ### 4.4.3. Web Applications Mock-ups
 
+#### Login
+<img src="assets/web-mockup-1.png" alt="Mockup 1"/>
+<img src="assets/web-mockup-2.png" alt="Mockup 2"/>
+<img src="assets/web-mockup-3.png" alt="Mockup 3"/>
+
+### Vista del vendedor
+<img src="assets/web-mockup-4.png" alt="Mockup 4"/>
+<img src="assets/web-mockup-5.png" alt="Mockup 5"/>
+<img src="assets/web-mockup-6.png" alt="Mockup 6"/>
+<img src="assets/web-mockup-7.png" alt="Mockup 7"/>
+<img src="assets/web-mockup-8.png" alt="Mockup 8"/>
+<img src="assets/web-mockup-9.png" alt="Mockup 9"/>
+<img src="assets/web-mockup-10.png" alt="Mockup 10"/>
+<img src="assets/web-mockup-11.png" alt="Mockup 11"/>
+<img src="assets/web-mockup-12.png" alt="Mockup 12"/>
+
+### Vista del comprador
+<img src="assets/web-mockup-13.png" alt="Mockup 13"/>
+<img src="assets/web-mockup-14.png" alt="Mockup 14"/>
+<img src="assets/web-mockup-15.png" alt="Mockup 15"/>
+<img src="assets/web-mockup-16.png" alt="Mockup 16"/>
+<img src="assets/web-mockup-17.png" alt="Mockup 17"/>
+<img src="assets/web-mockup-18.png" alt="Mockup 18"/>
+<img src="assets/web-mockup-19.png" alt="Mockup 19"/>
+
+### Vista del mecánico
+<img src="assets/web-mockup-20.png" alt="Mockup 20"/>
+<img src="assets/web-mockup-21.png" alt="Mockup 21"/>
+<img src="assets/web-mockup-22.png" alt="Mockup 22"/>
 
 
 ### 4.4.4. Web Applications User Flow Diagrams.
