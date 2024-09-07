@@ -417,6 +417,25 @@ Por otro lado, se agregará la paginación en la parte inferior de la cuadrícul
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+![wireflow-diagrams](assets/wireflow-diagrams-1.png)
+---
+![wireflow-diagrams](assets/wireflow-diagrams-2.png)
+---
+![wireflow-diagrams](assets/wireflow-diagrams-3.png)
+---
+![wireflow-diagrams](assets/wireflow-diagrams-4.png)
+---
+![wireflow-diagrams](assets/wireflow-diagrams-5.png)
+---
+![wireflow-diagrams](assets/wireflow-diagrams-6.png)
+---
+![wireflow-diagrams](assets/wireflow-diagrams-7.png)
+---
+![wireflow-diagrams](assets/wireflow-diagrams-8.png)
+---
+![wireflow-diagrams](assets/wireflow-diagrams-9.png)
+---
+![wireflow-diagrams](assets/wireflow-diagrams-10.png)
 
 
 ### 4.4.3. Web Applications Mock-ups
