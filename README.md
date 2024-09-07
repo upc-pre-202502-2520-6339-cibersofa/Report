@@ -1119,6 +1119,259 @@ Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo
 
 
 
+# Chapter V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+A continuación, se describe el proceso por el cual organizamos, gestionamos y controlamos los cambios en el desarrollo de **Car2Go**.
+
+### 5.1.1. Software Development Environment Configuration
+
+**Requirements Management**
+
+- **Trello:** Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
+    - Ruta de referencia: https://trello.com/es
+
+**Product UX/UI Design**
+
+- **Figma:**  Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
+  - Ruta de referencia: https://www.figma.com/login
+
+
+- **Lucidchart:** Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación.
+    - Ruta de referencia: https://www.lucidchart.com/
+
+**Software Development**
+
+- **Visual Studio Code:**  Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios.
+    - Ruta de referencia: https://code.visualstudio.com/
+
+
+- **HTML5:** HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
+    - Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp
+
+
+- **CSS:** Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML.
+    - Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
+    - 
+- **Bootstrap:** Framework CSS que permitirá crear componentes web de manera rápida y eficiente. Bootstrap se utilizará para la creación de la interfaz responsiva, asegurando que la plataforma funcione correctamente en distintos dispositivos.
+    - Ruta de referencia: https://getbootstrap.com/
+
+
+- **Next.js:** Este framework basado en React es utilizado para optimizar el desarrollo del frontend. Next.js proporciona funcionalidades como el renderizado del lado del servidor (SSR), rutas dinámicas, y la generación estática de sitios (SSG), lo cual mejora la experiencia del usuario y el SEO de la página.
+    - Ruta de referencia: https://nextjs.org/
+    <br>
+    <br>
+  
+**Software Deployment**
+   <br>
+   <br>
+-  Git: Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo
+   accederán a través de la línea de comandos en sus sistemas locales.
+
+   Ruta de referencia: https://git-scm.com/
+   <br>
+   <br>
+   **Software Documentation and Project Management**
+   <br>
+   <br>
+-  Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en
+   tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web.
+
+   Ruta de referencia: https://github.com/
+
+
+#### 5.1.2. Source Code Management.
+El proyecto seguirá las convenciones del flujo de trabajo establecido por el modelo GitFlow para el control de versiones, empleando GitHub como plataforma y sistema de control de versiones. A continuación, se describirá la implementación de GitFlow como un flujo de trabajo para el control de versiones, junto con el enlace del Landing Page.
+
+**Repositorio de GitHub:**
+- Enlace para acceder a la [organización](https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa)
+- Enlace para acceder al repositorio de la [landing page](https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Landing-page)
+- Enlace para acceder al repositorio del [informe](https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report)
+
+**Flujo de trabajo GitFlow**
+
+El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
+
+<img src="assets/gitflow.png" alt="gitflow">
+
+Gitflow es un modelo de ramificación para Git que se centra en la organización de las ramas de un proyecto de software. El modelo de Gitflow define una serie de ramas estándar y reglas para su uso, lo que facilita la colaboración y la gestión del código en un equipo de desarrollo. En UniRider, utilizamos el modelo de Gitflow para organizar y gestionar las ramas de nuestro proyecto, lo que nos permite trabajar de forma eficiente y colaborativa en el desarrollo de nuestra aplicación web.
+
+La rama **main** es la rama principal de nuestro proyecto, que contiene la versión estables, operativas y listas para implementar de UniRider. Estas variantes han sido previamente evaluadas y se ha verificado la total funcionalidad de estas tras su implementación. Emplearemos etiquetas para identificar cada variante estable y lista para implementar, lo que nos permitirá tener un seguimiento preciso de las variantes y simplificar la administración de futuras actualizaciones.
+
+La rama **develop** es la rama de desarrollo de nuestro proyecto, que contiene la versión en desarrollo de UniRider que aún no han sido sometidas a pruebas, aunque están completadas al 100% y contienen todas las características que se esperan hasta ese momento. Este canal se emplea para cargar la versión y llevar a cabo pruebas finales con el fin de corregir cualquier inconveniente antes de la publicación final en la rama main.
+ 
+La rama **feature** es la rama de características de nuestro proyecto, que contiene las nuevas características y funcionalidades que se están desarrollando para UniRider. Cada nueva característica se desarrolla en una rama de características separada, lo que permite a los miembros del equipo trabajar de forma independiente en diferentes aspectos de la aplicación y facilita la integración de las nuevas características en la rama de desarrollo.
+
+#### 5.1.3. Source Code Style Guide & Conventions
+
+Para asegurar la coherencia y mantenibilidad del código en **Car2Go**, se seguirán las siguientes convenciones de estilo:
+
+**HTML:**
+- Todos los elementos deben estar correctamente cerrados.
+- Declarar el tipo de documento en la primera línea como `<!DOCTYPE html>`.
+- Utilizar comillas en los atributos que contengan espacios.
+- Especificar los atributos `alt`, `width`, y `height` en las imágenes para garantizar la accesibilidad y el rendimiento de la página.
+
+**CSS:**
+- Sangría de 2 espacios para mantener el código legible.
+- Todo el código en minúsculas.
+- Usar comentarios explicativos y eliminar espacios en blanco innecesarios.
+- Nombres de clase deben ser descriptivos, reflejando la función o propósito del elemento.
+
+**Bootstrap:**
+- Usar las utilidades predefinidas de Bootstrap para componentes y grillas responsivas.
+- Evitar la sobrecarga de estilos personalizados y priorizar el uso de las clases estándar de Bootstrap.
+
+**Next.js:**
+- Seguir las convenciones de componentes funcionales de React.
+- Utilizar hooks cuando sea necesario y modularizar el código en componentes reutilizables.
+
+### 5.1.4. Software Deployment Configuration
+
+<img src="assets/github_pages.png" alt="github-pages">
+
+Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear una carpeta llamada "docs" para alojar la Landing Page.
+2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para la landing page; "input.css" y "output.css" para poder utilizar Tailwind y una carpeta llamada "img" que contenga las imágenes.
+3. Cargar los archivos al repositorio mediante un commit.
+4. Dirigirse a **Settings > Pages** y seleccionar el branch correspondiente, en nuestro caso es el "main".
+5. Especificar la carpeta "docs" como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
+   
+Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-cibersofa.github.io/Landing-page/)
+
+
+# 5.2. Landing Page, Services \& Applications Implementation
+## 5.2.1. Sprint 1
+### 5.2.1.1. Sprint Planning 1
+ 
+| Sprint 1                        | Implementación de funcionalidades y diseño de la aplicación.                                                                                                                                        |
+| ------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |
+| Date                            | 01/09/2024                                                                                                                                                                                          |
+| Time                            | 22:00 horas (GMT-5)                                                                                                                                                                                 |
+| Location                        | Reunión realizada mediante Discord                                                                                                                                                                  |
+| Prepared By                     | Barrionuevo Reto, Jean Franco                                                                                                                                                                       |
+| Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
+|Sprint n -1 Review|
+|Resumen| Se creará la organización de Car2Go en Github y el repositorio de la organización.                                                                                                               |
+|Sprint n -1 Retrospective|
+|Resumen| La landing page fue desarrollada utilizando HTML, CSS, Bootstrap y Next.js.                                                                                                              |
+| **Sprint Goal & User Stories**  |
+| Sprint 1 Velocity               | 21 points                                                                                                                                                                                           |
+| Sum of Story Points             | 21 points                                                                                                                                                                                           |
+
+
+### 5.2.1.2. Sprint Backlog 1.
+
+| id   | Título                  | Id  | Título                                                    | Descripción                                                                                                   | Estimaciones(Horas) | Asignado a         | Estado (To-do/InProcess/ToReview/Done) |
+| ---- | ----------------------- | --- | -------------------------------------------------------- |---------------------------------------------------------------------------------------------------------------| ------------------ |--------------------| -------------------------------------- |
+| CW01 | Apartado del Header      | C01 | Header responsivo (Desarrollado en HTML y CSS)             | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3                  | Franco Barrionuevo   | Done        |
+| CW02 | Apartado del Footer      | C02 | Footer responsivo (Desarrollado en HTML y CSS)             | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2                  | Karito Medina      | Done                                     |
+| CW03 | Apartado Home            | C03 | Home (Desarrollado en HTML y CSS)                          | Desarrollo e implementación de los estilos que corresponden a la sección What we offer. Debe ser responsive.  | 3                  | Harold Mayta       | Done                                     |
+| CW04 | Apartado Producto        | C04 | Producto (Desarrollado en HTML y CSS)                      | Desarrollo e implementación de los estilos que corresponden a la sección . Debe ser responsive.               | 2                  | Gerald Serrano     | Done                                     |
+| CW05 | Apartado Contacto        | C05 | Sección "Contacto" (Desarrollado en HTML y CSS)            | Desarrollo e implementación de los estilos que corresponden a la sección Contacto. Debe ser responsive.       | 3                  | Franco Barrionuevo     | Done                                     |
+| CW06 | Sección Sobre el Equipo  | C06 | Información del Equipo (Desarrollado en HTML y CSS)        | Desarrollo e implementación de los estilos que corresponden a la información del equipo. Debe ser responsive. | 3                  | Joaquin Carranza   | Done                                     |
+| CW07 | Apartado Planes          | C07 | Planes (Desarrollado en HTML y CSS)                        | Desarrollo e implementación de los estilos que corresponden a la sección Planes .      | 3                  | Karito Medina      | Done                                     |
+| CW08 | Responsividad Completa   | C08 | Desarrollo responsive de toda la página                    | Desarrollo e implementación de un estilo responsive en toda la página.                                        | 2                  | Franco Barrionuevo | Done                                     |
+
+
+### 5.2.1.3. Evidencia de Desarrollo para la Revisión del Sprint.
+
+| Repository	   | Branch	                                        | Commit Id | Commit Message	                           | Commit Message Body | Committed on (Date) |
+| ------------ | ------------------------------------------- | --------- | --------------------------------------------- | ------------------- |---------------------|
+| landing-page | feature/index.html                      | 759cc14   | feat: (Landing page) Header                    | -                   | 1/09/2024           |
+| landing-page | feature/index.html                      | 40c7f15   | feat: (Landing page) agregué Header y Navbar   | -                   | 1/09/2024           |
+| landing-page | feature/index.html                        | abdd069   | feat: Agregar sección Home                    | -                   | 1/09/2024           |
+| landing-page | feature/index.html                       | ea53c5f   | feat: (Landing page) agregar sección Sobre Nosotros | -                | 1/09/2024           |
+| landing-page | feature/index.html                     | f269ea5   | feat: (Landing Page) implementar sección Producto | -                | 1/09/2024           |
+| landing-page | feature/index.html                       | 076717c   | feat: (Landing page) agregar sección de Planes | -                   | 1/09/2024           |
+| landing-page | feature/index.html                        | bc1bc4a   | feat: (Landing Page) agregar sección Equipo    | -                   | 1/09/2024           |
+| landing-page | feature/index.html                     | 166d6a4   | feat: (Landing Page) agregar sección de Contacto | -                 | 1/09/2024           |
+| landing-page | feature/index.html                      | 6371146   | feat: (Landing page) agregar Footer            | -                   | 1/09/2024           |
+| landing-page | feature/index.html                  | 02f2eld   | feat: (Landing Page) implementar responsividad | -                   | 1/09/2024           |
+
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Para la entrega del Sprint 1, logramos completar el desarrollo, la implementación y el despliegue del Landing Page. Por esta razón, nos enfocamos en la sección de "acceptance-tests" en la implementación de los archivos feature que componen nuestro landing page. Estos features se basan en las Historias de Usuario especificadas en el sprint backlog, detallando cada uno de los escenarios que planeamos desarrollar.
+<table align="left" border="1" width="100%">
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>landing-page</td>
+    <td>Features_testing</td>
+    <td>07fa8d6</td>
+    <td>Franco Barrionuevo</td>
+    <td>doc: add acceptance tests</td>
+    <td>3/09/2024</td>
+  </tr>
+</table>
+
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Para la entrega del Sprint 1 se buscó alcanzar el desarrollo completo, implementación y despliegue de la landing page. La sección de "Testing" se centró en la implementación y prueba de los archivos feature que contienen las funcionalidades de la landing page de Car2Go.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+En el sprint 1 se alcanzó un desarrollo parcial en la implementación del despliegue de la landing page. La página muestra varias secciones en las que el usuario puede encontrar información relevante sobre los servicios, planes y equipo de Car2Go. A continuación se presentan evidencias del progreso logrado:
+
+- **Sección What We Offer**: El usuario puede ver las características clave que ofrecemos, como transacciones seguras, verificación de calidad, talleres especializados y pagos seguros.
+![What We Offer](assets/whatweoffer.png)
+<br><br>
+- **Sección Planes**: En la sección de planes, el usuario puede visualizar e interactuar con los diferentes planes disponibles, eligiendo la opción que mejor se adapte a sus necesidades.
+  ![Planes](assets/planes.png)
+  <br><br>
+- **Sección About Us**: En esta sección, el usuario puede conocer más sobre la misión y visión de Car2Go, así como entender nuestro compromiso con la seguridad y el servicio al cliente.
+  ![About Us](assets/aboutus.png)
+  <br><br>
+- **Sección Our Team**: El usuario puede conocer a los miembros clave del equipo de Car2Go y leer sus testimonios.
+  ![Our Team](assets/ourteam.png)
+  <br><br>
+- **Sección Contacto**: El usuario puede enviar sus consultas directamente a través de un formulario de contacto, o utilizar las opciones de contacto directo proporcionadas.
+  ![Contacto](assets/contacto.png)
+
+
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa.
+
+https://upc-pre-si729-2402-wx51-g3-cibersofa.github.io/Landing-page/
+
+Para el presente sprint se ha desarrollado la landing page. Para el despliegue se emplearon las siguientes herramientas:
+
+Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
+
+Gitflow: Flujo de trabajo colaborativo. Nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
+
+GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+
+Vercel: Plataforma que automatiza webs que nos permitió alojar y desplegar nuestra el landing page.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
+
+https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/monthly
+
+![github](assets/commits_sprint1.png)
+
+![github](assets/commits_sprint1_2.png)
+
+
+
 # VI. Conclusiones y recomendaciones.
 ## Conclusiones
 
