@@ -473,6 +473,16 @@ Por otro lado, se agregará la paginación en la parte inferior de la cuadrícul
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
+<img src="assets/web-userflow-1.png" alt="User flow 1"/>
+<img src="assets/web-userflow-2.png" alt="User flow 2"/>
+<img src="assets/web-userflow-3.png" alt="User flow 3"/>
+<img src="assets/web-userflow-4.png" alt="User flow 4"/>
+<img src="assets/web-userflow-5.png" alt="User flow 5"/>
+<img src="assets/web-userflow-6.png" alt="User flow 6"/>
+<img src="assets/web-userflow-7.png" alt="User flow 7"/>
+<img src="assets/web-userflow-8.png" alt="User flow 8"/>
+<img src="assets/web-userflow-9.png" alt="User flow 9"/>
+<img src="assets/web-userflow-10.png" alt="User flow 10"/>
 
 
 # 4.5. Web Applications Prototyping.
