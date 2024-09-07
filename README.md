@@ -179,7 +179,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
   <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
-         
+
    </td>
     <td>TB1<br><br>
 
@@ -188,7 +188,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
 
 
 <br><br>
- 
+
 
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
@@ -217,11 +217,19 @@ En esta sección describiremos el perfil de nuestra Startup.
 
 ### 1.1.1. Description de la StartUp
 
-Descripción
+Car2Go es una startup creada en 2024 por un grupo de estudiantes de Ingeniería de Software.
+Nuestra plataforma está dedicada a transformar el mercado de autos de segunda mano,
+ofreciendo una solución innovadora y accesible para personas que desean comprar o vender vehículos usados.
 
-- Misión: 
 
-- Visión: 
+- Misión: Nuestra misión es facilitar la compra y venta de autos de segunda mano mediante
+  una plataforma intuitiva y eficiente, proporcionando a nuestros usuarios todas
+  las herramientas necesarias para que el proceso sea sencillo, seguro y confiable.
+
+
+- Visión: Aspiramos a convertirnos en la principal plataforma Nacional para la compra y
+  venta de autos de segunda mano, impulsando la confianza y
+  la satisfacción de nuestros usuarios en cada transacción.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -250,7 +258,102 @@ Jean Franco Barrionuevo Reto
         Soy Franco Barrionuevo, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, responsable y con muchas ganas de aprender. Me gusta trabajar en equipo y aportar ideas para el desarrollo de proyectos.
         </td>
     </tr>
-
+    <tr align="center">
+        <td rowspan="3">
+<img src="/assets/integrante-Karito.jpeg">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+Karito Dianeth Medina Chocce
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Hola, soy Karito Medina, actualmente estudio Ingeniería de Software en la Universidad de Ciencias Aplicadas (UPC). Me considero una persona responsable, respetuosa y con una fuerte habilidad para trabajar en equipo. Me esfuerzo por contribuir positivamente a cada proyecto en el que participo, buscando siempre mejorar los resultados grupales y alcanzar los objetivos comunes. Estoy entusiasmada por aplicar mis conocimientos y habilidades para enfrentar nuevos desafíos y seguir creciendo en el campo de la tecnología.
+        </td>
+    </tr>
+<tr align="center">
+        <td rowspan="3">
+<img src="/assets/integrante-Gerald.jpeg">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+Gerald Patricio Serrano Uchuya
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy Gerald Serrano. Estoy en 6to ciclo de Ingeniería de software. Me enfoco en las tecnologías web como React, ASP.net y Spring. Soy alguien muy entusiasta al momento de aprender nuevas tecnologías y me gusta cumplir lo mejor que pueda mis responsibilidades en un grupo de trabajo.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+<img src="/assets/Harold-integrante.jpg">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+Harold Jaime Mayta Lopez
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Hola, soy Harold Mayta, actualmente estudio Ingeniería de Software en la Univerisidad Peruana de Ciencias Aplicadas. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante.Asi mismo, considero que puedo aportar al grupo con soluciones optimas a futuros porblemas.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+<img src="/assets/integrante-Joaquin.png">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+Joaquín Enrique Carranza Tesén
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ing. de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Soy Joaquín Carranza, estudiante de la carrera de ingeniería de software. Me considero una persona responsable y comunicativa. Me gusta hacer deporte así como los videojuegos. Soy proactivo a la hora de proponer soluciones y me gusta trabajar en equipo.
+        </td>
+    </tr>
 </table>
 
 ## 1.2. Solution Profile
@@ -258,116 +361,206 @@ Jean Franco Barrionuevo Reto
 En esta sección se detallan los aspectos claves de nuestra solución de software, incluyendo sus
 características distintivas, propuestas de valor y estrategias de monetización.
 
-**Product Name:** Car2Go
+**Nombre del producto:** Car2Go
 
-**Product Description:** 
+**Descripción:** Car2Go es una plataforma innovadora diseñada para facilitar la compra y
+venta de autos de segunda mano, conectando de manera eficiente a compradores y vendedores.
+La plataforma ofrece una experiencia fluida y sin problemas, permitiendo a los usuarios explorar vehículos,
+gestionar sus publicaciones y comunicarse de manera efectiva. Car2Go proporciona herramientas de seguimiento
+en tiempo real para las transacciones y opciones de personalización que garantizan una experiencia óptima y segura.
 
-**Monetización:**
+**Monetización:**  Car2Go generará ingresos mediante una combinación de planes de suscripción y
+comisiones por venta. Los vendedores podrán elegir entre diferentes planes de suscripción,
+que ofrecen acceso a funciones avanzadas como la destacación de anuncios, herramientas de marketing
+y análisis detallados. Además, se aplicará una comisión básica por cada transacción completada.
+Los compradores realizarán el pago a través de transferencia bancaria, subiendo una captura de pantalla
+del comprobante para que el vendedor confirme la transacción. Esta estrategia mixta asegura que tanto los usuarios que opten por un plan de
+suscripción como aquellos que prefieran pagar por transacción puedan beneficiarse de la plataforma.
 
 ### 1.2.1. Antecedentes y problemática
-Descripción
+La industria de compra y venta de autos de segunda mano enfrenta desafíos significativos 
+en términos de seguridad, eficiencia y accesibilidad. Los compradores y vendedores se encuentran 
+bajo presión debido a la creciente demanda de vehículos usados, pero enfrentan obstáculos como la falta
+de plataformas seguras, la dificultad para verificar la autenticidad de los pagos,
+y la escasez de herramientas tecnológicas que faciliten transacciones confiables y sin fricciones.
 
--   **What?**
 
- 
-
-
--   **When?**
-
-   
-
--   **Where?**
-
-   
-
--   **Who?**
-
-    
-
-- **Why?**
-
- 
-
--   **How?**
-
-    
-
--   **How much?**
-
-    
-
+-   **What?**   
+La industria automotriz de segunda mano enfrenta desafíos importantes en la 
+gestión eficiente de las transacciones y la seguridad de las mismas, 
+debido a la falta de plataformas tecnológicas adecuadas que garanticen procesos transparentes y seguros.
+<br><br>  
+- **When?**                      
+Este problema se ha intensificado en los últimos años, especialmente con el crecimiento del mercado de autos usados, 
+impulsado por el aumento de la demanda y la necesidad de opciones más accesibles para los consumidores.
+<br><br>
+-   **Where?**                         
+Este problema es global y afecta a compradores y vendedores en diversas regiones del mundo, tanto en mercados desarrollados como en desarrollo.
+<br><br>
+-   **Who?**           
+Los compradores y vendedores de autos usados, desde individuos hasta concesionarios pequeños, están directamente involucrados en estas dificultades,
+ya que son responsables de realizar transacciones seguras y exitosas en un mercado competitivo.
+<br><br>
+- **Why?**             
+Es crucial abordar esta problemática porque la compra y venta de autos de segunda mano es una parte esencial de la economía global, ofreciendo opciones 
+asequibles para los consumidores y contribuyendo al desarrollo económico de muchos países.
+<br><br>
+-   **How?**                    
+Se necesitan soluciones tecnológicas innovadoras que ayuden a los usuarios a realizar transacciones de manera más segura, eficiente y confiable, optimizando
+la experiencia de compra y venta y garantizando la transparencia en cada paso del proceso.
+<br><br>
+-   **How much?**                         
+El costo de implementar estas soluciones tecnológicas puede variar según la escala de la plataforma y los 
+recursos disponibles para la adopción de tecnología en el mercado de autos de segunda mano.
+<br><br>
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
-- ...
+- En la industria de compra y venta de autos de segunda mano, existe
+una falta de plataformas tecnológicas integradas que permitan a los compradores y vendedores realizar 
+transacciones de manera segura y eficiente. Este vacío tecnológico dificulta la confianza entre las partes y
+la optimización del proceso de compra-venta, lo que conduce a una experiencia frustrante y puede limitar el crecimiento de este mercado. 
+Además, mejorar la colaboración entre compradores, vendedores y talleres técnicos es crucial para garantizar transacciones transparentes y 
+satisfactorias para todas las partes involucradas.
 
 
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Outcomes:**
 
-...
+- Lograr un crecimiento mensual del 20% en el número de usuarios activos de la plataforma, medido por el número de transacciones realizadas a través de Car2Go.
+  <br><br>
+- Tener al menos 200 vehículos vendidos a través de la plataforma en el primer año de lanzamiento.
+  <br><br>
+- Alcanzar una tasa de satisfacción del 85% entre los usuarios al final del primer año, lo que indicará una alta retención y confianza en la plataforma.
+
 
 **Users Assumptions :**
 
 **1. ¿Quien es el usuario?**
-...
+- Compradores de autos usados
+ <br><br>
+- Vendedores de autos usados
+<br><br>
+- Talleres técnicos
 
 **2. ¿Donde entra nuestro producto en su trabajo o su vida?**
-...
+- Car2Go se integra directamente en la vida de los compradores y vendedores al facilitar el proceso de transacción, haciéndolo más seguro y accesible.
 
 **3. ¿Cual es el problema que nuestro producto soluciona?**
-...
+- Falta de transparencia y confianza en las transacciones de autos usados.
+
+- Dificultades en la verificación del estado del vehículo y la confirmación de pagos.
+
+- Complejidad en la comunicación entre compradores, vendedores y talleres técnicos.
 
 **4. ¿Como y cuando nuestro producto es usado?**
-...
+- La plataforma será utilizada durante todo el proceso de compra y venta, desde la búsqueda del vehículo hasta
+la confirmación del pago. Los talleres técnicos usarán aquella información para ofrecer sus servicios.
+
 
 **5. ¿Que caracteristicas son importantes?**
-...
+- Sistema de filtrado y verificación de vehículos
+- Transacciones seguras mediante verificación de pago.
+- Organización y seguimiento del proceso de compra-venta.
+- Información detallada y transparente sobre los vehículos
+- Comunicación eficiente entre compradores y vendedores
+
 
 **6. ¿Como deberia nuestro producto verse o comportarse?**
-...
+-  El producto debe verse con una interfaz simple, interactiva, atractiva e inclusiva. Debe poder comportarse correctamente, ser capaz de llamar la atención de quien la use, pero tambien otorgar una experiencia innovadora y acogedora a nuestro segmento objetivo.
 
 
 **User Outcomes:**
-...
+- **Compradores de Autos Usados:** Establecer como objetivo aumentar la confianza en el proceso de compra de vehículos usados, logrando una reducción del 30% en el número de incidencias críticas reportadas por compradores durante el primer año de uso de Car2Go. 
+- **Vendedores de Autos Usados:** Mejorar la tasa de conversión de ventas en un 25% durante el primer año, garantizando que solo los vehículos verificados y aprobados sean listados en la plataforma. Esto reducirá los problemas relacionados con la venta y aumentará la satisfacción del vendedor.
+- **Talleres Técnicos:** Incrementar el número de inspecciones y certificaciones realizadas en un 40% durante el primer año, facilitando una mayor colaboración con Car2Go. Este aumento se logrará mediante la integración eficiente de sus servicios en la plataforma y la generación de más oportunidades de verificación.
+
 
 ¿Que está intentando conseguir el usuario?
-
+- **Compradores:** Quiero encontrar un auto confiable y realizar la compra de manera segura.
+- **Vendedores:** Quiero vender mis autos de manera rápida y segura.
+- **Talleres Técnicos:** Quiero ofrecer mis servicios de inspección y certificación de vehículos de manera eficiente y confiable.
 
 ¿Como se quiere sentir el usuario?
-
+- **Compradores de autos usados:** Quiero sentir confianza y seguridad al momento de realizar mi compra.
+- **Vendedores de autos usados:** Quiero sentirme respaldado y protegido durante el proceso de venta.
+- **Talleres Técnicos:** Quiero sentirme valorado y reconocido por mi trabajo en la plataforma.
 
 ¿Como nuestro producto lo acerca a su objetivo?
+
+- **Compradores de autos usados:** Les proporciona una plataforma segura para encontrar y comprar vehículos usados.
+- **Vendedores de autos usados:** Les facilita el proceso de venta, asegurando la transacción y reduciendo riesgos.
+- **Talleres Técnicos:** Les conecta con clientes potenciales, incrementando la demanda de sus servicios.
 
 
 ¿Por que nuestros usuarios se interesarian por nuestro producto? ¿Que beneficio podrian obtener?
 
+- **Compradores de autos usados:** Acceso a una plataforma segura y confiable para comprar autos usados.
+- **Vendedores de autos usados:** Capacidad de vender sus vehículos de manera rápida y sin riesgos.
+- **Talleres Técnicos:** Oportunidad de ofrecer servicios a un mercado específico y creciente.
 
 ¿Que cambio en su comportamiento veremos que nos dira que nuestro objetivo ha sido logrado?
 
+- **Compradores y Vendedores:** Esperamos que la plataforma se utilice de manera constante para todas las transacciones
+de autos usados, lo que indicará un aumento en la confianza y la seguridad en el proceso. Un incremento en el número de
+transacciones realizadas a través de Car2Go, junto con una reducción en las quejas o disputas relacionadas con la transparencia 
+y la verificación, nos indicará que la plataforma está cumpliendo su objetivo de mejorar la confianza en el mercado de autos usados.
+
+- **Talleres Técnicos:** Esperamos que los talleres técnicos vean un aumento en la demanda de sus servicios a través de la plataforma,
+lo que indicará que los usuarios confían en su trabajo y están dispuestos a pagar por sus servicios. Un incremento en el número de inspecciones
+y certificaciones realizadas a través de Car2Go demostrará que los talleres técnicos están obteniendo beneficios significativos de su colaboración con la plataforma.
+
 
 **Feature Assumptions**
-- **Creemos que** 
+
+- **Creemos que** el producto debe contar con planes estándar y premium que se adapten a las necesidades del usuario, ofreciendo flexibilidad y valor agregado.
+  <br><br>
+- **Creemos que** el producto debe poder proporcionar opciones de valoración y revisión de autos por parte de los talleres técnicos.
+  <br><br>
+- **Creemos que** el producto debe ofrecer un sistema de verificación de pagos y transacciones seguras.
+  <br><br>
+- **Creemos que** el producto debe facilitar la comunicación directa entre compradores y vendedores para mejorar la transparencia y la confianza.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- Creemos que al 
-
+- Creemos que al implementar un proceso riguroso de verificación para cada vehículo antes de su inclusión en la plataforma, podemos aumentar la confianza de los compradores en la calidad y la transparencia de las ofertas, lo que resultará en una mayor seguridad en las transacciones y una reducción en las disputas.
+  <br><br>
+- Creemos que al integrar un sistema de inspecciones y certificaciones realizadas por talleres técnicos a través de Car2Go, podemos incrementar la demanda de servicios técnicos, lo que beneficiará a los talleres y garantizará la calidad de los vehículos disponibles en la plataforma.
+  <br><br>
+- Creemos que al ofrecer una plataforma exclusiva sin freemium y con un filtro de calidad para los vehículos, podemos mejorar la eficiencia del proceso de compra-venta, aumentando la satisfacción del cliente y optimizando las transacciones al asegurar que solo los vehículos que cumplen con los estándares de calidad sean mostrados.
+  <br><br>
+- Creemos que al proporcionar una interfaz intuitiva y amigable, podemos mejorar la experiencia general del usuario en la plataforma, resultando en una mayor satisfacción y un aumento en el uso continuo de Car2Go.
+  <br><br>
+- Creemos que al implementar un sistema de verificación de pagos y transacciones seguras, podemos reducir los riesgos de fraude y estafas, lo que aumentará la confianza de los usuarios en la plataforma y fomentará la realización de transacciones seguras y confiables.
 #### 1.2.2.4. Lean UX Canvas
 
 <div align=center>
-    <img src="" alt="Canvas"/>
+    <img src="assets/lean_ux_canvas.png" alt="Canvas" width="500" />
 </div>
 
 ## 1.3. Segmentos Objetivo
-...
+**Compradores de Autos Usados:**
+- Personas interesadas en adquirir un vehículo de segunda mano, que buscan opciones asequibles y confiables en el mercado.
+- Buscan una plataforma que garantice la calidad y transparencia de los vehículos.
+- Interesados en un proceso de compra sencillo, con acceso a vehículos certificados y con historial claro.
+
+**Vendedores de Autos Usados:**
+- Individuos que desean vender sus vehículos de manera rápida y segura.
+- Buscan una plataforma que les permita listar sus vehículos de forma eficiente y atraer a compradores potenciales.
+- Interesados en un proceso de venta transparente y sin complicaciones, con opciones de verificación y pagos seguros.
+
+**Talleres Técnicos:**
+- Empresas y profesionales que ofrecen servicios de inspección y certificación de vehículos.
+- Buscan una plataforma que les permita promocionar sus servicios y colaborar con compradores y vendedores.
+- Interesados en una mayor visibilidad y demanda de sus servicios, con la posibilidad de ofrecer valor agregado a los usuarios.
+
 
 # VI. Conclusiones y recomendaciones.
 ## Conclusiones
 
 
 5. **Conclusiones técnicas:**
-    
+
 ## Recomendaciones
 
 # VII. Bibliografía.
@@ -376,11 +569,11 @@ Descripción
 # VIII. Anexos.
 
 - Registro de entrevistas:
-- Trello: 
-- Enlace de Miro: 
-- Prouct Backlog: 
-- Structurizr: 
-- Organización Github: 
-- Landing Page: 
-- Backend: 
+- Trello:
+- Enlace de Miro:
+- Prouct Backlog:
+- Structurizr:
+- Organización Github:
+- Landing Page:
+- Backend:
 - Reporte: 
