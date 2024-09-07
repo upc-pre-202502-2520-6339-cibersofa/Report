@@ -20,7 +20,10 @@
 </p>
 
 <h3 align="center" >Team Members:</h3>
-<div>
+<div style="margin-left: 490px;
+            margin-right: auto;
+           ">
+<div >
     <table>
         <tr>
             <th style="text-align:center;">Member</th>
@@ -48,14 +51,20 @@
         </tr>
     </table>
 
-<tr>
-    <td><b>Mes y año: </b> 23/08/2024</td>
-</tr>
+
 </div>
+</div>
+<tr>
+<div align="center">
+    <td><b>Mes y año: </b> 23/08/2024</td>
+</div>
+</tr>
 
 # Registro de Versiones del Informe
 
-<div align="center">
+<div style="margin-left: 440px;
+            margin-right: auto;
+           ">
 
 
 | Version | Fecha      | Autor         | Descripcion de Modificacion                                                                                             |
@@ -1080,6 +1089,7 @@ Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo
 
 <img src="/assets/As-Is_Talleres.png">
 
+
 [MIRO](https://miro.com/app/board/uXjVMm70eUI=/?share_link_id=313743584808)
 
 ## 2.4 Ubiquitous Language
@@ -1193,7 +1203,11 @@ El proyecto seguirá las convenciones del flujo de trabajo establecido por el mo
 
 El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
 
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
 <img src="assets/gitflow.png" alt="gitflow">
+</div>
 
 Gitflow es un modelo de ramificación para Git que se centra en la organización de las ramas de un proyecto de software. El modelo de Gitflow define una serie de ramas estándar y reglas para su uso, lo que facilita la colaboración y la gestión del código en un equipo de desarrollo. En UniRider, utilizamos el modelo de Gitflow para organizar y gestionar las ramas de nuestro proyecto, lo que nos permite trabajar de forma eficiente y colaborativa en el desarrollo de nuestra aplicación web.
 
@@ -1246,7 +1260,10 @@ Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-
 # 5.2. Landing Page, Services \& Applications Implementation
 ## 5.2.1. Sprint 1
 ### 5.2.1.1. Sprint Planning 1
- 
+ <div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+
 | Sprint 1                        | Implementación de funcionalidades y diseño de la aplicación.                                                                                                                                        |
 | ------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sprint Planning Background      |
@@ -1262,9 +1279,10 @@ Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-
 | **Sprint Goal & User Stories**  |
 | Sprint 1 Velocity               | 21 points                                                                                                                                                                                           |
 | Sum of Story Points             | 21 points                                                                                                                                                                                           |
-
+</div>
 
 ### 5.2.1.2. Sprint Backlog 1.
+
 
 | id   | Título                  | Id  | Título                                                    | Descripción                                                                                                   | Estimaciones(Horas) | Asignado a         | Estado (To-do/InProcess/ToReview/Done) |
 | ---- | ----------------------- | --- | -------------------------------------------------------- |---------------------------------------------------------------------------------------------------------------| ------------------ |--------------------| -------------------------------------- |
@@ -1278,7 +1296,11 @@ Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-
 | CW08 | Responsividad Completa   | C08 | Desarrollo responsive de toda la página                    | Desarrollo e implementación de un estilo responsive en toda la página.                                        | 2                  | Franco Barrionuevo | Done                                     |
 
 
+
 ### 5.2.1.3. Evidencia de Desarrollo para la Revisión del Sprint.
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
 
 | Repository	   | Branch	                                        | Commit Id | Commit Message	                           | Commit Message Body | Committed on (Date) |
 | ------------ | ------------------------------------------- | --------- | --------------------------------------------- | ------------------- |---------------------|
@@ -1293,11 +1315,15 @@ Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-
 | landing-page | feature/index.html                      | 6371146   | feat: (Landing page) agregar Footer            | -                   | 1/09/2024           |
 | landing-page | feature/index.html                  | 02f2eld   | feat: (Landing Page) implementar responsividad | -                   | 1/09/2024           |
 
+</div>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 Para la entrega del Sprint 1, logramos completar el desarrollo, la implementación y el despliegue del Landing Page. Por esta razón, nos enfocamos en la sección de "acceptance-tests" en la implementación de los archivos feature que componen nuestro landing page. Estos features se basan en las Historias de Usuario especificadas en el sprint backlog, detallando cada uno de los escenarios que planeamos desarrollar.
-<table align="left" border="1" width="100%">
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+<table>
   <tr>
     <th>Repository</th>
     <th >Branch</th>
@@ -1315,6 +1341,7 @@ Para la entrega del Sprint 1, logramos completar el desarrollo, la implementaci�
     <td>3/09/2024</td>
   </tr>
 </table>
+</div>
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -1365,11 +1392,12 @@ Vercel: Plataforma que automatiza webs que nos permitió alojar y desplegar nues
 Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
 
 https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/monthly
+  <div align=center>
 
 ![github](assets/commits_sprint1.png)
 
 ![github](assets/commits_sprint1_2.png)
-
+</div>
 
 
 # VI. Conclusiones y recomendaciones.
