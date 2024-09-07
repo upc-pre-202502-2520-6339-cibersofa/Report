@@ -102,7 +102,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
         <br>Carranza Tesen, Joaquin Enrique<br> TB1: <br>
         <br>Mayta López, Harold<br> TB1: <br>
         <br>Medina Chocce, Karito Dianeth<br> TB1: <br>
-        <br>Serrano Uchuya, Gerald Patricio<br> TB1: <br>
+        <br>Serrano Uchuya, Gerald Patricio<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo de vendedores. Además, desarrollé la sección de Information Architecture, donde organizamos la información relevante de la plataforma en grupos, añadimos etiquetas, y describimos la navegación y el sistema de búsqueda. Finalmente, diseñé los diagramas de clases y de base de datos. <br>
    </td>
     <td>TB1<br><br>
 </tr>
@@ -113,7 +113,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
         <br>Carranza Tesen, Joaquin Enrique<br> TB1: <br>
         <br>Mayta López, Harold<br> TB1: <br>
         <br>Medina Chocce, Karito Dianeth<br> TB1: <br>
-        <br>Serrano Uchuya, Gerald Patricio<br> TB1: <br>
+        <br>Serrano Uchuya, Gerald Patricio<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los vendedores de autos, así como los problemas y oportunidades que enfrentan con sus clientes. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br>
 </td>
     <td>TB1<br><br>
 </tr>
