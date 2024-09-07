@@ -591,12 +591,12 @@ Clase Transaction
 <br><br/>
 Clase Payment
 
-| Atributo  | Tipo  | Descripción |
-| ------------ | ------------ |------------ |
-| paymentID  | int | Identificador único del pago
-| transaction | Transaction | Transación perteniente al pago
-| paymentMethod | string | Método de pago
-| paymentDate | date | Fecha del pago
+| Atributo      | Tipo        | Descripción                    |
+|---------------|-------------|--------------------------------|
+| paymentID     | int         | Identificador único del pago   |
+| transaction   | Transaction | Transación perteniente al pago |
+| paymentMethod | string      | Método de pago                 |
+| paymentDate   | date        | Fecha del pago                 |
 
 <br><br/>
 Clase Search
