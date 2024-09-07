@@ -382,6 +382,7 @@ En esta sección, el equipo presenta el To-Be Scenario Mapping para Car2Go, que 
 ## 3.2. User Stories
 
 **Cuadro de Epics**
+
 | Epic ID | Título | Descripción |
 |---------|--------|-------------|
 | EP01    | Plataforma de Compra y Venta de Autos | Implementar la plataforma principal para la compra y venta de autos usados, facilitando la interacción entre compradores y vendedores. |
@@ -394,6 +395,7 @@ En esta sección, el equipo presenta el To-Be Scenario Mapping para Car2Go, que 
 | EP08    | Gestión de Publicidad y Promociones | Implementar funcionalidades para que los vendedores puedan promocionar sus autos mediante anuncios destacados, y para que la plataforma pueda ofrecer promociones y campañas publicitarias a compradores y vendedores. |
 
 **Cuadro de User  Stories**
+
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |-----------------|--------|-------------|-------------------------|---------------------------|
 | US-01 | Registro de Usuario | Como visitante quiero registrarme en la plataforma para poder comprar o vender autos. | Dado que el visitante está en la página de registro, cuando ingresa datos válidos, entonces el sistema debe crear una cuenta y redirigir al usuario al perfil. | EP01 |
