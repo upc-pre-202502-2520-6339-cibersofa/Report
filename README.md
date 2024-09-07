@@ -752,7 +752,6 @@ Para la entrega del Sprint 1, logramos completar el desarrollo, la implementaci�
   </tr>
 </table>
 
-### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 Para la entrega del Sprint 1 se busc처 alcanzar el desarrollo completo, implementaci처n y despliegue de la landing page. La secci처n de "Testing" se centr처 en la implementaci처n y prueba de los archivos feature que contienen las funcionalidades de la landing page de Car2Go.
 
