@@ -302,6 +302,11 @@ El sitio web se dividirá en las siguientes secciones:
 - About us: Descripción de la plataforma, misión, visión y los integrantes del proyecto<br><br/>
 - Contact us: Formulario para enviar dudas de los usuarios por correo más información de contacto.<br><br/>
 
+La aplicación web tendrá las siguientes secciones según el segmento objetivo:
+- Vendedor: "Home", "Plans", "Car Listing", "My Cars" y "Profile"
+- Comprador: "Home","Favorites", "Car Listing" y "Profile"
+- Mecánico: "Home", "Uninspected Cars", "Reviewed Cars"
+
 Con relación al sistema secuencial, se tienen 2 procesos principales:
 - Compra de vehículo: Seleccionar, contactar, pagar y confirmar. <br><br/>
 - Publicación de venta: Añadir fotos, detalles del vehículo, información adicional y publicar la oferta. 
@@ -309,20 +314,18 @@ Con relación al sistema secuencial, se tienen 2 procesos principales:
 ### 4.2.2. Labeling Systems
 Colocar las etiquetas adecuadas en las secciones, botones y otros elementos en el landing page y la aplicación web permiten que los usuarios comprendan rápidamente las funcionalidades y contenido de la plataforma.
 A continuación, se listarán las principales etiquetas según las principales funcionalidades:
-- Navegación Principal: "Inicio", "Buscar", "Anuncios", "Planes", "Perfil"
+- Navegación Principal: "Home", "Favorites", "Car Listing", "Profile"
+<br></br> 
+- Listado de autos: "My Cars", "Sell Car", "Price", "Filters"
 <br></br>
-- Búsqueda de vehículos: "Marca", "Modelo", "Precio", "Ubicación", "Filtros"
+- Detalle del vehículo: "Year", "Colors", "Mileage", "Location", "Add Offer"
 <br></br>
-- Detalle del vehículo: "Precio", "Fotos", "Descripción", "Características", "Contactar Vendedor"
+- Publicación de oferta: "Brand", "Model", "Color", "Description", "Contact Data"
 <br></br>
-- Publicación de oferta: "Fotos", "Detalles", "Precio", "Publicar"
+- Proceso de compra : "Add Offer", "Review here", "Send", "Data"
 <br></br>
-- Proceso de compra: "Contactar", "Pagar", "Confirmar"
+- Perfil del usuario: "Name", "Last Name", "Birthdate", "Identity document", "Address", "PHOTO URL"
 <br></br>
-- Perfil del usuario: "Datos", "Historial", "Configuración"
-<br></br>
-- Soporte: "FAQ", "Contacto"
-
 
 ### 4.2.3. SEO Tags and Meta Tags
 
@@ -336,14 +339,13 @@ Con el fin de mejorar la prioridad en los motores de búsqueda, facilitar la lle
 ````
 
 ### 4.2.4. Searching Systems
-Es importante facilitar la búsqueda y el filtro de información para los usuarios con el fin de que puedan utilizar la plataforma sin problemas. La mayoría de las páginas tendrá la barra de búsqueda disponible en la parte superior. Sumado a esto, se podrán aplicar una variedad de filtros (marca, modelo, rango de precio, año de fabricación, etc.) accediendo a la búsqueda avanzada para que cada usuario encuentre el auto de su preferencia. <br><br/> 
-Los resultados de la búsqueda se mostrarán en una cuadrícula, donde cada vehículo incluirá una foto, su precio, marca, modelo y ubicación. Además, estos resultados podrán ordenarse por precio o antigüedad. Finalmente, al hacer clic en un resultado específico, se mostrarán más imágenes y detalles del vehículo, junto con un botón para contactar al vendedor.
+Es importante facilitar la búsqueda y el filtro de información para los usuarios con el fin de que puedan utilizar la plataforma sin problemas. Se dispondrá de una barra de búsqueda en la sección "Car Listing" y los usuarios podrán guardar en favoritos los autos de su preferencia. Sumado a esto, se podrán aplicar una variedad de filtros (marca, modelo, rango de precio, año de fabricación, etc.) a los resultados de la búsqueda para que cada usuario encuentre el auto de su preferencia. <br><br/> 
+Los resultados de la búsqueda se mostrarán en una cuadrícula, donde cada vehículo incluirá una foto, su precio, marca, modelo, ubicación, entre otros datos.Finalmente, al hacer clic en un resultado específico, se mostrarán más imágenes y detalles del vehículo, junto con un botón para contactar al vendedor.
 
-### 4.2.5. Navigation Systems
-Navegar por nuestra plataforma debe ser lo suficientemente intuitivo para que los usuarios puedan cumplir satisfactoriamente sus objetivos. Con esto en mente, la principal forma desplazarse en el contenido será una barra de navegación ubicada en la parte superior de todas las páginas. Esta contendrá las siguientes secciones: Inicio, Buscar, Mis Anuncios, Perfil. Además, se incluirán "call to action" en distintas partes de cada sección. Por ejemplo, "Publicar Anuncio" en Mis Anuncios y "Contactar Vendedor" en los ofertas publicadas. <br><br/>
-Por otro lado, se agregará la paginación en la parte inferior de la cuadrícula de los resultados. Finalmente, el footer contendrá secciones como "Sobre nosotros", "Términos y condiciones" y "Política de Privacidad", así como información de contacto.
-
-
+### 4.2.5. Navigation Systems 
+Navegar por nuestra plataforma debe ser lo suficientemente intuitivo para que los usuarios puedan cumplir satisfactoriamente sus objetivos. Con esto en mente, la principal forma desplazarse en el contenido será una barra de navegación ubicada en la parte superior de todas las páginas. Esta contendrá las siguientes secciones: Home, Car Listing, Profile, Plans, etc. Además, se incluirán "call to action" en distintas partes de cada sección. Por ejemplo, "Sell Car" en "Car Listing" Anuncios y "Add Offer" en los ofertas publicadas. <br><br/>
+Por otro lado, se agregará la paginación en la parte inferior de la cuadrícula de los resultados. Finalmente, el footer contendrá secciones como "About Us", "Terms and conditions" y "Privacy Policy", así como información de contacto.
+ 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
