@@ -601,12 +601,12 @@ Clase Payment
 <br><br/>
 Clase Search
 
-| Atributo  | Tipo  | Descripción |
-| ------------ | ------------ |------------ |
-| searchID  | int | Identificador único de la búsqueda
-| query | string | Términos de la búsqueda
-| filters | list | Filtros de búsqueda
-| results | list | Resultados de la búsqueda
+| Atributo | Tipo   | Descripción                        |
+|----------|--------|------------------------------------|
+| searchID | int    | Identificador único de la búsqueda |
+| query    | string | Términos de la búsqueda            |
+| filters  | list   | Filtros de búsqueda                |
+| results  | list   | Resultados de la búsqueda          |
 
 <br><br/>
 Clase Post
