@@ -2106,6 +2106,7 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 
 
 
+
 ## Recomendaciones
 
 
