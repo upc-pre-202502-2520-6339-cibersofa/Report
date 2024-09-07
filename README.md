@@ -348,11 +348,23 @@ Por otro lado, se agregará la paginación en la parte inferior de la cuadrícul
 
 ### 4.3.1. Landing Page Wireframe
 
+![Landing-Page-Wireframe:](assets/landing-wireframe.png) 
 
+**Hero alterno 1**:
+![Landing-Page-Wireframe:](assets/landing-wireframe-hero2.png) 
+---
+**Hero alterno 2**:
+![Landing-Page-Wireframe:](assets/landing-wireframe-hero3.png) 
 
 ### 4.3.2. Landing Page Mock-up
 
+![Landing-Page-Mock-up:](assets/landing-mock-up.png)
 
+**Hero alterno 1**:
+![Landing-Page-Mock-up:](assets/landing-mock-up-hero2.png)
+---
+**Hero alterno 2**:
+![Landing-Page-Mock-up:](assets/landing-mock-up-hero3.png)
 
 # 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes
