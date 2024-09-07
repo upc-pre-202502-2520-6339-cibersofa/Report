@@ -373,20 +373,63 @@ Por otro lado, se agregará la paginación en la parte inferior de la cuadrícul
 
 
 # 4.5. Web Applications Prototyping.
+Para poder elaborar los prototipos de la interfaz de usuario destinados a Desktop se siguieron una serie
+de criterios fundamentales, entre ellos:
 
+1. Claridad y Facilidad: El enfoque fue lograr que la navegación en la aplicación sea intuitiva y comprensible, con el objetivo
+   de que los usuarios puedan comprender plenamente las funciones de la aplicación.
+   visualización de reportes estadísticos.
+2. Diseño Responsive: Se ha tenido en cuenta la importancia del diseño "responsive" para garantizar que la aplicación web
+   sea compatible con una variedad tamaños de pantalla, de tal manera que los usuarios no se vean limitados por el dispositivo que utilicen.
+3. Priorización de Información Relevante: El diseño de la aplicación se enfoca en mostrar únicamente la información más importante para los usuarios pertenecientes al segmento objetivo.
 
 # 4.6. Domain-Driven Software Architecture
 
-
+El Domain Driven Design (DDD) tiene como objetivo llegar a un entendimiento compartido del dominio que abarca el espacio del problema. En el caso de **Car2Go**, este dominio es la gestión de la compra y venta de vehículos de segunda mano y la interacción con los vendedores, compradores y talleres mecánicos. Gracias a la perspectiva brindada por este enfoque, es posible mejorar la colaboración entre los desarrolladores y los expertos del dominio.
 
 ## 4.6.1. Software Architecture Context Diagram
 
+El diagrama de contexto muestra una vista de alto nivel de las relaciones entre el sistema de software **Car2Go**, los usuarios y, si es el caso, de otros sistemas externos.
+
+<div align="center">
+    <img src="assets/SystemContext.png" alt="System diagram">
+</div>
 
 ## 4.6.2. Software Architecture Container Diagram
 
+El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software **Car2Go**.
 
+<div align="center">
+    <img src="assets/containerDiagram.png" alt="Container diagram">
+</div>
 
 ## 4.6.3. Software Architecture Components Diagrams
+
+Los diagramas de componentes muestran una vista de las relaciones de los componentes principales del sistema de software **Car2Go**. Estos componentes detallan la implementación de los respectivos módulos en el programa.
+
+### - Authentication Bounded Context
+
+<div align="center">
+    <img src="assets/AuthenticationBC.png" alt="Authentication Bounded Context" width="800" />
+</div>
+
+### - Payment Bounded Context
+
+<div align="center">
+    <img src="assets/PaymentBC.png" alt="Payment Bounded Context" width="800" />
+</div>
+
+### - User Interaction Bounded Context
+
+<div align="center">
+    <img src="assets/UserInteractionBC.png" alt="User Interaction Bounded Context" width="800" />
+</div>
+
+### - Vehicle Management Bounded Context
+
+<div align="center">
+    <img src="assets/VehicleManagementBC.png" alt="Vehicle Management Bounded Context" width="800" />
+</div>
 
 
 ## 4.7. Software Object-Oriented Design
@@ -394,7 +437,9 @@ Por otro lado, se agregará la paginación en la parte inferior de la cuadrícul
 <img src="assets/classDiagram.jpeg" alt="class diagram"/>
 
 ### 4.7.2. Class Dictionary
+
 Clase User
+
 | Atributo  | Tipo  | Descripción |
 | ------------ | ------------ |------------ |
 | userID  | int | Identificador único del usuario
@@ -409,6 +454,7 @@ Clase User
 
 <br><br/>
 Clase SubscriptionPlan
+
 | Atributo  | Tipo  | Descripción |
 | ------------ | ------------ |------------ |
 | planID  | int | Identificador único del plan de subscripción
@@ -418,6 +464,7 @@ Clase SubscriptionPlan
 
 <br><br/>
 Clase Transaction
+
 | Atributo  | Tipo  | Descripción |
 | ------------ | ------------ |------------ |
 | transactionID  | int | Identificador único de la transacción
@@ -430,6 +477,7 @@ Clase Transaction
 
 <br><br/>
 Clase Payment
+
 | Atributo  | Tipo  | Descripción |
 | ------------ | ------------ |------------ |
 | paymentID  | int | Identificador único del pago
@@ -439,6 +487,7 @@ Clase Payment
 
 <br><br/>
 Clase Search
+
 | Atributo  | Tipo  | Descripción |
 | ------------ | ------------ |------------ |
 | searchID  | int | Identificador único de la búsqueda
@@ -448,6 +497,7 @@ Clase Search
 
 <br><br/>
 Clase Post
+
 | Atributo  | Tipo  | Descripción |
 | ------------ | ------------ |------------ |
 | postID  | int | Identificador único del post
@@ -463,6 +513,7 @@ Clase Post
 
 <br><br/>
 Clase Vehicle
+
 | Atributo  | Tipo  | Descripción |
 | ------------ | ------------ |------------ |
 | vehicleID  | int | Identificador único del vehículo
@@ -479,6 +530,7 @@ Clase Vehicle
 
 <br><br/>
 Clase Contact
+
 | Atributo  | Tipo  | Descripción |
 | ------------ | ------------ |------------ |
 | contactID  | int | Identificador único del contacto entre comprador y vendedor
@@ -489,6 +541,7 @@ Clase Contact
 
 <br><br/>
 Clase Review
+
 | Atributo  | Tipo  | Descripción |
 | ------------ | ------------ |------------ |
 | reviewID  | int | Identificador único de la reseña de un vendedor
@@ -500,6 +553,7 @@ Clase Review
 
 <br><br/>
 Clase Maintenance
+
 | Atributo  | Tipo  | Descripción |
 | ------------ | ------------ |------------ |
 | maintenanceID  | int | Identificador único del mantenimiento
@@ -511,6 +565,7 @@ Clase Maintenance
 
 <br><br/>
 Clase Mechanic
+
 | Atributo  | Tipo  | Descripción |
 | ------------ | ------------ |------------ |
 | mechanicID  | int | Identificador único del mecánico
