@@ -498,12 +498,36 @@ Clase Review
 | comment | string | Comentarios de la reseña
 | date | date | Fecha de publicación
 
- 
+<br><br/>
+Clase Maintenance
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| maintenanceID  | int | Identificador único del mantenimiento
+| vehicle | Vehicle | Vehículo objetivo del mantenimiento
+| date | date | Fecha del mantenimiento
+| description | string | Descripción del mantenimiento
+| cost | double | Costo del mantenimiento
+| mechanic | Mechanic | Mecánico a cargo del mantenimiento
+
+<br><br/>
+Clase Mechanic
+| Atributo  | Tipo  | Descripción |
+| ------------ | ------------ |------------ |
+| mechanicID  | int | Identificador único del mecánico
+| names | string | Nombres
+| last_name | string | Apellidos
+| phonenumber | string | Número telefónico
+| address | string | Dirección del taller automotriz
+| company | string | Nombre del taller automotriz
+| email | string | Correo del mecánico
+|password| string| Contraseña de la cuenta del mecánico
+
+
 ## 4.8 Database Design
+El sistema de gestión de bases de datos relacional (RDBMS) que utilizaremos para generar las tablas y establecer sus relaciones en nuestra plataforma será MySQL. Hemos elegido MySQL por su facilidad de uso y por su integración con MySQL Workbench, que nos proporciona una herramienta visual eficiente para la administración de la base de datos.
 
 ### 4.8.1 Database Diagram
-
-
+<img src="assets/databaseDiagram.png" alt="database diagram"/>
 
 
 
