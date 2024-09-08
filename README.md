@@ -71,10 +71,10 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 | Integrante                          | Actvidades Asignadas                                                                                                                                                |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Barrionuevo Reto,  Jean Franco Joel | - Entrevista <br> - Capitulo 1<br> - Capitulo 2: Correción de entrevistas y competidores <br> - Capitulo 4: Software Architecture Context Diagram <br> - Capítulo 5 |
-| Carranza Tesen, Joaquin Enrique     | Entrevista <br>Capitulo 2 <br> Ppt de exposición                                                                                                                    |
-| Mayta López, Harold                 | Entrevista <br> Capitulo 4                                                                                                                                          |
-| Medina Chocce, Karito Dianeth       | Entrevista <br> Capitulo 3                                                                                                                                          |
-| Serrano Uchuya, Gerald Patricio     | Entrevista <br> Capitulo 4                                                                                                                                          |
+| Carranza Tesen, Joaquin Enrique     | - Entrevista <br> - Capitulo 2 <br> - Ppt de exposición                                                                                                             |
+| Mayta López, Harold                 | - Entrevista <br> - Capitulo 4 <br> - Ppt de exposición <br>                                                                                                        |
+| Medina Chocce, Karito Dianeth       | - Entrevista <br> - Capitulo 3                                                                                                                                      |
+| Serrano Uchuya, Gerald Patricio     | - Entrevista <br> - Capitulo 4                                                                                                                                      |
 
 **Evidencia**:
 
@@ -93,9 +93,9 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
   <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo. Trabajé en el Capítulo 1. En el Capítulo 2, me encargué de la corrección de las entrevistas y de la investigación de los competidores. Diseñé el Diagrama de Contexto de la Arquitectura del Software para el Capítulo 4. Finalmente, en el Capítulo 5, trabajé en la implementación de las funcionalidades del sistema. <br>
-        <br>Carranza Tesen, Joaquin Enrique<br> TB1: <br>
+        <br>Carranza Tesen, Joaquin Enrique<br> TB1: Para esta entrega, realicé una entrevista al segmento objetivo de talleres mecánicos para comprender mejor sus necesidades y desafíos. Con base en la información recopilada, desarrollé el Capítulo 3 del proyecto, que incluyó el mapeo de escenarios futuros (To-Be Scenario Mapping), la creación de historias de usuario (User Stories), el mapeo del impacto (Impact Mapping) y la elaboración del backlog del producto (Product Backlog). Estas actividades fueron fundamentales para asegurar que el desarrollo de la plataforma se alinee con las expectativas del sector y para colaborar de manera efectiva con el equipo multidisciplinario en el proyecto. <br>
         <br>Mayta López, Harold<br> TB1: <br>
-        <br>Medina Chocce, Karito Dianeth<br> TB1: Para esta entrega, realicé una entrevista al segmento objetivo de talleres mecánicos para comprender mejor sus necesidades y desafíos. Con base en la información recopilada, desarrollé el Capítulo 3 del proyecto, que incluyó el mapeo de escenarios futuros (To-Be Scenario Mapping), la creación de historias de usuario (User Stories), el mapeo del impacto (Impact Mapping) y la elaboración del backlog del producto (Product Backlog). Estas actividades fueron fundamentales para asegurar que el desarrollo de la plataforma se alinee con las expectativas del sector y para colaborar de manera efectiva con el equipo multidisciplinario en el proyecto.<br>
+        <br>Medina Chocce, Karito Dianeth<br> TB1: <br>
         <br>Serrano Uchuya, Gerald Patricio<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo de vendedores. Además, desarrollé la sección de Information Architecture, donde organizamos la información relevante de la plataforma en grupos, añadimos etiquetas, y describimos la navegación y el sistema de búsqueda. Finalmente, diseñé los diagramas de clases y de base de datos. <br>
    </td>
     <td>TB1<br><br>
@@ -106,7 +106,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
 <td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los compradores de autos de segunda mano, así como los problemas y oportunidades que enfrentan en su búsqueda. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br>
         <br>Carranza Tesen, Joaquin Enrique<br> TB1: <br>
         <br>Mayta López, Harold<br> TB1: <br>
-        <br>Medina Chocce, Karito Dianeth<br> TB1: La entrevista realizada a talleres mecánicos me permitió identificar sus principales necesidades y problemas. Utilicé esta información para desarrollar el Capítulo 3, que abarca el mapeo de escenarios futuros, historias de usuario, mapeo del impacto y backlog del producto. Este trabajo me permitió entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me ayudó a enfocar el proyecto de manera efectiva, garantizando que las funcionalidades de la plataforma sean relevantes y útiles para el dominio de aplicación.<br>
+        <br>Medina Chocce, Karito Dianeth<br> TB1: La entrevista realizada a talleres mecánicos me permitió identificar sus principales necesidades y problemas. Utilicé esta información para desarrollar el Capítulo 3, que abarca el mapeo de escenarios futuros, historias de usuario, mapeo del impacto y backlog del producto. Este trabajo me permitió entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me ayudó a enfocar el proyecto de manera efectiva, garantizando que las funcionalidades de la plataforma sean relevantes y útiles para el dominio de aplicación. <br>
         <br>Serrano Uchuya, Gerald Patricio<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los vendedores de autos, así como los problemas y oportunidades que enfrentan con sus clientes. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br>
 </td>
     <td>TB1<br><br>
@@ -122,31 +122,31 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
 ### [Student Outcome](#student-outcome-1)
 ### [Chapter I: Introducción](#chapter-i-introducción)
 - [1.1. Startup Profile](#11-startup-profile)
-    - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
-    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
+  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
 - [1.2. Solution Profile](#12-solution-profile)
-    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [1.2.2 Lean UX Process](#122-lean-ux-process)
-        - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-        - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-        - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-        - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+  - [1.2.2 Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
 ### [Chapter II: Requirements Elicitation & Analysis](#chapter-ii-requirements-elicitation--analysis)
 - [2.1. Competidores](#21-competidores)
-    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+  - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
 - [2.2. Entrevistas](#22-entrevistas)
-    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+  - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+  - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
 - [2.3. Needfinding](#23-needfinding)
-    - [2.3.1. User Personas](#231-user-personas)
-    - [2.3.2. User Task Matrix](#232-user-task-matrix)
-    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.3.1. User Personas](#231-user-personas)
+  - [2.3.2. User Task Matrix](#232-user-task-matrix)
+  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+  - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 
 ### [Chapter III: Requirements Specifications](#chapter-iii-requirements-specifications)
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
@@ -156,49 +156,49 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
 
 ### [Chapter IV: Product Design](#chapter-iv-product-design)
 - [4.1. Style Guidelines](#41-style-guidelines)
-    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
 - [4.2. Information Architecture](#42-information-architecture)
-    - [4.2.1. Organization Systems](#421-organization-systems)
-    - [4.2.2. Labeling Systems](#422-labeling-systems)
-    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-    - [4.2.4. Searching Systems](#424-searching-systems)
-    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.2.1. Organization Systems](#421-organization-systems)
+  - [4.2.2. Labeling Systems](#422-labeling-systems)
+  - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+  - [4.2.4. Searching Systems](#424-searching-systems)
+  - [4.2.5. Navigation Systems](#425-navigation-systems)
 - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+  - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+  - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+  - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    - [4.7.1. Class Diagrams](#471-class-diagrams)
-    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.7.1. Class Diagrams](#471-class-diagrams)
+  - [4.7.2. Class Dictionary](#472-class-dictionary)
 - [4.8. Database Design](#48-database-design)
-    - [4.8.1. Database Diagram](#481-database-diagram)
+  - [4.8.1. Database Diagram](#481-database-diagram)
 
 ### [Chapter V: Product Implementation, Validation & Deployment](#chapter-v-product-implementation-validation--deployment)
 - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-    - [5.1.2. Source Code Management](#512-source-code-management)
-    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+  - [5.1.2. Source Code Management](#512-source-code-management)
+  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint 1](#521-sprint-1)
-        - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-        - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-        - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-        - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-        - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-        - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-        - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-        - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.1. Sprint 1](#521-sprint-1)
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+    - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 ### [VI: Conclusiones y recomendaciones](#vi-conclusiones-y-recomendaciones)
 - [Conclusiones](#conclusiones)
@@ -376,49 +376,49 @@ del comprobante para que el vendedor confirme la transacción. Esta estrategia m
 suscripción como aquellos que prefieran pagar por transacción puedan beneficiarse de la plataforma.
 
 ### 1.2.1. Antecedentes y problemática
-La industria de compra y venta de autos de segunda mano enfrenta desafíos significativos 
-en términos de seguridad, eficiencia y accesibilidad. Los compradores y vendedores se encuentran 
+La industria de compra y venta de autos de segunda mano enfrenta desafíos significativos
+en términos de seguridad, eficiencia y accesibilidad. Los compradores y vendedores se encuentran
 bajo presión debido a la creciente demanda de vehículos usados, pero enfrentan obstáculos como la falta
 de plataformas seguras, la dificultad para verificar la autenticidad de los pagos,
 y la escasez de herramientas tecnológicas que faciliten transacciones confiables y sin fricciones.
 
 
 -   **What?**   
-La industria automotriz de segunda mano enfrenta desafíos importantes en la 
-gestión eficiente de las transacciones y la seguridad de las mismas, 
-debido a la falta de plataformas tecnológicas adecuadas que garanticen procesos transparentes y seguros.
-<br><br>  
+    La industria automotriz de segunda mano enfrenta desafíos importantes en la
+    gestión eficiente de las transacciones y la seguridad de las mismas,
+    debido a la falta de plataformas tecnológicas adecuadas que garanticen procesos transparentes y seguros.
+    <br><br>
 - **When?**                      
-Este problema se ha intensificado en los últimos años, especialmente con el crecimiento del mercado de autos usados, 
-impulsado por el aumento de la demanda y la necesidad de opciones más accesibles para los consumidores.
-<br><br>
+  Este problema se ha intensificado en los últimos años, especialmente con el crecimiento del mercado de autos usados,
+  impulsado por el aumento de la demanda y la necesidad de opciones más accesibles para los consumidores.
+  <br><br>
 -   **Where?**                         
-Este problema es global y afecta a compradores y vendedores en diversas regiones del mundo, tanto en mercados desarrollados como en desarrollo.
-<br><br>
+    Este problema es global y afecta a compradores y vendedores en diversas regiones del mundo, tanto en mercados desarrollados como en desarrollo.
+    <br><br>
 -   **Who?**           
-Los compradores y vendedores de autos usados, desde individuos hasta concesionarios pequeños, están directamente involucrados en estas dificultades,
-ya que son responsables de realizar transacciones seguras y exitosas en un mercado competitivo.
-<br><br>
+    Los compradores y vendedores de autos usados, desde individuos hasta concesionarios pequeños, están directamente involucrados en estas dificultades,
+    ya que son responsables de realizar transacciones seguras y exitosas en un mercado competitivo.
+    <br><br>
 - **Why?**             
-Es crucial abordar esta problemática porque la compra y venta de autos de segunda mano es una parte esencial de la economía global, ofreciendo opciones 
-asequibles para los consumidores y contribuyendo al desarrollo económico de muchos países.
-<br><br>
+  Es crucial abordar esta problemática porque la compra y venta de autos de segunda mano es una parte esencial de la economía global, ofreciendo opciones
+  asequibles para los consumidores y contribuyendo al desarrollo económico de muchos países.
+  <br><br>
 -   **How?**                    
-Se necesitan soluciones tecnológicas innovadoras que ayuden a los usuarios a realizar transacciones de manera más segura, eficiente y confiable, optimizando
-la experiencia de compra y venta y garantizando la transparencia en cada paso del proceso.
-<br><br>
+    Se necesitan soluciones tecnológicas innovadoras que ayuden a los usuarios a realizar transacciones de manera más segura, eficiente y confiable, optimizando
+    la experiencia de compra y venta y garantizando la transparencia en cada paso del proceso.
+    <br><br>
 -   **How much?**                         
-El costo de implementar estas soluciones tecnológicas puede variar según la escala de la plataforma y los 
-recursos disponibles para la adopción de tecnología en el mercado de autos de segunda mano.
-<br><br>
+    El costo de implementar estas soluciones tecnológicas puede variar según la escala de la plataforma y los
+    recursos disponibles para la adopción de tecnología en el mercado de autos de segunda mano.
+    <br><br>
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 - En la industria de compra y venta de autos de segunda mano, existe
-una falta de plataformas tecnológicas integradas que permitan a los compradores y vendedores realizar 
-transacciones de manera segura y eficiente. Este vacío tecnológico dificulta la confianza entre las partes y
-la optimización del proceso de compra-venta, lo que conduce a una experiencia frustrante y puede limitar el crecimiento de este mercado. 
-Además, mejorar la colaboración entre compradores, vendedores y talleres técnicos es crucial para garantizar transacciones transparentes y 
-satisfactorias para todas las partes involucradas.
+  una falta de plataformas tecnológicas integradas que permitan a los compradores y vendedores realizar
+  transacciones de manera segura y eficiente. Este vacío tecnológico dificulta la confianza entre las partes y
+  la optimización del proceso de compra-venta, lo que conduce a una experiencia frustrante y puede limitar el crecimiento de este mercado.
+  Además, mejorar la colaboración entre compradores, vendedores y talleres técnicos es crucial para garantizar transacciones transparentes y
+  satisfactorias para todas las partes involucradas.
 
 
 #### 1.2.2.2. Lean UX Assumptions
@@ -436,9 +436,9 @@ satisfactorias para todas las partes involucradas.
 
 **1. ¿Quien es el usuario?**
 - Compradores de autos usados
- <br><br>
+  <br><br>
 - Vendedores de autos usados
-<br><br>
+  <br><br>
 - Talleres técnicos
 
 **2. ¿Donde entra nuestro producto en su trabajo o su vida?**
@@ -453,7 +453,7 @@ satisfactorias para todas las partes involucradas.
 
 **4. ¿Como y cuando nuestro producto es usado?**
 - La plataforma será utilizada durante todo el proceso de compra y venta, desde la búsqueda del vehículo hasta
-la confirmación del pago. Los talleres técnicos usarán aquella información para ofrecer sus servicios.
+  la confirmación del pago. Los talleres técnicos usarán aquella información para ofrecer sus servicios.
 
 
 **5. ¿Que caracteristicas son importantes?**
@@ -469,7 +469,7 @@ la confirmación del pago. Los talleres técnicos usarán aquella información p
 
 
 **User Outcomes:**
-- **Compradores de Autos Usados:** Establecer como objetivo aumentar la confianza en el proceso de compra de vehículos usados, logrando una reducción del 30% en el número de incidencias críticas reportadas por compradores durante el primer año de uso de Car2Go. 
+- **Compradores de Autos Usados:** Establecer como objetivo aumentar la confianza en el proceso de compra de vehículos usados, logrando una reducción del 30% en el número de incidencias críticas reportadas por compradores durante el primer año de uso de Car2Go.
 - **Vendedores de Autos Usados:** Mejorar la tasa de conversión de ventas en un 25% durante el primer año, garantizando que solo los vehículos verificados y aprobados sean listados en la plataforma. Esto reducirá los problemas relacionados con la venta y aumentará la satisfacción del vendedor.
 - **Talleres Técnicos:** Incrementar el número de inspecciones y certificaciones realizadas en un 40% durante el primer año, facilitando una mayor colaboración con Car2Go. Este aumento se logrará mediante la integración eficiente de sus servicios en la plataforma y la generación de más oportunidades de verificación.
 
@@ -500,13 +500,13 @@ la confirmación del pago. Los talleres técnicos usarán aquella información p
 ¿Que cambio en su comportamiento veremos que nos dira que nuestro objetivo ha sido logrado?
 
 - **Compradores y Vendedores:** Esperamos que la plataforma se utilice de manera constante para todas las transacciones
-de autos usados, lo que indicará un aumento en la confianza y la seguridad en el proceso. Un incremento en el número de
-transacciones realizadas a través de Car2Go, junto con una reducción en las quejas o disputas relacionadas con la transparencia 
-y la verificación, nos indicará que la plataforma está cumpliendo su objetivo de mejorar la confianza en el mercado de autos usados.
+  de autos usados, lo que indicará un aumento en la confianza y la seguridad en el proceso. Un incremento en el número de
+  transacciones realizadas a través de Car2Go, junto con una reducción en las quejas o disputas relacionadas con la transparencia
+  y la verificación, nos indicará que la plataforma está cumpliendo su objetivo de mejorar la confianza en el mercado de autos usados.
 
 - **Talleres Técnicos:** Esperamos que los talleres técnicos vean un aumento en la demanda de sus servicios a través de la plataforma,
-lo que indicará que los usuarios confían en su trabajo y están dispuestos a pagar por sus servicios. Un incremento en el número de inspecciones
-y certificaciones realizadas a través de Car2Go demostrará que los talleres técnicos están obteniendo beneficios significativos de su colaboración con la plataforma.
+  lo que indicará que los usuarios confían en su trabajo y están dispuestos a pagar por sus servicios. Un incremento en el número de inspecciones
+  y certificaciones realizadas a través de Car2Go demostrará que los talleres técnicos están obteniendo beneficios significativos de su colaboración con la plataforma.
 
 
 **Feature Assumptions**
@@ -557,7 +557,7 @@ y certificaciones realizadas a través de Car2Go demostrará que los talleres t�
 - Empresas y profesionales que ofrecen servicios de inspección y certificación de vehículos.
 - Buscan una plataforma que les permita promocionar sus servicios y colaborar con compradores y vendedores.
 - Interesados en una mayor visibilidad y demanda de sus servicios, con la posibilidad de ofrecer valor agregado a los usuarios.
-<br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Chapter II: Requirements Elicitation & Analysis
 
@@ -571,7 +571,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 - **NeoAuto**: [NeoAuto](https://neoauto.com/venta-de-autos-usados-en-lima?gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQtS4NTpmRTLgjG9aqoxczpnBP_zQPfrGnqWX53OOE22ruL_N90cup8aAvHuEALw_wcB)
 
   NeoAuto es una plataforma en línea disponible para web y dispositivos móviles que facilita la compra y venta de autos de segunda mano. Fundada por un equipo de innovadores peruanos, NeoAuto ha logrado posicionarse como uno de los líderes en el mercado automotriz de segunda mano en Perú. La plataforma permite a los usuarios acceder a una amplia variedad de vehículos usados, todos verificados para garantizar su calidad y confiabilidad. Gracias a su gran aceptación, NeoAuto se ha expandido y ahora es un referente en el sector automotriz en el país, ayudando a miles de peruanos a encontrar su auto ideal.
- 
+
 <br><br>
 - **AUTOLAND Perú**: [AutoLand Perú](https://autoland.com.pe/seminuevos/)
 
@@ -581,7 +581,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 - **Autopia.pe**: [Autopia.pe](https://www.autopia.pe)
 
   Autopia.pe es una plataforma digital especializada en la compra y venta de autos de segunda mano, diseñada para brindar a los usuarios una experiencia simple y segura. Fundada por un equipo de emprendedores peruanos apasionados por el sector automotriz, Autopia.pe se ha posicionado rápidamente como una opción confiable para quienes buscan vehículos usados en Perú. La plataforma ofrece una amplia gama de autos, todos inspeccionados y certificados para garantizar su estado y calidad. Gracias a su enfoque en la transparencia y la satisfacción del cliente, Autopia.pe se ha convertido en una referencia clave en el mercado automotriz de segunda mano en el país.
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 2.1.1. Análisis competitivo
 <table>
@@ -809,7 +809,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 <br><br>
 
 - **URL del video:** [Entrevista Anatoly Noriega](https://upcedupe-my.sharepoint.com/personal/u202219284_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219284%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20TB1%20%2D%20Car2Go%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E75317dcc%2De611%2D4257%2D9159%2D8dce69a6ca2a)
-<br><br>
+  <br><br>
 
 - **Informe de Resumen sobre la entrevista:**
 
@@ -1116,7 +1116,7 @@ Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo
 [LINK DEL MIRO](https://miro.com/app/board/uXjVMm70eUI=/?share_link_id=313743584808)
 <br><br>
 
-## 2.4 Ubiquitous Language 
+## 2.4 Ubiquitous Language
 
 1. **Comprador:** Persona que está interesada en adquirir un auto de segunda mano.
 
@@ -1160,7 +1160,7 @@ En esta sección, el equipo presenta el To-Be Scenario Mapping para Car2Go, que 
 
 ## 3.2. User Stories
 
-**Cuadro de Epics** 
+**Cuadro de Epics**
 
 | Epic ID | Título                                | Descripción                                                                                                                                                                                                            |
 |---------|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1830,7 +1830,7 @@ A continuación, se describe el proceso por el cual organizamos, gestionamos y c
 **Requirements Management**
 
 - **Trello:** Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
-    - Ruta de referencia: https://trello.com/es
+  - Ruta de referencia: https://trello.com/es
 
 **Product UX/UI Design**
 
@@ -1839,33 +1839,33 @@ A continuación, se describe el proceso por el cual organizamos, gestionamos y c
 
 
 - **Lucidchart:** Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación.
-    - Ruta de referencia: https://www.lucidchart.com/
+  - Ruta de referencia: https://www.lucidchart.com/
 
 **Software Development**
 
 - **Visual Studio Code:**  Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios.
-    - Ruta de referencia: https://code.visualstudio.com/
+  - Ruta de referencia: https://code.visualstudio.com/
 
 
 - **HTML5:** HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
-    - Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp
+  - Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp
 
 
 - **CSS:** Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML.
-    - Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
-    - 
+  - Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
+  -
 - **Bootstrap:** Framework CSS que permitirá crear componentes web de manera rápida y eficiente. Bootstrap se utilizará para la creación de la interfaz responsiva, asegurando que la plataforma funcione correctamente en distintos dispositivos.
-    - Ruta de referencia: https://getbootstrap.com/
+  - Ruta de referencia: https://getbootstrap.com/
 
 
 - **Next.js:** Este framework basado en React es utilizado para optimizar el desarrollo del frontend. Next.js proporciona funcionalidades como el renderizado del lado del servidor (SSR), rutas dinámicas, y la generación estática de sitios (SSG), lo cual mejora la experiencia del usuario y el SEO de la página.
-    - Ruta de referencia: https://nextjs.org/
+  - Ruta de referencia: https://nextjs.org/
     <br>
     <br>
-  
+
 **Software Deployment**
-   <br>
-   <br>
+<br>
+<br>
 -  Git: Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo
    accederán a través de la línea de comandos en sus sistemas locales.
 
@@ -1904,7 +1904,7 @@ Gitflow es un modelo de ramificación para Git que se centra en la organización
 La rama **main** es la rama principal de nuestro proyecto, que contiene la versión estables, operativas y listas para implementar de UniRider. Estas variantes han sido previamente evaluadas y se ha verificado la total funcionalidad de estas tras su implementación. Emplearemos etiquetas para identificar cada variante estable y lista para implementar, lo que nos permitirá tener un seguimiento preciso de las variantes y simplificar la administración de futuras actualizaciones.
 
 La rama **develop** es la rama de desarrollo de nuestro proyecto, que contiene la versión en desarrollo de UniRider que aún no han sido sometidas a pruebas, aunque están completadas al 100% y contienen todas las características que se esperan hasta ese momento. Este canal se emplea para cargar la versión y llevar a cabo pruebas finales con el fin de corregir cualquier inconveniente antes de la publicación final en la rama main.
- 
+
 La rama **feature** es la rama de características de nuestro proyecto, que contiene las nuevas características y funcionalidades que se están desarrollando para UniRider. Cada nueva característica se desarrolla en una rama de características separada, lo que permite a los miembros del equipo trabajar de forma independiente en diferentes aspectos de la aplicación y facilita la integración de las nuevas características en la rama de desarrollo.
 
 #### 5.1.3. Source Code Style Guide & Conventions
@@ -1943,7 +1943,7 @@ Para desplegar la landing page es necesario contar con una serie de requisitos, 
 4. Dirigirse a **Settings > Pages** y seleccionar el branch correspondiente, en nuestro caso es el "main".
 5. Especificar la carpeta "docs" como la fuente de la página.
 6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
-   
+
 Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-cibersofa.github.io/Landing-page/)
 
 
@@ -2043,8 +2043,8 @@ Para la entrega del Sprint 1 se buscó alcanzar el desarrollo completo, implemen
 En el sprint 1 se alcanzó un desarrollo parcial en la implementación del despliegue de la landing page. La página muestra varias secciones en las que el usuario puede encontrar información relevante sobre los servicios, planes y equipo de Car2Go. A continuación se presentan evidencias del progreso logrado:
 
 - **Sección What We Offer**: El usuario puede ver las características clave que ofrecemos, como transacciones seguras, verificación de calidad, talleres especializados y pagos seguros.
-![What We Offer](assets/whatweoffer.png)
-<br><br>
+  ![What We Offer](assets/whatweoffer.png)
+  <br><br>
 - **Sección Planes**: En la sección de planes, el usuario puede visualizar e interactuar con los diferentes planes disponibles, eligiendo la opción que mejor se adapte a sus necesidades.
   ![Planes](assets/planes.png)
   <br><br>
@@ -2102,28 +2102,28 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 
 ## VII. Bibliografía
 
-- Asociación Automotriz del Perú. (s.f.). Inestabilidad y desempeño de la economía del país se refleja en ventas de vehículos. Recuperado de 
-https://aap.org.pe/inestabilidad-y-desempeño-de-la-economia-del-pais-se-refleja-en-ventas-de-vehiculos-sunarp/
-<br><br>
-- Dittrich, J. (s.f.). A Beginner's Guide to Finding User Needs. Recuperado de 
-https://jdittrich.github.io/userNeedResearchBook/
+- Asociación Automotriz del Perú. (s.f.). Inestabilidad y desempeño de la economía del país se refleja en ventas de vehículos. Recuperado de
+  https://aap.org.pe/inestabilidad-y-desempeño-de-la-economia-del-pais-se-refleja-en-ventas-de-vehiculos-sunarp/
   <br><br>
-- Gastulo, R. (2023, 6 de marzo). Autos usados: segunda opción. Recuperado de 
-https://www.elperuano.pe/noticia/207031-autos-usados-segunda-opcion
+- Dittrich, J. (s.f.). A Beginner's Guide to Finding User Needs. Recuperado de
+  https://jdittrich.github.io/userNeedResearchBook/
   <br><br>
-- IBM. (s.f.). As-is Scenario Map  Build a better understanding of your users' current experience. Recuperado de 
-https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+- Gastulo, R. (2023, 6 de marzo). Autos usados: segunda opción. Recuperado de
+  https://www.elperuano.pe/noticia/207031-autos-usados-segunda-opcion
+  <br><br>
+- IBM. (s.f.). As-is Scenario Map  Build a better understanding of your users' current experience. Recuperado de
+  https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
   <br><br>
 - IBM. (s.f.). To-be Scenario Map  Draft a vision of your user's future experience to show how your ideas address their current needs. Recuperado de   https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
   <br><br>
 - Ríos, W. (2024, 11 de marzo). Mercado de autos seminuevos: oportunidades para compradores y vendedores. Recuperado de
- https://andina.pe/agencia/noticia-mercado-autos-seminuevos-oportunidades-para-compradores-y-vendedores-977602.aspx
+  https://andina.pe/agencia/noticia-mercado-autos-seminuevos-oportunidades-para-compradores-y-vendedores-977602.aspx
   <br><br>
-- SUNARP. (2018, 23 de mayo). Cómo realizar una transferencia vehicular sin problemas. Recuperado de 
-https://www.sunarp.gob.pe/PRENSA/inicio/post/2018/05/23/como-realizar-una-transferencia-vehicular-sin-problemas
+- SUNARP. (2018, 23 de mayo). Cómo realizar una transferencia vehicular sin problemas. Recuperado de
+  https://www.sunarp.gob.pe/PRENSA/inicio/post/2018/05/23/como-realizar-una-transferencia-vehicular-sin-problemas
   <br><br>
-- Tune, N. (2015, 15 de agosto). Domain-Driven Architecture Diagrams. Recuperado de 
-https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578
+- Tune, N. (2015, 15 de agosto). Domain-Driven Architecture Diagrams. Recuperado de
+  https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578
 
 
 
