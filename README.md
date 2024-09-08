@@ -1,4 +1,4 @@
-# <center>COURSE PROJECT</center>
+<!-- # <center>COURSE PROJECT</center> -->
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
@@ -47,32 +47,72 @@
   </tr>
 </table>
 
-<tr>
-<div align="center">
-    <td><b>Mes y año: </b> 23/08/2024</td>
-</div>
-</tr>
-
 # Registro de Versiones del Informe
 
-<div style="margin-left: 440px;
-            margin-right: auto;
-           ">
 
 
-| Version | Fecha      | Autor         | Descripcion de Modificacion                                                                                             |
-|---------|------------|---------------|-------------------------------------------------------------------------------------------------------------------------|
-| 1.0 | 23/08/2024 | | creación del informe |
 
+|Versión|Fecha|Autor|Descripción de modificación|
+|-------|-----|-----|---------------------------|
+|V0.1|23/08/2024|Harold|Creación del repositorio|
+|V0.2|24/08/2024|Franco| Capitulo 1|
+|V0.3|03/08/2024|Franco<br>Joaquin|Finalización del capitulo 2|
+|V0.4|04/08/2024|Karito|Finalización del capitulo 3|
+|V0.5|04/08/2024|Harold<br>Gerald<br>Franco|Finalización del capitulo 4|
+|V0.6|04/08/2024|Franco|Finalización del capitulo 5|
 
-</div>
+**Project Report Collaboration Insights**
+URL del repositorio de GitHub de la organización: [https://github.com/Cibersofa](https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa)
 
-# Project Report Collaboration Insights
-<tr>
-    <td><b> TB1 </b> 24/08/2024</td>
+_TB1_
+
+Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma:
+
+|Integrante|Actvidades Asignadas|
+|----------|----------|
+|Barrionuevo Reto,  Jean Franco Joel|Entrevista <br>Capitulo 1<br>Capitulo 2: Correción de entrevistas y competidores <br> Capitulo 4: Software Architecture Context Diagram|
+|Carranza Tesen, Joaquin Enrique|Entrevista <br>Capitulo 2 <br> Ppt de exposición|
+|Mayta López, Harold|Entrevista <br> Capitulo 4|
+|Medina Chocce, Karito Dianeth|Entrevista <br> Capitulo 3|
+|Serrano Uchuya, Gerald Patricio|Entrevista <br> Capitulo 4|
+
+**Evidencia**:
+
+<!-- ![TB1](assets/Captura.PNG)-->
+
+# Student Outcome
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+  <tr>
+    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: <br>
+        <br>Carranza Tesen, Joaquin Enrique<br> TB1: <br>
+        <br>Mayta López, Harold<br> TB1: <br>
+        <br>Medina Chocce, Karito Dianeth<br> TB1: <br>
+        <br>Serrano Uchuya, Gerald Patricio<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo de vendedores. Además, desarrollé la sección de Information Architecture, donde organizamos la información relevante de la plataforma en grupos, añadimos etiquetas, y describimos la navegación y el sistema de búsqueda. Finalmente, diseñé los diagramas de clases y de base de datos. <br>
+   </td>
+    <td>TB1<br><br>
 </tr>
-<img src="" alt=""/></img>  
-<tr>
+<br><br>
+  <tr>
+    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+<td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: <br>
+        <br>Carranza Tesen, Joaquin Enrique<br> TB1: <br>
+        <br>Mayta López, Harold<br> TB1: <br>
+        <br>Medina Chocce, Karito Dianeth<br> TB1: <br>
+        <br>Serrano Uchuya, Gerald Patricio<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los vendedores de autos, así como los problemas y oportunidades que enfrentan con sus clientes. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br>
+</td>
+    <td>TB1<br><br>
+</tr>
+<br><br>
+</table>
 
 # Contenido
 ## Tabla de Contenidos
@@ -166,51 +206,6 @@
 - [Recomendaciones](#recomendaciones)
 - [VII. Bibliografía](#vii-bibliografía)
 - [VIII. Anexos](#viii-anexos)
-
-<br><br>
-
-# Student Outcome
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
-
-<table>
-  <tr>
-    <td><b>Criterio específico</b></td>
-    <td><b>Acciones realizadas</b></td>
-    <td><b>Conclusiones</b></td>
-  </tr>
-  <tr>
-    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
-    <td> TB1<br><br>
-
-   </td>
-    <td>TB1<br><br>
-
-
-</tr>
-
-
-<br><br>
-
-
-  <tr>
-    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
-
-<td> 
-TB1<br><br>
-
-
-<br><br>
-
-   </td>
-    <td>TB1<br><br>
-
-
-</tr>
-<br><br>
-
-
-</table>
 
 <br><br>
 
