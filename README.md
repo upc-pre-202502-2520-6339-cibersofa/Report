@@ -202,8 +202,6 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
 
 ### [VI: Conclusiones y recomendaciones](#vi-conclusiones-y-recomendaciones)
 - [Conclusiones](#conclusiones)
-
-- [Recomendaciones](#recomendaciones)
 - [VII. Bibliografía](#vii-bibliografía)
 - [VIII. Anexos](#viii-anexos)
 
@@ -2094,10 +2092,9 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 # VI. Conclusiones y recomendaciones
 ## Conclusiones
 
-
-
-
-## Recomendaciones
+- El análisis realizado por el equipo confirmó que la industria de venta de autos enfrenta desafíos importantes relacionados con la seguridad y la confianza en las transacciones. Sin embargo, también identificó oportunidades significativas, reflejadas en un aumento en el número de ventas en los últimos años. En respuesta a esta situación, Car2Go ofrece una solución efectiva mediante una plataforma innovadora para la compra y venta de autos usados, respaldada por la garantía de calidad y seguridad proporcionada por centros motrices certificados.
+  <br><br>
+- El diseño de Car2Go se desarrolló con el objetivo de ofrecer una experiencia de usuario superior y establecer una clara diferenciación respecto a la competencia. Los estilos seleccionados, junto con una organización cuidadosa de la información, no solo aportan coherencia visual, sino que también facilitan la navegación y el acceso a las funcionalidades más relevantes para los usuarios.
 
 
 ## VII. Bibliografía
@@ -2128,3 +2125,19 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 
 
 ## VIII. Anexos
+
+* Diseño Landing Page:  https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?node-id=32-311&t=7O5WsCcQsFaskDcW-1
+  <br><br>
+* Landing Page: https://upc-pre-si729-2402-wx51-g3-cibersofa.github.io/Landing-page/
+  <br><br>
+* Miro: https://miro.com/app/board/uXjVMm70eUI=/
+  <br><br>
+* Organización Github: https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa
+  <br><br>
+* [Registro de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219284_upc_edu_pe/EU3ocaW1vF9KhmOYIXX3j44BM3JEIi_35Pc0mA_-rIpoQA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b769rK)
+  <br><br>
+* Structurizr: https://structurizr.com/share/84499/5dafae81-8afd-492f-9fd0-3742913235d5
+  <br><br>
+* Style Guidelines: https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?t=7O5WsCcQsFaskDcW-1
+  <br><br>
+* Web Applications: https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?node-id=32-311&t=7O5WsCcQsFaskDcW-1
