@@ -2085,7 +2085,7 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/monthly
   <div align=center>
 
-![github](assets/commits_sprint1.png)
+![TB1](assets/commit.jpg)
 
 ![github](assets/commits_sprint1_2.png)
 </div>
