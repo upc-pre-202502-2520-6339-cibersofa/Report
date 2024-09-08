@@ -2141,3 +2141,5 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 * Style Guidelines: https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?t=7O5WsCcQsFaskDcW-1
   <br><br>
 * Web Applications: https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?node-id=32-311&t=7O5WsCcQsFaskDcW-1
+  <br><br>
+* Exposición: https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq
