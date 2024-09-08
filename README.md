@@ -1151,6 +1151,7 @@ Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo
 
 
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Chapter III: Requirements Specifications
 ## 3.1. To-Be Scenario Mapping
@@ -1268,6 +1269,7 @@ En esta sección, el equipo presenta el To-Be Scenario Mapping para Car2Go, que 
 | TS-36               | US-36         | Reportes de Efectividad de Promociones a través de la API | Como desarrollador quiero implementar funcionalidades para generar reportes sobre la efectividad de las promociones a través de la API para analizar su impacto. | **Escenario: Generar un reporte de efectividad de promociones**<br>Given El Endpoint "/api/v1/reports/promotions/effectiveness" está disponible<br>When Se envía una GET Request con los parámetros de filtro como fecha y tipo de promoción<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye un reporte con datos detallados sobre la efectividad de las promociones.<br><br>**Escenario: Generar un reporte con parámetros inválidos**<br>Given El Endpoint "/api/v1/reports/promotions/effectiveness" está disponible<br>When Se envía una GET Request con parámetros inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los parámetros inválidos. | EP08    |
 | TS-37               | US-37         | Configuración de Anuncios Publicitarios a través de la API | Como desarrollador quiero permitir a los administradores configurar anuncios publicitarios en la plataforma a través de la API para monetizar el tráfico. | **Escenario: Configurar un anuncio publicitario**<br>Given El Endpoint "/api/v1/ads" está disponible<br>When Se envía una POST Request con los detalles del anuncio (ubicación, contenido, duración)<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye una confirmación de que el anuncio ha sido configurado.<br><br>**Escenario: Configurar un anuncio con datos inválidos**<br>Given El Endpoint "/api/v1/ads" está disponible<br>When Se envía una POST Request con datos inválidos para el anuncio<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos. | EP08    |
 
+<br><br><br><br><br><br><br><br>
 
 ## 3.3. Impact Mapping
 
@@ -1278,23 +1280,23 @@ En esta sección, se presenta el Impact Mapping para Car2Go, diseñado para alca
 
 #### Impact Mapping 1:
 
-![image](assets/Impact map 1.png)
+![image](assets/impact-map1.png)
 *Imagen (N°13). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento objetivo: Vendedores de Autos Usados**
 
 #### Impact Mapping 2:
 
-![image](assets/Impact map 2.png)
+![image](assets/impact-map2.png)
 *Imagen (N°14). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento objetivo: Talleres Técnicos**
 
 #### Impact Mapping 3:
 
-![image](assets/Impact map 3.png)
+![image](assets/impact-map3.png)
 *Imagen (N°15). Elaboración propia. Realizado en UXPRESSIA*
-
+<br><br><br><br>
 ## 3.4. Product Backlog
 
 En esta sección del Product Backlog se encuentran recopiladas todas las User Stories identificadas para el desarrollo de nuestra plataforma Car2Go. Cada User Story representa una funcionalidad o requerimiento específico que contribuirá a mejorar la experiencia del usuario y a alcanzar los objetivos del proyecto. Las historias están ordenadas por prioridad, considerando tanto la importancia para los usuarios como la complejidad técnica y el valor de negocio. El Product Backlog será actualizado periódicamente a medida que se avanza en el desarrollo y se obtienen nuevos requerimientos, asegurando que siempre refleje las necesidades actuales del proyecto.
@@ -2112,21 +2114,28 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 
 ## VII. Bibliografía
 
-- Asociación Automotriz del Perú. (s.f.). Inestabilidad y desempeño de la economía del país se refleja en ventas de vehículos. Recuperado de https://aap.org.pe/inestabilidad-y-desempeño-de-la-economia-del-pais-se-refleja-en-ventas-de-vehiculos-sunarp/
+- Asociación Automotriz del Perú. (s.f.). Inestabilidad y desempeño de la economía del país se refleja en ventas de vehículos. Recuperado de 
+https://aap.org.pe/inestabilidad-y-desempeño-de-la-economia-del-pais-se-refleja-en-ventas-de-vehiculos-sunarp/
 <br><br>
-- Dittrich, J. (s.f.). A Beginner's Guide to Finding User Needs. Recuperado de https://jdittrich.github.io/userNeedResearchBook/
+- Dittrich, J. (s.f.). A Beginner's Guide to Finding User Needs. Recuperado de 
+https://jdittrich.github.io/userNeedResearchBook/
   <br><br>
-- Gastulo, R. (2023, 6 de marzo). Autos usados: segunda opción. Recuperado de https://www.elperuano.pe/noticia/207031-autos-usados-segunda-opcion
+- Gastulo, R. (2023, 6 de marzo). Autos usados: segunda opción. Recuperado de 
+https://www.elperuano.pe/noticia/207031-autos-usados-segunda-opcion
   <br><br>
-- IBM. (s.f.). As-is Scenario Map  Build a better understanding of your users' current experience. Recuperado de https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+- IBM. (s.f.). As-is Scenario Map  Build a better understanding of your users' current experience. Recuperado de 
+https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
   <br><br>
-- IBM. (s.f.). To-be Scenario Map  Draft a vision of your user's future experience to show how your ideas address their current needs. Recuperado de https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+- IBM. (s.f.). To-be Scenario Map  Draft a vision of your user's future experience to show how your ideas address their current needs. Recuperado de   https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
   <br><br>
-- Ríos, W. (2024, 11 de marzo). Mercado de autos seminuevos: oportunidades para compradores y vendedores. Recuperado de https://andina.pe/agencia/noticia-mercado-autos-seminuevos-oportunidades-para-compradores-y-vendedores-977602.aspx
+- Ríos, W. (2024, 11 de marzo). Mercado de autos seminuevos: oportunidades para compradores y vendedores. Recuperado de
+ https://andina.pe/agencia/noticia-mercado-autos-seminuevos-oportunidades-para-compradores-y-vendedores-977602.aspx
   <br><br>
-- SUNARP. (2018, 23 de mayo). Cómo realizar una transferencia vehicular sin problemas. Recuperado de https://www.sunarp.gob.pe/PRENSA/inicio/post/2018/05/23/como-realizar-una-transferencia-vehicular-sin-problemas
+- SUNARP. (2018, 23 de mayo). Cómo realizar una transferencia vehicular sin problemas. Recuperado de 
+https://www.sunarp.gob.pe/PRENSA/inicio/post/2018/05/23/como-realizar-una-transferencia-vehicular-sin-problemas
   <br><br>
-- Tune, N. (2015, 15 de agosto). Domain-Driven Architecture Diagrams. Recuperado de https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578
+- Tune, N. (2015, 15 de agosto). Domain-Driven Architecture Diagrams. Recuperado de 
+https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578
 
 
 
