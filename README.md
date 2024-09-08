@@ -98,7 +98,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
         <br>Medina Chocce, Karito Dianeth<br> TB1: Para esta entrega, realicé una entrevista al segmento objetivo de talleres mecánicos para comprender mejor sus necesidades y desafíos. Con base en la información recopilada, desarrollé el Capítulo 3 del proyecto, que incluyó el mapeo de escenarios futuros (To-Be Scenario Mapping), la creación de historias de usuario (User Stories), el mapeo del impacto (Impact Mapping) y la elaboración del backlog del producto (Product Backlog). Estas actividades fueron fundamentales para asegurar que el desarrollo de la plataforma se alinee con las expectativas del sector y para colaborar de manera efectiva con el equipo multidisciplinario en el proyecto. <br>
         <br>Serrano Uchuya, Gerald Patricio<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo de vendedores. Además, desarrollé la sección de Information Architecture, donde organizamos la información relevante de la plataforma en grupos, añadimos etiquetas, y describimos la navegación y el sistema de búsqueda. Finalmente, diseñé los diagramas de clases y de base de datos. <br>
    </td>
-    <td>TB1<br><br>
+    <td>TB1<br>Car2Go fue diseñado con el propósito de brindar una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos elegidos, junto con una organización meticulosa de la información, no solo aseguran una coherencia visual, sino que también hacen que la navegación y el acceso a las funciones clave sean más sencillos para los usuarios.<br>
 </tr>
 <br><br>
   <tr>
@@ -109,7 +109,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
         <br>Medina Chocce, Karito Dianeth<br> TB1: La entrevista realizada a talleres mecánicos me permitió identificar sus principales necesidades y problemas. Utilicé esta información para desarrollar el Capítulo 3, que abarca el mapeo de escenarios futuros, historias de usuario, mapeo del impacto y backlog del producto. Este trabajo me permitió entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me ayudó a enfocar el proyecto de manera efectiva, garantizando que las funcionalidades de la plataforma sean relevantes y útiles para el dominio de aplicación. <br>
         <br>Serrano Uchuya, Gerald Patricio<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los vendedores de autos, así como los problemas y oportunidades que enfrentan con sus clientes. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br>
 </td>
-    <td>TB1<br><br>
+    <td>TB1<br>Car2Go fue diseñado con el propósito de brindar una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos elegidos, junto con una organización meticulosa de la información, no solo aseguran una coherencia visual, sino que también hacen que la navegación y el acceso a las funciones clave sean más sencillos para los usuarios.<br>
 </tr>
 <br><br>
 </table>
