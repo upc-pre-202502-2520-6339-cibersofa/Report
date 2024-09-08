@@ -61,6 +61,7 @@
 |V0.5|04/08/2024|Harold<br>Gerald<br>Franco|Finalización del capitulo 4|
 |V0.6|04/08/2024|Franco|Finalización del capitulo 5|
 
+---
 **Project Report Collaboration Insights**
 URL del repositorio de GitHub de la organización: [https://github.com/Cibersofa](https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa)
 
@@ -78,8 +79,9 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 **Evidencia**:
 
-<!-- ![TB1](assets/Captura.PNG)-->
+![TB1](assets/commit.jpg)
 
+----
 # Student Outcome
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
