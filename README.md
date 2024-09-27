@@ -2098,6 +2098,21 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 
 ### 5.2.2.2. Sprint Backlog 2
 
+| | Sprint # | | | | Sprint 1 | | |
+|-|----------|-|-|-|----------|-|-|
+| **User Story**        |                   | **Work Item/Task** |               |                                                    |                   |                 |        |
+| **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation (Hours)**    | **Assigned To** | **Status** |
+| US-02          | Búsqueda de Autos | TW-01   | Implementar lógica de búsqueda | Crear un componente de búsqueda en Angular para filtrar autos mediante diferentes criterios. | 6                 | Franco Barrionuevo   | Done   |
+| US-03          | Listado de Autos | TW-02   | Crear vista de listado de autos | Desarrollar un componente en Angular para visualizar autos listados con interactividad y paginación. | 7                 | Karito Medina   | Done   |
+| US-06          | Ver Detalles del Auto | TW-03   | Desarrollar página de detalles del auto | Implementar un componente que muestre los detalles completos de un auto, utilizando servicios para cargar datos dinámicamente. | 5                 | Gerald Serrano   | Done   |
+| US-07          | Comparar Autos | TW-04   | Implementar función de comparación  | Crear un componente en Angular para permitir la comparación de varios autos, mostrando sus características en una tabla.  | 6                 | Joaquin Carranza   | Done   |
+| US-16          | Sistema de Pago Seguro | TW-05   | Crear flujo de pago  | Desarrollar el componente de pago seguro en Angular, integrando la API de pagos.  | 8                 | Harold Mayta   | Done   |
+| US-19          | Reembolso de Transacción | TW-06   | Implementar solicitud de reembolso  | Desarrollar un formulario en Angular para solicitar reembolsos y manejar la lógica correspondiente.  | 5                 | Franco Barrionuevo   | Done   |
+| US-29          | Reportes de Transacciones | TW-07   | Crear visualización de reportes  | Desarrollar un componente en Angular para mostrar reportes de transacciones con gráficos y tablas dinámicas.  | 7                 | Gerald Serrano   | Done   |
+| US-12          | Informe de Certificación | TW-8   | Implementar visualización de informes  | Crear un componente que muestre informes de certificación de autos, utilizando servicios para cargar datos.  | 5                 | Joaquin Carranza   | Done   |
+|
+| US-24          | Sistema de Soporte en Vivo | TW-9   | Implementar chat de soporte  | Desarrollar un componente de chat en vivo para soporte al usuario, integrando la funcionalidad con Angular.  | 6                 | Harold Mayta   | Done   |
+|
 
 ### 5.2.2.3. Development Evidence for Sprint Review
 
