@@ -2111,8 +2111,8 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 | Sprint  2 Retrospective         |
 | Resumen                         | La landing page fue desarrollada utilizando HTML, CSS, Bootstrap y Next.js.                                                                                                                  |
 | **Sprint Goal & User Stories**  |
-| Sprint 1 Velocity               | 21 points                                                                                                                                                                                    |
-| Sum of Story Points             | 21 points                                                                                                                                                                                    |
+| Sprint 2 Velocity               | 33 points                                                                                                                                                                                    |
+| Sum of Story Points             | 33 points                                                                                                                                                                                    |
 </div>
 
 ### 5.2.2.2. Sprint Backlog 2
