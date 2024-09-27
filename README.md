@@ -1974,17 +1974,19 @@ Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-
 ### 5.2.1.2. Sprint Backlog 1
 
 
-| id   | Título                  | Id  | Título                                              | Descripción                                                                                                   | Estimaciones(Horas) | Asignado a         | Estado (To-do/InProcess/ToReview/Done) |
-|------|-------------------------|-----|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|--------------------|----------------------------------------|
-| CW01 | Apartado del Header     | C01 | Header responsivo (Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3                   | Franco Barrionuevo | Done                                   |
-| CW02 | Apartado del Footer     | C02 | Footer responsivo (Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2                   | Karito Medina      | Done                                   |
-| CW03 | Apartado Home           | C03 | Home (Desarrollado en HTML y CSS)                   | Desarrollo e implementación de los estilos que corresponden a la sección What we offer. Debe ser responsive.  | 3                   | Harold Mayta       | Done                                   |
-| CW04 | Apartado Producto       | C04 | Producto (Desarrollado en HTML y CSS)               | Desarrollo e implementación de los estilos que corresponden a la sección . Debe ser responsive.               | 2                   | Gerald Serrano     | Done                                   |
-| CW05 | Apartado Contacto       | C05 | Sección "Contacto" (Desarrollado en HTML y CSS)     | Desarrollo e implementación de los estilos que corresponden a la sección Contacto. Debe ser responsive.       | 3                   | Franco Barrionuevo | Done                                   |
-| CW06 | Sección Sobre el Equipo | C06 | Información del Equipo (Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a la información del equipo. Debe ser responsive. | 3                   | Joaquin Carranza   | Done                                   |
-| CW07 | Apartado Planes         | C07 | Planes (Desarrollado en HTML y CSS)                 | Desarrollo e implementación de los estilos que corresponden a la sección Planes .                             | 3                   | Karito Medina      | Done                                   |
-| CW08 | Responsividad Completa  | C08 | Desarrollo responsive de toda la página             | Desarrollo e implementación de un estilo responsive en toda la página.                                        | 2                   | Franco Barrionuevo | Done                                   |
-
+| | Sprint # | | | | Sprint 1 | | |
+|-|----------|-|-|-|----------|-|-|
+| **User Story**        |                   | **Work Item/Task** |               |                                                    |                   |                 |        |
+| **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation (Hours)**    | **Assigned To** | **Status** |
+| US-01          | Registro de Usuario | TW-01   | Implementar formulario de registro | Desarrollar el frontend del formulario de registro, incluyendo validaciones de entrada. | 6                 | Franco Barrionuevo   | Done   |
+| US-01          | Registro de Usuario | TW-02   | Estilizar formulario de registro | Aplicar estilos CSS al formulario de registro para mejorar la experiencia visual. | 4                 | Gerald Serrano   | Done   |
+| US-02          | Búsqueda de Autos | TW-03   | Implementar sección de búsqueda | Crear la interfaz de búsqueda con HTML y CSS, añadiendo filtros y funcionalidad en JavaScript. | 5                 | Karito Medina   | Done   |
+| US-02          | Búsqueda de Autos | TW-04   | Estilizar sección de búsqueda  | Aplicar estilos CSS a la sección de búsqueda para que sea más atractiva y funcional.  | 4                 | Harold Mayta   | Done   |
+| US-03          | Listado de Autos | TW-05   | Desarrollar listado de autos  | Implementar la visualización del listado de autos usando HTML y CSS, con interactividad en JavaScript.  | 7                 | Joaquin Carranza   | Done   |
+| US-03          | Listado de Autos | TW-06   | Estilizar listado de autos  | Aplicar estilos CSS al listado de autos para mejorar la presentación y legibilidad.  | 4                 | Karito Medina   | Done   |
+| US-09          | Notificaciones de Nuevos Listados | TW-07   | Implementar sistema de notificaciones  | Desarrollar la funcionalidad de notificaciones usando JavaScript para alertar a los compradores sobre nuevos listados.  | 6                 | Joaquin Carranza   | Done   |
+| US-10          | Notificación de Actualización de Estado del Auto | TW-8   | Implementar notificaciones de estado  | Crear la funcionalidad en JavaScript que notifique a los compradores sobre cambios en el estado de los autos.  | 5                 | Harold Mayta   | Done   |
+|
 
 
 ### 5.2.1.3. Development Evidence for Sprint Review
