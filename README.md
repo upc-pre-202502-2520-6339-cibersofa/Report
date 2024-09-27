@@ -2098,7 +2098,7 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 
 ### 5.2.2.2. Sprint Backlog 2
 
-| | Sprint # | | | | Sprint 1 | | |
+| | Sprint # | | | | Sprint 2 | | |
 |-|----------|-|-|-|----------|-|-|
 | **User Story**        |                   | **Work Item/Task** |               |                                                    |                   |                 |        |
 | **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation (Hours)**    | **Assigned To** | **Status** |
