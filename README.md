@@ -2098,21 +2098,21 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
             margin-right: auto;
             width: 50%">
 
-| Sprint 2                        | DESARROLLO DEL FRONTEND                                                                                                                                                                      |
-|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background      |
-| Date                            | 20/09/2024                                                                                                                                                                                   |
-| Time                            | 22:00 horas (GMT-5)                                                                                                                                                                          |
-| Location                        | Reunión realizada mediante Discord                                                                                                                                                           |
-| Prepared By                     | Barrionuevo Reto, Jean Franco                                                                                                                                                                |
-| Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
-| Sprint  1 Review                |
-| Resumen                         | Se creó la organización de Car2Go en Github y el repositorio de la organización.                                                                                                             |
-| Sprint  2 Retrospective         |
-| Resumen                         | La landing page fue desarrollada utilizando HTML, CSS, Bootstrap y Next.js.                                                                                                                  |
-| **Sprint Goal & User Stories**  |
-| Sprint 2 Velocity               | 33 points                                                                                                                                                                                    |
-| Sum of Story Points             | 33 points                                                                                                                                                                                    |
+  | Sprint 2                        | Implementación de funcionalidades y desarrollo del frontend de la aplicación.                                                                                                                                 |
+  |---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | Sprint Planning Background      |
+  | Date                            | 15/09/2024                                                                                                                                                                                   |
+  | Time                            | 17:00 horas (GMT-5)                                                                                                                                                                          |
+  | Location                        | Reunión realizada mediante Discord                                                                                                                                                           |
+  | Prepared By                     | Barrionuevo Reto, Jean Franco                                                                                                                                                                |
+  | Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
+  | Sprint 1 Review              |
+  | Resumen                         | Se creó la organización de Car2Go en Github y el repositorio para el landing page de la organización.                                                                                                           |
+  | Sprint 1 Retrospective       |
+  | Resumen                         | La landing page fue desarrollada utilizando HTML, CSS, JS y Bootstrap                                                                                                                |
+  | **Sprint Goal & User Stories**  |
+  | Sprint 2 Velocity               | 41 points                                                                                                                                                                                    |
+  | Sum of Story Points             | 41 points                                                                                                                                                                                    |
 </div>
 
 ### 5.2.2.2. Sprint Backlog 2
@@ -2171,10 +2171,35 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
+A partir de las historias de usuario, se generaron los acceptance tests para evaluar la forma en la que deben ejecutarse las funcionalidades de nuestra aplicación web para cumplir con los objetivos de nuestros usuarios.
 
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
+
+| Repository	  | Branch	            | Commit Id | Commit Message	                                     | Committed on (Date) |
+|--------------|--------------------|-----------|-----------------------------------------------------|---------------------|
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 93468bc | first commit | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 3907a7f | feat: add US01.feature | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 9b3baad | fix: fix US01 | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 32eeaaa | feat: add Acceptances Tests | 27/09/24 |
+
+
+</div>
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
+En este sprint, el principal objetivo era desarrollar un primer avance de las funcionalidades principales del frontend de nuestra aplicación web. A continuación, se muestran algunos de los resultados de las diferentes pantallas al ejecutar la aplicación.
+
+- Login
+<img src="assets/login-screen.png" alt="Login screen">
+<br></br>
+- Detalles de vehículo
+<img src="assets/car-details.png" alt="Details of a car">
+<br></br>
+- Listado de autos
+<img src="assets/list-cars.png" alt="List of cars">
+<br></br>
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
