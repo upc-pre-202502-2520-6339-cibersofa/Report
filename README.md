@@ -1986,7 +1986,7 @@ Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-
 | US-03          | Listado de Autos | TW-06   | Estilizar listado de autos  | Aplicar estilos CSS al listado de autos para mejorar la presentación y legibilidad.  | 4                 | Karito Medina   | Done   |
 | US-09          | Notificaciones de Nuevos Listados | TW-07   | Implementar sistema de notificaciones  | Desarrollar la funcionalidad de notificaciones usando JavaScript para alertar a los compradores sobre nuevos listados.  | 6                 | Joaquin Carranza   | Done   |
 | US-10          | Notificación de Actualización de Estado del Auto | TW-8   | Implementar notificaciones de estado  | Crear la funcionalidad en JavaScript que notifique a los compradores sobre cambios en el estado de los autos.  | 5                 | Harold Mayta   | Done   |
-|
+
 
 
 ### 5.2.1.3. Development Evidence for Sprint Review
@@ -2111,7 +2111,7 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 | US-29          | Reportes de Transacciones | TW-07   | Crear visualización de reportes  | Desarrollar un componente en Angular para mostrar reportes de transacciones con gráficos y tablas dinámicas.  | 7                 | Gerald Serrano   | Done   |
 | US-12          | Informe de Certificación | TW-8   | Implementar visualización de informes  | Crear un componente que muestre informes de certificación de autos, utilizando servicios para cargar datos.  | 5                 | Joaquin Carranza   | Done   |
 | US-24          | Sistema de Soporte en Vivo | TW-9   | Implementar chat de soporte  | Desarrollar un componente de chat en vivo para soporte al usuario, integrando la funcionalidad con Angular.  | 6                 | Harold Mayta   | Done   |
-|
+
 
 ### 5.2.2.3. Development Evidence for Sprint Review
 
