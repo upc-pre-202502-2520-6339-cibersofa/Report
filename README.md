@@ -1962,10 +1962,10 @@ Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-
 | Location                        | Reunión realizada mediante Discord                                                                                                                                                           |
 | Prepared By                     | Barrionuevo Reto, Jean Franco                                                                                                                                                                |
 | Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
-| Sprint n -1 Review              |
-| Resumen                         | Se creará la organización de Car2Go en Github y el repositorio de la organización.                                                                                                           |
-| Sprint n -1 Retrospective       |
-| Resumen                         | La landing page fue desarrollada utilizando HTML, CSS, Bootstrap y Next.js.                                                                                                                  |
+| Sprint  -1 Review               |
+| Resumen                         | No hubo sprint anterior.                                                                                                                                                                     |
+| Sprint  1 Retrospective         |
+| Resumen                         | Se creará la organización de Car2Go en Github y el repositorio de la organización.                                                                                                                  |
 | **Sprint Goal & User Stories**  |
 | Sprint 1 Velocity               | 21 points                                                                                                                                                                                    |
 | Sum of Story Points             | 21 points                                                                                                                                                                                    |
@@ -2094,7 +2094,26 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 
 ## 5.2.2. Sprint 2
 ### 5.2.2.1. Sprint Planning 2
- 
+ <div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+
+| Sprint 2                        | DESARROLLO DEL FRONTEND                                                                                                                                                                      |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |
+| Date                            | 20/09/2024                                                                                                                                                                                   |
+| Time                            | 22:00 horas (GMT-5)                                                                                                                                                                          |
+| Location                        | Reunión realizada mediante Discord                                                                                                                                                           |
+| Prepared By                     | Barrionuevo Reto, Jean Franco                                                                                                                                                                |
+| Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
+| Sprint  1 Review                |
+| Resumen                         | Se creó la organización de Car2Go en Github y el repositorio de la organización.                                                                                                             |
+| Sprint  2 Retrospective         |
+| Resumen                         | La landing page fue desarrollada utilizando HTML, CSS, Bootstrap y Next.js.                                                                                                                  |
+| **Sprint Goal & User Stories**  |
+| Sprint 1 Velocity               | 21 points                                                                                                                                                                                    |
+| Sum of Story Points             | 21 points                                                                                                                                                                                    |
+</div>
 
 ### 5.2.2.2. Sprint Backlog 2
 
