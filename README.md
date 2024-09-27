@@ -2007,7 +2007,7 @@ Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-
 
 </div>
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 Para la entrega del Sprint 1, logramos completar el desarrollo, la implementación y el despliegue del Landing Page. Por esta razón, nos enfocamos en la sección de "acceptance-tests" en la implementación de los archivos feature que componen nuestro landing page. Estos features se basan en las Historias de Usuario especificadas en el sprint backlog, detallando cada uno de los escenarios que planeamos desarrollar.
 <div style="margin-left: auto;
@@ -2038,7 +2038,7 @@ Para la entrega del Sprint 1, logramos completar el desarrollo, la implementaci�
 
 Para la entrega del Sprint 1 se buscó alcanzar el desarrollo completo, implementación y despliegue de la landing page. La sección de "Testing" se centró en la implementación y prueba de los archivos feature que contienen las funcionalidades de la landing page de Car2Go.
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+### 5.2.1.5. Execution Evidence for Sprint Review
 
 En el sprint 1 se alcanzó un desarrollo parcial en la implementación del despliegue de la landing page. La página muestra varias secciones en las que el usuario puede encontrar información relevante sobre los servicios, planes y equipo de Car2Go. A continuación se presentan evidencias del progreso logrado:
 
@@ -2059,11 +2059,11 @@ En el sprint 1 se alcanzó un desarrollo parcial en la implementación del despl
 
 
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa.
 
 https://upc-pre-si729-2402-wx51-g3-cibersofa.github.io/Landing-page/
@@ -2078,7 +2078,7 @@ GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio pa
 
 Vercel: Plataforma que automatiza webs que nos permitió alojar y desplegar nuestra el landing page.
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
 
@@ -2089,6 +2089,31 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 
 ![github](assets/commits_sprint1_2.png)
 </div>
+
+## 5.2.2. Sprint 2
+### 5.2.2.1. Sprint Planning 2
+ 
+
+### 5.2.2.2. Sprint Backlog 2
+
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
 
 
 # VI. Conclusiones y recomendaciones
