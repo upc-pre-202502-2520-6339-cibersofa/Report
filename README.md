@@ -2114,7 +2114,41 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 
 
 ### 5.2.2.3. Development Evidence for Sprint Review
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
 
+| Repository	  | Branch	            | Commit Id | Commit Message	                                     | Commit Message Body | Committed on (Date) |
+|--------------|--------------------|-----------|-----------------------------------------------------|---------------------|---------------------|
+| frontend-car2go | master | fb2dfe6 | initial commit | - | 22/09/2024 | 
+| frontend-car2go | authentication | 3287993 | feat(authentication): updated navbar | - | 23/09/2024 |
+| frontend-car2go | authentication | 1fdac17 | feat(authentication): added images for login view | - | 23/09/2024 |
+| frontend-car2go | authentication | 1afc480 | feat(authentication): updated home view | - | 23/09/2024 |
+| frontend-car2go | authentication | 6c38c6f | feat(authentication): updated toolbar view | - | 23/09/2024 |
+| frontend-car2go | authentication | 3cde965 | feat(authentication): added register component | - | 23/09/2024 |
+| frontend-car2go | payment | b4e8230 | feat(payment): added plan component | - | 23/09/2024 |
+| frontend-car2go | authentication | ae2c2f3 | feat(authentication): updated forgot password | - | 23/09/2024 |
+| frontend-car2go | authentication | 08e6a55 | feat(authentication): added routes | - | 23/09/2024 |
+| frontend-car2go | authentication | 5b8320d | feat(authentication): updated routes | - | 23/09/2024 |
+| frontend-car2go | authentication | b354f8c | feat(authentication): add images and routes | - | 24/09/2024 |
+| frontend-car2go | authentication | 7f76b10 | feat(authentication): added car listing component | - | 24/09/2024 |
+| frontend-car2go | payment | d3c4457 | feat(payment): added payment form component | - | 24/09/2024 |
+| frontend-car2go | authentication | 7289d63 | feat(authentication): added preview modal and more information | - | 24/09/2024 |
+| frontend-car2go | vehicle | 10bae07 | feat: add car-details and card-information components | - | 25/09/2024 |
+| frontend-car2go | payment | 135e8b5 | feat(payment): updated payment form component | - | 25/09/2024 |
+| frontend-car2go | authentication | 67ad078 | feat(authentication): updated car details component | - | 25/09/2024 |
+| frontend-car2go | authentication | 1e28cb7 | feat(authentication): add car service | - | 25/09/2024 |
+| frontend-car2go | interaction | 3479363 | merge with authentication | - | 25/09/2024 |
+| frontend-car2go | interaction | 40e7f08 | feat(interaction): prueba | - | 25/09/2024 |
+| frontend-car2go | payment | 9479e37 | feat(payment): updated plan component  | - | 25/09/2024 |
+| frontend-car2go | payment | dbd0ffe | feat(payment): updated plan service | - | 25/09/2024 |
+| frontend-car2go | authentication | 11d72c6 | feat: added page-not-found component | - | 25/09/2024 |
+| frontend-car2go | interaction | 8d9c84e | feat(interaction): prueba_J | - | 25/09/2024 |
+| frontend-car2go | interaction | 0c2c961 | feat(interaction): mechanic_component | - | 25/09/2024 |
+| frontend-car2go | payment | 11ca4b5 | feat(payment): added route for mechanic check and revision components | - | 25/09/2024 |
+| frontend-car2go | authentication | 30e75a2 | merge with interaction | - | 25/09/2024 |
+| frontend-car2go | authentication | 54740c4 | merge with payment | - | 25/09/2024 |
+</div>
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
