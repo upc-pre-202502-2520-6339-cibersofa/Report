@@ -104,7 +104,7 @@ Para el desarrollo de la entrega TP1, se opto por dividir el trabajo de la sigui
 
 **Evidencia**:
 
-<!-- ![TB1](assets/commit.jpg) -->
+![TP1](assets/evidencia-tp1.jpg)
 
 ----
 # Student Outcome
@@ -2237,13 +2237,23 @@ Para el presente sprint se ha desarrollado el FrontEnd. Para el despliegue se em
 - Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
 - Gitflow: Flujo de trabajo colaborativo. Nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
 - GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
-- Vercel: Plataforma que automatiza webs que nos permitió alojar y desplegar nuestra el landing page.
-- Firebase: Plataforma que nos permitio el hacer un deploy del JSON.
+- Vercel: Plataforma que automatiza webs que nos permitió alojar y desplegar nuestra el JSON.
 
+ _Link_: https://car2go-fake-api.vercel.app/
 
+- Firebase: Plataforma que nos permitio el hacer un deploy del FrontEnd.
+
+_Link_: https://car2go-c60fa.web.app/ 
+
+![deploy](assets/firebase.jpg)
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
+![TP1](assets/evidencia-tp1.jpg)
+
+---
+
+![TP](assets/git-clones.jpg)
 
 # VI. Conclusiones y recomendaciones
 ## Conclusiones
