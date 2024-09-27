@@ -2251,10 +2251,6 @@ _Link_: https://car2go-c60fa.web.app/
 
 ![TP1](assets/evidencia-tp1.jpg)
 
----
-
-![TP](assets/git-clones.jpg)
-
 # VI. Conclusiones y recomendaciones
 ## Conclusiones
 
