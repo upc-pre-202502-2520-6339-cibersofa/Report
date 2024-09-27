@@ -54,12 +54,20 @@
 
 |Versión|Fecha|Autor|Descripción de modificación|
 |-------|-----|-----|---------------------------|
-|V0.1|23/08/2024|Harold|Creación del repositorio|
+|V0.1|23/09/2024|Harold|Creación del repositorio|
 |V0.2|24/08/2024|Franco| Capitulo 1|
-|V0.3|03/08/2024|Franco<br>Joaquin|Finalización del capitulo 2|
-|V0.4|04/08/2024|Karito|Finalización del capitulo 3|
-|V0.5|04/08/2024|Harold<br>Gerald<br>Franco|Finalización del capitulo 4|
-|V0.6|04/08/2024|Franco|Finalización del capitulo 5|
+|V0.3|03/09/2024|Franco<br>Joaquin|Finalización del capitulo 2|
+|V0.4|04/09/2024|Karito|Finalización del capitulo 3|
+|V0.5|04/09/2024|Harold<br>Gerald<br>Franco|Finalización del capitulo 4|
+|V0.6|04/09/2024|Franco|Finalización del capitulo 5|
+|V1.0|08/09/2024|Todos|Entrega de TB1|
+|V1.1|15/09/2024|Todos|Reunion para correcciones de TB1 y planteamiento de TP1 (sprint 2)|
+|V1.2|22/09/2024|Harold|Creación de repositorio para FronEnd|
+|V1.3|23/08/2024|Franco|Implemetacion de vista para BC autenthication y correciones para el deploy|
+|V1.4|25/08/2024|Joaquin|Implemetacion de vista para BC interaction|
+|V1.5|25/08/2024|Gerald|Implemetacion de vista para BC vehicle|
+|V1.6|26/08/2024|Karito|Implemetacion de vista para BC vehicle|
+|V1.7|26/08/2024|Harold|Implemetacion de vista para BC payment|
 
 ---
 **Project Report Collaboration Insights**
@@ -81,6 +89,23 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 ![TB1](assets/commit.jpg)
 
+---
+_TP1_
+
+Para el desarrollo de la entrega TP1, se opto por dividir el trabajo de la siguiente forma:
+
+| Integrante                          | Actvidades Asignadas                                                                                                                                                |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Barrionuevo Reto,  Jean Franco Joel | - LandingPage <br> - BC autenthication <br> - Deploy de FrontEnd |
+| Carranza Tesen, Joaquin Enrique     | - BC interaction                                                                                                             |
+| Mayta López, Harold                 | - BC payment                                                                                                        |
+| Medina Chocce, Karito Dianeth       | - BC vehicle                                                                                                                                    |
+| Serrano Uchuya, Gerald Patricio     | - BC vehicle                                                                                                                                     |
+
+**Evidencia**:
+
+<!-- ![TB1](assets/commit.jpg) -->
+
 ----
 # Student Outcome
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
@@ -94,24 +119,24 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
   </tr>
   <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
-    <td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo. Trabajé en el Capítulo 1. En el Capítulo 2, me encargué de la corrección de las entrevistas y de la investigación de los competidores. Diseñé el Diagrama de Contexto de la Arquitectura del Software para el Capítulo 4. Finalmente, en el Capítulo 5, trabajé en la implementación de las funcionalidades del sistema. <br>
-        <br>Carranza Tesen, Joaquin Enrique<br> TB1: Para esta entrega, desarrollé el Capítulo 2, en el cual busqué competidores para nuestra startup, realicé un análisis competitivo y evalué las estrategias y tácticas frente a ellos. Además, modelé las entrevistas para cada segmento objetivo con el fin de recopilar información de manera óptima. Posteriormente, analicé cada entrevista según su respectivo segmento. Con base en la información recopilada, elaboré los User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping.  <br>
-        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br>
-        <br>Medina Chocce, Karito Dianeth<br> TB1: Para esta entrega, realicé una entrevista al segmento objetivo de talleres mecánicos para comprender mejor sus necesidades y desafíos. Con base en la información recopilada, desarrollé el Capítulo 3 del proyecto, que incluyó el mapeo de escenarios futuros (To-Be Scenario Mapping), la creación de historias de usuario (User Stories), el mapeo del impacto (Impact Mapping) y la elaboración del backlog del producto (Product Backlog). Estas actividades fueron fundamentales para asegurar que el desarrollo de la plataforma se alinee con las expectativas del sector y para colaborar de manera efectiva con el equipo multidisciplinario en el proyecto. <br>
-        <br>Serrano Uchuya, Gerald Patricio<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo de vendedores. Además, desarrollé la sección de Information Architecture, donde organizamos la información relevante de la plataforma en grupos, añadimos etiquetas, y describimos la navegación y el sistema de búsqueda. Finalmente, diseñé los diagramas de clases y de base de datos. <br>
+    <td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo. Trabajé en el Capítulo 1. En el Capítulo 2, me encargué de la corrección de las entrevistas y de la investigación de los competidores. Diseñé el Diagrama de Contexto de la Arquitectura del Software para el Capítulo 4. Finalmente, en el Capítulo 5, trabajé en la implementación de las funcionalidades del sistema. <br> TP1: <br>
+        <br>Carranza Tesen, Joaquin Enrique<br> TB1: Para esta entrega, desarrollé el Capítulo 2, en el cual busqué competidores para nuestra startup, realicé un análisis competitivo y evalué las estrategias y tácticas frente a ellos. Además, modelé las entrevistas para cada segmento objetivo con el fin de recopilar información de manera óptima. Posteriormente, analicé cada entrevista según su respectivo segmento. Con base en la información recopilada, elaboré los User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping.  <br> TP1: <br>
+        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: <br>
+        <br>Medina Chocce, Karito Dianeth<br> TB1: Para esta entrega, realicé una entrevista al segmento objetivo de talleres mecánicos para comprender mejor sus necesidades y desafíos. Con base en la información recopilada, desarrollé el Capítulo 3 del proyecto, que incluyó el mapeo de escenarios futuros (To-Be Scenario Mapping), la creación de historias de usuario (User Stories), el mapeo del impacto (Impact Mapping) y la elaboración del backlog del producto (Product Backlog). Estas actividades fueron fundamentales para asegurar que el desarrollo de la plataforma se alinee con las expectativas del sector y para colaborar de manera efectiva con el equipo multidisciplinario en el proyecto. <br> TP1: <br>
+        <br>Serrano Uchuya, Gerald Patricio<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo de vendedores. Además, desarrollé la sección de Information Architecture, donde organizamos la información relevante de la plataforma en grupos, añadimos etiquetas, y describimos la navegación y el sistema de búsqueda. Finalmente, diseñé los diagramas de clases y de base de datos. <br> TP1: <br>
    </td>
-    <td>TB1<br>Car2Go fue diseñado con el propósito de brindar una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos elegidos, junto con una organización meticulosa de la información, no solo aseguran una coherencia visual, sino que también hacen que la navegación y el acceso a las funciones clave sean más sencillos para los usuarios.<br>
+    <td>TB1<br>Car2Go fue diseñado con el propósito de brindar una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos elegidos, junto con una organización meticulosa de la información, no solo aseguran una coherencia visual, sino que también hacen que la navegación y el acceso a las funciones clave sean más sencillos para los usuarios.<br> TP1: <br>
 </tr>
 <br><br>
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
-<td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los compradores de autos de segunda mano, así como los problemas y oportunidades que enfrentan en su búsqueda. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br>
-        <br>Carranza Tesen, Joaquin Enrique<br> TB1:  La investigación realizada sobre el mercado de autos de segunda mano me permitió identificar las principales necesidades y desafíos de los compradores, vendedores y talleres mecánicos. Utilicé esta información para desarrollar el Capítulo 2, que incluye un análisis competitivo y la creación de perfiles de usuario, matrices de tareas y mapeos de la experiencia de los usuarios. Este trabajo me ayudó a entender mejor el sector y cómo las soluciones de software pueden mejorar la transparencia y la seguridad en las transacciones. La experiencia adquirida me permitió enfocar el proyecto de manera más efectiva, asegurando que las funcionalidades de la plataforma sean útiles y relevantes para este mercado. <br>
-        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br>
-        <br>Medina Chocce, Karito Dianeth<br> TB1: La entrevista realizada a talleres mecánicos me permitió identificar sus principales necesidades y problemas. Utilicé esta información para desarrollar el Capítulo 3, que abarca el mapeo de escenarios futuros, historias de usuario, mapeo del impacto y backlog del producto. Este trabajo me permitió entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me ayudó a enfocar el proyecto de manera efectiva, garantizando que las funcionalidades de la plataforma sean relevantes y útiles para el dominio de aplicación. <br>
-        <br>Serrano Uchuya, Gerald Patricio<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los vendedores de autos, así como los problemas y oportunidades que enfrentan con sus clientes. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br>
+<td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los compradores de autos de segunda mano, así como los problemas y oportunidades que enfrentan en su búsqueda. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br> TP1: <br>
+        <br>Carranza Tesen, Joaquin Enrique<br> TB1:  La investigación realizada sobre el mercado de autos de segunda mano me permitió identificar las principales necesidades y desafíos de los compradores, vendedores y talleres mecánicos. Utilicé esta información para desarrollar el Capítulo 2, que incluye un análisis competitivo y la creación de perfiles de usuario, matrices de tareas y mapeos de la experiencia de los usuarios. Este trabajo me ayudó a entender mejor el sector y cómo las soluciones de software pueden mejorar la transparencia y la seguridad en las transacciones. La experiencia adquirida me permitió enfocar el proyecto de manera más efectiva, asegurando que las funcionalidades de la plataforma sean útiles y relevantes para este mercado. <br> TP1: <br>
+        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: <br>
+        <br>Medina Chocce, Karito Dianeth<br> TB1: La entrevista realizada a talleres mecánicos me permitió identificar sus principales necesidades y problemas. Utilicé esta información para desarrollar el Capítulo 3, que abarca el mapeo de escenarios futuros, historias de usuario, mapeo del impacto y backlog del producto. Este trabajo me permitió entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me ayudó a enfocar el proyecto de manera efectiva, garantizando que las funcionalidades de la plataforma sean relevantes y útiles para el dominio de aplicación. <br> TP1: <br>
+        <br>Serrano Uchuya, Gerald Patricio<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los vendedores de autos, así como los problemas y oportunidades que enfrentan con sus clientes. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br> TP1: <br>
 </td>
-    <td>TB1<br>Car2Go fue diseñado con el propósito de brindar una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos elegidos, junto con una organización meticulosa de la información, no solo aseguran una coherencia visual, sino que también hacen que la navegación y el acceso a las funciones clave sean más sencillos para los usuarios.<br>
+    <td>TB1<br>Car2Go fue diseñado con el propósito de brindar una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos elegidos, junto con una organización meticulosa de la información, no solo aseguran una coherencia visual, sino que también hacen que la navegación y el acceso a las funciones clave sean más sencillos para los usuarios.<br> TP1: <br>
 </tr>
 <br><br>
 </table>
@@ -2207,6 +2232,15 @@ En este segundo sprint, nos hemos enfocado únicamente en el desarrollo del Fron
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Para el presente sprint se ha desarrollado el FrontEnd. Para el despliegue se emplearon las siguientes herramientas:
+
+- Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
+- Gitflow: Flujo de trabajo colaborativo. Nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
+- GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+- Vercel: Plataforma que automatiza webs que nos permitió alojar y desplegar nuestra el landing page.
+- Firebase: Plataforma que nos permitio el hacer un deploy del JSON.
+
+
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2264,4 +2298,5 @@ En este segundo sprint, nos hemos enfocado únicamente en el desarrollo del Fron
   <br><br>
 * Web Applications: https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?node-id=32-311&t=7O5WsCcQsFaskDcW-1
   <br><br>
-* Exposición: https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq
+* Exposición TB1: https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq
+* Exposicion TP1: 
