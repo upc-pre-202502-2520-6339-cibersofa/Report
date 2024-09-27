@@ -562,10 +562,89 @@ y la escasez de herramientas tecnológicas que faciliten transacciones confiable
 
 #### 1.2.2.4. Lean UX Canvas
 
+<table>
+    <tr>
+        <th >BUSINESS PROBLEM</th>
+        <th>SOLUTION IDEAS</th>
+        <th>BUSINESS OUTCOMES</th>
+    </tr>
+    <tr>
+        <td >
+            En la industria de compra y venta de autos de segunda mano, existe una falta de plataformas tecnológicas integradas que permitan a los compradores y vendedores realizar transacciones de manera segura y eficiente. Este vacío tecnológico dificulta la confianza entre las partes y la optimización del proceso de compra-venta, lo que conduce a una experiencia frustrante y puede limitar el crecimiento de este mercado. Además, mejorar la colaboración entre compradores, vendedores y talleres técnicos es crucial para garantizar transacciones transparentes y satisfactorias para todas las partes involucradas.
+        </td>
+        <td>
+            Desarrollo de una plataforma tecnológica para la gestión eficiente de la compra y venta de autos usados.<br>
+            Implementación de funciones estándar y premium para satisfacer las necesidades de compradores y vendedores.<br>
+            Creación de un sistema de verificación de vehículos y un directorio de talleres técnicos para garantizar la calidad y seguridad de las transacciones.<br>
+            Integración de herramientas para simplificar la gestión de transacciones, incluyendo la verificación de pagos, la documentación de vehículos, y la logística de entrega y recepción.
+        </td>
+        <td>
+            <ul>
+                <li>Incremento de la adopción y fidelización de usuarios: Al brindar una solución completa para la compra-venta de autos usados, aspiramos a aumentar significativamente la aceptación en nuestra plataforma.</li>
+                <li>Optimización de la eficiencia operativa: Al implementar procesos automatizados y herramientas de gestión avanzada, buscamos optimizar la eficiencia operativa de la plataforma.</li>
+                <li>Reducción de pérdidas económicas: Al ofrecer un sistema de gestión de transacciones sólido, minimizaremos las pérdidas económicas tanto para los usuarios como para la plataforma, garantizando ingresos recurrentes y una mejor experiencia de usuario.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <th >USER & CUSTOMERS</th>
+        <th> </th>
+        <th>USER BENEFITS</th>
+    </tr>
+    <tr>
+        <td >
+            <ul>
+                <li>Compradores de autos usados</li>
+                <li>Vendedores de autos usados</li>
+                <li>Talleres técnicos</li>
+            </ul>
+        </td>
+        <td>
+        </td>
+        <td>
+            <ul>
+                <li>Seguridad al tener un sistema de verificación sólido</li>
+                <li>Facilidad al realizar transacciones de compra-venta</li>
+                <li>Acceso a servicios de inspección y certificación confiables</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <th>HYPOTHESIS</th>
+        <th>WHAT'S THE MOST IMPORTANT THING WE NEED TO LEARN FIRST?</th>
+        <th>WHATS THE LEAST AMOUNT OF WORK WE NEED TO DO TO LEARN THE MOST IMPORTANT THING?</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Creemos que, al implementar un riguroso proceso de verificación para cada vehículo, podemos aumentar la confianza de los compradores en la calidad y la transparencia de las ofertas, lo que reducirá las disputas y aumentará la seguridad en las transacciones.</li>
+                <li>Creemos que, al ofrecer un proceso de compra-venta optimizado y sin freemium, podemos mejorar la eficiencia del proceso, lo que resultará en una mayor satisfacción del cliente y optimizará las transacciones al asegurar que solo se muestren vehículos que cumplen con los estándares de calidad.</li>
+                <li>Creemos que, al integrar un sistema de inspecciones y certificaciones realizadas por talleres técnicos, podemos fortalecer la demanda de servicios técnicos, lo que beneficiará a los talleres y garantizará la calidad de los vehículos disponibles.</li>
+                <li>Creemos que, al proporcionar una interfaz intuitiva y amigable, podemos mejorar la experiencia general del usuario para hacer más fácil el proceso de compra-venta, lo que resultará en mayor adopción de la plataforma de compra-venta de autos de 2Go.</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Los recursos que deberíamos tener para mantener una plataforma de tal magnitud.</li>
+                <li>La tecnología necesaria para operar eficazmente la plataforma.</li>
+                <li>La demanda y disposición del mercado para la plataforma.</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Realizar encuestas y entrevistas con usuarios potenciales para evaluar la demanda y disposición del mercado.</li>
+                <li>Desarrollar un prototipo de baja fidelidad sobre la interfaz y las funcionalidades clave de la plataforma para obtener retroalimentación temprana de los usuarios.</li>
+                <li>Plantear un formato de resolución planteando las tareas más importantes e información faltante.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<!--
 <div align=center>
     <img src="assets/lean_ux_canvas.png" alt="Canvas" width="500" />
 </div>
-
+-->
 ## 1.3. Segmentos Objetivo
 
 **Compradores de Autos Usados:**
