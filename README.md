@@ -2126,6 +2126,7 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+En este segundo sprint, nos hemos enfocado únicamente en el desarrollo del Frontend de nuestra aplicación web, sin abordar servicios web. Por esta razón, no hemos elaborado la documentación referente al uso de dichos servicios en esta ocasión.
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
