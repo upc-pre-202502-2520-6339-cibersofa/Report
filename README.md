@@ -2110,7 +2110,6 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 | US-19          | Reembolso de Transacción | TW-06   | Implementar solicitud de reembolso  | Desarrollar un formulario en Angular para solicitar reembolsos y manejar la lógica correspondiente.  | 5                 | Franco Barrionuevo   | Done   |
 | US-29          | Reportes de Transacciones | TW-07   | Crear visualización de reportes  | Desarrollar un componente en Angular para mostrar reportes de transacciones con gráficos y tablas dinámicas.  | 7                 | Gerald Serrano   | Done   |
 | US-12          | Informe de Certificación | TW-8   | Implementar visualización de informes  | Crear un componente que muestre informes de certificación de autos, utilizando servicios para cargar datos.  | 5                 | Joaquin Carranza   | Done   |
-|
 | US-24          | Sistema de Soporte en Vivo | TW-9   | Implementar chat de soporte  | Desarrollar un componente de chat en vivo para soporte al usuario, integrando la funcionalidad con Angular.  | 6                 | Harold Mayta   | Done   |
 |
 
