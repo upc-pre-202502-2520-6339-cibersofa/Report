@@ -104,7 +104,7 @@ Para el desarrollo de la entrega TP1, se opto por dividir el trabajo de la sigui
 
 **Evidencia**:
 
-![TP1](assets/evidencia-tp1.jpg)
+![TP1](assets/com-tp1.jpg)
 
 ----
 # Student Outcome
@@ -2325,7 +2325,7 @@ _Link_: https://car2go-c60fa.web.app/
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
-![TP1](assets/evidencia-tp1.jpg)
+![TP1](assets/com-tp1.jpg)
 
 # VI. Conclusiones y recomendaciones
 ## Conclusiones
