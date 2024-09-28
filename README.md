@@ -54,12 +54,20 @@
 
 |Versión|Fecha|Autor|Descripción de modificación|
 |-------|-----|-----|---------------------------|
-|V0.1|23/08/2024|Harold|Creación del repositorio|
+|V0.1|23/09/2024|Harold|Creación del repositorio|
 |V0.2|24/08/2024|Franco| Capitulo 1|
-|V0.3|03/08/2024|Franco<br>Joaquin|Finalización del capitulo 2|
-|V0.4|04/08/2024|Karito|Finalización del capitulo 3|
-|V0.5|04/08/2024|Harold<br>Gerald<br>Franco|Finalización del capitulo 4|
-|V0.6|04/08/2024|Franco|Finalización del capitulo 5|
+|V0.3|03/09/2024|Franco<br>Joaquin|Finalización del capitulo 2|
+|V0.4|04/09/2024|Karito|Finalización del capitulo 3|
+|V0.5|04/09/2024|Harold<br>Gerald<br>Franco|Finalización del capitulo 4|
+|V0.6|04/09/2024|Franco|Finalización del capitulo 5|
+|V1.0|08/09/2024|Todos|Entrega de TB1|
+|V1.1|15/09/2024|Todos|Reunion para correcciones de TB1 y planteamiento de TP1 (sprint 2)|
+|V1.2|22/09/2024|Harold|Creación de repositorio para FronEnd|
+|V1.3|23/08/2024|Franco|Implemetacion de vista para BC autenthication y correciones para el deploy|
+|V1.4|25/08/2024|Joaquin|Implemetacion de vista para BC interaction|
+|V1.5|25/08/2024|Gerald|Implemetacion de vista para BC vehicle|
+|V1.6|26/08/2024|Karito|Implemetacion de vista para BC vehicle|
+|V1.7|26/08/2024|Harold|Implemetacion de vista para BC payment|
 
 ---
 **Project Report Collaboration Insights**
@@ -81,6 +89,23 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 ![TB1](assets/commit.jpg)
 
+---
+_TP1_
+
+Para el desarrollo de la entrega TP1, se opto por dividir el trabajo de la siguiente forma:
+
+| Integrante                          | Actvidades Asignadas                                                                                                                                                |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Barrionuevo Reto,  Jean Franco Joel | - LandingPage <br> - BC autenthication <br> - Deploy de FrontEnd |
+| Carranza Tesen, Joaquin Enrique     | - BC interaction                                                                                                             |
+| Mayta López, Harold                 | - BC payment                                                                                                        |
+| Medina Chocce, Karito Dianeth       | - BC vehicle                                                                                                                                    |
+| Serrano Uchuya, Gerald Patricio     | - BC vehicle                                                                                                                                     |
+
+**Evidencia**:
+
+![TP1](assets/com-tp1.jpg)
+
 ----
 # Student Outcome
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
@@ -93,25 +118,25 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
-    <td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo. Trabajé en el Capítulo 1. En el Capítulo 2, me encargué de la corrección de las entrevistas y de la investigación de los competidores. Diseñé el Diagrama de Contexto de la Arquitectura del Software para el Capítulo 4. Finalmente, en el Capítulo 5, trabajé en la implementación de las funcionalidades del sistema. <br>
-        <br>Carranza Tesen, Joaquin Enrique<br> TB1: Para esta entrega, desarrollé el Capítulo 2, en el cual busqué competidores para nuestra startup, realicé un análisis competitivo y evalué las estrategias y tácticas frente a ellos. Además, modelé las entrevistas para cada segmento objetivo con el fin de recopilar información de manera óptima. Posteriormente, analicé cada entrevista según su respectivo segmento. Con base en la información recopilada, elaboré los User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping.  <br>
-        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br>
-        <br>Medina Chocce, Karito Dianeth<br> TB1: Para esta entrega, realicé una entrevista al segmento objetivo de talleres mecánicos para comprender mejor sus necesidades y desafíos. Con base en la información recopilada, desarrollé el Capítulo 3 del proyecto, que incluyó el mapeo de escenarios futuros (To-Be Scenario Mapping), la creación de historias de usuario (User Stories), el mapeo del impacto (Impact Mapping) y la elaboración del backlog del producto (Product Backlog). Estas actividades fueron fundamentales para asegurar que el desarrollo de la plataforma se alinee con las expectativas del sector y para colaborar de manera efectiva con el equipo multidisciplinario en el proyecto. <br>
-        <br>Serrano Uchuya, Gerald Patricio<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo de vendedores. Además, desarrollé la sección de Information Architecture, donde organizamos la información relevante de la plataforma en grupos, añadimos etiquetas, y describimos la navegación y el sistema de búsqueda. Finalmente, diseñé los diagramas de clases y de base de datos. <br>
+    <td><b>Comunica oralmente con efectividad a diferentes rangos de audiencia.</b></td>
+    <td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo. Trabajé en el Capítulo 1. En el Capítulo 2, me encargué de la corrección de las entrevistas y de la investigación de los competidores. Diseñé el Diagrama de Contexto de la Arquitectura del Software para el Capítulo 4. Finalmente, en el Capítulo 5, trabajé en la implementación de las funcionalidades del sistema. <br> TP1: Para esta entrega me encargué de conectar y desplegar la aplicación web junto con el fake-api<br>
+        <br>Carranza Tesen, Joaquin Enrique<br> TB1: Para esta entrega, desarrollé el Capítulo 2, en el cual busqué competidores para nuestra startup, realicé un análisis competitivo y evalué las estrategias y tácticas frente a ellos. Al presentar estos hallazgos, adapté mi comunicación a diferentes rangos de audiencia, asegurándome de que todos comprendieran la información. Además, modelé las entrevistas para cada segmento objetivo con el fin de recopilar información de manera óptima. Posteriormente, analicé cada entrevista según su respectivo segmento. Con base en la información recopilada, elaboré los User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping, presentando los resultados de forma clara y accesible para cada grupo interesado.  <br> TP1:Mi enfoque principal fue en la creación de un apartado dirigido a talleres mecánicos, donde era crucial que los datos técnicos y las interacciones fueran claros y fáciles de usar para los mecánicos. Al estar en la etapa de frontend, la comunicación con el resto del equipo fue clave para asegurar que la interfaz respondiera a las necesidades del usuario final. Adapté mi estilo de comunicación según el rango de audiencia, facilitando el entendimiento entre los miembros del equipo. Aprendí a colaborar de manera eficiente, participando en reuniones para validar el diseño y asegurándome de que las decisiones se tomaran objetivamente, con base en la usabilidad y la experiencia del usuario. <br>
+        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: Durante este sprint, tuve un rol clave en la implementación del perfil de usuario, los planes de suscripción y el formulario de pago, además de desarrollar la vista 'Page not found', utilizando Angular. Pude comunicar mis avances y resultados de manera clara, destacando las mejoras en mis componentes y las correcciones que implementé en los de mis compañeros, ajustando mi mensaje según el nivel de comprensión técnica de los miembros del equipo y otras audiencias involucradas.<br>
+        <br>Medina Chocce, Karito Dianeth<br> TB1: Para esta entrega, realicé una entrevista al segmento objetivo de talleres mecánicos para comprender mejor sus necesidades y desafíos. Con base en la información recopilada, desarrollé el Capítulo 3 del proyecto, que incluyó el mapeo de escenarios futuros (To-Be Scenario Mapping), la creación de historias de usuario (User Stories), el mapeo del impacto (Impact Mapping) y la elaboración del backlog del producto (Product Backlog). Estas actividades fueron fundamentales para asegurar que el desarrollo de la plataforma se alinee con las expectativas del sector y para colaborar de manera efectiva con el equipo multidisciplinario en el proyecto. <br> TP1: En mi participación en un equipo multidisciplinario, trabajé en la implementación del edit-profile en el frontend utilizando Angular. Mi enfoque en la eficacia y eficiencia se reflejó en las correcciones que realicé en el reporte del proyecto, en particular en el capítulo 5, donde revisé y optimicé el sprint backlog 1 y completé el sprint backlog 2, asegurando que nuestro progreso fuera claro y coherente.<br>
+        <br>Serrano Uchuya, Gerald Patricio<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo de vendedores. Además, desarrollé la sección de Information Architecture, donde organizamos la información relevante de la plataforma en grupos, añadimos etiquetas, y describimos la navegación y el sistema de búsqueda. Finalmente, diseñé los diagramas de clases y de base de datos. <br> TP1: Para esta entrega, implementé el componente que muestra los detalles de los autos en venta tanto para la vista de comprador como vendedor. Además, agregué los acceptance tests a partir de los user stories. <br>
    </td>
-    <td>TB1<br>Car2Go fue diseñado con el propósito de brindar una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos elegidos, junto con una organización meticulosa de la información, no solo aseguran una coherencia visual, sino que también hacen que la navegación y el acceso a las funciones clave sean más sencillos para los usuarios.<br>
+    <td>Car2Go fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y diferenciarse de la competencia. Los estilos visuales seleccionados, junto con una cuidadosa organización de la información, garantizan no solo coherencia estética, sino también una navegación intuitiva y un acceso simplificado a las funciones clave para todos los usuarios, independientemente de su nivel de experiencia.<br>
 </tr>
 <br><br>
   <tr>
-    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
-<td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los compradores de autos de segunda mano, así como los problemas y oportunidades que enfrentan en su búsqueda. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br>
-        <br>Carranza Tesen, Joaquin Enrique<br> TB1:  La investigación realizada sobre el mercado de autos de segunda mano me permitió identificar las principales necesidades y desafíos de los compradores, vendedores y talleres mecánicos. Utilicé esta información para desarrollar el Capítulo 2, que incluye un análisis competitivo y la creación de perfiles de usuario, matrices de tareas y mapeos de la experiencia de los usuarios. Este trabajo me ayudó a entender mejor el sector y cómo las soluciones de software pueden mejorar la transparencia y la seguridad en las transacciones. La experiencia adquirida me permitió enfocar el proyecto de manera más efectiva, asegurando que las funcionalidades de la plataforma sean útiles y relevantes para este mercado. <br>
-        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br>
-        <br>Medina Chocce, Karito Dianeth<br> TB1: La entrevista realizada a talleres mecánicos me permitió identificar sus principales necesidades y problemas. Utilicé esta información para desarrollar el Capítulo 3, que abarca el mapeo de escenarios futuros, historias de usuario, mapeo del impacto y backlog del producto. Este trabajo me permitió entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me ayudó a enfocar el proyecto de manera efectiva, garantizando que las funcionalidades de la plataforma sean relevantes y útiles para el dominio de aplicación. <br>
-        <br>Serrano Uchuya, Gerald Patricio<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los vendedores de autos, así como los problemas y oportunidades que enfrentan con sus clientes. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br>
+    <td><b>Comunica por escrito con efectividad a diferentes rangos de audiencia</b></td>
+<td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los compradores de autos de segunda mano, así como los problemas y oportunidades que enfrentan en su búsqueda. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br> TP1: Durante el desarrollo del proyecto, profundicé mis conocimientos en el sector del desarrollo de software, enfocándome en la implementación de soluciones prácticas a través de la corrección de informes y la planificación de sprints.<br>
+        <br>Carranza Tesen, Joaquin Enrique<br> TB1:  La investigación realizada sobre el mercado de autos de segunda mano me permitió identificar las principales necesidades y desafíos de los compradores, vendedores y talleres mecánicos. Utilicé esta información para desarrollar el Capítulo 2, que incluye un análisis competitivo y la creación de perfiles de usuario, matrices de tareas y mapeos de la experiencia de los usuarios. Al documentar mis hallazgos, adapté el lenguaje y el formato para comunicarme por escrito con efectividad a diferentes rangos de audiencia, asegurando que la información fuera accesible y comprensible. Este trabajo me ayudó a entender mejor el sector y cómo las soluciones de software pueden mejorar la transparencia y la seguridad en las transacciones. La experiencia adquirida me permitió enfocar el proyecto de manera más efectiva, asegurando que las funcionalidades de la plataforma sean útiles y relevantes para este mercado. <br> TP1: En este proyecto, mi enfoque se centró en el sector de la compra y venta de autos de segunda mano, donde desarrollé el frontend de una plataforma que facilita la conexión entre mecánicos, compradores y vendedores. Si bien solo hemos desarrollado la interfaz de usuario hasta ahora, tuve que familiarizarme con los procesos del sector automotriz, especialmente en lo que respecta a las inspecciones y certificaciones de vehículos. Al documentar mis hallazgos y recomendaciones, aseguré que mi comunicación por escrito fuera clara y adaptada a diferentes rangos de audiencia, permitiendo que tanto técnicos como no técnicos comprendieran la información. Esto me permitió entender mejor cómo adaptar la plataforma a las necesidades de los mecánicos y otros usuarios, asegurando que el diseño del frontend fuera intuitivo y que reflejara la información técnica necesaria para este tipo de operaciones. <br>
+        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: Durante este sprint, participé activamente en la implementación del perfil de usuario, los planes de suscripción y su respectivo formulario de pago, así como en la creación de la vista 'Page not found', utilizando Angular. A través de estas funcionalidades, adquirí experiencia en el sector de ventas y suscripción de servicios, aplicando soluciones de software a un entorno empresarial real. Mi capacidad de comunicación escrita me permitió documentar y compartir de manera efectiva las mejoras implementadas en mis componentes, así como las correcciones que aporté a los de mis compañeros, adaptando el nivel de detalle según la audiencia, desde desarrolladores técnicos hasta partes interesadas no técnicas.<br>
+        <br>Medina Chocce, Karito Dianeth<br> TB1: La entrevista realizada a talleres mecánicos me permitió identificar sus principales necesidades y problemas. Utilicé esta información para desarrollar el Capítulo 3, que abarca el mapeo de escenarios futuros, historias de usuario, mapeo del impacto y backlog del producto. Este trabajo me permitió entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me ayudó a enfocar el proyecto de manera efectiva, garantizando que las funcionalidades de la plataforma sean relevantes y útiles para el dominio de aplicación. <br> TP1: Durante el desarrollo del proyecto, profundicé mis conocimientos en el sector del desarrollo de software, enfocándome en la implementación de soluciones prácticas a través de la corrección de informes y la planificación de sprints. Esto me permitió familiarizarme con las metodologías ágiles y las necesidades específicas de los usuarios, contribuyendo así a la efectividad de nuestro trabajo en el sector empresarial.<br>
+        <br>Serrano Uchuya, Gerald Patricio<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los vendedores de autos, así como los problemas y oportunidades que enfrentan con sus clientes. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br> TP1: Los tests de aceptación desarrollados nos permiten garantizar que las funcionalidades implementadas en la aplicación web cumplan con sus objetivos y satisfagan las necesidades del usuario, así como el tipo de datos que deben ingresar y el output recibido por parte del sistema.<br>
 </td>
-    <td>TB1<br>Car2Go fue diseñado con el propósito de brindar una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos elegidos, junto con una organización meticulosa de la información, no solo aseguran una coherencia visual, sino que también hacen que la navegación y el acceso a las funciones clave sean más sencillos para los usuarios.<br>
+    <td>Car2Go fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos visuales cuidadosamente seleccionados y la organización meticulosa de la información garantizan una coherencia visual sólida. Además, facilitan la navegación y el acceso a las funciones clave, haciendo que tanto usuarios con experiencia técnica como aquellos menos familiarizados con la tecnología puedan utilizar la plataforma de manera eficiente. <br>
 </tr>
 <br><br>
 </table>
@@ -201,7 +226,15 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 ### [VI: Conclusiones y recomendaciones](#vi-conclusiones-y-recomendaciones)
 - [Conclusiones](#conclusiones)
 - [VII. Bibliografía](#vii-bibliografía)
@@ -537,10 +570,89 @@ y la escasez de herramientas tecnológicas que faciliten transacciones confiable
 
 #### 1.2.2.4. Lean UX Canvas
 
+<table>
+    <tr>
+        <th >BUSINESS PROBLEM</th>
+        <th>SOLUTION IDEAS</th>
+        <th>BUSINESS OUTCOMES</th>
+    </tr>
+    <tr>
+        <td >
+            En la industria de compra y venta de autos de segunda mano, existe una falta de plataformas tecnológicas integradas que permitan a los compradores y vendedores realizar transacciones de manera segura y eficiente. Este vacío tecnológico dificulta la confianza entre las partes y la optimización del proceso de compra-venta, lo que conduce a una experiencia frustrante y puede limitar el crecimiento de este mercado. Además, mejorar la colaboración entre compradores, vendedores y talleres técnicos es crucial para garantizar transacciones transparentes y satisfactorias para todas las partes involucradas.
+        </td>
+        <td>
+            Desarrollo de una plataforma tecnológica para la gestión eficiente de la compra y venta de autos usados.<br>
+            Implementación de funciones estándar y premium para satisfacer las necesidades de compradores y vendedores.<br>
+            Creación de un sistema de verificación de vehículos y un directorio de talleres técnicos para garantizar la calidad y seguridad de las transacciones.<br>
+            Integración de herramientas para simplificar la gestión de transacciones, incluyendo la verificación de pagos, la documentación de vehículos, y la logística de entrega y recepción.
+        </td>
+        <td>
+            <ul>
+                <li>Incremento de la adopción y fidelización de usuarios: Al brindar una solución completa para la compra-venta de autos usados, aspiramos a aumentar significativamente la aceptación en nuestra plataforma.</li>
+                <li>Optimización de la eficiencia operativa: Al implementar procesos automatizados y herramientas de gestión avanzada, buscamos optimizar la eficiencia operativa de la plataforma.</li>
+                <li>Reducción de pérdidas económicas: Al ofrecer un sistema de gestión de transacciones sólido, minimizaremos las pérdidas económicas tanto para los usuarios como para la plataforma, garantizando ingresos recurrentes y una mejor experiencia de usuario.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <th >USER & CUSTOMERS</th>
+        <th> </th>
+        <th>USER BENEFITS</th>
+    </tr>
+    <tr>
+        <td >
+            <ul>
+                <li>Compradores de autos usados</li>
+                <li>Vendedores de autos usados</li>
+                <li>Talleres técnicos</li>
+            </ul>
+        </td>
+        <td>
+        </td>
+        <td>
+            <ul>
+                <li>Seguridad al tener un sistema de verificación sólido</li>
+                <li>Facilidad al realizar transacciones de compra-venta</li>
+                <li>Acceso a servicios de inspección y certificación confiables</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <th>HYPOTHESIS</th>
+        <th>WHAT'S THE MOST IMPORTANT THING WE NEED TO LEARN FIRST?</th>
+        <th>WHATS THE LEAST AMOUNT OF WORK WE NEED TO DO TO LEARN THE MOST IMPORTANT THING?</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Creemos que, al implementar un riguroso proceso de verificación para cada vehículo, podemos aumentar la confianza de los compradores en la calidad y la transparencia de las ofertas, lo que reducirá las disputas y aumentará la seguridad en las transacciones.</li>
+                <li>Creemos que, al ofrecer un proceso de compra-venta optimizado y sin freemium, podemos mejorar la eficiencia del proceso, lo que resultará en una mayor satisfacción del cliente y optimizará las transacciones al asegurar que solo se muestren vehículos que cumplen con los estándares de calidad.</li>
+                <li>Creemos que, al integrar un sistema de inspecciones y certificaciones realizadas por talleres técnicos, podemos fortalecer la demanda de servicios técnicos, lo que beneficiará a los talleres y garantizará la calidad de los vehículos disponibles.</li>
+                <li>Creemos que, al proporcionar una interfaz intuitiva y amigable, podemos mejorar la experiencia general del usuario para hacer más fácil el proceso de compra-venta, lo que resultará en mayor adopción de la plataforma de compra-venta de autos de 2Go.</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Los recursos que deberíamos tener para mantener una plataforma de tal magnitud.</li>
+                <li>La tecnología necesaria para operar eficazmente la plataforma.</li>
+                <li>La demanda y disposición del mercado para la plataforma.</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Realizar encuestas y entrevistas con usuarios potenciales para evaluar la demanda y disposición del mercado.</li>
+                <li>Desarrollar un prototipo de baja fidelidad sobre la interfaz y las funcionalidades clave de la plataforma para obtener retroalimentación temprana de los usuarios.</li>
+                <li>Plantear un formato de resolución planteando las tareas más importantes e información faltante.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<!--
 <div align=center>
     <img src="assets/lean_ux_canvas.png" alt="Canvas" width="500" />
 </div>
-
+-->
 ## 1.3. Segmentos Objetivo
 
 **Compradores de Autos Usados:**
@@ -1175,45 +1287,46 @@ En esta sección, el equipo presenta el To-Be Scenario Mapping para Car2Go, que 
 
 **Cuadro de User  Stories**
 
-| Epic / Story ID | Título                                           | Descripción                                                                                                                                               | Criterios de Aceptación                                                                                                                                                                                              | Relacionado con (Epic ID) |
-|-----------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| US-01           | Registro de Usuario                              | Como visitante quiero registrarme en la plataforma para poder comprar o vender autos.                                                                     | Dado que el visitante está en la página de registro, cuando ingresa datos válidos, entonces el sistema debe crear una cuenta y redirigir al usuario al perfil.                                                       | EP01                      |
-| US-02           | Búsqueda de Autos                                | Como comprador quiero buscar autos usados por diferentes criterios para encontrar opciones adecuadas.                                                     | Dado que el comprador está en la página de búsqueda, cuando aplica filtros y hace una búsqueda, entonces se deben mostrar los autos que cumplen con los criterios.                                                   | EP01                      |
-| US-03           | Listado de Autos                                 | Como vendedor quiero listar mi auto para que los compradores puedan verlo y contactarme.                                                                  | Dado que el vendedor está en la página de listado, cuando completa el formulario y envía la información, entonces el auto debe aparecer en el listado de autos disponibles.                                          | EP01                      |
-| US-04           | Edición de Listado de Autos                      | Como vendedor quiero poder editar el listado de mi auto para actualizar la información si es necesario.                                                   | Dado que el vendedor está en su listado de autos, cuando edita la información y guarda los cambios, entonces el listado debe actualizarse con la nueva información.                                                  | EP01                      |
-| US-05           | Eliminación de Listado de Autos                  | Como vendedor quiero eliminar el listado de mi auto si decido no venderlo.                                                                                | Dado que el vendedor está en la página de gestión de listados, cuando selecciona eliminar un listado, entonces el auto debe ser removido de la plataforma.                                                           | EP01                      |
-| US-06           | Ver Detalles del Auto                            | Como comprador quiero ver los detalles completos de un auto al hacer clic en él.                                                                          | Dado que el comprador está en la lista de autos, cuando hace clic en un auto, entonces se deben mostrar los detalles completos del auto en una nueva página.                                                         | EP01                      |
-| US-07           | Comparar Autos                                   | Como comprador quiero comparar diferentes autos para tomar una decisión informada.                                                                        | Dado que el comprador está en la página de comparación, cuando selecciona varios autos, entonces se debe mostrar una tabla comparativa con las características clave de cada auto.                                   | EP01                      |
-| US-08           | Guardar Autos Favoritos                          | Como comprador quiero guardar autos favoritos para revisarlos más tarde.                                                                                  | Dado que el comprador está viendo un auto, cuando selecciona "guardar como favorito", entonces el auto debe ser añadido a su lista de favoritos accesible desde su perfil.                                           | EP01                      |
-| US-09           | Notificaciones de Nuevos Listados                | Como comprador quiero recibir notificaciones cuando se listan autos que coinciden con mis criterios de búsqueda.                                          | Dado que el comprador ha guardado sus criterios de búsqueda, cuando se listan nuevos autos que coinciden, entonces debe recibir una notificación por correo electrónico o en la plataforma.                          | EP01                      |
-| US-10           | Notificación de Actualización de Estado del Auto | Como comprador quiero recibir notificaciones cuando el estado del auto en el que estoy interesado cambia, como si se vende o se actualiza la información. | Dado que el comprador ha mostrado interés en un auto, cuando el estado del auto cambia (se vende, se actualiza, etc.), entonces el sistema debe enviar una notificación al comprador sobre el cambio.                | EP01                      |
-| US-11           | Solicitud de Certificación                       | Como vendedor quiero solicitar una certificación para mi auto a un taller técnico.                                                                        | Dado que el vendedor está en la página de certificación, cuando envía una solicitud, entonces el sistema debe notificar al taller técnico y al vendedor.                                                             | EP02                      |
-| US-12           | Informe de Certificación                         | Como comprador quiero ver el informe de certificación del auto para asegurarme de su estado.                                                              | Dado que el comprador está en la página del auto, cuando selecciona ver el informe de certificación, entonces el sistema debe mostrar el informe generado por el taller técnico.                                     | EP02                      |
-| US-13           | Solicitud de Inspección de Auto                  | Como vendedor quiero solicitar una inspección del auto para asegurar su calidad antes de listar.                                                          | Dado que el vendedor está en la página de inspección, cuando envía una solicitud de inspección, entonces el taller técnico debe recibir una notificación para coordinar la inspección.                               | EP02                      |
-| US-14           | Confirmación de Inspección                       | Como vendedor quiero recibir una confirmación de la inspección para saber que está programada.                                                            | Dado que el taller técnico ha programado una inspección, cuando confirma la cita, entonces el vendedor debe recibir una notificación con los detalles de la inspección.                                              | EP02                      |
-| US-15           | Actualización del Estado de Inspección           | Como vendedor quiero recibir actualizaciones sobre el estado de la inspección de mi auto.                                                                 | Dado que la inspección está en progreso, cuando el taller técnico actualiza el estado, entonces el vendedor debe recibir una notificación con la actualización.                                                      | EP02                      |
-| US-16           | Sistema de Pago Seguro                           | Como comprador quiero un sistema de pago seguro para completar mi compra.                                                                                 | Dado que el comprador está en la página de pago, cuando introduce los datos de pago y confirma, entonces el sistema debe procesar el pago y enviar una confirmación.                                                 | EP03                      |
-| US-17           | Confirmación de Transacción                      | Como vendedor quiero recibir una confirmación de la venta para asegurarme de que la transacción fue exitosa.                                              | Dado que la venta ha sido completada, cuando el sistema procesa el pago, entonces el vendedor debe recibir una confirmación por correo electrónico y en su perfil.                                                   | EP03                      |
-| US-18           | Historial de Transacciones                       | Como usuario quiero ver un historial de todas mis transacciones realizadas en la plataforma.                                                              | Dado que el usuario está en su perfil, cuando accede a la sección de historial, entonces debe ver una lista de todas las transacciones realizadas con detalles.                                                      | EP03                      |
-| US-19           | Reembolso de Transacción                         | Como comprador quiero solicitar un reembolso en caso de problemas con la compra.                                                                          | Dado que el comprador está en la página de historial de transacciones, cuando solicita un reembolso, entonces el sistema debe procesar la solicitud y notificar al comprador del estado.                             | EP03                      |
-| US-20           | Registro de Taller Técnico                       | Como taller técnico quiero registrarme en la plataforma para ofrecer servicios de certificación.                                                          | Dado que el taller está en la página de registro, cuando completa el formulario y envía la información, entonces el taller debe aparecer en la lista de talleres disponibles.                                        | EP04                      |
-| US-21           | Gestión de Solicitudes de Certificación          | Como taller técnico quiero gestionar solicitudes de certificación para coordinar inspecciones.                                                            | Dado que el taller está en la página de gestión de solicitudes, cuando recibe una nueva solicitud, entonces debe poder aceptarla o rechazarla y coordinar una inspección.                                            | EP04                      |
-| US-22           | Actualización de Información del Taller          | Como taller técnico quiero actualizar mi información de perfil en la plataforma.                                                                          | Dado que el taller técnico está en la página de perfil, cuando actualiza la información y guarda los cambios, entonces el perfil debe reflejar la nueva información.                                                 | EP04                      |
-| US-23           | Revisión de Certificaciones                      | Como taller técnico quiero revisar todas las certificaciones realizadas para llevar un registro.                                                          | Dado que el taller está en la página de certificaciones, cuando revisa la lista, entonces debe ver todas las certificaciones realizadas con detalles y estado.                                                       | EP04                      |
-| US-24           | Sistema de Soporte en Vivo                       | Como usuario quiero tener acceso a soporte en vivo para resolver problemas o dudas de inmediato.                                                          | Dado que el usuario está en la plataforma, cuando accede a la función de soporte en vivo, entonces debe poder iniciar una conversación con un agente de soporte.                                                     | EP05                      |
-| US-25           | Centro de Ayuda y FAQ                            | Como usuario quiero acceder a un centro de ayuda y FAQ para encontrar respuestas a mis preguntas comunes.                                                 | Dado que el usuario está en la página de ayuda, cuando busca en el centro de ayuda, entonces debe encontrar respuestas a preguntas frecuentes y soluciones a problemas comunes.                                      | EP05                      |
-| US-26           | Envío de Consultas por Correo Electrónico        | Como usuario quiero enviar consultas por correo electrónico para recibir asistencia cuando no puedo usar el chat en vivo.                                 | Dado que el usuario está en la página de soporte, cuando envía una consulta por correo electrónico, entonces el sistema debe confirmar la recepción y proporcionar un tiempo estimado de respuesta.                  | EP05                      |
-| US-27           | Optimización para Móviles                        | Como usuario quiero que la plataforma esté optimizada para dispositivos móviles para tener una experiencia de usuario fluida.                             | Dado que el usuario accede a la plataforma desde un dispositivo móvil, entonces la interfaz debe adaptarse y funcionar correctamente en pantallas pequeñas.                                                          | EP06                      |
-| US-28           | Pruebas de Usabilidad en Móviles                 | Como desarrollador quiero realizar pruebas de usabilidad en móviles para asegurar una experiencia de usuario eficiente.                                   | Dado que el desarrollador está realizando pruebas, cuando evalúa la plataforma en diferentes dispositivos móviles, entonces debe identificar y corregir problemas de usabilidad.                                     | EP06                      |
-| US-29           | Reportes de Transacciones                        | Como administrador quiero generar reportes de transacciones para analizar el rendimiento de la plataforma.                                                | Dado que el administrador está en la página de reportes, cuando solicita un reporte, entonces debe recibir un archivo con los datos de transacciones en el formato solicitado.                                       | EP07                      |
-| US-30           | Análisis de Datos de Uso                         | Como administrador quiero analizar datos de uso de la plataforma para identificar tendencias y oportunidades de mejora.                                   | Dado que el administrador está en la página de análisis, cuando selecciona el rango de fechas y los parámetros de análisis, entonces debe recibir gráficos y estadísticas detalladas.                                | EP07                      |
-| US-31           | Publicar Anuncio Destacado                       | Como vendedor quiero poder publicar un anuncio destacado para que mi auto tenga mayor visibilidad.                                                        | Dado que el vendedor está en la página de listado, cuando selecciona "Anuncio Destacado" y paga, el auto debe aparecer en una sección destacada de la plataforma.                                                    | EP08                      |
-| US-32           | Configuración de Duración del Anuncio Destacado  | Como vendedor quiero elegir la duración de tiempo durante la cual mi anuncio estará destacado.                                                            | Dado que el vendedor está configurando el anuncio destacado, cuando selecciona la duración y paga, el sistema debe mostrar el anuncio en la sección destacada durante el tiempo elegido.                             | EP08                      |
-| US-33           | Crear Promociones para Compradores               | Como administrador quiero crear promociones y descuentos para atraer compradores a la plataforma.                                                         | Dado que el administrador está en la página de promociones, cuando crea una nueva promoción, el sistema debe aplicarla a los autos correspondientes y notificar a los compradores.                                   | EP08                      |
-| US-34           | Notificaciones de Promociones                    | Como comprador quiero recibir notificaciones sobre nuevas promociones y descuentos disponibles.                                                           | Dado que el comprador ha optado por recibir notificaciones, cuando se crea una nueva promoción, el sistema debe enviar una notificación por correo electrónico o en la plataforma.                                   | EP08                      |
-| US-35           | Gestión de Promociones para Vendedores           | Como vendedor quiero gestionar mis propias promociones para aumentar la visibilidad de mis autos.                                                         | Dado que el vendedor está en la página de promociones, cuando crea o actualiza una promoción, el sistema debe reflejar los cambios en la visibilidad de su anuncio.                                                  | EP08                      |
-| US-36           | Reportes de Efectividad de Promociones           | Como administrador quiero ver reportes sobre la efectividad de las promociones para analizar su impacto.                                                  | Dado que el administrador está en la página de reportes de promociones, cuando solicita un reporte, debe recibir información detallada sobre la efectividad de las promociones en términos de vistas y conversiones. | EP08                      |
-| US-37           | Configuración de Anuncios Publicitarios          | Como administrador quiero configurar anuncios publicitarios en la plataforma para monetizar el tráfico.                                                   | Dado que el administrador está en la página de configuración de anuncios, cuando establece parámetros y carga anuncios, estos deben mostrarse en áreas específicas de la plataforma.                                 | EP08                      |
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|-----------------|--------|-------------|-------------------------|---------------------------|
+| US-01 | Registro de Usuario | Como visitante quiero registrarme en la plataforma para poder comprar o vender autos. | **Escenario: Registro exitoso de usuario**<br>Given El visitante está en la página de registro<br>When Ingresa datos válidos<br>Then El sistema debe crear una cuenta y redirigir al usuario al perfil.<br><br>**Escenario: Registro con datos inválidos**<br>Given El visitante está en la página de registro<br>When Ingresa datos inválidos<br>Then El sistema debe mostrar un mensaje de error. | EP01 |
+| US-02 | Búsqueda de Autos | Como comprador quiero buscar autos usados por diferentes criterios para encontrar opciones adecuadas. | **Escenario: Búsqueda exitosa de autos**<br>Given El comprador está en la página de búsqueda<br>When Aplica filtros y hace una búsqueda<br>Then Se deben mostrar los autos que cumplen con los criterios.<br><br>**Escenario: No hay autos encontrados**<br>Given El comprador está en la página de búsqueda<br>When No hay autos que cumplan con los criterios<br>Then El sistema debe mostrar un mensaje indicando que no se encontraron resultados. | EP01 |
+| US-03 | Listado de Autos | Como vendedor quiero listar mi auto para que los compradores puedan verlo y contactarme. | **Escenario: Listado exitoso de un auto**<br>Given El vendedor está en la página de listado<br>When Completa el formulario y envía la información<br>Then El auto debe aparecer en el listado de autos disponibles.<br><br>**Escenario: Listado fallido por información incompleta**<br>Given El vendedor está en la página de listado<br>When Envía información incompleta<br>Then El sistema debe mostrar un mensaje de error y no listar el auto. | EP01 |
+| US-04 | Edición de Listado de Autos | Como vendedor quiero poder editar el listado de mi auto para actualizar la información si es necesario. | **Escenario: Edición exitosa del listado**<br>Given El vendedor está en su listado de autos<br>When Edita la información y guarda los cambios<br>Then El listado debe actualizarse con la nueva información.<br><br>**Escenario: Edición fallida por información inválida**<br>Given El vendedor está en su listado de autos<br>When Intenta editar información inválida<br>Then El sistema debe mostrar un mensaje de error. | EP01 |
+| US-05 | Eliminación de Listado de Autos | Como vendedor quiero eliminar el listado de mi auto si decido no venderlo. | **Escenario: Eliminación exitosa de un listado**<br>Given El vendedor está en la página de gestión de listados<br>When Selecciona eliminar un listado<br>Then El auto debe ser removido de la plataforma.<br><br>**Escenario: Eliminación fallida por auto no existente**<br>Given El vendedor está en la página de gestión de listados<br>When Intenta eliminar un auto que no existe<br>Then El sistema debe mostrar un mensaje de error. | EP01 |
+| US-06 | Ver Detalles del Auto | Como comprador quiero ver los detalles completos de un auto al hacer clic en él. | **Escenario: Visualización exitosa de detalles**<br>Given El comprador está en la lista de autos<br>When Hace clic en un auto<br>Then Se deben mostrar los detalles completos del auto en una nueva página.<br><br>**Escenario: Visualización fallida por auto no disponible**<br>Given El comprador hace clic en un auto que ya no está disponible<br>Then El sistema debe mostrar un mensaje indicando que el auto no está disponible. | EP01 |
+| US-07 | Comparar Autos | Como comprador quiero comparar diferentes autos para tomar una decisión informada. | **Escenario: Comparación exitosa de autos**<br>Given El comprador está en la página de comparación<br>When Selecciona varios autos<br>Then Se debe mostrar una tabla comparativa con las características clave de cada auto.<br><br>**Escenario: Comparación fallida por selección insuficiente**<br>Given El comprador intenta comparar menos de dos autos<br>Then El sistema debe mostrar un mensaje de error indicando que se necesitan al menos dos autos. | EP01 |
+| US-08 | Guardar Autos Favoritos | Como comprador quiero guardar autos favoritos para revisarlos más tarde. | **Escenario: Guardado exitoso de un auto favorito**<br>Given El comprador está viendo un auto<br>When Selecciona "guardar como favorito"<br>Then El auto debe ser añadido a su lista de favoritos accesible desde su perfil.<br><br>**Escenario: Guardado fallido por auto ya en favoritos**<br>Given El comprador intenta guardar un auto que ya está en su lista de favoritos<br>Then El sistema debe mostrar un mensaje indicando que el auto ya está guardado. | EP01 |
+| US-09 | Notificaciones de Nuevos Listados | Como comprador quiero recibir notificaciones cuando se listan autos que coinciden con mis criterios de búsqueda. | **Escenario: Recepción exitosa de notificaciones**<br>Given El comprador ha guardado sus criterios de búsqueda<br>When Se listan nuevos autos que coinciden<br>Then Debe recibir una notificación por correo electrónico o en la plataforma.<br><br>**Escenario: No hay criterios guardados**<br>Given El comprador no ha guardado ningún criterio de búsqueda<br>Then El sistema debe mostrar un mensaje indicando que no hay criterios guardados. | EP01 |
+| US-10 | Notificación de Actualización de Estado del Auto | Como comprador quiero recibir notificaciones cuando el estado del auto en el que estoy interesado cambia, como si se vende o se actualiza la información. | **Escenario: Recepción de notificación de cambio de estado**<br>Given El comprador ha mostrado interés en un auto<br>When El estado del auto cambia (se vende, se actualiza, etc.)<br>Then El sistema debe enviar una notificación al comprador sobre el cambio.<br><br>**Escenario: No se envían notificaciones a compradores no interesados**<br>Given El comprador no está interesado en el auto<br>Then El sistema no debe enviar notificaciones relacionadas. | EP01 |
+| US-11 | Solicitud de Certificación | Como vendedor quiero solicitar una certificación para mi auto a un taller técnico. | **Escenario: Solicitud exitosa de certificación**<br>Given El vendedor está en la página de certificación<br>When Envía una solicitud<br>Then El sistema debe notificar al taller técnico y al vendedor.<br><br>**Escenario: Solicitud fallida por campos incompletos**<br>Given El vendedor no completa todos los campos necesarios<br>When Intenta enviar la solicitud<br>Then El sistema debe mostrar un mensaje de error. | EP02 |
+| US-12 | Informe de Certificación | Como comprador quiero ver el informe de certificación del auto para asegurarme de su estado. | **Escenario: Visualización exitosa del informe de certificación**<br>Given El comprador está en la página del auto<br>When Selecciona ver el informe de certificación<br>Then El sistema debe mostrar el informe generado por el taller técnico.<br><br>**Escenario: Informe no disponible**<br>Given El informe de certificación no está disponible<br>Then El sistema debe mostrar un mensaje indicando que no se puede mostrar el informe. | EP02 |
+| US-13 | Solicitud de Inspección de Auto | Como vendedor quiero solicitar una inspección del auto para asegurar su calidad antes de listar. | **Escenario: Solicitud exitosa de inspección**<br>Given El vendedor está en la página de inspección<br>When Envía una solicitud de inspección<br>Then El taller técnico debe recibir una notificación para coordinar la inspección.<br><br>**Escenario: Solicitud fallida por información insuficiente**<br>Given El vendedor no proporciona información suficiente<br>Then El sistema debe mostrar un mensaje de error. | EP02 |
+| US-14 | Confirmación de Inspección | Como vendedor quiero recibir una confirmación de la inspección para saber que está programada. | **Escenario: Recepción de confirmación de inspección**<br>Given El taller técnico ha programado una inspección<br>When Confirma la cita<br>Then El vendedor debe recibir una notificación con los detalles de la inspección.<br><br>**Escenario: No se envía notificación si la inspección no está programada**<br>Given La inspección no se ha programado<br>Then El vendedor no debe recibir notificación. | EP02 |
+| US-15 | Actualización del Estado de Inspección | Como vendedor quiero recibir actualizaciones sobre el estado de la inspección de mi auto. | **Escenario: Recepción de actualización sobre el estado de inspección**<br>Given La inspección está en progreso<br>When El taller técnico actualiza el estado<br>Then El vendedor debe recibir una notificación con la actualización.<br><br>**Escenario: No se envían actualizaciones si no hay inspección programada**<br>Given El vendedor no tiene una inspección programada<br>Then No debe recibir actualizaciones. | EP02 |
+| US-16 | Sistema de Pago Seguro | Como comprador quiero un sistema de pago seguro para realizar mis transacciones. | **Escenario: Pago exitoso**<br>Given El comprador está en la página de pago<br>When Introduce los datos de pago y confirma<br>Then El sistema debe procesar el pago y enviar una confirmación.<br><br>**Escenario: Pago fallido por datos inválidos**<br>Given El comprador introduce datos de pago inválidos<br>Then El sistema debe mostrar un mensaje de error. | EP03 |
+| US-17 | Confirmación de Transacción | Como vendedor quiero recibir una confirmación de la transacción una vez que se complete la venta. | **Escenario: Recepción de confirmación de venta**<br>Given La venta ha sido completada<br>When El sistema procesa el pago<br>Then El vendedor debe recibir una confirmación por correo electrónico y en su perfil.<br><br>**Escenario: Transacción fallida**<br>Given La transacción falla<br>Then El vendedor debe recibir un mensaje de error indicando la falla. | EP03 |
+| US-18 | Historial de Transacciones | Como usuario quiero acceder a un historial de todas mis transacciones realizadas en la plataforma. | **Escenario: Visualización del historial de transacciones**<br>Given El usuario está en su perfil<br>When Accede a la sección de historial<br>Then Debe ver una lista de todas las transacciones realizadas con detalles.<br><br>**Escenario: No hay transacciones realizadas**<br>Given El usuario no ha realizado transacciones<br>Then El sistema debe mostrar un mensaje indicando que no hay transacciones. | EP03 |
+| US-19 | Reembolso de Transacción | Como comprador quiero solicitar un reembolso si no estoy satisfecho con la compra. | **Escenario: Solicitud exitosa de reembolso**<br>Given El comprador está en la página de historial de transacciones<br>When Solicita un reembolso<br>Then El sistema debe procesar la solicitud y notificar al comprador del estado.<br><br>**Escenario: Solicitud fallida por falta de derecho a reembolso**<br>Given El comprador no tiene derecho a reembolso<br>Then El sistema debe mostrar un mensaje de error. | EP03 |
+| US-20 | Registro de Taller Técnico | Como taller técnico quiero registrarme en la plataforma para ofrecer mis servicios. | **Escenario: Registro exitoso del taller**<br>Given El taller está en la página de registro<br>When Completa el formulario y envía la información<br>Then El taller debe aparecer en la lista de talleres disponibles.<br><br>**Escenario: Registro fallido por campos incompletos**<br>Given El taller no completa todos los campos requeridos<br>Then El sistema debe mostrar un mensaje de error. | EP02 |
+| US-21 | Gestión de Solicitudes de Certificación | Como taller técnico quiero gestionar las solicitudes de certificación recibidas para brindar un mejor servicio. | **Escenario: Gestión exitosa de solicitudes**<br>Given El taller está en la página de gestión de solicitudes<br>When Recibe una nueva solicitud<br>Then Debe poder aceptarla o rechazarla y notificar al vendedor. | EP02 |
+| US-22 | Registro de Usuarios de Talleres | Como administrador quiero permitir que talleres técnicos se registren para ofrecer servicios. | **Escenario: Registro exitoso de taller**<br>Given El taller está en la página de registro<br>When Completa el formulario con datos válidos<br>Then El taller debe recibir una notificación de confirmación.<br><br>**Escenario: Registro fallido por información incompleta**<br>Given El taller no completa todos los campos necesarios<br>Then El sistema debe mostrar un mensaje de error. | EP02 |
+| US-23 | Asignación de Inspecciones | Como administrador quiero asignar inspecciones a talleres técnicos para gestionar mejor las solicitudes. | **Escenario: Asignación exitosa de inspección**<br>Given El administrador está en la página de gestión de inspecciones<br>When Asigna una inspección a un taller<br>Then El taller debe recibir una notificación sobre la nueva asignación.<br><br>**Escenario: Asignación fallida por taller no disponible**<br>Given El taller no está disponible<br>Then El sistema debe mostrar un mensaje de error. | EP02 |
+| US-24 | Gestión de Usuarios | Como administrador quiero gestionar la información de los usuarios para mantener la plataforma actualizada. | **Escenario: Actualización exitosa de usuario**<br>Given El administrador está en la página de gestión de usuarios<br>When Actualiza la información de un usuario<br>Then Los cambios deben reflejarse en el sistema.<br><br>**Escenario: Actualización fallida por datos inválidos**<br>Given El administrador intenta actualizar con datos inválidos<br>Then El sistema debe mostrar un mensaje de error. | EP02 |
+| US-25 | Generación de Reportes | Como administrador quiero generar reportes de actividad en la plataforma para analizar el rendimiento. | **Escenario: Generación exitosa de reporte**<br>Given El administrador está en la página de reportes<br>When Selecciona los criterios y genera el reporte<br>Then El sistema debe crear un reporte descargable.<br><br>**Escenario: No se generan reportes si no hay datos**<br>Given No hay actividad en el período seleccionado<br>Then El sistema debe mostrar un mensaje indicando que no hay datos. | EP02 |
+| US-26 | Notificaciones de Actividad | Como administrador quiero recibir notificaciones sobre la actividad en la plataforma para actuar rápidamente. | **Escenario: Recepción de notificaciones**<br>Given El administrador ha configurado sus preferencias de notificación<br>When Ocurre una nueva actividad importante<br>Then Debe recibir una notificación en tiempo real.<br><br>**Escenario: Sin notificaciones si no hay actividad**<br>Given No hay nueva actividad<br>Then No debe recibir ninguna notificación. | EP02 |
+| US-27 | Gestión de Talleres | Como administrador quiero gestionar los talleres técnicos registrados para mantener un control. | **Escenario: Actualización exitosa de información del taller**<br>Given El administrador está en la página de gestión de talleres<br>When Actualiza la información de un taller<br>Then Los cambios deben reflejarse en el sistema.<br><br>**Escenario: Eliminación fallida de taller no existente**<br>Given El administrador intenta eliminar un taller que no existe<br>Then El sistema debe mostrar un mensaje de error. | EP02 |
+| US-28 | Registro de Compradores | Como administrador quiero registrar nuevos compradores para que puedan utilizar la plataforma. | **Escenario: Registro exitoso de comprador**<br>Given El administrador está en la página de registro de compradores<br>When Completa el formulario con datos válidos<br>Then El comprador debe recibir una notificación de confirmación.<br><br>**Escenario: Registro fallido por información incompleta**<br>Given El administrador no completa todos los campos necesarios<br>Then El sistema debe mostrar un mensaje de error. | EP02 |
+| US-29 | Soporte al Usuario | Como administrador quiero ofrecer soporte a los usuarios para resolver sus problemas rápidamente. | **Escenario: Resolución exitosa de un problema**<br>Given Un usuario presenta un problema a través del sistema de soporte<br>When El administrador responde y resuelve el problema<br>Then El usuario debe recibir una notificación de resolución.<br><br>**Escenario: Problema no resuelto**<br>Given El administrador no puede resolver el problema de inmediato<br>Then Debe informar al usuario sobre el estado de su consulta. | EP02 |
+| US-30 | Monitoreo de Transacciones | Como administrador quiero monitorear las transacciones realizadas en la plataforma para detectar fraudes. | **Escenario: Monitoreo exitoso de transacciones**<br>Given El administrador accede a la sección de transacciones<br>When Revisa las transacciones recientes<br>Then Debe poder ver detalles de cada transacción.<br><br>**Escenario: Detección de actividad sospechosa**<br>Given Se identifica una transacción sospechosa<br>Then El sistema debe enviar una alerta al administrador. | EP03 |
+| US-31 | Validación de Pagos | Como administrador quiero validar los pagos realizados para asegurar la integridad del sistema. | **Escenario: Validación exitosa de un pago**<br>Given Un pago ha sido realizado<br>When El administrador revisa el estado del pago<br>Then El sistema debe confirmar la validez del pago.<br><br>**Escenario: Pago inválido detectado**<br>Given Un pago es marcado como inválido<br>Then El administrador debe recibir una notificación de alerta. | EP03 |
+| US-32 | Gestión de Reembolsos | Como administrador quiero gestionar las solicitudes de reembolso para asegurar la satisfacción del comprador. | **Escenario: Aprobación exitosa de un reembolso**<br>Given Un comprador solicita un reembolso<br>When El administrador revisa la solicitud y la aprueba<br>Then El sistema debe procesar el reembolso y notificar al comprador.<br><br>**Escenario: Reembolso denegado**<br>Given La solicitud de reembolso no cumple con las políticas<br>Then El administrador debe notificar al comprador sobre la denegación. | EP03 |
+| US-33 | Actualización de Políticas | Como administrador quiero actualizar las políticas de uso de la plataforma para mantenerlas al día. | **Escenario: Actualización exitosa de políticas**<br>Given El administrador está en la sección de políticas<br>When Realiza cambios y guarda<br>Then Las nuevas políticas deben estar disponibles para los usuarios.<br><br>**Escenario: Actualización fallida por errores en el texto**<br>Given El administrador intenta guardar cambios inválidos<br>Then El sistema debe mostrar un mensaje de error. | EP03 |
+| US-34 | Comunicación con Usuarios | Como administrador quiero comunicarme con los usuarios para informarles sobre actualizaciones importantes. | **Escenario: Comunicación exitosa con usuarios**<br>Given El administrador tiene un mensaje para enviar<br>When Envía un mensaje a los usuarios<br>Then Todos los usuarios deben recibir la comunicación.<br><br>**Escenario: Envío fallido por problemas en el sistema**<br>Given El sistema no está disponible<br>Then El administrador debe recibir una notificación de error. | EP03 |
+| US-35 | Seguimiento de Quejas | Como administrador quiero hacer un seguimiento de las quejas de los usuarios para mejorar el servicio. | **Escenario: Seguimiento exitoso de una queja**<br>Given Un usuario presenta una queja<br>When El administrador toma nota y responde<br>Then El usuario debe recibir actualizaciones sobre su queja.<br><br>**Escenario: Queja no resuelta**<br>Given La queja requiere más tiempo para resolver<br>Then El administrador debe informar al usuario sobre el estado. | EP03 |
+| US-36 | Implementación de Mejoras | Como administrador quiero implementar mejoras basadas en el feedback de los usuarios para optimizar la plataforma. | **Escenario: Implementación exitosa de una mejora**<br>Given El administrador recibe feedback constructivo<br>When Decide implementar cambios<br>Then Las mejoras deben ser reflejadas en la plataforma.<br><br>**Escenario: No se implementan mejoras sin justificación**<br>Given El feedback no es relevante<br>Then El administrador debe informar a los usuarios sobre la decisión. | EP03 |
+| US-37 | Evaluación de Desempeño de Talleres | Como administrador quiero evaluar el desempeño de los talleres técnicos para asegurar un buen servicio. | **Escenario: Evaluación exitosa de un taller**<br>Given El administrador revisa el desempeño de un taller<br>When Analiza las métricas y feedback<br>Then Debe poder asignar una calificación y dejar comentarios.<br><br>**Escenario: Evaluación no realizada por falta de datos**<br>Given No hay datos suficientes sobre un taller<br>Then El sistema debe mostrar un mensaje indicando que no se puede evaluar. | EP02 |
+
 
 **Technical Stories**
 
@@ -1667,7 +1780,7 @@ Los diagramas de componentes muestran una vista de las relaciones de los compone
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-<img src="assets/classDiagram.jpeg" alt="class diagram"/>
+<img src="assets/class-diagram.png" alt="class diagram"/>
 
 ### 4.7.2. Class Dictionary
 
@@ -1682,7 +1795,7 @@ Clase User
 | email              | string | Correo del usuario              |
 | password           | string | Contraseña del usuario          |
 | role               | string | Rol del usuario                 |
-| subscriptionPlan   | string | Plan de subscripción            |
+| subscriptionPlan   | Subscription | Plan de subscripción            |
 | transactionHistory | list   | Historial de transacciones      |
 
 <br><br/>
@@ -1693,8 +1806,10 @@ Clase SubscriptionPlan
 | planID   | int    | Identificador único del plan de subscripción |
 | name     | string | Nombre del plan                              |
 | price    | double | Precio del plan                              |
-| features | list   | Características del plan                     |
-
+| startDate| date   | Fecha de inicio de la subscripción           |
+| endDate  | date   | Fecha de expiración de la subscripción       |
+| status   | string | Estado de la subscripción                    |
+ 
 <br><br/>
 Clase Transaction
 
@@ -1719,16 +1834,8 @@ Clase Payment
 | paymentDate   | date        | Fecha del pago                 |
 
 <br><br/>
-Clase Search
 
-| Atributo | Tipo   | Descripción                        |
-|----------|--------|------------------------------------|
-| searchID | int    | Identificador único de la búsqueda |
-| query    | string | Términos de la búsqueda            |
-| filters  | list   | Filtros de búsqueda                |
-| results  | list   | Resultados de la búsqueda          |
-
-<br><br/>
+<br>
 Clase Post
 
 | Atributo    | Tipo    | Descripción                  |
@@ -1814,7 +1921,7 @@ Clase Mechanic
 El sistema de gestión de bases de datos relacional (RDBMS) que utilizaremos para generar las tablas y establecer sus relaciones en nuestra plataforma será MySQL. Hemos elegido MySQL por su facilidad de uso y por su integración con MySQL Workbench, que nos proporciona una herramienta visual eficiente para la administración de la base de datos.
 
 ### 4.8.1 Database Diagram
-<img src="assets/databaseDiagram.png" alt="database diagram"/>
+<img src="assets/db-diagram.png" alt="database diagram"/>
 
 
 
@@ -1962,10 +2069,10 @@ Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-
 | Location                        | Reunión realizada mediante Discord                                                                                                                                                           |
 | Prepared By                     | Barrionuevo Reto, Jean Franco                                                                                                                                                                |
 | Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
-| Sprint n -1 Review              |
-| Resumen                         | Se creará la organización de Car2Go en Github y el repositorio de la organización.                                                                                                           |
-| Sprint n -1 Retrospective       |
-| Resumen                         | La landing page fue desarrollada utilizando HTML, CSS, Bootstrap y Next.js.                                                                                                                  |
+| Sprint  -1 Review               |
+| Resumen                         | No hubo sprint anterior.                                                                                                                                                                     |
+| Sprint  1 Retrospective         |
+| Resumen                         | Se creará la organización de Car2Go en Github y el repositorio de la organización.                                                                                                                  |
 | **Sprint Goal & User Stories**  |
 | Sprint 1 Velocity               | 21 points                                                                                                                                                                                    |
 | Sum of Story Points             | 21 points                                                                                                                                                                                    |
@@ -1974,16 +2081,18 @@ Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-
 ### 5.2.1.2. Sprint Backlog 1
 
 
-| id   | Título                  | Id  | Título                                              | Descripción                                                                                                   | Estimaciones(Horas) | Asignado a         | Estado (To-do/InProcess/ToReview/Done) |
-|------|-------------------------|-----|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|--------------------|----------------------------------------|
-| CW01 | Apartado del Header     | C01 | Header responsivo (Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3                   | Franco Barrionuevo | Done                                   |
-| CW02 | Apartado del Footer     | C02 | Footer responsivo (Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2                   | Karito Medina      | Done                                   |
-| CW03 | Apartado Home           | C03 | Home (Desarrollado en HTML y CSS)                   | Desarrollo e implementación de los estilos que corresponden a la sección What we offer. Debe ser responsive.  | 3                   | Harold Mayta       | Done                                   |
-| CW04 | Apartado Producto       | C04 | Producto (Desarrollado en HTML y CSS)               | Desarrollo e implementación de los estilos que corresponden a la sección . Debe ser responsive.               | 2                   | Gerald Serrano     | Done                                   |
-| CW05 | Apartado Contacto       | C05 | Sección "Contacto" (Desarrollado en HTML y CSS)     | Desarrollo e implementación de los estilos que corresponden a la sección Contacto. Debe ser responsive.       | 3                   | Franco Barrionuevo | Done                                   |
-| CW06 | Sección Sobre el Equipo | C06 | Información del Equipo (Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a la información del equipo. Debe ser responsive. | 3                   | Joaquin Carranza   | Done                                   |
-| CW07 | Apartado Planes         | C07 | Planes (Desarrollado en HTML y CSS)                 | Desarrollo e implementación de los estilos que corresponden a la sección Planes .                             | 3                   | Karito Medina      | Done                                   |
-| CW08 | Responsividad Completa  | C08 | Desarrollo responsive de toda la página             | Desarrollo e implementación de un estilo responsive en toda la página.                                        | 2                   | Franco Barrionuevo | Done                                   |
+| | Sprint # | | | | Sprint 1 | | |
+|-|----------|-|-|-|----------|-|-|
+| **User Story**        |                   | **Work Item/Task** |               |                                                    |                   |                 |        |
+| **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation (Hours)**    | **Assigned To** | **Status** |
+| US-01          | Registro de Usuario | TW-01   | Implementar formulario de registro | Desarrollar el frontend del formulario de registro, incluyendo validaciones de entrada. | 6                 | Franco Barrionuevo   | Done   |
+| US-01          | Registro de Usuario | TW-02   | Estilizar formulario de registro | Aplicar estilos CSS al formulario de registro para mejorar la experiencia visual. | 4                 | Gerald Serrano   | Done   |
+| US-02          | Búsqueda de Autos | TW-03   | Implementar sección de búsqueda | Crear la interfaz de búsqueda con HTML y CSS, añadiendo filtros y funcionalidad en JavaScript. | 5                 | Karito Medina   | Done   |
+| US-02          | Búsqueda de Autos | TW-04   | Estilizar sección de búsqueda  | Aplicar estilos CSS a la sección de búsqueda para que sea más atractiva y funcional.  | 4                 | Harold Mayta   | Done   |
+| US-03          | Listado de Autos | TW-05   | Desarrollar listado de autos  | Implementar la visualización del listado de autos usando HTML y CSS, con interactividad en JavaScript.  | 7                 | Joaquin Carranza   | Done   |
+| US-03          | Listado de Autos | TW-06   | Estilizar listado de autos  | Aplicar estilos CSS al listado de autos para mejorar la presentación y legibilidad.  | 4                 | Karito Medina   | Done   |
+| US-09          | Notificaciones de Nuevos Listados | TW-07   | Implementar sistema de notificaciones  | Desarrollar la funcionalidad de notificaciones usando JavaScript para alertar a los compradores sobre nuevos listados.  | 6                 | Joaquin Carranza   | Done   |
+| US-10          | Notificación de Actualización de Estado del Auto | TW-08   | Implementar notificaciones de estado  | Crear la funcionalidad en JavaScript que notifique a los compradores sobre cambios en el estado de los autos.  | 5                 | Harold Mayta   | Done   |
 
 
 
@@ -2007,7 +2116,7 @@ Link de la landing page desplegada: [Car2Go](https://upc-pre-si729-2402-wx51-g3-
 
 </div>
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 Para la entrega del Sprint 1, logramos completar el desarrollo, la implementación y el despliegue del Landing Page. Por esta razón, nos enfocamos en la sección de "acceptance-tests" en la implementación de los archivos feature que componen nuestro landing page. Estos features se basan en las Historias de Usuario especificadas en el sprint backlog, detallando cada uno de los escenarios que planeamos desarrollar.
 <div style="margin-left: auto;
@@ -2038,7 +2147,7 @@ Para la entrega del Sprint 1, logramos completar el desarrollo, la implementaci�
 
 Para la entrega del Sprint 1 se buscó alcanzar el desarrollo completo, implementación y despliegue de la landing page. La sección de "Testing" se centró en la implementación y prueba de los archivos feature que contienen las funcionalidades de la landing page de Car2Go.
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+### 5.2.1.5. Execution Evidence for Sprint Review
 
 En el sprint 1 se alcanzó un desarrollo parcial en la implementación del despliegue de la landing page. La página muestra varias secciones en las que el usuario puede encontrar información relevante sobre los servicios, planes y equipo de Car2Go. A continuación se presentan evidencias del progreso logrado:
 
@@ -2059,11 +2168,11 @@ En el sprint 1 se alcanzó un desarrollo parcial en la implementación del despl
 
 
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa.
 
 https://upc-pre-si729-2402-wx51-g3-cibersofa.github.io/Landing-page/
@@ -2078,7 +2187,7 @@ GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio pa
 
 Vercel: Plataforma que automatiza webs que nos permitió alojar y desplegar nuestra el landing page.
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
 
@@ -2090,6 +2199,141 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
 ![github](assets/commits_sprint1_2.png)
 </div>
 
+## 5.2.2. Sprint 2
+### 5.2.2.1. Sprint Planning 2
+ <div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+
+  | Sprint 2                        | Implementación de funcionalidades y desarrollo del frontend de la aplicación.                                                                                                                                 |
+  |---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | Sprint Planning Background      |
+  | Date                            | 15/09/2024                                                                                                                                                                                   |
+  | Time                            | 17:00 horas (GMT-5)                                                                                                                                                                          |
+  | Location                        | Reunión realizada mediante Discord                                                                                                                                                           |
+  | Prepared By                     | Barrionuevo Reto, Jean Franco                                                                                                                                                                |
+  | Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
+  | Sprint 1 Review              |
+  | Resumen                         | Se creó la organización de Car2Go en Github y el repositorio para el landing page de la organización.                                                                                                           |
+  | Sprint 1 Retrospective       |
+  | Resumen                         | La landing page fue desarrollada utilizando HTML, CSS, JS y Bootstrap                                                                                                                |
+  | **Sprint Goal & User Stories**  |
+  | Sprint 2 Velocity               | 41 points                                                                                                                                                                                    |
+  | Sum of Story Points             | 41 points                                                                                                                                                                                    |
+</div>
+
+### 5.2.2.2. Sprint Backlog 2
+
+| | Sprint # | | | | Sprint 2 | | |
+|-|----------|-|-|-|----------|-|-|
+| **User Story**        |                   | **Work Item/Task** |               |                                                    |                   |                 |        |
+| **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation (Hours)**    | **Assigned To** | **Status** |
+| US-02          | Búsqueda de Autos | TW-01   | Implementar lógica de búsqueda | Crear un componente de búsqueda en Angular para filtrar autos mediante diferentes criterios. | 6                 | Franco Barrionuevo   | Done   |
+| US-03          | Listado de Autos | TW-02   | Crear vista de listado de autos | Desarrollar un componente en Angular para visualizar autos listados con interactividad y paginación. | 7                 | Karito Medina   | Done   |
+| US-06          | Ver Detalles del Auto | TW-03   | Desarrollar página de detalles del auto | Implementar un componente que muestre los detalles completos de un auto, utilizando servicios para cargar datos dinámicamente. | 5                 | Gerald Serrano   | Done   |
+| US-07          | Comparar Autos | TW-04   | Implementar función de comparación  | Crear un componente en Angular para permitir la comparación de varios autos, mostrando sus características en una tabla.  | 6                 | Joaquin Carranza   | Done   |
+| US-16          | Sistema de Pago Seguro | TW-05   | Crear flujo de pago  | Desarrollar el componente de pago seguro en Angular, integrando la API de pagos.  | 8                 | Harold Mayta   | Done   |
+| US-19          | Reembolso de Transacción | TW-06   | Implementar solicitud de reembolso  | Desarrollar un formulario en Angular para solicitar reembolsos y manejar la lógica correspondiente.  | 5                 | Franco Barrionuevo   | Done   |
+| US-29          | Reportes de Transacciones | TW-07   | Crear visualización de reportes  | Desarrollar un componente en Angular para mostrar reportes de transacciones con gráficos y tablas dinámicas.  | 7                 | Gerald Serrano   | Done   |
+| US-12          | Informe de Certificación | TW-08   | Implementar visualización de informes  | Crear un componente que muestre informes de certificación de autos, utilizando servicios para cargar datos.  | 5                 | Joaquin Carranza   | Done   |
+| US-24          | Sistema de Soporte en Vivo | TW-09   | Implementar chat de soporte  | Desarrollar un componente de chat en vivo para soporte al usuario, integrando la funcionalidad con Angular.  | 6                 | Harold Mayta   | Done   |
+
+
+### 5.2.2.3. Development Evidence for Sprint Review
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
+
+| Repository	  | Branch	            | Commit Id | Commit Message	                                     | Commit Message Body | Committed on (Date) |
+|--------------|--------------------|-----------|-----------------------------------------------------|---------------------|---------------------|
+| frontend-car2go | master | fb2dfe6 | initial commit | - | 22/09/2024 | 
+| frontend-car2go | authentication | 3287993 | feat(authentication): updated navbar | - | 23/09/2024 |
+| frontend-car2go | authentication | 1fdac17 | feat(authentication): added images for login view | - | 23/09/2024 |
+| frontend-car2go | authentication | 1afc480 | feat(authentication): updated home view | - | 23/09/2024 |
+| frontend-car2go | authentication | 6c38c6f | feat(authentication): updated toolbar view | - | 23/09/2024 |
+| frontend-car2go | authentication | 3cde965 | feat(authentication): added register component | - | 23/09/2024 |
+| frontend-car2go | payment | b4e8230 | feat(payment): added plan component | - | 23/09/2024 |
+| frontend-car2go | authentication | ae2c2f3 | feat(authentication): updated forgot password | - | 23/09/2024 |
+| frontend-car2go | authentication | 08e6a55 | feat(authentication): added routes | - | 23/09/2024 |
+| frontend-car2go | authentication | 5b8320d | feat(authentication): updated routes | - | 23/09/2024 |
+| frontend-car2go | authentication | b354f8c | feat(authentication): add images and routes | - | 24/09/2024 |
+| frontend-car2go | authentication | 7f76b10 | feat(authentication): added car listing component | - | 24/09/2024 |
+| frontend-car2go | payment | d3c4457 | feat(payment): added payment form component | - | 24/09/2024 |
+| frontend-car2go | authentication | 7289d63 | feat(authentication): added preview modal and more information | - | 24/09/2024 |
+| frontend-car2go | vehicle | 10bae07 | feat: add car-details and card-information components | - | 25/09/2024 |
+| frontend-car2go | payment | 135e8b5 | feat(payment): updated payment form component | - | 25/09/2024 |
+| frontend-car2go | authentication | 67ad078 | feat(authentication): updated car details component | - | 25/09/2024 |
+| frontend-car2go | authentication | 1e28cb7 | feat(authentication): add car service | - | 25/09/2024 |
+| frontend-car2go | interaction | 3479363 | merge with authentication | - | 25/09/2024 |
+| frontend-car2go | interaction | 40e7f08 | feat(interaction): prueba | - | 25/09/2024 |
+| frontend-car2go | payment | 9479e37 | feat(payment): updated plan component  | - | 25/09/2024 |
+| frontend-car2go | payment | dbd0ffe | feat(payment): updated plan service | - | 25/09/2024 |
+| frontend-car2go | authentication | 11d72c6 | feat: added page-not-found component | - | 25/09/2024 |
+| frontend-car2go | interaction | 8d9c84e | feat(interaction): prueba_J | - | 25/09/2024 |
+| frontend-car2go | interaction | 0c2c961 | feat(interaction): mechanic_component | - | 25/09/2024 |
+| frontend-car2go | payment | 11ca4b5 | feat(payment): added route for mechanic check and revision components | - | 25/09/2024 |
+| frontend-car2go | authentication | 30e75a2 | merge with interaction | - | 25/09/2024 |
+| frontend-car2go | authentication | 54740c4 | merge with payment | - | 25/09/2024 |
+</div>
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+A partir de las historias de usuario, se generaron los acceptance tests para evaluar la forma en la que deben ejecutarse las funcionalidades de nuestra aplicación web para cumplir con los objetivos de nuestros usuarios.
+
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
+
+| Repository	  | Branch	            | Commit Id | Commit Message	                                     | Committed on (Date) |
+|--------------|--------------------|-----------|-----------------------------------------------------|---------------------|
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 93468bc | first commit | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 3907a7f | feat: add US01.feature | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 9b3baad | fix: fix US01 | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 32eeaaa | feat: add Acceptances Tests | 27/09/24 |
+
+
+</div>
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+En este sprint, el principal objetivo era desarrollar un primer avance de las funcionalidades principales del frontend de nuestra aplicación web. A continuación, se muestran algunos de los resultados de las diferentes pantallas al ejecutar la aplicación.
+
+- Login
+<img src="assets/login-screen.png" alt="Login screen">
+<br></br>
+- Detalles de vehículo
+<img src="assets/car-details.png" alt="Details of a car">
+<br></br>
+- Listado de autos
+<img src="assets/list-cars.png" alt="List of cars">
+<br></br>
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En este segundo sprint, nos hemos enfocado únicamente en el desarrollo del Frontend de nuestra aplicación web, sin abordar servicios web. Por esta razón, no hemos elaborado la documentación referente al uso de dichos servicios en esta ocasión.
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el presente sprint se ha desarrollado el FrontEnd. Para el despliegue se emplearon las siguientes herramientas:
+
+- Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
+- Gitflow: Flujo de trabajo colaborativo. Nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
+- GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+- Vercel: Plataforma que automatiza webs que nos permitió alojar y desplegar nuestra el JSON.
+
+ _Link_: https://car2go-fake-api.vercel.app/
+
+![deploy](assets/vercel-fake-api.png)
+
+- Firebase: Plataforma que nos permitio el hacer un deploy del FrontEnd.
+
+_Link_: https://car2go-c60fa.web.app/ 
+
+![deploy](assets/firebase.jpg)
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+![TP1](assets/com-tp1.jpg)
 
 # VI. Conclusiones y recomendaciones
 ## Conclusiones
@@ -2144,4 +2388,5 @@ https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report/pulse/mon
   <br><br>
 * Web Applications: https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?node-id=32-311&t=7O5WsCcQsFaskDcW-1
   <br><br>
-* Exposición: https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq
+* Exposición TB1: https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq
+* Exposicion TP1: 
