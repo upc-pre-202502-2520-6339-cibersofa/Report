@@ -1772,7 +1772,7 @@ Los diagramas de componentes muestran una vista de las relaciones de los compone
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-<img src="assets/classDiagram.jpeg" alt="class diagram"/>
+<img src="assets/class-diagram.png" alt="class diagram"/>
 
 ### 4.7.2. Class Dictionary
 
@@ -1787,7 +1787,7 @@ Clase User
 | email              | string | Correo del usuario              |
 | password           | string | Contraseña del usuario          |
 | role               | string | Rol del usuario                 |
-| subscriptionPlan   | string | Plan de subscripción            |
+| subscriptionPlan   | Subscription | Plan de subscripción            |
 | transactionHistory | list   | Historial de transacciones      |
 
 <br><br/>
@@ -1798,8 +1798,10 @@ Clase SubscriptionPlan
 | planID   | int    | Identificador único del plan de subscripción |
 | name     | string | Nombre del plan                              |
 | price    | double | Precio del plan                              |
-| features | list   | Características del plan                     |
-
+| startDate| date   | Fecha de inicio de la subscripción           |
+| endDate  | date   | Fecha de expiración de la subscripción       |
+| status   | string | Estado de la subscripción                    |
+ 
 <br><br/>
 Clase Transaction
 
@@ -1824,16 +1826,8 @@ Clase Payment
 | paymentDate   | date        | Fecha del pago                 |
 
 <br><br/>
-Clase Search
 
-| Atributo | Tipo   | Descripción                        |
-|----------|--------|------------------------------------|
-| searchID | int    | Identificador único de la búsqueda |
-| query    | string | Términos de la búsqueda            |
-| filters  | list   | Filtros de búsqueda                |
-| results  | list   | Resultados de la búsqueda          |
-
-<br><br/>
+<br>
 Clase Post
 
 | Atributo    | Tipo    | Descripción                  |
@@ -1919,7 +1913,7 @@ Clase Mechanic
 El sistema de gestión de bases de datos relacional (RDBMS) que utilizaremos para generar las tablas y establecer sus relaciones en nuestra plataforma será MySQL. Hemos elegido MySQL por su facilidad de uso y por su integración con MySQL Workbench, que nos proporciona una herramienta visual eficiente para la administración de la base de datos.
 
 ### 4.8.1 Database Diagram
-<img src="assets/Car2Go-database.png" alt="database diagram"/>
+<img src="assets/db-diagram.png" alt="database diagram"/>
 
 
 
