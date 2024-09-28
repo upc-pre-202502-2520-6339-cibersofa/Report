@@ -1918,7 +1918,7 @@ Clase Mechanic
 El sistema de gestión de bases de datos relacional (RDBMS) que utilizaremos para generar las tablas y establecer sus relaciones en nuestra plataforma será MySQL. Hemos elegido MySQL por su facilidad de uso y por su integración con MySQL Workbench, que nos proporciona una herramienta visual eficiente para la administración de la base de datos.
 
 ### 4.8.1 Database Diagram
-<img src="assets/databaseDiagram.png" alt="database diagram"/>
+<img src="assets/Car2Go-database.png" alt="database diagram"/>
 
 
 
