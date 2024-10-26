@@ -2335,6 +2335,144 @@ _Link_: https://car2go-c60fa.web.app/
 
 ![TP1](assets/com-tp1.jpg)
 
+
+## 5.2.3. Sprint 3
+### 5.2.3.1. Sprint Planning 3
+ <div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+
+  | Sprint 3                        | Implementación de funcionalidades y desarrollo del frontend de la aplicación.                                                                                                                                 |
+  |---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | Sprint Planning Background      |
+  | Date                            | 25/10/2024                                                                                                                                                                                   |
+  | Time                            | 17:00 horas (GMT-5)                                                                                                                                                                          |
+  | Location                        | Reunión realizada mediante Discord                                                                                                                                                           |
+  | Prepared By                     | Barrionuevo Reto, Jean Franco                                                                                                                                                                |
+  | Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
+  | Sprint 1 Review              |
+  | Resumen                         | Se creó la organización de Car2Go en Github y el repositorio para el landing page de la organización.                                                                                                           |
+  | Sprint 2 Retrospective       |
+  | Resumen                         | La landing page fue desarrollada utilizando HTML, CSS, JS y Bootstrap                                                                                                                |
+  | **Sprint Goal & User Stories**  |
+  | Sprint 3 Velocity               | 41 points                                                                                                                                                                                    |
+  | Sum of Story Points             | 41 points                                                                                                                                                                                    |
+</div>
+
+### 5.2.3.2. Sprint Backlog 3
+
+| | Sprint # | | | | Sprint 3 | | |
+|-|----------|-|-|-|----------|-|-|
+| **User Story**        |                   | **Work Item/Task** |               |                                                    |                   |                 |        |
+| **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation (Hours)**    | **Assigned To** | **Status** |
+| US-02          | Búsqueda de Autos | TW-01   | Implementar lógica de búsqueda | Crear un componente de búsqueda en Angular para filtrar autos mediante diferentes criterios. | 6                 | Franco Barrionuevo   | Done   |
+| US-03          | Listado de Autos | TW-02   | Crear vista de listado de autos | Desarrollar un componente en Angular para visualizar autos listados con interactividad y paginación. | 7                 | Karito Medina   | Done   |
+| US-06          | Ver Detalles del Auto | TW-03   | Desarrollar página de detalles del auto | Implementar un componente que muestre los detalles completos de un auto, utilizando servicios para cargar datos dinámicamente. | 5                 | Gerald Serrano   | Done   |
+| US-07          | Comparar Autos | TW-04   | Implementar función de comparación  | Crear un componente en Angular para permitir la comparación de varios autos, mostrando sus características en una tabla.  | 6                 | Joaquin Carranza   | Done   |
+| US-16          | Sistema de Pago Seguro | TW-05   | Crear flujo de pago  | Desarrollar el componente de pago seguro en Angular, integrando la API de pagos.  | 8                 | Harold Mayta   | Done   |
+| US-19          | Reembolso de Transacción | TW-06   | Implementar solicitud de reembolso  | Desarrollar un formulario en Angular para solicitar reembolsos y manejar la lógica correspondiente.  | 5                 | Franco Barrionuevo   | Done   |
+| US-29          | Reportes de Transacciones | TW-07   | Crear visualización de reportes  | Desarrollar un componente en Angular para mostrar reportes de transacciones con gráficos y tablas dinámicas.  | 7                 | Gerald Serrano   | Done   |
+| US-12          | Informe de Certificación | TW-08   | Implementar visualización de informes  | Crear un componente que muestre informes de certificación de autos, utilizando servicios para cargar datos.  | 5                 | Joaquin Carranza   | Done   |
+| US-24          | Sistema de Soporte en Vivo | TW-09   | Implementar chat de soporte  | Desarrollar un componente de chat en vivo para soporte al usuario, integrando la funcionalidad con Angular.  | 6                 | Harold Mayta   | Done   |
+
+
+### 5.2.3.3. Development Evidence for Sprint Review
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
+
+| Repository	  | Branch	            | Commit Id | Commit Message	                                     | Commit Message Body | Committed on (Date) |
+|--------------|--------------------|-----------|-----------------------------------------------------|---------------------|---------------------|
+| frontend-car2go | master | fb2dfe6 | initial commit | - | 22/09/2024 | 
+| frontend-car2go | authentication | 3287993 | feat(authentication): updated navbar | - | 23/09/2024 |
+| frontend-car2go | authentication | 1fdac17 | feat(authentication): added images for login view | - | 23/09/2024 |
+| frontend-car2go | authentication | 1afc480 | feat(authentication): updated home view | - | 23/09/2024 |
+| frontend-car2go | authentication | 6c38c6f | feat(authentication): updated toolbar view | - | 23/09/2024 |
+| frontend-car2go | authentication | 3cde965 | feat(authentication): added register component | - | 23/09/2024 |
+| frontend-car2go | payment | b4e8230 | feat(payment): added plan component | - | 23/09/2024 |
+| frontend-car2go | authentication | ae2c2f3 | feat(authentication): updated forgot password | - | 23/09/2024 |
+| frontend-car2go | authentication | 08e6a55 | feat(authentication): added routes | - | 23/09/2024 |
+| frontend-car2go | authentication | 5b8320d | feat(authentication): updated routes | - | 23/09/2024 |
+| frontend-car2go | authentication | b354f8c | feat(authentication): add images and routes | - | 24/09/2024 |
+| frontend-car2go | authentication | 7f76b10 | feat(authentication): added car listing component | - | 24/09/2024 |
+| frontend-car2go | payment | d3c4457 | feat(payment): added payment form component | - | 24/09/2024 |
+| frontend-car2go | authentication | 7289d63 | feat(authentication): added preview modal and more information | - | 24/09/2024 |
+| frontend-car2go | vehicle | 10bae07 | feat: add car-details and card-information components | - | 25/09/2024 |
+| frontend-car2go | payment | 135e8b5 | feat(payment): updated payment form component | - | 25/09/2024 |
+| frontend-car2go | authentication | 67ad078 | feat(authentication): updated car details component | - | 25/09/2024 |
+| frontend-car2go | authentication | 1e28cb7 | feat(authentication): add car service | - | 25/09/2024 |
+| frontend-car2go | interaction | 3479363 | merge with authentication | - | 25/09/2024 |
+| frontend-car2go | interaction | 40e7f08 | feat(interaction): prueba | - | 25/09/2024 |
+| frontend-car2go | payment | 9479e37 | feat(payment): updated plan component  | - | 25/09/2024 |
+| frontend-car2go | payment | dbd0ffe | feat(payment): updated plan service | - | 25/09/2024 |
+| frontend-car2go | authentication | 11d72c6 | feat: added page-not-found component | - | 25/09/2024 |
+| frontend-car2go | interaction | 8d9c84e | feat(interaction): prueba_J | - | 25/09/2024 |
+| frontend-car2go | interaction | 0c2c961 | feat(interaction): mechanic_component | - | 25/09/2024 |
+| frontend-car2go | payment | 11ca4b5 | feat(payment): added route for mechanic check and revision components | - | 25/09/2024 |
+| frontend-car2go | authentication | 30e75a2 | merge with interaction | - | 25/09/2024 |
+| frontend-car2go | authentication | 54740c4 | merge with payment | - | 25/09/2024 |
+</div>
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+A partir de las historias de usuario, se generaron los acceptance tests para evaluar la forma en la que deben ejecutarse las funcionalidades de nuestra aplicación web para cumplir con los objetivos de nuestros usuarios.
+
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
+
+| Repository	  | Branch	            | Commit Id | Commit Message	                                     | Committed on (Date) |
+|--------------|--------------------|-----------|-----------------------------------------------------|---------------------|
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 93468bc | first commit | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 3907a7f | feat: add US01.feature | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 9b3baad | fix: fix US01 | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 32eeaaa | feat: add Acceptances Tests | 27/09/24 |
+
+
+</div>
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+
+En este sprint, el principal objetivo era desarrollar un primer avance de las funcionalidades principales del frontend de nuestra aplicación web. A continuación, se muestran algunos de los resultados de las diferentes pantallas al ejecutar la aplicación.
+
+- Login
+<img src="assets/login-screen.png" alt="Login screen">
+<br></br>
+- Detalles de vehículo
+<img src="assets/car-details.png" alt="Details of a car">
+<br></br>
+- Listado de autos
+<img src="assets/list-cars.png" alt="List of cars">
+<br></br>
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En este segundo sprint, nos hemos enfocado únicamente en el desarrollo del Frontend de nuestra aplicación web, sin abordar servicios web. Por esta razón, no hemos elaborado la documentación referente al uso de dichos servicios en esta ocasión.
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para el presente sprint se ha desarrollado el FrontEnd. Para el despliegue se emplearon las siguientes herramientas:
+
+- Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
+- Gitflow: Flujo de trabajo colaborativo. Nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
+- GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+- Vercel: Plataforma que automatiza webs que nos permitió alojar y desplegar nuestra el JSON.
+
+ _Link_: https://car2go-fake-api.vercel.app/
+
+![deploy](assets/vercel-fake-api.png)
+
+- Firebase: Plataforma que nos permitio el hacer un deploy del FrontEnd.
+
+_Link_: https://car2go-c60fa.web.app/ 
+
+![deploy](assets/firebase.jpg)
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+![TP1](assets/com-tp1.jpg)
+
+
 # VI. Conclusiones y recomendaciones
 ## Conclusiones
 
