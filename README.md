@@ -2473,6 +2473,139 @@ _Link_: https://car2go-c60fa.web.app/
 ![TP1](assets/com-tp1.jpg)
 
 
+## 5.3. Validation Interviews
+En esta sección se detalla el proceso de validación mediante entrevistas con usuarios y expertos. Estas entrevistas son cruciales para evaluar la usabilidad, funcionalidad y eficacia de la aplicación xxxx, garantizando que cumple con las necesidades y expectativas de nuestros segmentos de mercado.
+
+### 5.3.1. Diseño de Entrevistas
+Se decribe la metodología utilizada para diseñar las entrevistas de validación, incluyendo la selección de participantes, la formulación de preguntas y el enfoque adaptaddo para obtener información relevante y precisa sobre la experiencia del usuario con la aplicación xxxx.
+
+**Segmento Objetivo 1: Viajeros Turísticos:** <br>
+- **Preguntas Generales**
+  - ¿Cuál es su nombre?
+  - ¿Cuál es su sexo?
+  - ¿Cuántos años tiene?
+  - ¿Cuál es su ocupación?
+        <br>
+- **Preguntas Específicas**
+  - Segun lo visto, ¿qué te parecio la estructuración de la página?
+  - ¿Cuáles son los puntos de mejora?
+  - ¿Crees que la aplicación es intuitiva y fácil de usar?
+  - ¿Se te dificulto alguna sección de la aplicación?
+  - ¿Cuáles son los puntos positivos y negativos que destacas de la aplicación?
+
+**Segmento Objetivo 2: Viajeros Escolares** <br>
+- **Preguntas Generales**
+  - ¿Cuál es su nombre?
+  - ¿Cuál es su sexo?
+  - ¿Cuántos años tiene?
+  - ¿Cuál es su ocupación?
+        <br>
+- **Preguntas Específicas**
+  - Segun lo visto, ¿qué te parecio la estructuración de la página?
+  - ¿Cuáles son los puntos de mejora?
+  - ¿Crees que la aplicación es intuitiva y fácil de usar?
+  - ¿Se te dificulto alguna sección de la aplicación?
+  - ¿Cuáles son los puntos positivos y negativos que destacas de la aplicación?
+
+### 5.3.2. Registro de Entrevistas
+Esta subsección presenta un registro detallado de las entrevistas realizadas, documentando las respuestas de los participantes, las observaciones clave y los comentarios obtenidos durante las sesiones de validación. Estos registros proporcionan una base sólida para el análisis y la mejora del producto.
+
+**Segmento Objetivo 1: Viajeros Turísticos**
+-------------------------------------------
+**Entrevistado(a) #1:** --<br>
+**Sexo:**--<br>
+**Edad:**-- años<br>
+**Ocupación**--<br>
+**Minuto de la entrevista:**00:00 - 08:27<br>
+**Enlace del video completo de las entrevistas:**<br>
+
+<br>
+
+**Resumen de la entrevista:**<br>
+El entrevistado mostró un alto interés en el producto y sugirió algunos aspectos para mejorar. Propuso hacer el producto más llamativo visualmente y capturar mejor las percepciones de los clientes desde el momento en que ingresan, posiblemente a través de encuestas o análisis de datos iniciales. Además, recomendó la implementación de un libro de reclamaciones para facilitar la retroalimentación formal de los usuarios, mejorando así la atención al cliente y la resolución de problemas de manera efectiva.
+<br><br>
+
+**Segmento Objetivo 2: Viajeros Escolares**
+-------------------------------------------
+**Entrevistado(a) #1:**<br>
+**Sexo:**<br>
+**Edad:**<br>
+**Ocupación**<br>
+**Minuto de la entrevista:**<br>
+**Enlace del video completo de las entrevistas:**<br>
+
+<br>
+
+**Resumen de la entrevista:**
+
+<br><br>
+
+
+### 5.3.3. Evaluación según heurísticas
+Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
+
+**UX Heuristics & Principles Evaluation Usability - Inclusive Design - Information Architecture**
+
+**Carrera:** Ingeniería de Software
+**Curso:** Desarrollo de Aplicaciones Open Source
+**Sección:** WX56
+**Profesores:** Todos
+**Cliente(s):** Maomed Alexander Chocce Cruces,
+
+**Site o App a Evaluar:** Car2Go
+
+**Tareas a Evaluar:**
+**Escala de Severidad:**
+Los errores serán puntiados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+|   1   | Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+|   2   | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja de cara resolverlo al siguiente release. |
+|   3   | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+|   4   | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**Tabla Resumen:**
+
+| # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|---------------------|
+| 1 | Mejorar el aspecto llamativo del producto | 2 | No cumplir con un diseño visual atractivo podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios. |
+| 2 | Capturar percepción de los clientes al entrar | 2 | Inclusive Design: No capturar efectivamente las percepciones de los clientes al entrar podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios, al no asegurar una retroalimentación inicial inclusiva y adecuada desde el inicio de la interacción con el producto. |
+| 3 | Agregar el libro de reclamaciones | 2 | Inclusive Design: No proporcionar un libro de reclamaciones podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios. Un libro de reclamaciones es crucial para asegurar que todos los usuarios tengan una vía justa y accesible para expresar sus preocupaciones y recibir respuestas adecuadas, promoviendo así la inclusión y la equidad en la retroalimentación del cliente. |
+
+----
+<br>
+
+**Descripción del Problemas:**
+
+- **Problema #1: Falta de aspecto visualmente llamativo**
+- **Severidad:** Nivel 2
+- **Heurística/Principio violado(a):** Inclusive Design
+- **Problema:** El producto carece de un diseño que capture eficazmente la atención visual de los usuarios desde el primer contacto, lo que podría afectar la atracción inicial de nuevos usuarios y la percepción de la marca.
+- **Recomendación:** Mejorar el diseño visual del producto mediante la incorporación de elementos visuales más atractivos y una presentación más dinámica para captar mejor la atención del usuario.
+
+---
+
+- **Problema #2: Falta de captura de percepciones al entrar**
+- **Severidad:** Nivel 2
+- **Heurística/Principio violada(o):** Inclusive Design
+- **Problema:** El producto no cuenta con un mecanismo efectivo para capturar las percepciones y expectativas de los usuarios al ingresar, lo que podría limitar la comprensión inicial de sus necesidades y expectativas.
+- **Recomendación:** Implementar métodos como encuestas breves, análisis de comportamiento o ventanas emergentes interactivas para capturar de manera proactiva las percepciones de los usuarios al inicio de su interacción con el producto.
+
+---
+
+- **Problema #3: Ausencia de libro de reclamaciones**
+- **Severidad:** Nivel 2
+- **Heurística/Principio violado(a):** Inclusive Design
+- **Problema:** El producto no ofrece un libro de reclamaciones formal donde los usuarios puedan expresar sus comentarios, sugerencias o preocupaciones de manera estructurada y accesible.
+- **Recomendación:** Integrar un libro de reclamaciones en el producto, proporcionando una plataforma fácilmente accesible y visible para que los usuarios puedan presentar sus reclamaciones de manera equitativa y recibir respuestas oportunas y adecuadas.
+<br>
+
+
+## 5.4. Video About-The-Product
+En esta sección se presenta un video explicatiovo sobre la aplicación Wanderlog. El video destaca las principales características y beneficios del producto, demostrando cómo stisface las necesidad de los viajeros. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
+
+
 # VI. Conclusiones y recomendaciones
 ## Conclusiones
 
