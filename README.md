@@ -2527,6 +2527,7 @@ Se decribe la metodología utilizada para diseñar las entrevistas de validació
   - ¿Hubo algo que te pareció confuso o difícil de entender?
   - ¿Cuáles son los puntos positivos y negativos que destacas de la página?
   - ¿Te sentirías seguro/a de comprar un auto usando esta página? ¿Por qué?
+  
 **Segmento Objetivo 2: Vendedores de Autos de Segunda Mano:** <br>
 - **Preguntas Generales**
   - ¿Cuál es su nombre?
