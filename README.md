@@ -2548,7 +2548,7 @@ Aquí se explican las evaluaciones realizadas utilizando principios heurísticos
 
 **Carrera:** Ingeniería de Software
 **Curso:** Desarrollo de Aplicaciones Open Source
-**Sección:** WX56
+**Sección:** WX51
 **Profesores:** Todos
 **Cliente(s):** Maomed Alexander Chocce Cruces,
 
@@ -2578,32 +2578,32 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad
 
 **Descripción del Problemas:**
 
-- **Problema #1: Falta de aspecto visualmente llamativo**
-- **Severidad:** Nivel 2
-- **Heurística/Principio violado(a):** Inclusive Design
-- **Problema:** El producto carece de un diseño que capture eficazmente la atención visual de los usuarios desde el primer contacto, lo que podría afectar la atracción inicial de nuevos usuarios y la percepción de la marca.
-- **Recomendación:** Mejorar el diseño visual del producto mediante la incorporación de elementos visuales más atractivos y una presentación más dinámica para captar mejor la atención del usuario.
+- **Problema #1:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
 
 ---
 
-- **Problema #2: Falta de captura de percepciones al entrar**
-- **Severidad:** Nivel 2
-- **Heurística/Principio violada(o):** Inclusive Design
-- **Problema:** El producto no cuenta con un mecanismo efectivo para capturar las percepciones y expectativas de los usuarios al ingresar, lo que podría limitar la comprensión inicial de sus necesidades y expectativas.
-- **Recomendación:** Implementar métodos como encuestas breves, análisis de comportamiento o ventanas emergentes interactivas para capturar de manera proactiva las percepciones de los usuarios al inicio de su interacción con el producto.
+- **Problema #2:**
+- **Severidad:** 
+- **Heurística/Principio violada(o):** 
+- **Problema:**
+- - **Recomendación:** 
 
 ---
 
-- **Problema #3: Ausencia de libro de reclamaciones**
-- **Severidad:** Nivel 2
-- **Heurística/Principio violado(a):** Inclusive Design
-- **Problema:** El producto no ofrece un libro de reclamaciones formal donde los usuarios puedan expresar sus comentarios, sugerencias o preocupaciones de manera estructurada y accesible.
-- **Recomendación:** Integrar un libro de reclamaciones en el producto, proporcionando una plataforma fácilmente accesible y visible para que los usuarios puedan presentar sus reclamaciones de manera equitativa y recibir respuestas oportunas y adecuadas.
+- **Problema #3:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
 <br>
 
 
 ## 5.4. Video About-The-Product
-En esta sección se presenta un video explicatiovo sobre la aplicación Wanderlog. El video destaca las principales características y beneficios del producto, demostrando cómo stisface las necesidad de los viajeros. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
+En esta sección se presenta un video explicatiovo sobre la aplicación Car2Go. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidad de los clientes. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
 
 
 # VI. Conclusiones y recomendaciones
