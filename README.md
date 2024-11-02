@@ -2508,38 +2508,56 @@ _Link_: https://car2go-c60fa.web.app/
 
 
 ## 5.3. Validation Interviews
-En esta sección se detalla el proceso de validación mediante entrevistas con usuarios y expertos. Estas entrevistas son cruciales para evaluar la usabilidad, funcionalidad y eficacia de la aplicación xxxx, garantizando que cumple con las necesidades y expectativas de nuestros segmentos de mercado.
+En esta sección se detalla el proceso de validación mediante entrevistas con usuarios y expertos. Estas entrevistas son cruciales para evaluar la usabilidad, funcionalidad y eficacia de la aplicación Car2Go, garantizando que cumple con las necesidades y expectativas de nuestros segmentos de mercado.
 
 ### 5.3.1. Diseño de Entrevistas
-Se decribe la metodología utilizada para diseñar las entrevistas de validación, incluyendo la selección de participantes, la formulación de preguntas y el enfoque adaptaddo para obtener información relevante y precisa sobre la experiencia del usuario con la aplicación xxxx.
+Se decribe la metodología utilizada para diseñar las entrevistas de validación, incluyendo la selección de participantes, la formulación de preguntas y el enfoque adaptaddo para obtener información relevante y precisa sobre la experiencia del usuario con la aplicación Car2Go.
 
-**Segmento Objetivo 1: Viajeros Turísticos:** <br>
+**Segmento Objetivo 1: Compradores de Autos de Segunda Mano:** <br>
 - **Preguntas Generales**
   - ¿Cuál es su nombre?
   - ¿Cuál es su sexo?
   - ¿Cuántos años tiene?
   - ¿Cuál es su ocupación?
+  - ¿Qué tan frecuentemente considera comprar un auto?
         <br>
 - **Preguntas Específicas**
-  - Segun lo visto, ¿qué te parecio la estructuración de la página?
-  - ¿Cuáles son los puntos de mejora?
-  - ¿Crees que la aplicación es intuitiva y fácil de usar?
-  - ¿Se te dificulto alguna sección de la aplicación?
-  - ¿Cuáles son los puntos positivos y negativos que destacas de la aplicación?
-
-**Segmento Objetivo 2: Viajeros Escolares** <br>
+  - Según lo visto, ¿qué te pareció la estructuración de la página en términos de búsqueda y visualización de autos?
+  - ¿Consideras que la información proporcionada sobre los autos es suficiente y confiable? ¿Qué le agregarías?
+  - ¿Hubo algo que te pareció confuso o difícil de entender?
+  - ¿Cuáles son los puntos positivos y negativos que destacas de la página?
+  - ¿Te sentirías seguro/a de comprar un auto usando esta página? ¿Por qué?
+**Segmento Objetivo 2: Vendedores de Autos de Segunda Mano:** <br>
 - **Preguntas Generales**
   - ¿Cuál es su nombre?
   - ¿Cuál es su sexo?
   - ¿Cuántos años tiene?
   - ¿Cuál es su ocupación?
+  - ¿Con qué frecuencia pones autos en venta?
         <br>
 - **Preguntas Específicas**
-  - Segun lo visto, ¿qué te parecio la estructuración de la página?
-  - ¿Cuáles son los puntos de mejora?
-  - ¿Crees que la aplicación es intuitiva y fácil de usar?
-  - ¿Se te dificulto alguna sección de la aplicación?
+  - Según lo visto, ¿qué te pareció la estructuración de la página para listar y gestionar tus autos en venta?
+  - ¿Crees que los pasos para subir fotos y especificaciones del auto son claros y fáciles de seguir?
+  - ¿Hay algo que cambiarías para que el proceso de listado de autos sea más rápido o simple?
+  - ¿Qué tan útil te parecen las herramientas para mejorar la visibilidad de tus autos (por ejemplo, destacar un anuncio)?
+  - ¿Cuáles son los puntos positivos y negativos que destacas de la página?
+  - ¿Confías en el sistema para captar compradores potenciales? ¿Por qué?
+
+**Segmento Objetivo 3: Talleres Mecánicos:** <br>
+- **Preguntas Generales**
+  - ¿Cuál es su nombre?
+  - ¿Cuál es su sexo?
+  - ¿Cuántos años tiene?
+  - ¿Cuál es su ocupación?
+  - ¿Cuántos años lleva trabajando en el rubro automotriz?
+        <br>
+- **Preguntas Específicas**
+  - Según lo visto, ¿qué te pareció la estructuración de la página para acceder y registrar las inspecciones de los autos?
+  - ¿Consideras que las herramientas de carga de datos son claras y fáciles de usar?
+  - ¿Hay alguna sección que te haya parecido complicada o que requiera una capacitación adicional?
+  - ¿Cómo evaluarías la confiabilidad de la plataforma en cuanto a seguridad y privacidad de los datos ingresados?
   - ¿Cuáles son los puntos positivos y negativos que destacas de la aplicación?
+  - ¿Te sientes cómodo/a recomendando esta página a otros talleres y clientes? ¿Por qué?
 
 ### 5.3.2. Registro de Entrevistas
 Esta subsección presenta un registro detallado de las entrevistas realizadas, documentando las respuestas de los participantes, las observaciones clave y los comentarios obtenidos durante las sesiones de validación. Estos registros proporcionan una base sólida para el análisis y la mejora del producto.
