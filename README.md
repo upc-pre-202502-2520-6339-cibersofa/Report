@@ -2572,7 +2572,6 @@ Esta subsección presenta un registro detallado de las entrevistas realizadas, d
 **Sexo:** Masculino<br>
 **Edad:** 24 años<br>
 **Ocupación:** Estudiante<br>
-**Minuto de la entrevista:** 00:00 - 08:27<br>
 **Enlace del video completo de las entrevistas:** <br>
 
 <br>
@@ -2581,11 +2580,12 @@ Esta subsección presenta un registro detallado de las entrevistas realizadas, d
 Gabriel, estudiante universitario que en su tiempo libre compra y vende autos, comentó que su primera impresión de la página web fue que es muy intuitiva, aunque le hubiera gustado que estuviera completamente terminada, ya que tiene una buena estructura. También sugiere agregar medidas de seguridad a la información mostrada sobre los autos.
 <br><br>
 
+![imagen1](assets/entrevista_gabriel.png)
+
 **Entrevistado(a) #2:** Anatoly Noriega<br>
 **Sexo:** Masculino<br>
 **Edad:** 22 años<br>
 **Ocupación:** Estudiante<br>
-**Minuto de la entrevista:** 00:00 - 08:27<br>
 **Enlace del video completo de las entrevistas:** <br>
 
 <br>
@@ -2594,13 +2594,14 @@ Gabriel, estudiante universitario que en su tiempo libre compra y vende autos, c
 Anatoly, ingeniero de software que revisa constantemente vehículos para futuras compras, expresó que le agradaron la estructura y el diseño de la plataforma, destacando especialmente las opciones del menú para redirigir a distintas páginas y la forma en que se muestran los autos y su información. Considera confiable la información de los autos, aunque le preocupa la sección de pagos, que encontró confusa y difícil de entender, y señaló que el estilo en la sección de perfil pierde coherencia con el resto del diseño. Sugiere añadir un botón para traducir la página a otros idiomas. Concluyó que usaría la plataforma, ya que la información es transparente y el diseño es atractivo para el usuario.
 <br><br>
 
+![imagen2](assets/entrevista_anatoly.png)
+
 **Segmento Objetivo 2: Vendedores de Autos de Segunda Mano**
 -------------------------------------------
 **Entrevistado(a) #1:** Mijael Yen<br>
 **Sexo:** Masculino<br>
 **Edad:** 22 años<br>
 **Ocupación:** Estudiante<br>
-**Minuto de la entrevista:** <br>
 **Enlace del video completo de las entrevistas:** <br>
 
 <br>
@@ -2609,11 +2610,12 @@ Anatoly, ingeniero de software que revisa constantemente vehículos para futuras
 Mijael comenta que la estructura de la plataforma es adecuada y cuenta con lo necesario para realizar sus publicaciones y vender autos. Sugiere que en la sección del perfil se incluya un texto que diga “Mi perfil” y que los textos de esta sección sean más grandes para mayor comodidad. También destaca que la plataforma es intuitiva, pero recomienda que la opción de "logout" esté incluida dentro del perfil. Por último, menciona que el botón para guardar datos en el perfil sea más específico, como “guardar cambios,” y que en ciertos campos de información, como el de teléfono, solo se permita ingresar números.
 <br><br>
 
+![imagen3](assets/entrevista_mijael.png)
+
 **Entrevistado(a) #2:** Jefrey Sanchez<br>
 **Sexo:** Masculino<br>
 **Edad:** 22 años<br>
 **Ocupación:** Estudiante<br>
-**Minuto de la entrevista:** 00:00 - 08:27<br>
 **Enlace del video completo de las entrevistas:** <br>
 
 <br>
@@ -2622,13 +2624,14 @@ Mijael comenta que la estructura de la plataforma es adecuada y cuenta con lo ne
 Jeffrey actualmente trabaja, pero en su tiempo libre se dedica a la venta de autos. Mencionó que le pareció muy llamativo que la información se muestre de manera clara sin necesidad de entrar en cada tarjeta, y destacó que el diseño en general es muy atractivo. Comentó también que toda la navegación es intuitiva y clara. Como sugerencia, indicó que sería útil agregar un filtro para descartar los autos que no se buscan, facilitando así encontrar el auto deseado. En general, expresó que su experiencia ha sido muy positiva.
 <br><br>
 
+![imagen4](assets/entrevista_jefrey.png)
+
 **Segmento Objetivo 2: Talleres Mecánicos**
 -------------------------------------------
 **Entrevistado(a) #1:** Maomed Chocce<br>
 **Sexo:** Masculino<br>
 **Edad:** 29 años<br>
 **Ocupación:** Mecánico<br>
-**Minuto de la entrevista:** <br>
 **Enlace del video completo de las entrevistas:** <br>
 
 <br>
@@ -2637,11 +2640,12 @@ Jeffrey actualmente trabaja, pero en su tiempo libre se dedica a la venta de aut
 Maomed mencionó que la estructura de la página es intuitiva, aunque sugiere añadir un menú desplegable para acceder a las secciones importantes de forma rápida. Respecto a las herramientas de carga de datos, considera que son claras y fáciles de usar, pero sería útil incluir ejemplos o instrucciones breves junto a cada campo. En cuanto a la sección de reportes, la encontró un poco confusa y recomendó añadir un tutorial o videos explicativos para facilitar su uso. Percibe la plataforma como segura, aunque cree que un ícono o mensaje informando sobre las medidas de seguridad implementadas aumentaría la confianza del usuario. Destacó como puntos positivos el diseño limpio, la facilidad de navegación y el acceso rápido a las funciones principales, pero señaló la falta de instrucciones claras en algunas secciones y la necesidad de una sección de preguntas frecuentes (FAQ) para resolver dudas comunes. Finalmente, expresó que recomendaría la plataforma a otros talleres y clientes, aunque algunos aspectos podrían mejorarse para optimizar la experiencia de usuario.
 <br><br>
 
+![imagen5](assets/entrevista_maomed.png)
+
 **Entrevistado(a) #2:** Roberto García<br>
 **Sexo:** Masculino<br>
 **Edad:** 22 años<br>
 **Ocupación:** Estudiante<br>
-**Minuto de la entrevista:** 00:00 - 08:27<br>
 **Enlace del video completo de las entrevistas:** <br>
 
 <br>
@@ -2649,6 +2653,8 @@ Maomed mencionó que la estructura de la página es intuitiva, aunque sugiere a�
 **Resumen de la entrevista:** <br>
 Roberto es un estudiante universitario que ayuda a su papá, el cual tiene un taller mecánica, en el trabajo cuando tiene tiempo libre. Nos comenta que la página le parece muy intuitiva y atractiva para el usuario. En general no tuvo problemas para poder guiarse al momento de usarlo y que recomendaría su uso a amigos como familiares debido a la seguridad que tiene.
 <br><br>
+
+![imagen6](assets/entrevista_roberto.png)
 
 ### 5.3.3. Evaluación según heurísticas
 Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
@@ -2658,8 +2664,8 @@ Aquí se explican las evaluaciones realizadas utilizando principios heurísticos
 **Carrera:** Ingeniería de Software
 **Curso:** Desarrollo de Aplicaciones Open Source
 **Sección:** WX51
-**Profesores:** Todos
-**Cliente(s):** Maomed Alexander Chocce Cruces,
+**Profesores:** Alberto Wilmer Sanchez Seña
+**Cliente(s):** Maomed Alexander Chocce Cruces, Roberto García, Jefrey Sanchez, Mijael Yen, Anatoly Noriega y Gabriel Martel
 
 **Site o App a Evaluar:** Car2Go
 
