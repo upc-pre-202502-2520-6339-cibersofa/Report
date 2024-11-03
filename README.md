@@ -2558,7 +2558,7 @@ Se decribe la metodología utilizada para diseñar las entrevistas de validació
 ### 5.3.2. Registro de Entrevistas
 Esta subsección presenta un registro detallado de las entrevistas realizadas, documentando las respuestas de los participantes, las observaciones clave y los comentarios obtenidos durante las sesiones de validación. Estos registros proporcionan una base sólida para el análisis y la mejora del producto.
 
-**Segmento Objetivo 1: Viajeros Turísticos**
+**Segmento Objetivo 1: Compradores de Autos de Segunda Mano**
 -------------------------------------------
 **Entrevistado(a) #1:** --<br>
 **Sexo:**--<br>
@@ -2586,7 +2586,7 @@ El entrevistado mostró un alto interés en el producto y sugirió algunos aspec
 El entrevistado mostró un alto interés en el producto y sugirió algunos aspectos para mejorar. Propuso hacer el producto más llamativo visualmente y capturar mejor las percepciones de los clientes desde el momento en que ingresan, posiblemente a través de encuestas o análisis de datos iniciales. Además, recomendó la implementación de un libro de reclamaciones para facilitar la retroalimentación formal de los usuarios, mejorando así la atención al cliente y la resolución de problemas de manera efectiva.
 <br><br>
 
-**Segmento Objetivo 2: Viajeros Escolares**
+**Segmento Objetivo 2: Vendedores de Autos de Segunda Mano**
 -------------------------------------------
 **Entrevistado(a) #1:**<br>
 **Sexo:**<br>
@@ -2614,7 +2614,7 @@ El entrevistado mostró un alto interés en el producto y sugirió algunos aspec
 El entrevistado mostró un alto interés en el producto y sugirió algunos aspectos para mejorar. Propuso hacer el producto más llamativo visualmente y capturar mejor las percepciones de los clientes desde el momento en que ingresan, posiblemente a través de encuestas o análisis de datos iniciales. Además, recomendó la implementación de un libro de reclamaciones para facilitar la retroalimentación formal de los usuarios, mejorando así la atención al cliente y la resolución de problemas de manera efectiva.
 <br><br>
 
-**Segmento Objetivo 2: Viajeros Escolares**
+**Segmento Objetivo 2: Talleres Mecánicos**
 -------------------------------------------
 **Entrevistado(a) #1:**<br>
 **Sexo:**<br>
