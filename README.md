@@ -2421,15 +2421,15 @@ _Link_: https://car2go-c60fa.web.app/
 
 ### 5.2.3.3. Development Evidence for Sprint Review
 
-<!-- ![TB3](assets/spr31.jpg) -->
+![TB3](assets/spr31.jpg)
 ---
-<!-- ![TB3](assets/spr32.jpg) -->
+![TB3](assets/spr32.jpg)
 ---
-<!-- ![TB3](assets/spr33.jpg) -->
+![TB3](assets/spr33.jpg)
 ---
-<!-- ![TB3](assets/spr34.jpg) -->
+![TB3](assets/spr34.jpg)
 ---
-<!-- ![TB3](assets/spr35.jpg) -->
+![TB3](assets/spr35.jpg)
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -2768,4 +2768,4 @@ Link: [About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114
 * Exposición TB1: https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq
 * Exposicion TB2: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EU3C5Ale3ipDk2jD7nrlmQQBDTs2EBhWG9qFHJ4d1wSIBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JsW3ez)
 * Trello: [Link](https://trello.com/invite/b/672593151a102b5df4062300/ATTIee8d366a57b61466153105a6f5824169062AAAF0/sprint-3)
-* Entrevistas: [Link]([Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah))
+* Entrevistas: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
