@@ -2566,7 +2566,7 @@ Esta subsección presenta un registro detallado de las entrevistas realizadas, d
 <br>
 
 **Resumen de la entrevista:** <br>
-El entrevistado mostró un alto interés en el producto y sugirió algunos aspectos para mejorar. Propuso hacer el producto más llamativo visualmente y capturar mejor las percepciones de los clientes desde el momento en que ingresan, posiblemente a través de encuestas o análisis de datos iniciales. Además, recomendó la implementación de un libro de reclamaciones para facilitar la retroalimentación formal de los usuarios, mejorando así la atención al cliente y la resolución de problemas de manera efectiva.
+Gabriel, estudiante universitario que en su tiempo libre compra y vende autos, comentó que su primera impresión de la página web fue que es muy intuitiva, aunque le hubiera gustado que estuviera completamente terminada, ya que tiene una buena estructura. También sugiere agregar medidas de seguridad a la información mostrada sobre los autos.
 <br><br>
 
 **Entrevistado(a) #2:** Anatoly Noriega<br>
@@ -2579,7 +2579,7 @@ El entrevistado mostró un alto interés en el producto y sugirió algunos aspec
 <br>
 
 **Resumen de la entrevista:** <br>
-El entrevistado mostró un alto interés en el producto y sugirió algunos aspectos para mejorar. Propuso hacer el producto más llamativo visualmente y capturar mejor las percepciones de los clientes desde el momento en que ingresan, posiblemente a través de encuestas o análisis de datos iniciales. Además, recomendó la implementación de un libro de reclamaciones para facilitar la retroalimentación formal de los usuarios, mejorando así la atención al cliente y la resolución de problemas de manera efectiva.
+Anatoly, ingeniero de software que revisa constantemente vehículos para futuras compras, expresó que le agradaron la estructura y el diseño de la plataforma, destacando especialmente las opciones del menú para redirigir a distintas páginas y la forma en que se muestran los autos y su información. Considera confiable la información de los autos, aunque le preocupa la sección de pagos, que encontró confusa y difícil de entender, y señaló que el estilo en la sección de perfil pierde coherencia con el resto del diseño. Sugiere añadir un botón para traducir la página a otros idiomas. Concluyó que usaría la plataforma, ya que la información es transparente y el diseño es atractivo para el usuario.
 <br><br>
 
 **Segmento Objetivo 2: Vendedores de Autos de Segunda Mano**
@@ -2594,7 +2594,7 @@ El entrevistado mostró un alto interés en el producto y sugirió algunos aspec
 <br>
 
 **Resumen de la entrevista:**
-
+Mijael comenta que la estructura de la plataforma es adecuada y cuenta con lo necesario para realizar sus publicaciones y vender autos. Sugiere que en la sección del perfil se incluya un texto que diga “Mi perfil” y que los textos de esta sección sean más grandes para mayor comodidad. También destaca que la plataforma es intuitiva, pero recomienda que la opción de "logout" esté incluida dentro del perfil. Por último, menciona que el botón para guardar datos en el perfil sea más específico, como “guardar cambios,” y que en ciertos campos de información, como el de teléfono, solo se permita ingresar números.
 <br><br>
 
 **Entrevistado(a) #2:** Jefrey Sanchez<br>
@@ -2607,7 +2607,7 @@ El entrevistado mostró un alto interés en el producto y sugirió algunos aspec
 <br>
 
 **Resumen de la entrevista:** <br>
-El entrevistado mostró un alto interés en el producto y sugirió algunos aspectos para mejorar. Propuso hacer el producto más llamativo visualmente y capturar mejor las percepciones de los clientes desde el momento en que ingresan, posiblemente a través de encuestas o análisis de datos iniciales. Además, recomendó la implementación de un libro de reclamaciones para facilitar la retroalimentación formal de los usuarios, mejorando así la atención al cliente y la resolución de problemas de manera efectiva.
+Jeffrey actualmente trabaja, pero en su tiempo libre se dedica a la venta de autos. Mencionó que le pareció muy llamativo que la información se muestre de manera clara sin necesidad de entrar en cada tarjeta, y destacó que el diseño en general es muy atractivo. Comentó también que toda la navegación es intuitiva y clara. Como sugerencia, indicó que sería útil agregar un filtro para descartar los autos que no se buscan, facilitando así encontrar el auto deseado. En general, expresó que su experiencia ha sido muy positiva.
 <br><br>
 
 **Segmento Objetivo 2: Talleres Mecánicos**
@@ -2622,7 +2622,7 @@ El entrevistado mostró un alto interés en el producto y sugirió algunos aspec
 <br>
 
 **Resumen de la entrevista:**
-
+Maomed mencionó que la estructura de la página es intuitiva, aunque sugiere añadir un menú desplegable para acceder a las secciones importantes de forma rápida. Respecto a las herramientas de carga de datos, considera que son claras y fáciles de usar, pero sería útil incluir ejemplos o instrucciones breves junto a cada campo. En cuanto a la sección de reportes, la encontró un poco confusa y recomendó añadir un tutorial o videos explicativos para facilitar su uso. Percibe la plataforma como segura, aunque cree que un ícono o mensaje informando sobre las medidas de seguridad implementadas aumentaría la confianza del usuario. Destacó como puntos positivos el diseño limpio, la facilidad de navegación y el acceso rápido a las funciones principales, pero señaló la falta de instrucciones claras en algunas secciones y la necesidad de una sección de preguntas frecuentes (FAQ) para resolver dudas comunes. Finalmente, expresó que recomendaría la plataforma a otros talleres y clientes, aunque algunos aspectos podrían mejorarse para optimizar la experiencia de usuario.
 <br><br>
 
 **Entrevistado(a) #2:** Oscar Román<br>
