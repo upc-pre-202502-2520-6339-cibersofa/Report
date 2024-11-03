@@ -2387,6 +2387,9 @@ _Link_: https://car2go-c60fa.web.app/
 
 ### 5.2.3.2. Sprint Backlog 3
 
+![image](assets/sprint3_trello.png)
+*Elaboración propia. Realizado en Trello: https://trello.com/invite/b/672593151a102b5df4062300/ATTIee8d366a57b61466153105a6f5824169062AAAF0/sprint-3*
+
 | | Sprint # | | | | Sprint 3 | | |
 |-|----------|-|-|-|----------|-|-|
 | **User Story**        |                   | **Work Item/Task** |               |                                                    |                   |                 |        |
