@@ -2560,10 +2560,10 @@ Esta subsección presenta un registro detallado de las entrevistas realizadas, d
 
 **Segmento Objetivo 1: Compradores de Autos de Segunda Mano**
 -------------------------------------------
-**Entrevistado(a) #1:** --<br>
-**Sexo:**--<br>
-**Edad:**-- años<br>
-**Ocupación**--<br>
+**Entrevistado(a) #1:** Gabriel Martel<br>
+**Sexo:**Masculino<br>
+**Edad:**24 años<br>
+**Ocupación:**Estudiante<br>
 **Minuto de la entrevista:**00:00 - 08:27<br>
 **Enlace del video completo de las entrevistas:**<br>
 
@@ -2573,10 +2573,10 @@ Esta subsección presenta un registro detallado de las entrevistas realizadas, d
 El entrevistado mostró un alto interés en el producto y sugirió algunos aspectos para mejorar. Propuso hacer el producto más llamativo visualmente y capturar mejor las percepciones de los clientes desde el momento en que ingresan, posiblemente a través de encuestas o análisis de datos iniciales. Además, recomendó la implementación de un libro de reclamaciones para facilitar la retroalimentación formal de los usuarios, mejorando así la atención al cliente y la resolución de problemas de manera efectiva.
 <br><br>
 
-**Entrevistado(a) #2:** --<br>
-**Sexo:**--<br>
-**Edad:**-- años<br>
-**Ocupación**--<br>
+**Entrevistado(a) #2:**Anatoly Noriega<br>
+**Sexo:**Masculino<br>
+**Edad:**22 años<br>
+**Ocupación:**Estudiante<br>
 **Minuto de la entrevista:**00:00 - 08:27<br>
 **Enlace del video completo de las entrevistas:**<br>
 
@@ -2588,10 +2588,10 @@ El entrevistado mostró un alto interés en el producto y sugirió algunos aspec
 
 **Segmento Objetivo 2: Vendedores de Autos de Segunda Mano**
 -------------------------------------------
-**Entrevistado(a) #1:**<br>
-**Sexo:**<br>
-**Edad:**<br>
-**Ocupación**<br>
+**Entrevistado(a) #1:**Mijael Yen<br>
+**Sexo:**Masculino<br>
+**Edad:**22 años<br>
+**Ocupación:**Estudiante<br>
 **Minuto de la entrevista:**<br>
 **Enlace del video completo de las entrevistas:**<br>
 
@@ -2601,10 +2601,10 @@ El entrevistado mostró un alto interés en el producto y sugirió algunos aspec
 
 <br><br>
 
-**Entrevistado(a) #2:** --<br>
-**Sexo:**--<br>
-**Edad:**-- años<br>
-**Ocupación**--<br>
+**Entrevistado(a) #2:**Jefrey Sanchez<br>
+**Sexo:**Masculino<br>
+**Edad:**22 años<br>
+**Ocupación:**Estudiante<br>
 **Minuto de la entrevista:**00:00 - 08:27<br>
 **Enlace del video completo de las entrevistas:**<br>
 
@@ -2616,10 +2616,10 @@ El entrevistado mostró un alto interés en el producto y sugirió algunos aspec
 
 **Segmento Objetivo 2: Talleres Mecánicos**
 -------------------------------------------
-**Entrevistado(a) #1:**<br>
-**Sexo:**<br>
-**Edad:**<br>
-**Ocupación**<br>
+**Entrevistado(a) #1:**Maomed Chocce<br>
+**Sexo:**Masculino<br>
+**Edad:**29 años<br>
+**Ocupación:**Mecánico<br>
 **Minuto de la entrevista:**<br>
 **Enlace del video completo de las entrevistas:**<br>
 
@@ -2629,10 +2629,10 @@ El entrevistado mostró un alto interés en el producto y sugirió algunos aspec
 
 <br><br>
 
-**Entrevistado(a) #2:** --<br>
-**Sexo:**--<br>
-**Edad:**-- años<br>
-**Ocupación**--<br>
+**Entrevistado(a) #2:**Oscar Román<br>
+**Sexo:**Masculino<br>
+**Edad:**26 años<br>
+**Ocupación:**Mecánico<br>
 **Minuto de la entrevista:**00:00 - 08:27<br>
 **Enlace del video completo de las entrevistas:**<br>
 
