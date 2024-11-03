@@ -2708,6 +2708,7 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad
 ## 5.4. Video About-The-Product
 En esta sección se presenta un video explicatiovo sobre la aplicación Car2Go. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidad de los clientes. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
 
+Link: [About-The-Product](https://youtu.be/yw8LziQU3aE?si=6WFLeFolUzMeRNxL)
 
 # VI. Conclusiones y recomendaciones
 ## Conclusiones
@@ -2769,3 +2770,4 @@ Link: [About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114
 * Exposicion TB2: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EU3C5Ale3ipDk2jD7nrlmQQBDTs2EBhWG9qFHJ4d1wSIBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JsW3ez)
 * Trello: [Link](https://trello.com/invite/b/672593151a102b5df4062300/ATTIee8d366a57b61466153105a6f5824169062AAAF0/sprint-3)
 * Entrevistas: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
+* [About-The-Product](https://youtu.be/yw8LziQU3aE?si=6WFLeFolUzMeRNxL)
