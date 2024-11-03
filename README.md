@@ -1776,7 +1776,7 @@ El diagrama de contexto muestra una vista de alto nivel de las relaciones entre 
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software **Car2Go**.
 
 <div align="center">
-    <img src="assets/containerDiagram.png" alt="Container diagram">
+    <img src="assets/Containers.png" alt="Container diagram">
 </div>
 
 ## 4.6.3. Software Architecture Components Diagrams
