@@ -2699,7 +2699,7 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad
 - **Problema #2:** Integrar la opción de "logout" dentro del perfil y especificar el botón de guardar como “guardar cambios”.
 - **Severidad:** 2
 - **Heurística/Principio violada(o):** No cumplir con un diseño visual atractivo podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios.
-- - **Recomendación:** Asegurarse de que la opción de "logout" esté claramente disponible y cambiar el diseño del botón para que se más fácil de entender.
+- **Recomendación:** Asegurarse de que la opción de "logout" esté claramente disponible y cambiar el diseño del botón para que se más fácil de entender.
 
 ---
 
