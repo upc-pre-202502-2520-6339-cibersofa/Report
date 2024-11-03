@@ -132,7 +132,7 @@ Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la sigui
 
 **Evidencia**:
 
-![TB1](assets/evidencia-tb3.jpg)
+![TB2](assets/evidencia-tb3.jpg)
 
 ----
 # Student Outcome
@@ -2468,11 +2468,13 @@ A partir de las historias de usuario, se generaron los acceptance tests para eva
 
 En esta parte, se muestra la ejecucion de la aplicacion web, tanto del front end como del back end, asi como tambien se muestra el uso de la aplicacion en un servidor de Swagger.
 
-<!-- ![Swagger](assets/azure.jpg)-->
+![Swagger](assets/Swagger01.jpg)
 ---
-<!-- ![Swagger](assets/azure.jpg)-->
+![Swagger](assets/Swagger02.jpg)
 ---
-<!-- ![Swagger](assets/azure.jpg)-->
+![Swagger](assets/Swagger03.jpg)
+---
+![Swagger](assets/Swagger04.jpg)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -2490,12 +2492,12 @@ Utilizamos SpringBoot, Spring Security, JWToken y Spring Data jpa:
 
 Para el presente sprint se ha creda la base de datos en AZURE y se planea hacer el deploy de Web services en Docker:
 
-<!-- ![AZURE](assets/azure.jpg)-->
+![AZURE](assets/azure.jpg)
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
-<!-- ![TP1](assets/com-tp1.jpg)-->
+![TB2](assets/evidencia-tb3.jpg)
 
 
 ## 5.3. Validation Interviews
@@ -2710,6 +2712,9 @@ En esta sección se presenta un video explicatiovo sobre la aplicación Car2Go. 
   <br><br>
 - El diseño de Car2Go se desarrolló con el objetivo de ofrecer una experiencia de usuario superior y establecer una clara diferenciación respecto a la competencia. Los estilos seleccionados, junto con una organización cuidadosa de la información, no solo aportan coherencia visual, sino que también facilitan la navegación y el acceso a las funcionalidades más relevantes para los usuarios.
 
+## Viodeo About-the-Team.
+
+Link: [About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ES3SMYLntOJPtOCJ-d3KYeABzTCroSUW26a8a-X0Ws3wng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HZ5W8Q)
 
 ## VII. Bibliografía
 
@@ -2757,4 +2762,5 @@ En esta sección se presenta un video explicatiovo sobre la aplicación Car2Go. 
 * Web Applications: https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?node-id=32-311&t=7O5WsCcQsFaskDcW-1
   <br><br>
 * Exposición TB1: https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq
-* Exposicion TP1: 
+* Exposicion TB2: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EU3C5Ale3ipDk2jD7nrlmQQBDTs2EBhWG9qFHJ4d1wSIBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JsW3ez)
+* Trello: [Link](https://trello.com/invite/b/672593151a102b5df4062300/ATTIee8d366a57b61466153105a6f5824169062AAAF0/sprint-3)
