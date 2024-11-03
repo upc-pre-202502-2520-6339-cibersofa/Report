@@ -2373,20 +2373,20 @@ _Link_: https://car2go-c60fa.web.app/
             margin-right: auto;
             width: 50%">
 
-  | Sprint 3                        | Implementación de funcionalidades y desarrollo del frontend de la aplicación.                                                                                                                                 |
-  |---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | Sprint 3                        | Implementación de funcionalidades y desarrollo del frontend de la aplicación.                                                                                         |
+  |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
   | Sprint Planning Background      |
-  | Date                            | 25/10/2024                                                                                                                                                                                   |
-  | Time                            | 17:00 horas (GMT-5)                                                                                                                                                                          |
-  | Location                        | Reunión realizada mediante Discord                                                                                                                                                           |
-  | Prepared By                     | Barrionuevo Reto, Jean Franco                                                                                                                                                                |
+  | Date                            | 19/10/2024                                                                                                                                                            |
+  | Time                            | 17:00 horas (GMT-5)                                                                                                                                                 |
+  | Location                        | Reunión realizada mediante Discord                                                                                                                 |
+  | Prepared By                     | Harold Mayta                                                                                          |
   | Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
   | Sprint 1 Review              |
-  | Resumen                         | Se creó la organización de Car2Go en Github y el repositorio para el landing page de la organización.                                                                                                           |
+  | Resumen                         | Se creó el repositoio del Back-End                                                                            |
   | Sprint 2 Retrospective       |
-  | Resumen                         | La landing page fue desarrollada utilizando HTML, CSS, JS y Bootstrap                                                                                                                |
+  | Resumen                         | En este sprint el Back-End se esta desarrolando en JAVA y Spring Boot                                         |
   | **Sprint Goal & User Stories**  |
-  | Sprint 3 Velocity               | 41 points                                                                                                                                                                                    |
+  | Sprint 3 Velocity               | 41 points                                                                                                                                                          |
   | Sum of Story Points             | 41 points                                                                                                                                                                                    |
 </div>
 
@@ -2420,41 +2420,16 @@ _Link_: https://car2go-c60fa.web.app/
 
 
 ### 5.2.3.3. Development Evidence for Sprint Review
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 60%">
 
-| Repository	  | Branch	            | Commit Id | Commit Message	                                     | Commit Message Body | Committed on (Date) |
-|--------------|--------------------|-----------|-----------------------------------------------------|---------------------|---------------------|
-| frontend-car2go | master | fb2dfe6 | initial commit | - | 22/09/2024 | 
-| frontend-car2go | authentication | 3287993 | feat(authentication): updated navbar | - | 23/09/2024 |
-| frontend-car2go | authentication | 1fdac17 | feat(authentication): added images for login view | - | 23/09/2024 |
-| frontend-car2go | authentication | 1afc480 | feat(authentication): updated home view | - | 23/09/2024 |
-| frontend-car2go | authentication | 6c38c6f | feat(authentication): updated toolbar view | - | 23/09/2024 |
-| frontend-car2go | authentication | 3cde965 | feat(authentication): added register component | - | 23/09/2024 |
-| frontend-car2go | payment | b4e8230 | feat(payment): added plan component | - | 23/09/2024 |
-| frontend-car2go | authentication | ae2c2f3 | feat(authentication): updated forgot password | - | 23/09/2024 |
-| frontend-car2go | authentication | 08e6a55 | feat(authentication): added routes | - | 23/09/2024 |
-| frontend-car2go | authentication | 5b8320d | feat(authentication): updated routes | - | 23/09/2024 |
-| frontend-car2go | authentication | b354f8c | feat(authentication): add images and routes | - | 24/09/2024 |
-| frontend-car2go | authentication | 7f76b10 | feat(authentication): added car listing component | - | 24/09/2024 |
-| frontend-car2go | payment | d3c4457 | feat(payment): added payment form component | - | 24/09/2024 |
-| frontend-car2go | authentication | 7289d63 | feat(authentication): added preview modal and more information | - | 24/09/2024 |
-| frontend-car2go | vehicle | 10bae07 | feat: add car-details and card-information components | - | 25/09/2024 |
-| frontend-car2go | payment | 135e8b5 | feat(payment): updated payment form component | - | 25/09/2024 |
-| frontend-car2go | authentication | 67ad078 | feat(authentication): updated car details component | - | 25/09/2024 |
-| frontend-car2go | authentication | 1e28cb7 | feat(authentication): add car service | - | 25/09/2024 |
-| frontend-car2go | interaction | 3479363 | merge with authentication | - | 25/09/2024 |
-| frontend-car2go | interaction | 40e7f08 | feat(interaction): prueba | - | 25/09/2024 |
-| frontend-car2go | payment | 9479e37 | feat(payment): updated plan component  | - | 25/09/2024 |
-| frontend-car2go | payment | dbd0ffe | feat(payment): updated plan service | - | 25/09/2024 |
-| frontend-car2go | authentication | 11d72c6 | feat: added page-not-found component | - | 25/09/2024 |
-| frontend-car2go | interaction | 8d9c84e | feat(interaction): prueba_J | - | 25/09/2024 |
-| frontend-car2go | interaction | 0c2c961 | feat(interaction): mechanic_component | - | 25/09/2024 |
-| frontend-car2go | payment | 11ca4b5 | feat(payment): added route for mechanic check and revision components | - | 25/09/2024 |
-| frontend-car2go | authentication | 30e75a2 | merge with interaction | - | 25/09/2024 |
-| frontend-car2go | authentication | 54740c4 | merge with payment | - | 25/09/2024 |
-</div>
+<!-- ![TB3](assets/spr31.jpg) -->
+---
+<!-- ![TB3](assets/spr32.jpg) -->
+---
+<!-- ![TB3](assets/spr33.jpg) -->
+---
+<!-- ![TB3](assets/spr34.jpg) -->
+---
+<!-- ![TB3](assets/spr35.jpg) -->
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -2573,7 +2548,7 @@ Esta subsección presenta un registro detallado de las entrevistas realizadas, d
 **Edad:** 24 años<br>
 **Ocupación:** Estudiante<br>
 **Enlace del video completo de las entrevistas:** <br>
-
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
 <br>
 
 **Resumen de la entrevista:** <br>
@@ -2587,7 +2562,7 @@ Gabriel, estudiante universitario que en su tiempo libre compra y vende autos, c
 **Edad:** 22 años<br>
 **Ocupación:** Estudiante<br>
 **Enlace del video completo de las entrevistas:** <br>
-
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
 <br>
 
 **Resumen de la entrevista:** <br>
@@ -2603,7 +2578,7 @@ Anatoly, ingeniero de software que revisa constantemente vehículos para futuras
 **Edad:** 22 años<br>
 **Ocupación:** Estudiante<br>
 **Enlace del video completo de las entrevistas:** <br>
-
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
 <br>
 
 **Resumen de la entrevista:**
@@ -2617,7 +2592,7 @@ Mijael comenta que la estructura de la plataforma es adecuada y cuenta con lo ne
 **Edad:** 22 años<br>
 **Ocupación:** Estudiante<br>
 **Enlace del video completo de las entrevistas:** <br>
-
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
 <br>
 
 **Resumen de la entrevista:** <br>
@@ -2633,7 +2608,7 @@ Jeffrey actualmente trabaja, pero en su tiempo libre se dedica a la venta de aut
 **Edad:** 29 años<br>
 **Ocupación:** Mecánico<br>
 **Enlace del video completo de las entrevistas:** <br>
-
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
 <br>
 
 **Resumen de la entrevista:**
@@ -2647,7 +2622,7 @@ Maomed mencionó que la estructura de la página es intuitiva, aunque sugiere a�
 **Edad:** 22 años<br>
 **Ocupación:** Estudiante<br>
 **Enlace del video completo de las entrevistas:** <br>
-
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
 <br>
 
 **Resumen de la entrevista:** <br>
@@ -2793,3 +2768,4 @@ Link: [About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114
 * Exposición TB1: https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq
 * Exposicion TB2: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EU3C5Ale3ipDk2jD7nrlmQQBDTs2EBhWG9qFHJ4d1wSIBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JsW3ez)
 * Trello: [Link](https://trello.com/invite/b/672593151a102b5df4062300/ATTIee8d366a57b61466153105a6f5824169062AAAF0/sprint-3)
+* Entrevistas: [Link]([Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah))
