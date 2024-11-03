@@ -70,12 +70,16 @@
 |V1.7|26/08/2024|Harold|Implemetacion de vista para BC payment|
 |V2.0|28/09/2024|Todos|Entrega de TP1|
 |V2.1|18/10/2024|Harold|Creación de repositorio para BackEnd|
-|V2.2|19/10/2023|Todos|Reunion para correcciones de TP1 y planteamiento de TB2 (sprint 3)|
-|V2.3||||
-|V2.4||||
-|V2.5||||
-|V2.6||||
-|V2.7||||
+|V2.2|19/10/2024|Todos|Reunion para correcciones de TP1 y planteamiento de TB2 (sprint 3)|
+|V2.3|24/10/2024|Franco|Implemetacion de BC vechile en el Backend|
+|V2.4|24/10/2024|Harold|Implemetacion de BC IAM y Shared en el Backend|
+|V2.5|24/10/2024|Geral|Implemetacion de BC Payment en el Backend|
+|V2.6|26/10/2024|Franco|Actualización de FrontEnd|
+|V2.7|28/10/2024|Harold|Implemetacion de BC Profile en el Backend|
+|V2.8|01/11/2024|Karito|Actualización de BC Payment en el Backend|
+|V2.9|01/11/2024|Joaquin|Actualización de BC Payment en el Backend|
+|V2.10|01/11/2024|Karito - Joaquin|Actualización de documento|
+
 
 ---
 **Project Report Collaboration Insights**
@@ -120,11 +124,11 @@ Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la sigui
 
 | Integrante                          | Actvidades Asignadas                                                                                                                                                |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Barrionuevo Reto,  Jean Franco Joel | - |
-| Carranza Tesen, Joaquin Enrique     | - |
-| Mayta López, Harold                 | - |
-| Medina Chocce, Karito Dianeth       | - |
-| Serrano Uchuya, Gerald Patricio     | - |
+| Barrionuevo Reto,  Jean Franco Joel | - Entrevista <br> - BC vechile <br> - Actualización en el Frontend|
+| Carranza Tesen, Joaquin Enrique     | - Entrevista <br> - BC Payment <br> - Actualización en el Frontend|
+| Mayta López, Harold                 | - Entrevista <br> - BC Profile <br> - Actualización en el Frontend|
+| Medina Chocce, Karito Dianeth       | - Entrevista <br> - BC Payment <br> - Actualización en el Frontend|
+| Serrano Uchuya, Gerald Patricio     | - Entrevista <br> - BC Payment <br> - Actualización en el Frontend|
 
 **Evidencia**:
 
@@ -145,7 +149,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
     <td><b>Comunica oralmente con efectividad a diferentes rangos de audiencia.</b></td>
     <td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo. Trabajé en el Capítulo 1. En el Capítulo 2, me encargué de la corrección de las entrevistas y de la investigación de los competidores. Diseñé el Diagrama de Contexto de la Arquitectura del Software para el Capítulo 4. Finalmente, en el Capítulo 5, trabajé en la implementación de las funcionalidades del sistema. <br> TP1: Para esta entrega me encargué de conectar y desplegar la aplicación web junto con el fake-api.<br> TB2: <br>
         <br>Carranza Tesen, Joaquin Enrique<br> TB1: Para esta entrega, desarrollé el Capítulo 2, en el cual busqué competidores para nuestra startup, realicé un análisis competitivo y evalué las estrategias y tácticas frente a ellos. Al presentar estos hallazgos, adapté mi comunicación a diferentes rangos de audiencia, asegurándome de que todos comprendieran la información. Además, modelé las entrevistas para cada segmento objetivo con el fin de recopilar información de manera óptima. Posteriormente, analicé cada entrevista según su respectivo segmento. Con base en la información recopilada, elaboré los User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping, presentando los resultados de forma clara y accesible para cada grupo interesado.  <br> TP1:Mi enfoque principal fue en la creación de un apartado dirigido a talleres mecánicos, donde era crucial que los datos técnicos y las interacciones fueran claros y fáciles de usar para los mecánicos. Al estar en la etapa de frontend, la comunicación con el resto del equipo fue clave para asegurar que la interfaz respondiera a las necesidades del usuario final. Adapté mi estilo de comunicación según el rango de audiencia, facilitando el entendimiento entre los miembros del equipo. Aprendí a colaborar de manera eficiente, participando en reuniones para validar el diseño y asegurándome de que las decisiones se tomaran objetivamente, con base en la usabilidad y la experiencia del usuario.<br> TB2: <br>
-        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: Durante este sprint, tuve un rol clave en la implementación del perfil de usuario, los planes de suscripción y el formulario de pago, además de desarrollar la vista 'Page not found', utilizando Angular. Pude comunicar mis avances y resultados de manera clara, destacando las mejoras en mis componentes y las correcciones que implementé en los de mis compañeros, ajustando mi mensaje según el nivel de comprensión técnica de los miembros del equipo y otras audiencias involucradas.<br> TB2: <br>
+        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: Durante este sprint, tuve un rol clave en la implementación del perfil de usuario, los planes de suscripción y el formulario de pago, además de desarrollar la vista 'Page not found', utilizando Angular. Pude comunicar mis avances y resultados de manera clara, destacando las mejoras en mis componentes y las correcciones que implementé en los de mis compañeros, ajustando mi mensaje según el nivel de comprensión técnica de los miembros del equipo y otras audiencias involucradas.<br> TB2: Durante este sprint, tuve el rol en la implementación del Bounded Context de Profile, usando Java y Sprint Boot. Pude comunicar mis avances y resultados de manera clara.<br>
         <br>Medina Chocce, Karito Dianeth<br> TB1: Para esta entrega, realicé una entrevista al segmento objetivo de talleres mecánicos para comprender mejor sus necesidades y desafíos. Con base en la información recopilada, desarrollé el Capítulo 3 del proyecto, que incluyó el mapeo de escenarios futuros (To-Be Scenario Mapping), la creación de historias de usuario (User Stories), el mapeo del impacto (Impact Mapping) y la elaboración del backlog del producto (Product Backlog). Estas actividades fueron fundamentales para asegurar que el desarrollo de la plataforma se alinee con las expectativas del sector y para colaborar de manera efectiva con el equipo multidisciplinario en el proyecto. <br> TP1: En mi participación en un equipo multidisciplinario, trabajé en la implementación del edit-profile en el frontend utilizando Angular. Mi enfoque en la eficacia y eficiencia se reflejó en las correcciones que realicé en el reporte del proyecto, en particular en el capítulo 5, donde revisé y optimicé el sprint backlog 1 y completé el sprint backlog 2, asegurando que nuestro progreso fuera claro y coherente.<br> TB2: Para esta entrega, realicé entrevistas de testeo enfocadas en el segmento de talleres mecánicos para comprender mejor sus necesidades y desafíos. A partir de la información recopilada, llevé a cabo varias tareas, incluyendo modificaciones en el reporte, la implementación del backend, y correcciones tanto de las historias técnicas como de las historias de usuario. Estas acciones fueron esenciales para garantizar que el desarrollo de la plataforma cumpla con las expectativas del sector y para facilitar una colaboración efectiva con el equipo multidisciplinario del proyecto.<br>
         <br>Serrano Uchuya, Gerald Patricio<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo de vendedores. Además, desarrollé la sección de Information Architecture, donde organizamos la información relevante de la plataforma en grupos, añadimos etiquetas, y describimos la navegación y el sistema de búsqueda. Finalmente, diseñé los diagramas de clases y de base de datos. <br> TP1: Para esta entrega, implementé el componente que muestra los detalles de los autos en venta tanto para la vista de comprador como vendedor. Además, agregué los acceptance tests a partir de los user stories. <br> TB2: En esta entrega, realicé el bounded context de payment para el backend, el cual se encarga de las transacciones de vehiculos y el manejo de suscripciones para los vendedores. Además, se realizó la entrevista de validación para comprobar los puntos positivos y negativos de nuestra aplicación web con el fin de mejorar según la experiencia del usuario. <br>
    </td>
@@ -156,7 +160,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
     <td><b>Comunica por escrito con efectividad a diferentes rangos de audiencia</b></td>
 <td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los compradores de autos de segunda mano, así como los problemas y oportunidades que enfrentan en su búsqueda. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br> TP1: Durante el desarrollo del proyecto, profundicé mis conocimientos en el sector del desarrollo de software, enfocándome en la implementación de soluciones prácticas a través de la corrección de informes y la planificación de sprints.<br> TB2: <br>
         <br>Carranza Tesen, Joaquin Enrique<br> TB1:  La investigación realizada sobre el mercado de autos de segunda mano me permitió identificar las principales necesidades y desafíos de los compradores, vendedores y talleres mecánicos. Utilicé esta información para desarrollar el Capítulo 2, que incluye un análisis competitivo y la creación de perfiles de usuario, matrices de tareas y mapeos de la experiencia de los usuarios. Al documentar mis hallazgos, adapté el lenguaje y el formato para comunicarme por escrito con efectividad a diferentes rangos de audiencia, asegurando que la información fuera accesible y comprensible. Este trabajo me ayudó a entender mejor el sector y cómo las soluciones de software pueden mejorar la transparencia y la seguridad en las transacciones. La experiencia adquirida me permitió enfocar el proyecto de manera más efectiva, asegurando que las funcionalidades de la plataforma sean útiles y relevantes para este mercado. <br> TP1: En este proyecto, mi enfoque se centró en el sector de la compra y venta de autos de segunda mano, donde desarrollé el frontend de una plataforma que facilita la conexión entre mecánicos, compradores y vendedores. Si bien solo hemos desarrollado la interfaz de usuario hasta ahora, tuve que familiarizarme con los procesos del sector automotriz, especialmente en lo que respecta a las inspecciones y certificaciones de vehículos. Al documentar mis hallazgos y recomendaciones, aseguré que mi comunicación por escrito fuera clara y adaptada a diferentes rangos de audiencia, permitiendo que tanto técnicos como no técnicos comprendieran la información. Esto me permitió entender mejor cómo adaptar la plataforma a las necesidades de los mecánicos y otros usuarios, asegurando que el diseño del frontend fuera intuitivo y que reflejara la información técnica necesaria para este tipo de operaciones. <br> TB2: <br>
-        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: Durante este sprint, participé activamente en la implementación del perfil de usuario, los planes de suscripción y su respectivo formulario de pago, así como en la creación de la vista 'Page not found', utilizando Angular. A través de estas funcionalidades, adquirí experiencia en el sector de ventas y suscripción de servicios, aplicando soluciones de software a un entorno empresarial real. Mi capacidad de comunicación escrita me permitió documentar y compartir de manera efectiva las mejoras implementadas en mis componentes, así como las correcciones que aporté a los de mis compañeros, adaptando el nivel de detalle según la audiencia, desde desarrolladores técnicos hasta partes interesadas no técnicas.<br> TB2: <br>
+        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: Durante este sprint, participé activamente en la implementación del perfil de usuario, los planes de suscripción y su respectivo formulario de pago, así como en la creación de la vista 'Page not found', utilizando Angular. A través de estas funcionalidades, adquirí experiencia en el sector de ventas y suscripción de servicios, aplicando soluciones de software a un entorno empresarial real. Mi capacidad de comunicación escrita me permitió documentar y compartir de manera efectiva las mejoras implementadas en mis componentes, así como las correcciones que aporté a los de mis compañeros, adaptando el nivel de detalle según la audiencia, desde desarrolladores técnicos hasta partes interesadas no técnicas.<br> TB2: Durante este sprint, participe activamente desarrollando del Bounded Context de Profile, usando Java y Sprint Boot. Pude comunicar mis avances y resultados de manera clara.<br>
         <br>Medina Chocce, Karito Dianeth<br> TB1: La entrevista realizada a talleres mecánicos me permitió identificar sus principales necesidades y problemas. Utilicé esta información para desarrollar el Capítulo 3, que abarca el mapeo de escenarios futuros, historias de usuario, mapeo del impacto y backlog del producto. Este trabajo me permitió entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me ayudó a enfocar el proyecto de manera efectiva, garantizando que las funcionalidades de la plataforma sean relevantes y útiles para el dominio de aplicación. <br> TP1: Durante el desarrollo del proyecto, profundicé mis conocimientos en el sector del desarrollo de software, enfocándome en la implementación de soluciones prácticas a través de la corrección de informes y la planificación de sprints. Esto me permitió familiarizarme con las metodologías ágiles y las necesidades específicas de los usuarios, contribuyendo así a la efectividad de nuestro trabajo en el sector empresarial.<br> TB2: La entrevista llevada a cabo con talleres mecánicos me permitió identificar sus necesidades y problemas más relevantes. A partir de esta información, realicé las entrevistas de testeo, modifiqué el reporte, implementé el backend y corregí tanto las historias técnicas como las historias de usuario. Este trabajo me ayudó a entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me permitió enfocar el proyecto de manera efectiva, asegurando que las funcionalidades de la plataforma sean pertinentes y útiles para su ámbito de aplicación.<br>
         <br>Serrano Uchuya, Gerald Patricio<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los vendedores de autos, así como los problemas y oportunidades que enfrentan con sus clientes. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br> TP1: Los tests de aceptación desarrollados nos permiten garantizar que las funcionalidades implementadas en la aplicación web cumplan con sus objetivos y satisfagan las necesidades del usuario, así como el tipo de datos que deben ingresar y el output recibido por parte del sistema.<br> TB2: La entrevista de validación fue de utilidad para encontrar áreas de mejora en el diseño de nuestra aplicación web para que nuestros usuarios puedan navegar con facilidad.<br>
 </td>
@@ -2462,44 +2466,36 @@ A partir de las historias de usuario, se generaron los acceptance tests para eva
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
-En este sprint, el principal objetivo era desarrollar un primer avance de las funcionalidades principales del frontend de nuestra aplicación web. A continuación, se muestran algunos de los resultados de las diferentes pantallas al ejecutar la aplicación.
+En esta parte, se muestra la ejecucion de la aplicacion web, tanto del front end como del back end, asi como tambien se muestra el uso de la aplicacion en un servidor de Swagger.
 
-- Login
-<img src="assets/login-screen.png" alt="Login screen">
-<br></br>
-- Detalles de vehículo
-<img src="assets/car-details.png" alt="Details of a car">
-<br></br>
-- Listado de autos
-<img src="assets/list-cars.png" alt="List of cars">
-<br></br>
+<!-- ![Swagger](assets/azure.jpg)-->
+---
+<!-- ![Swagger](assets/azure.jpg)-->
+---
+<!-- ![Swagger](assets/azure.jpg)-->
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-En este segundo sprint, nos hemos enfocado únicamente en el desarrollo del Frontend de nuestra aplicación web, sin abordar servicios web. Por esta razón, no hemos elaborado la documentación referente al uso de dichos servicios en esta ocasión.
+En esta seccion, se muestra la documentacion de los servicios del back end de la aplicacion web, asi como tambien se muestra el uso de Swagger para la documentacion de los servicios.
 
+Utilizamos SpringBoot, Spring Security, JWToken y Spring Data jpa:
+
+- [Sprint Boot](https://docs.spring.io/spring-boot/index.html)
+- [Sprint Boot Security](https://docs.spring.io/spring-boot/reference/web/spring-security.html#page-title)
+- [Json Web Token](https://www.npmjs.com/package/jsonwebtoken)
+- [Sprint Data JPA](https://spring.io/projects/spring-data-jpa)
+
+  
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-Para el presente sprint se ha desarrollado el FrontEnd. Para el despliegue se emplearon las siguientes herramientas:
+Para el presente sprint se ha creda la base de datos en AZURE y se planea hacer el deploy de Web services en Docker:
 
-- Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
-- Gitflow: Flujo de trabajo colaborativo. Nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
-- GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
-- Vercel: Plataforma que automatiza webs que nos permitió alojar y desplegar nuestra el JSON.
+<!-- ![AZURE](assets/azure.jpg)-->
 
- _Link_: https://car2go-fake-api.vercel.app/
-
-![deploy](assets/vercel-fake-api.png)
-
-- Firebase: Plataforma que nos permitio el hacer un deploy del FrontEnd.
-
-_Link_: https://car2go-c60fa.web.app/ 
-
-![deploy](assets/firebase.jpg)
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
-![TP1](assets/com-tp1.jpg)
+<!-- ![TP1](assets/com-tp1.jpg)-->
 
 
 ## 5.3. Validation Interviews
