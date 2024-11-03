@@ -2573,6 +2573,19 @@ Esta subsección presenta un registro detallado de las entrevistas realizadas, d
 El entrevistado mostró un alto interés en el producto y sugirió algunos aspectos para mejorar. Propuso hacer el producto más llamativo visualmente y capturar mejor las percepciones de los clientes desde el momento en que ingresan, posiblemente a través de encuestas o análisis de datos iniciales. Además, recomendó la implementación de un libro de reclamaciones para facilitar la retroalimentación formal de los usuarios, mejorando así la atención al cliente y la resolución de problemas de manera efectiva.
 <br><br>
 
+**Entrevistado(a) #2:** --<br>
+**Sexo:**--<br>
+**Edad:**-- años<br>
+**Ocupación**--<br>
+**Minuto de la entrevista:**00:00 - 08:27<br>
+**Enlace del video completo de las entrevistas:**<br>
+
+<br>
+
+**Resumen de la entrevista:**<br>
+El entrevistado mostró un alto interés en el producto y sugirió algunos aspectos para mejorar. Propuso hacer el producto más llamativo visualmente y capturar mejor las percepciones de los clientes desde el momento en que ingresan, posiblemente a través de encuestas o análisis de datos iniciales. Además, recomendó la implementación de un libro de reclamaciones para facilitar la retroalimentación formal de los usuarios, mejorando así la atención al cliente y la resolución de problemas de manera efectiva.
+<br><br>
+
 **Segmento Objetivo 2: Viajeros Escolares**
 -------------------------------------------
 **Entrevistado(a) #1:**<br>
@@ -2588,6 +2601,46 @@ El entrevistado mostró un alto interés en el producto y sugirió algunos aspec
 
 <br><br>
 
+**Entrevistado(a) #2:** --<br>
+**Sexo:**--<br>
+**Edad:**-- años<br>
+**Ocupación**--<br>
+**Minuto de la entrevista:**00:00 - 08:27<br>
+**Enlace del video completo de las entrevistas:**<br>
+
+<br>
+
+**Resumen de la entrevista:**<br>
+El entrevistado mostró un alto interés en el producto y sugirió algunos aspectos para mejorar. Propuso hacer el producto más llamativo visualmente y capturar mejor las percepciones de los clientes desde el momento en que ingresan, posiblemente a través de encuestas o análisis de datos iniciales. Además, recomendó la implementación de un libro de reclamaciones para facilitar la retroalimentación formal de los usuarios, mejorando así la atención al cliente y la resolución de problemas de manera efectiva.
+<br><br>
+
+**Segmento Objetivo 2: Viajeros Escolares**
+-------------------------------------------
+**Entrevistado(a) #1:**<br>
+**Sexo:**<br>
+**Edad:**<br>
+**Ocupación**<br>
+**Minuto de la entrevista:**<br>
+**Enlace del video completo de las entrevistas:**<br>
+
+<br>
+
+**Resumen de la entrevista:**
+
+<br><br>
+
+**Entrevistado(a) #2:** --<br>
+**Sexo:**--<br>
+**Edad:**-- años<br>
+**Ocupación**--<br>
+**Minuto de la entrevista:**00:00 - 08:27<br>
+**Enlace del video completo de las entrevistas:**<br>
+
+<br>
+
+**Resumen de la entrevista:**<br>
+El entrevistado mostró un alto interés en el producto y sugirió algunos aspectos para mejorar. Propuso hacer el producto más llamativo visualmente y capturar mejor las percepciones de los clientes desde el momento en que ingresan, posiblemente a través de encuestas o análisis de datos iniciales. Además, recomendó la implementación de un libro de reclamaciones para facilitar la retroalimentación formal de los usuarios, mejorando así la atención al cliente y la resolución de problemas de manera efectiva.
+<br><br>
 
 ### 5.3.3. Evaluación según heurísticas
 Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
