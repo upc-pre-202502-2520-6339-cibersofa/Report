@@ -132,7 +132,7 @@ Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la sigui
 
 **Evidencia**:
 
-<!-- ![TP1](assets/com-tp1.jpg) -->
+![TB1](assets/evidencia-tb3.jpg)
 
 ----
 # Student Outcome
