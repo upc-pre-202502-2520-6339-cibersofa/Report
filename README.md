@@ -2717,7 +2717,7 @@ Link: [About-The-Product](https://youtu.be/yw8LziQU3aE?si=6WFLeFolUzMeRNxL)
   <br><br>
 - El diseño de Car2Go se desarrolló con el objetivo de ofrecer una experiencia de usuario superior y establecer una clara diferenciación respecto a la competencia. Los estilos seleccionados, junto con una organización cuidadosa de la información, no solo aportan coherencia visual, sino que también facilitan la navegación y el acceso a las funcionalidades más relevantes para los usuarios.
 
-## Viodeo About-the-Team.
+## Video About-the-Team.
 
 Link: [About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ES3SMYLntOJPtOCJ-d3KYeABzTCroSUW26a8a-X0Ws3wng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HZ5W8Q)
 
