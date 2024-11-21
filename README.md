@@ -2640,7 +2640,7 @@ Para este ultimo sprint se uso los servicios de Azure para el deploy de nuestro 
 ---
 - Para el deploy de nuestro web service se uso el recurso de **Web App**:
 
-_Link_: [Swagger](car2go-platform-hpdzhtb8ekceg9gd.canadacentral-01.azurewebsites.net/swagger-ui/index.html)
+_Link_: [Swagger](https://car2go-platform-hpdzhtb8ekceg9gd.canadacentral-01.azurewebsites.net/swagger-ui/index.html)
 
 ![Swagger](assets/web.PNG)
 ---
