@@ -2385,7 +2385,7 @@ _Link_: https://car2go-c60fa.web.app/
   | Prepared By                     | Harold Mayta                                                                                          |
   | Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
   | Sprint 1 Review              |
-  | Resumen                         | Se creó el repositoio del Back-End                                                                            |
+  | Resumen                         | Se creó el repositorio del Back-End                                                                            |
   | Sprint 2 Retrospective       |
   | Resumen                         | En este sprint el Back-End se esta desarrolando en JAVA y Spring Boot                                         |
   | **Sprint Goal & User Stories**  |
@@ -2502,7 +2502,7 @@ Para el presente sprint se ha creda la base de datos en AZURE y se planea hacer 
   | Prepared By                     | Harold Mayta                                                                                          |
   | Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
   | Sprint 1 Review              |
-  | Resumen                         | Se creó el repositoio del Back-End                                                                            |
+  | Resumen                         | Se creó el repositorio del Back-End                                                                            |
   | Sprint 2 Retrospective       |
   | Resumen                         | En este sprint se creo el web application (Frontend)                                         |
   | Sprint 3 Retrospective       |
