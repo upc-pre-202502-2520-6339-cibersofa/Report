@@ -1864,134 +1864,140 @@ Clase User
 
 | Atributo           | Tipo   | Descripción                     |
 |--------------------|--------|---------------------------------|
-| userID             | int    | Identificador único del usuario |
-| names              | string | Nombres del usuario             |
-| last_name          | string | Apellidos del usuario           |
-| phone_number       | string | Número telefónio del usuario    |
-| email              | string | Correo del usuario              |
-| password           | string | Contraseña del usuario          |
-| role               | string | Rol del usuario                 |
-| subscriptionPlan   | Subscription | Plan de subscripción            |
-| transactionHistory | list   | Historial de transacciones      |
+| id                 | long   | Identificador único del usuario |
+| createdAt          | Date   | Fecha de creación del usuario   |
+| updateAt           | Date   | Última actualización del usuario|
+| username           | String | Nombre de usuario               |
+| password           | String | Contraseña del usuario          |
+| roles              | Set    | Rol del usuario                 |
 
 <br><br/>
-Clase SubscriptionPlan
+Clase Role
+
+| Atributo | Tipo   | Descripción                                  |
+|----------|--------|----------------------------------------------| 
+| id       | Long   | Identificador único del rol                  |
+| name     | String | Nombre del rol                               |
+
+ 
+<br><br/>
+Clase Profile
 
 | Atributo | Tipo   | Descripción                                  |
 |----------|--------|----------------------------------------------|
-| planID   | int    | Identificador único del plan de subscripción |
-| name     | string | Nombre del plan                              |
-| price    | double | Precio del plan                              |
-| startDate| date   | Fecha de inicio de la subscripción           |
-| endDate  | date   | Fecha de expiración de la subscripción       |
-| status   | string | Estado de la subscripción                    |
+| id       | int    | Identificador único del perfil               |
+| name     | String | Nombre del perfil                            |
+| email    | String | Correo electrónico                           |
+| image    | String | Foto de perfil                               |
+| dni      | String | Documento nacional de identidad              |
+| address  | String | Dirección del perfil                         |
+| phone    | String | Número de celular del perfil                 |
+| profileId | Long  | Identificar del perfil                       |
+| paymentMethods | List | Lista de métodos de pago                 |
+ 
  
 <br><br/>
 Clase Transaction
 
 | Atributo      | Tipo    | Descripción                           |
 |---------------|---------|---------------------------------------|
-| transactionID | int     | Identificador único de la transacción |
-| buyer         | User    | Comprador del auto                    |
-| seller        | User    | Vendedor del auto                     |
-| vehicle       | Vehicle | Vehículo vendido                      |
+| id            | int     | Identificador único de la transacción |
+| buyerId       | int     | Identificador del comprador           |
+| sellerId      | int     | Identificar del vendedor              |
+| vehicle       | Vehicle | Vehículo de interés                   |
 | amount        | double  | Precio de venta                       |
 | date          | date    | Fecha de la transacción               |
 | paymentStatus | string  | Estado del pago de la transacción     |
 
-<br><br/>
-Clase Payment
-
-| Atributo      | Tipo        | Descripción                    |
-|---------------|-------------|--------------------------------|
-| paymentID     | int         | Identificador único del pago   |
-| transaction   | Transaction | Transación perteniente al pago |
-| paymentMethod | string      | Método de pago                 |
-| paymentDate   | date        | Fecha del pago                 |
 
 <br><br/>
 
-<br>
-Clase Post
-
-| Atributo    | Tipo    | Descripción                  |
-|-------------|---------|------------------------------|
-| postID      | int     | Identificador único del post |
-| vehicle     | Vehicle | Vehículo en venta            |
-| seller      | User    | Vendedor                     |
-| title       | string  | Título del post              |
-| description | string  | Descripción del post         |
-| price       | double  | Precio del vehículo          |
-| status      | string  | Status del post              |
-| createdDate | date    | Fecha de creación del post   |
-| location    | string  | Ubicación del vehículo       |
-| images      | list    | Imágenes del vehículo        |
-
-<br><br/>
 Clase Vehicle
 
 | Atributo           | Tipo   | Descripción                      |
 |--------------------|--------|----------------------------------|
-| vehicleID          | int    | Identificador único del vehículo |
+| id                 | int    | Identificador único del vehículo |
+| name               | String | Nombre del vendedor              |
+| phone              | String | Teléfono del vendedor            |
+| email              | String | Correo del vendedor              |
 | brand              | string | Marca del vehículo               |
 | model              | string | Modelo                           |
 | year               | int    | Año de fabricación               |
 | price              | double | Precio del vehículo              |
 | color              | string | Color principal del vehículo     |
+| transmission       | String | Tipo de transmisión              |
+| engine             | String | Motor del vehículo               |
 | mileage            | double | Kilometraje                      |
+| doors              | String | Número de puertas del vehículo   |
+| plate              | String | Número de placa                  |
 | location           | string | Ubicación del vehículo           |
-| images             | list   | Imágenes del vehículo            |
-| description        | string | Descripción                      |
-| maintenanceHistory | list   | Historial de mantenimiento       |
+| images             | List   | Imágenes del vehículo            |
+| description        | String | Descripción                      |
+| fuel               | String | Combustible                      |
+| speed              | int    | Velocidad                        |
+| profileId          | long   | Identificador del vendedor       |
+| createdDate        | LocalDateTime | Fecha de creación del post |
+| lastModifiedDate   | LocalDateTime | Fecha de última modificación del post |
+| reviews            | List   | Revisiones del vehículo          |
+| myOffers           | List   | Ofertas recibidas                |
+
 
 <br><br/>
-Clase Contact
 
-| Atributo  | Tipo   | Descripción                                                 |
-|-----------|--------|-------------------------------------------------------------|
-| contactID | int    | Identificador único del contacto entre comprador y vendedor |
-| sender    | User   | Usuario interesado en el vehículo                           |
-| receiver  | User   | Usuario dueño del vehículo                                  |
-| message   | string | Mensaje enviado                                             |
-| date      | date   | Fecha del mensaje                                           |
-
-<br><br/>
 Clase Review
 
 | Atributo | Tipo   | Descripción                                     |
 |----------|--------|-------------------------------------------------|
-| reviewID | int    | Identificador único de la reseña de un vendedor |
-| user     | User   | Usuario que publicó la reseña                   |
-| seller   | User   | Vendedor que recibe las reseñas                 |
-| rating   | int    | Calificación del vendedor                       |
-| comment  | string | Comentarios de la reseña                        |
-| date     | date   | Fecha de publicación                            |
+| id       | long   | Identificador único de la revisión              |
+| vehicle  | Vehicle | Vehículo que recibe la revisión                |
+| reviewedBy | String | Mecánico que realizó la revisión              |
+| notes    | String | Notas de la revisión                            |
+| reviewDate | LocalDateTime | Fecha de la revisión                   |
 
 <br><br/>
-Clase Maintenance
 
-| Atributo      | Tipo     | Descripción                           |
-|---------------|----------|---------------------------------------|
-| maintenanceID | int      | Identificador único del mantenimiento |
-| vehicle       | Vehicle  | Vehículo objetivo del mantenimiento   |
-| date          | date     | Fecha del mantenimiento               |
-| description   | string   | Descripción del mantenimiento         |
-| cost          | double   | Costo del mantenimiento               |
-| mechanic      | Mechanic | Mecánico a cargo del mantenimiento    |
+Clase Subscription
+
+| Atributo      | Tipo    | Descripción                           |
+|---------------|---------|---------------------------------------|
+| id            | long    | Identificador único de la suscripción |
+| createdAt     | Date    | Fecha de suscripción                  |
+| updateAt      | Date    | Fecha de actualización de suscripción |
+| description   | String  | Descripción de la suscripción         |
+| status        | SubscriptionStatus | Precio de venta            |
+| profileId     | Long    | Id del usuario suscrito               |
 
 <br><br/>
-Clase Mechanic
 
-| Atributo    | Tipo   | Descripción                          |
-|-------------|--------|--------------------------------------|
-| mechanicID  | int    | Identificador único del mecánico     |
-| names       | string | Nombres                              |
-| last_name   | string | Apellidos                            |
-| phonenumber | string | Número telefónico                    |
-| address     | string | Dirección del taller automotriz      |
-| company     | string | Nombre del taller automotriz         |
-| email       | string | Correo del mecánico                  |
-| password    | string | Contraseña de la cuenta del mecánico |
+Clase Favorite
+
+| Atributo      | Tipo    | Descripción                           |
+|---------------|---------|---------------------------------------|
+| id            | int     | Identificador del vehículo favorito   | 
+| vehicle       | Vehicle | Vehículo agregado como favorito       |
+| profileId     | Long    | Id del usuario                        |
+| createdAt     | LocalDateTime | Fecha de agregar                |
+
+<br><br/>
+
+Clase PaymentMethod
+
+| Atributo      | Tipo    | Descripción                           |
+|---------------|---------|---------------------------------------|
+| id            | Long    | Identificador del método de pago      | 
+| type          | String  | Tipo de método de pago                |
+| details       | String  | Detalles del método de pago           |
+
+<br><br/>
+
+Clase PersonName
+
+| Atributo      | Tipo    | Descripción                           |
+|---------------|---------|---------------------------------------|
+| firstName     | String  | Primer nombre del usuario             |
+| lastName      | String  | Apellido del usuario                  |
+
+<br><br/>
 
 ## 4.8 Database Design
 El sistema de gestión de bases de datos relacional (RDBMS) que utilizaremos para generar las tablas y establecer sus relaciones en nuestra plataforma será MySQL. Hemos elegido MySQL por su facilidad de uso y por su integración con MySQL Workbench, que nos proporciona una herramienta visual eficiente para la administración de la base de datos.
@@ -2725,7 +2731,7 @@ Esta subsección presenta un registro detallado de las entrevistas realizadas, d
 Gabriel, estudiante universitario que en su tiempo libre compra y vende autos, comentó que su primera impresión de la página web fue que es muy intuitiva, aunque le hubiera gustado que estuviera completamente terminada, ya que tiene una buena estructura. También sugiere agregar medidas de seguridad a la información mostrada sobre los autos.
 <br><br>
 
-![imagen1](assets/entrevista_gabriel.png)
+![imagen1](assets/validacion_gabriel.png)
 
 **Entrevistado(a) #2:** Anatoly Noriega<br>
 **Sexo:** Masculino<br>
@@ -2739,7 +2745,7 @@ Gabriel, estudiante universitario que en su tiempo libre compra y vende autos, c
 Anatoly, ingeniero de software que revisa constantemente vehículos para futuras compras, expresó que le agradaron la estructura y el diseño de la plataforma, destacando especialmente las opciones del menú para redirigir a distintas páginas y la forma en que se muestran los autos y su información. Considera confiable la información de los autos, aunque le preocupa la sección de pagos, que encontró confusa y difícil de entender, y señaló que el estilo en la sección de perfil pierde coherencia con el resto del diseño. Sugiere añadir un botón para traducir la página a otros idiomas. Concluyó que usaría la plataforma, ya que la información es transparente y el diseño es atractivo para el usuario.
 <br><br>
 
-![imagen2](assets/entrevista_anatoly.png)
+![imagen2](assets/validacion_anatoly.png)
 
 **Segmento Objetivo 2: Vendedores de Autos de Segunda Mano**
 -------------------------------------------
@@ -2755,7 +2761,7 @@ Anatoly, ingeniero de software que revisa constantemente vehículos para futuras
 Mijael comenta que la estructura de la plataforma es adecuada y cuenta con lo necesario para realizar sus publicaciones y vender autos. Sugiere que en la sección del perfil se incluya un texto que diga “Mi perfil” y que los textos de esta sección sean más grandes para mayor comodidad. También destaca que la plataforma es intuitiva, pero recomienda que la opción de "logout" esté incluida dentro del perfil. Por último, menciona que el botón para guardar datos en el perfil sea más específico, como “guardar cambios,” y que en ciertos campos de información, como el de teléfono, solo se permita ingresar números.
 <br><br>
 
-![imagen3](assets/entrevista_mijael.png)
+![imagen3](assets/validacion_mijael.png)
 
 **Entrevistado(a) #2:** Jefrey Sanchez<br>
 **Sexo:** Masculino<br>
@@ -2769,7 +2775,7 @@ Mijael comenta que la estructura de la plataforma es adecuada y cuenta con lo ne
 Jeffrey actualmente trabaja, pero en su tiempo libre se dedica a la venta de autos. Mencionó que le pareció muy llamativo que la información se muestre de manera clara sin necesidad de entrar en cada tarjeta, y destacó que el diseño en general es muy atractivo. Comentó también que toda la navegación es intuitiva y clara. Como sugerencia, indicó que sería útil agregar un filtro para descartar los autos que no se buscan, facilitando así encontrar el auto deseado. En general, expresó que su experiencia ha sido muy positiva.
 <br><br>
 
-![imagen4](assets/entrevista_jefrey.png)
+![imagen4](assets/validacion_jefrey.png)
 
 **Segmento Objetivo 2: Talleres Mecánicos**
 -------------------------------------------
@@ -2785,7 +2791,7 @@ Jeffrey actualmente trabaja, pero en su tiempo libre se dedica a la venta de aut
 Maomed mencionó que la estructura de la página es intuitiva, aunque sugiere añadir un menú desplegable para acceder a las secciones importantes de forma rápida. Respecto a las herramientas de carga de datos, considera que son claras y fáciles de usar, pero sería útil incluir ejemplos o instrucciones breves junto a cada campo. En cuanto a la sección de reportes, la encontró un poco confusa y recomendó añadir un tutorial o videos explicativos para facilitar su uso. Percibe la plataforma como segura, aunque cree que un ícono o mensaje informando sobre las medidas de seguridad implementadas aumentaría la confianza del usuario. Destacó como puntos positivos el diseño limpio, la facilidad de navegación y el acceso rápido a las funciones principales, pero señaló la falta de instrucciones claras en algunas secciones y la necesidad de una sección de preguntas frecuentes (FAQ) para resolver dudas comunes. Finalmente, expresó que recomendaría la plataforma a otros talleres y clientes, aunque algunos aspectos podrían mejorarse para optimizar la experiencia de usuario.
 <br><br>
 
-![imagen5](assets/entrevista_maomed.png)
+![imagen5](assets/validacion_maomed.png)
 
 **Entrevistado(a) #2:** Roberto García<br>
 **Sexo:** Masculino<br>
@@ -2799,7 +2805,7 @@ Maomed mencionó que la estructura de la página es intuitiva, aunque sugiere a�
 Roberto es un estudiante universitario que ayuda a su papá, el cual tiene un taller mecánica, en el trabajo cuando tiene tiempo libre. Nos comenta que la página le parece muy intuitiva y atractiva para el usuario. En general no tuvo problemas para poder guiarse al momento de usarlo y que recomendaría su uso a amigos como familiares debido a la seguridad que tiene.
 <br><br>
 
-![imagen6](assets/entrevista_roberto.png)
+![imagen6](assets/validacion_roberto.png)
 
 ### 5.3.3. Evaluación según heurísticas
 Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
