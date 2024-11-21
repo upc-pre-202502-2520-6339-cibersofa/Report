@@ -316,7 +316,6 @@ Durante el sprint, me enfoqué en diseñar entrevistas adaptadas a diferentes se
     - [5.3.3. Evaluación según heurísticas](533-evaluación-según-heurísticas)
 - [5.4. Video About-The-Product](54-video-about-the-product)
 ### [VI: Conclusiones y recomendaciones](#vi-conclusiones-y-recomendaciones)
-### [VI: Conclusiones y recomendaciones](#vi-conclusiones-y-recomendaciones)
 - [Conclusiones](#conclusiones)
 - [VII. Bibliografía](#vii-bibliografía)
 - [VIII. Anexos](#viii-anexos)
