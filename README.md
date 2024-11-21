@@ -2487,6 +2487,117 @@ Para el presente sprint se ha creda la base de datos en AZURE y se planea hacer 
 
 ![TB2](assets/evidencia-tb3.jpg)
 
+## 5.2.4. Sprint 4
+### 5.2.4.1. Sprint Planning 4
+ <div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+
+  | Sprint 4                        | Implementación de la seguridad en el backend e implementación del backend en el frontend.                                                                                         |
+  |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | Sprint Planning Background      |
+  | Date                            | 21/11/2024                                                                                                                                                            |
+  | Time                            | 00:07 horas (GMT-5)                                                                                                                                                 |
+  | Location                        | Reunión realizada mediante Discord                                                                                                                 |
+  | Prepared By                     | Harold Mayta                                                                                          |
+  | Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
+  | Sprint 1 Review              |
+  | Resumen                         | Se creó el repositoio del Back-End                                                                            |
+  | Sprint 2 Retrospective       |
+  | Resumen                         | En este sprint se creo el web application (Frontend)                                         |
+  | Sprint 3 Retrospective       |
+  | Resumen                         | En este sprint el Back-End se esta desarrolando en JAVA y Spring Boot y se realizaron correcciones e integración de seguridad                                         |
+  | **Sprint Goal & User Stories**  |
+  | Sprint 4 Velocity               | 31 points                                                                                                                                                          |
+  | Sum of Story Points             | 31 points                                                                                                                                                                                    |
+</div>
+
+### 5.2.4.2. Sprint Backlog 4
+
+![image](assets/sprint4_trello.png)
+*Elaboración propia. Realizado en Trello: https://trello.com/invite/b/67396fcc6f7b280764d969db/ATTI9e9246c400708c43effc2aae0bf41ce9C52F53AB/sprint-4*
+
+| | Sprint # | | | | Sprint 4 | | |
+|-|----------|-|-|-|----------|-|-|
+| **User Story/Technical Story**        |                   | **Work Item/Task** |               |                                                    |                   |                 |        |
+| **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation (Hours)**    | **Assigned To** | **Status** |
+| US-12 / TS-10        | Ver Informe de Certificación a través de la API | TW-01   | Implementar registro de usuario | Crear un endpoint para manejar el registro de nuevos usuarios a través de la API | 6                 | Franco Barrionuevo   | Done   |
+| US-17 / TS-15        | Confirmación de Transacción a través de la API | TW-02   | Crear funcion de busqueda de autos | Crear una funcionalidad para implementar un endpoint que permita realizar búsquedas de vehículos a través de la API. | 7                 | Karito Medina   | Done   |
+| US-18 / TS-16        | Historial de Transacciones a través de la API | TW-03   | Implementar una función de listado de autos | Crear un endpoint para obtener un listado de vehículos desde la API. | 5                 | Gerald Serrano   | Done   |
+| US-20 / TS-17        | Mensajería entre Compradores y Vendedores a través de la API | TW-04   | Permitir que los vendedores actualizen el listado de autos que venden  | Crear una funcionalidad para implementar un endpoint que permita actualizar la información de los vehículos en el listado a través de la API.  | 6                 | Joaquin Carranza   | Done   |
+| US-21 / TS-18        | Ver Mensajes Recibidos a través de la API | TW-05   | Permitir que los vendedores eliminen el listado de autos que venden  | Crear una funcionalidad para implementar un endpoint que permita eliminar la información de los vehículos en el listado a través de la API.  | 8                 | Harold Mayta   | Done   |
+| US-22 / TS-19        | Marcar Mensajes como Leídos a través de la API | TW-06   | Mostrar detalles completos del auto  | Crear un endpoint para permitir la recuperación de información detallada de un vehículo específico a través de la API.  | 5                 | Franco Barrionuevo   | Done   |
+| US-16 / TS-30        | Deploy de Web Service Backend | TW-07   | Permitir que compradores guarden autos favoritos  | Crear una funcionalidad para implementar un endpoint que permita a los usuarios guardar vehículos en su lista de favoritos a través de la API.  | 7                 | Gerald Serrano   | Done   |
+| US-27 / TS-31        | Deploy de Web Application (Frontend) | TW-08   | Implementar visualización de autos recientes en Home  | Crear un endpoint para permitir la inserción de nuevos vehículos en la base de datos a través de la API.  | 5                 | Joaquin Carranza   | Done   |
+| US-18 / TS-32        | Implementación de filtros de estados de transacción | TW-09   | Implementar solicitud de certificación a vendedores | Crear una funcionalidad para implementar un endpoint que permita a los usuarios enviar solicitudes de certificación para vehículos a través de la API.  | 6                 | Harold Mayta   | Done   |
+
+
+
+### 5.2.4.3. Development Evidence for Sprint Review
+
+![TB3](assets/spr31.jpg)
+---
+![TB3](assets/spr32.jpg)
+---
+![TB3](assets/spr33.jpg)
+---
+![TB3](assets/spr34.jpg)
+---
+![TB3](assets/spr35.jpg)
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+A partir de las historias de usuario, se generaron los acceptance tests para evaluar la forma en la que deben ejecutarse las funcionalidades de nuestra aplicación web para cumplir con los objetivos de nuestros usuarios.
+
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
+
+| Repository	  | Branch	            | Commit Id | Commit Message	                                     | Committed on (Date) |
+|--------------|--------------------|-----------|-----------------------------------------------------|---------------------|
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 93468bc | first commit | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 3907a7f | feat: add US01.feature | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 9b3baad | fix: fix US01 | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 32eeaaa | feat: add Acceptances Tests | 27/09/24 |
+
+
+</div>
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+En esta parte, se muestra la ejecucion de la aplicacion web, tanto del front end como del back end, asi como tambien se muestra el uso de la aplicacion en un servidor de Swagger.
+
+![Swagger](assets/Swagger01.jpg)
+---
+![Swagger](assets/Swagger02.jpg)
+---
+![Swagger](assets/Swagger03.jpg)
+---
+![Swagger](assets/Swagger04.jpg)
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+En esta seccion, se muestra la documentacion de los servicios del back end de la aplicacion web, asi como tambien se muestra el uso de Swagger para la documentacion de los servicios.
+
+Utilizamos SpringBoot, Spring Security, JWToken y Spring Data jpa:
+
+- [Sprint Boot](https://docs.spring.io/spring-boot/index.html)
+- [Sprint Boot Security](https://docs.spring.io/spring-boot/reference/web/spring-security.html#page-title)
+- [Json Web Token](https://www.npmjs.com/package/jsonwebtoken)
+- [Sprint Data JPA](https://spring.io/projects/spring-data-jpa)
+
+  
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para el presente sprint se ha creda la base de datos en AZURE y se planea hacer el deploy de Web services en Docker:
+
+![AZURE](assets/azure.jpg)
+
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+![TB2](assets/evidencia-tb3.jpg)
+
 
 ## 5.3. Validation Interviews
 En esta sección se detalla el proceso de validación mediante entrevistas con usuarios y expertos. Estas entrevistas son cruciales para evaluar la usabilidad, funcionalidad y eficacia de la aplicación Car2Go, garantizando que cumple con las necesidades y expectativas de nuestros segmentos de mercado.
