@@ -2443,7 +2443,7 @@ _Link_: https://car2go-c60fa.web.app/
 ### 5.2.3.2. Sprint Backlog 3
 
 ![image](assets/sprint3_trello.png)
-*Elaboración propia. Realizado en Trello: https://trello.com/invite/b/672593151a102b5df4062300/ATTIee8d366a57b61466153105a6f5824169062AAAF0/sprint-3*
+*Elaboración propia. Realizado en Trello:* [Trello](https://trello.com/invite/b/672593151a102b5df4062300/ATTIee8d366a57b61466153105a6f5824169062AAAF0/sprint-3)
 
 | | Sprint # | | | | Sprint 3 | | |
 |-|----------|-|-|-|----------|-|-|
@@ -2883,7 +2883,7 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad
 ## 5.4. Video About-The-Product
 En esta sección se presenta un video explicatiovo sobre la aplicación Car2Go. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidad de los clientes. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
 
-Link: [About-The-Product](https://drive.google.com/file/d/1hQMstDF0RMS_HPZPYx_NadjENmNHuZl5/view?usp=sharing)
+Link: [About-The-Product](https://youtu.be/QHxKoa7xo-E)
 
 # VI. Conclusiones y recomendaciones
 ## Conclusiones
@@ -2894,13 +2894,10 @@ Link: [About-The-Product](https://drive.google.com/file/d/1hQMstDF0RMS_HPZPYx_Na
 
 ## Video About-the-Team.
 
-Link: [About-the-Team]()
+Link: [About-the-Team](https://www.youtube.com/watch?v=TY3OxDDQNhE)
 
 ## VII. Bibliografía
 
-- Asociación Automotriz del Perú. (s.f.). Inestabilidad y desempeño de la economía del país se refleja en ventas de vehículos. Recuperado de
-  https://aap.org.pe/inestabilidad-y-desempeño-de-la-economia-del-pais-se-refleja-en-ventas-de-vehiculos-sunarp/
-  <br><br>
 - Dittrich, J. (s.f.). A Beginner's Guide to Finding User Needs. Recuperado de
   https://jdittrich.github.io/userNeedResearchBook/
   <br><br>
@@ -2925,24 +2922,24 @@ Link: [About-the-Team]()
 
 ## VIII. Anexos
 
-* Diseño Landing Page:  https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?node-id=32-311&t=7O5WsCcQsFaskDcW-1
+* Diseño Landing Page:  [Figma](https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?node-id=32-311&t=7O5WsCcQsFaskDcW-1)
   <br><br>
-* Landing Page: https://upc-pre-si729-2402-wx51-g3-cibersofa.github.io/Landing-page/
+* Landing Page: [Landing Page](https://upc-pre-si729-2402-wx51-g3-cibersofa.github.io/Landing-page/)
   <br><br>
-* Miro: https://miro.com/app/board/uXjVMm70eUI=/
+* Miro: [Miro](https://miro.com/app/board/uXjVMm70eUI=/)
   <br><br>
-* Organización Github: https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa
+* Organización Github: [Organización](https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa) 
   <br><br>
 * [Registro de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219284_upc_edu_pe/EU3ocaW1vF9KhmOYIXX3j44BM3JEIi_35Pc0mA_-rIpoQA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b769rK)
   <br><br>
-* Structurizr: https://structurizr.com/share/84499/5dafae81-8afd-492f-9fd0-3742913235d5
+* Structurizr: [Structurizr](https://structurizr.com/share/84499/5dafae81-8afd-492f-9fd0-3742913235d5)
   <br><br>
-* Style Guidelines: https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?t=7O5WsCcQsFaskDcW-1
+* Style Guidelines: [Style Guidelines](https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?t=7O5WsCcQsFaskDcW-1)
   <br><br>
-* Web Applications: https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?node-id=32-311&t=7O5WsCcQsFaskDcW-1
+* Web Applications: [Car2Go](https://car2go-c60fa.web.app/) 
   <br><br>
 * Exposición TB1: https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq
 * Exposicion TB2: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EU3C5Ale3ipDk2jD7nrlmQQBDTs2EBhWG9qFHJ4d1wSIBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JsW3ez)
 * Trello: [Link](https://trello.com/invite/b/672593151a102b5df4062300/ATTIee8d366a57b61466153105a6f5824169062AAAF0/sprint-3)
 * Entrevistas: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
-* [About-The-Product](https://drive.google.com/file/d/1hQMstDF0RMS_HPZPYx_NadjENmNHuZl5/view?usp=sharing)
+* [About-The-Product](https://youtu.be/QHxKoa7xo-E)
