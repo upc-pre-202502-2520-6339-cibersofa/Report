@@ -160,7 +160,7 @@ Para el desarrollo de la entrega TF1, se opto por dividir el trabajo de la sigui
 
 **Evidencia**:
 
-![TB2](assets/evidencia-tb3.jpg)
+![TB2](assets/tf1.PNG)
 
 ----
 # Student Outcome
