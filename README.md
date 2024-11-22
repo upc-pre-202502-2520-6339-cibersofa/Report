@@ -2938,8 +2938,9 @@ Link: [About-the-Team](https://www.youtube.com/watch?v=TY3OxDDQNhE)
   <br><br>
 * Web Applications: [Car2Go](https://car2go-c60fa.web.app/) 
   <br><br>
-* Exposición TB1: https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq
+* Exposición TB1: [Link](https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq)
 * Exposicion TB2: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EU3C5Ale3ipDk2jD7nrlmQQBDTs2EBhWG9qFHJ4d1wSIBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JsW3ez)
 * Trello: [Link](https://trello.com/invite/b/672593151a102b5df4062300/ATTIee8d366a57b61466153105a6f5824169062AAAF0/sprint-3)
 * Entrevistas: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
 * [About-The-Product](https://youtu.be/QHxKoa7xo-E)
+* [Swagger](https://car2go-platform-hpdzhtb8ekceg9gd.canadacentral-01.azurewebsites.net/swagger-ui/index.html)
