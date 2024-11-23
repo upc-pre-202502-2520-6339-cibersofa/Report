@@ -10,7 +10,7 @@
     <strong>Desarrollo de Aplicaciones Open Source - WX51</strong><br>  
 <br>
     <strong>Profesor: Alberto Wilmer Sanchez Seña</strong><br>
-    <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TF </strong> 
 </p>
 
 
@@ -68,6 +68,29 @@
 |V1.5|25/08/2024|Gerald|Implemetacion de vista para BC vehicle|
 |V1.6|26/08/2024|Karito|Implemetacion de vista para BC vehicle|
 |V1.7|26/08/2024|Harold|Implemetacion de vista para BC payment|
+|V2.0|28/09/2024|Todos|Entrega de TP1|
+|V2.1|18/10/2024|Harold|Creación de repositorio para BackEnd|
+|V2.2|19/10/2024|Todos|Reunion para correcciones de TP1 y planteamiento de TB2 (sprint 3)|
+|V2.3|24/10/2024|Franco|Implemetacion de BC vechile en el Backend|
+|V2.4|24/10/2024|Harold|Implemetacion de BC IAM y Shared en el Backend|
+|V2.5|24/10/2024|Geral|Implemetacion de BC Payment en el Backend|
+|V2.6|26/10/2024|Franco|Actualización de FrontEnd|
+|V2.7|28/10/2024|Harold|Implemetacion de BC Profile en el Backend|
+|V2.8|01/11/2024|Karito|Actualización de BC Payment en el Backend|
+|V2.9|01/11/2024|Joaquin|Actualización de BC Payment en el Backend|
+|V2.10|01/11/2024|Karito - Joaquin|Actualización de documento|
+|V3.0|03/11/2024|Todos|Entrega de TB2|
+|V3.1|14/11/2024|Gerald|Actualizacion del BackEnd|
+|V3.2|15/11/2024|Harold|Implementación de servicio de MySQL|
+|V3.3|17/11/2024|Harold|Deploy de Web Services|
+|V3.4|19/11/2024|Franco|Actualizacion del BackEnd|
+|V3.5|20/11/2024|Karito|Actualización de documento|
+|V3.6|20/11/2024|Joaquin|Actualización videos **About The Product** y **About The Team**|
+|V3.7|21/11/2024|Franco|Actualizacion del FrontEnd|
+|V3.7|21/11/2024|Gerald|Actualización y revision de documenot|
+|V4.0|21/11/2024|Todos|Entrega de TF1
+
+
 
 ---
 **Project Report Collaboration Insights**
@@ -105,6 +128,39 @@ Para el desarrollo de la entrega TP1, se opto por dividir el trabajo de la sigui
 **Evidencia**:
 
 ![TP1](assets/com-tp1.jpg)
+----
+_TB2_
+
+Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la siguiente forma:
+
+| Integrante                          | Actvidades Asignadas                                                                                                                                                |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Barrionuevo Reto,  Jean Franco Joel | - Entrevista <br> - BC vechile <br> - Actualización en el Frontend|
+| Carranza Tesen, Joaquin Enrique     | - Entrevista <br> - BC Payment <br> - Actualización en el Frontend|
+| Mayta López, Harold                 | - Entrevista <br> - BC Profile <br> - Actualización en el Frontend|
+| Medina Chocce, Karito Dianeth       | - Entrevista <br> - BC Payment <br> - Actualización en el Frontend|
+| Serrano Uchuya, Gerald Patricio     | - Entrevista <br> - BC Payment <br> - Actualización en el Frontend|
+
+**Evidencia**:
+
+![TB2](assets/evidencia-tb3.jpg)
+
+----
+_TF1_
+
+Para el desarrollo de la entrega TF1, se opto por dividir el trabajo de la siguiente forma:
+
+| Integrante                          | Actvidades Asignadas                                                                                                                                                |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Barrionuevo Reto,  Jean Franco Joel | - Actualización del FrontEnd y Landing page |
+| Carranza Tesen, Joaquin Enrique     | - Video de About the team y project|
+| Mayta López, Harold                 | - Actualizacion de BackEnd y deploy data base y web service|
+| Medina Chocce, Karito Dianeth       | - Actualización de documento|
+| Serrano Uchuya, Gerald Patricio     | - Actualización de backend|
+
+**Evidencia**:
+
+![TB2](assets/tf1.PNG)
 
 ----
 # Student Outcome
@@ -119,22 +175,23 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
   </tr>
   <tr>
     <td><b>Comunica oralmente con efectividad a diferentes rangos de audiencia.</b></td>
-    <td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo. Trabajé en el Capítulo 1. En el Capítulo 2, me encargué de la corrección de las entrevistas y de la investigación de los competidores. Diseñé el Diagrama de Contexto de la Arquitectura del Software para el Capítulo 4. Finalmente, en el Capítulo 5, trabajé en la implementación de las funcionalidades del sistema. <br> TP1: Para esta entrega me encargué de conectar y desplegar la aplicación web junto con el fake-api<br>
-        <br>Carranza Tesen, Joaquin Enrique<br> TB1: Para esta entrega, desarrollé el Capítulo 2, en el cual busqué competidores para nuestra startup, realicé un análisis competitivo y evalué las estrategias y tácticas frente a ellos. Al presentar estos hallazgos, adapté mi comunicación a diferentes rangos de audiencia, asegurándome de que todos comprendieran la información. Además, modelé las entrevistas para cada segmento objetivo con el fin de recopilar información de manera óptima. Posteriormente, analicé cada entrevista según su respectivo segmento. Con base en la información recopilada, elaboré los User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping, presentando los resultados de forma clara y accesible para cada grupo interesado.  <br> TP1:Mi enfoque principal fue en la creación de un apartado dirigido a talleres mecánicos, donde era crucial que los datos técnicos y las interacciones fueran claros y fáciles de usar para los mecánicos. Al estar en la etapa de frontend, la comunicación con el resto del equipo fue clave para asegurar que la interfaz respondiera a las necesidades del usuario final. Adapté mi estilo de comunicación según el rango de audiencia, facilitando el entendimiento entre los miembros del equipo. Aprendí a colaborar de manera eficiente, participando en reuniones para validar el diseño y asegurándome de que las decisiones se tomaran objetivamente, con base en la usabilidad y la experiencia del usuario. <br>
-        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: Durante este sprint, tuve un rol clave en la implementación del perfil de usuario, los planes de suscripción y el formulario de pago, además de desarrollar la vista 'Page not found', utilizando Angular. Pude comunicar mis avances y resultados de manera clara, destacando las mejoras en mis componentes y las correcciones que implementé en los de mis compañeros, ajustando mi mensaje según el nivel de comprensión técnica de los miembros del equipo y otras audiencias involucradas.<br>
-        <br>Medina Chocce, Karito Dianeth<br> TB1: Para esta entrega, realicé una entrevista al segmento objetivo de talleres mecánicos para comprender mejor sus necesidades y desafíos. Con base en la información recopilada, desarrollé el Capítulo 3 del proyecto, que incluyó el mapeo de escenarios futuros (To-Be Scenario Mapping), la creación de historias de usuario (User Stories), el mapeo del impacto (Impact Mapping) y la elaboración del backlog del producto (Product Backlog). Estas actividades fueron fundamentales para asegurar que el desarrollo de la plataforma se alinee con las expectativas del sector y para colaborar de manera efectiva con el equipo multidisciplinario en el proyecto. <br> TP1: En mi participación en un equipo multidisciplinario, trabajé en la implementación del edit-profile en el frontend utilizando Angular. Mi enfoque en la eficacia y eficiencia se reflejó en las correcciones que realicé en el reporte del proyecto, en particular en el capítulo 5, donde revisé y optimicé el sprint backlog 1 y completé el sprint backlog 2, asegurando que nuestro progreso fuera claro y coherente.<br>
-        <br>Serrano Uchuya, Gerald Patricio<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo de vendedores. Además, desarrollé la sección de Information Architecture, donde organizamos la información relevante de la plataforma en grupos, añadimos etiquetas, y describimos la navegación y el sistema de búsqueda. Finalmente, diseñé los diagramas de clases y de base de datos. <br> TP1: Para esta entrega, implementé el componente que muestra los detalles de los autos en venta tanto para la vista de comprador como vendedor. Además, agregué los acceptance tests a partir de los user stories. <br>
+    <td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo. Trabajé en el Capítulo 1. En el Capítulo 2, me encargué de la corrección de las entrevistas y de la investigación de los competidores. Diseñé el Diagrama de Contexto de la Arquitectura del Software para el Capítulo 4. Finalmente, en el Capítulo 5, trabajé en la implementación de las funcionalidades del sistema. <br> TP1: Para esta entrega me encargué de conectar y desplegar la aplicación web junto con el fake-api.<br> TB2: Durante este sprint, tuve un rol clave en la implementación del Backend y la actualización de nuestro Frontend para una mejor experiencia de nuestros usuario. <br> TF1: Durante este sprint, me enfoqué en la conexión entre el frontend y el backend, asegurando una integración exitosa. También trabajé en el deploy del frontend, logrando que estuviera disponible en el entorno de producción. Además, me encargué de actualizar los videos y mejorar la documentación, con el objetivo de garantizar que la información estuviera clara y actualizada para todo el equipo.<br>
+        <br>Carranza Tesen, Joaquin Enrique<br> TB1: Para esta entrega, desarrollé el Capítulo 2, en el cual busqué competidores para nuestra startup, realicé un análisis competitivo y evalué las estrategias y tácticas frente a ellos. Al presentar estos hallazgos, adapté mi comunicación a diferentes rangos de audiencia, asegurándome de que todos comprendieran la información. Además, modelé las entrevistas para cada segmento objetivo con el fin de recopilar información de manera óptima. Posteriormente, analicé cada entrevista según su respectivo segmento. Con base en la información recopilada, elaboré los User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping, presentando los resultados de forma clara y accesible para cada grupo interesado.  <br> TP1:Mi enfoque principal fue en la creación de un apartado dirigido a talleres mecánicos, donde era crucial que los datos técnicos y las interacciones fueran claros y fáciles de usar para los mecánicos. Al estar en la etapa de frontend, la comunicación con el resto del equipo fue clave para asegurar que la interfaz respondiera a las necesidades del usuario final. Adapté mi estilo de comunicación según el rango de audiencia, facilitando el entendimiento entre los miembros del equipo. Aprendí a colaborar de manera eficiente, participando en reuniones para validar el diseño y asegurándome de que las decisiones se tomaran objetivamente, con base en la usabilidad y la experiencia del usuario.<br> TB2: 
+Durante el sprint, me enfoqué en diseñar entrevistas adaptadas a diferentes segmentos de audiencia, asegurándome de que cada grupo objetivo recibiera las preguntas adecuadas para obtener información valiosa. Además, participé activamente en la implementación del bounded context de Interaction, lo que me permitió comunicarme de manera efectiva con diversos equipos. También realicé entrevistas con talleres mecánicos, donde presenté mis conclusiones de forma clara y accesible, facilitando así una comunicación oral efectiva que se adaptara a las necesidades y niveles de comprensión de cada audiencia.<br> TF1: En el desarrollo de Car2Go, he aprendido a comunicarme oralmente de manera efectiva con diferentes tipos de audiencia. Por ejemplo, al explicar la conexión entre el backend y el frontend o el proceso de despliegue de la página web, he tenido que adaptar mi lenguaje dependiendo de si estaba hablando con mis compañeros, el profesor o personas menos técnicas. Además, al presentar las mejoras que hice a partir de las recomendaciones del profesor y las modificaciones en los videos del grupo y el proyecto, busqué que mi explicación fuera clara y organizada para que todos pudieran entender el impacto de esos cambios.<br>
+        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: Durante este sprint, tuve un rol clave en la implementación del perfil de usuario, los planes de suscripción y el formulario de pago, además de desarrollar la vista 'Page not found', utilizando Angular. Pude comunicar mis avances y resultados de manera clara, destacando las mejoras en mis componentes y las correcciones que implementé en los de mis compañeros, ajustando mi mensaje según el nivel de comprensión técnica de los miembros del equipo y otras audiencias involucradas.<br> TB2: Durante este sprint, tuve el rol en la implementación del Bounded Context de Profile, usando Java y Sprint Boot. Pude comunicar mis avances y resultados de manera clara.<br> TF1:Durante este sprint, me centré en el despliegue del servicio de la base de datos y del web service. Además, logré establecer una comunicación clara y efectiva para explicar el proceso que seguí y cómo alcancé los objetivos planteados.<br>
+        <br>Medina Chocce, Karito Dianeth<br> TB1: Para esta entrega, realicé una entrevista al segmento objetivo de talleres mecánicos para comprender mejor sus necesidades y desafíos. Con base en la información recopilada, desarrollé el Capítulo 3 del proyecto, que incluyó el mapeo de escenarios futuros (To-Be Scenario Mapping), la creación de historias de usuario (User Stories), el mapeo del impacto (Impact Mapping) y la elaboración del backlog del producto (Product Backlog). Estas actividades fueron fundamentales para asegurar que el desarrollo de la plataforma se alinee con las expectativas del sector y para colaborar de manera efectiva con el equipo multidisciplinario en el proyecto. <br> TP1: En mi participación en un equipo multidisciplinario, trabajé en la implementación del edit-profile en el frontend utilizando Angular. Mi enfoque en la eficacia y eficiencia se reflejó en las correcciones que realicé en el reporte del proyecto, en particular en el capítulo 5, donde revisé y optimicé el sprint backlog 1 y completé el sprint backlog 2, asegurando que nuestro progreso fuera claro y coherente.<br> TB2: Para esta entrega, realicé entrevistas de testeo enfocadas en el segmento de talleres mecánicos para comprender mejor sus necesidades y desafíos. A partir de la información recopilada, llevé a cabo varias tareas, incluyendo modificaciones en el reporte, la implementación del backend, y correcciones tanto de las historias técnicas como de las historias de usuario. Estas acciones fueron esenciales para garantizar que el desarrollo de la plataforma cumpla con las expectativas del sector y para facilitar una colaboración efectiva con el equipo multidisciplinario del proyecto.<br> TF1:Durante este sprint, me enfoqué en la creación de varias Technical Stories y en apoyar en el Sprint 4, especialmente en la parte de documentación. Mi objetivo fue garantizar que la información estuviera clara y actualizada para todo el equipo. Además, trabajé en la actualización de los videos y en la mejora de la documentación, logrando comunicar mis avances de manera efectiva. Estas acciones fueron clave para facilitar el entendimiento de los procesos y asegurar que todos los miembros del equipo estuvieran alineados en el progreso del proyecto.<br>
+        <br>Serrano Uchuya, Gerald Patricio<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo de vendedores. Además, desarrollé la sección de Information Architecture, donde organizamos la información relevante de la plataforma en grupos, añadimos etiquetas, y describimos la navegación y el sistema de búsqueda. Finalmente, diseñé los diagramas de clases y de base de datos. <br> TP1: Para esta entrega, implementé el componente que muestra los detalles de los autos en venta tanto para la vista de comprador como vendedor. Además, agregué los acceptance tests a partir de los user stories. <br> TB2: En esta entrega, realicé el bounded context de payment para el backend, el cual se encarga de las transacciones de vehiculos y el manejo de suscripciones para los vendedores. Además, se realizó la entrevista de validación para comprobar los puntos positivos y negativos de nuestra aplicación web con el fin de mejorar según la experiencia del usuario. <br> TF1: Durante este sprint, me enfoqué en la implementación del backend de Payment, asegurando su correcto funcionamiento y alineación con los requisitos del proyecto. También trabajé en el deploy del frontend, logrando que estuviera disponible en el entorno de producción. Además, actualicé los videos y mejoré la documentación relacionada, con el objetivo de garantizar que la información estuviera clara y actualizada para todo el equipo.<br>
    </td>
     <td>Car2Go fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y diferenciarse de la competencia. Los estilos visuales seleccionados, junto con una cuidadosa organización de la información, garantizan no solo coherencia estética, sino también una navegación intuitiva y un acceso simplificado a las funciones clave para todos los usuarios, independientemente de su nivel de experiencia.<br>
 </tr>
 <br><br>
   <tr>
     <td><b>Comunica por escrito con efectividad a diferentes rangos de audiencia</b></td>
-<td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los compradores de autos de segunda mano, así como los problemas y oportunidades que enfrentan en su búsqueda. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br> TP1: Durante el desarrollo del proyecto, profundicé mis conocimientos en el sector del desarrollo de software, enfocándome en la implementación de soluciones prácticas a través de la corrección de informes y la planificación de sprints.<br>
-        <br>Carranza Tesen, Joaquin Enrique<br> TB1:  La investigación realizada sobre el mercado de autos de segunda mano me permitió identificar las principales necesidades y desafíos de los compradores, vendedores y talleres mecánicos. Utilicé esta información para desarrollar el Capítulo 2, que incluye un análisis competitivo y la creación de perfiles de usuario, matrices de tareas y mapeos de la experiencia de los usuarios. Al documentar mis hallazgos, adapté el lenguaje y el formato para comunicarme por escrito con efectividad a diferentes rangos de audiencia, asegurando que la información fuera accesible y comprensible. Este trabajo me ayudó a entender mejor el sector y cómo las soluciones de software pueden mejorar la transparencia y la seguridad en las transacciones. La experiencia adquirida me permitió enfocar el proyecto de manera más efectiva, asegurando que las funcionalidades de la plataforma sean útiles y relevantes para este mercado. <br> TP1: En este proyecto, mi enfoque se centró en el sector de la compra y venta de autos de segunda mano, donde desarrollé el frontend de una plataforma que facilita la conexión entre mecánicos, compradores y vendedores. Si bien solo hemos desarrollado la interfaz de usuario hasta ahora, tuve que familiarizarme con los procesos del sector automotriz, especialmente en lo que respecta a las inspecciones y certificaciones de vehículos. Al documentar mis hallazgos y recomendaciones, aseguré que mi comunicación por escrito fuera clara y adaptada a diferentes rangos de audiencia, permitiendo que tanto técnicos como no técnicos comprendieran la información. Esto me permitió entender mejor cómo adaptar la plataforma a las necesidades de los mecánicos y otros usuarios, asegurando que el diseño del frontend fuera intuitivo y que reflejara la información técnica necesaria para este tipo de operaciones. <br>
-        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: Durante este sprint, participé activamente en la implementación del perfil de usuario, los planes de suscripción y su respectivo formulario de pago, así como en la creación de la vista 'Page not found', utilizando Angular. A través de estas funcionalidades, adquirí experiencia en el sector de ventas y suscripción de servicios, aplicando soluciones de software a un entorno empresarial real. Mi capacidad de comunicación escrita me permitió documentar y compartir de manera efectiva las mejoras implementadas en mis componentes, así como las correcciones que aporté a los de mis compañeros, adaptando el nivel de detalle según la audiencia, desde desarrolladores técnicos hasta partes interesadas no técnicas.<br>
-        <br>Medina Chocce, Karito Dianeth<br> TB1: La entrevista realizada a talleres mecánicos me permitió identificar sus principales necesidades y problemas. Utilicé esta información para desarrollar el Capítulo 3, que abarca el mapeo de escenarios futuros, historias de usuario, mapeo del impacto y backlog del producto. Este trabajo me permitió entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me ayudó a enfocar el proyecto de manera efectiva, garantizando que las funcionalidades de la plataforma sean relevantes y útiles para el dominio de aplicación. <br> TP1: Durante el desarrollo del proyecto, profundicé mis conocimientos en el sector del desarrollo de software, enfocándome en la implementación de soluciones prácticas a través de la corrección de informes y la planificación de sprints. Esto me permitió familiarizarme con las metodologías ágiles y las necesidades específicas de los usuarios, contribuyendo así a la efectividad de nuestro trabajo en el sector empresarial.<br>
-        <br>Serrano Uchuya, Gerald Patricio<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los vendedores de autos, así como los problemas y oportunidades que enfrentan con sus clientes. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br> TP1: Los tests de aceptación desarrollados nos permiten garantizar que las funcionalidades implementadas en la aplicación web cumplan con sus objetivos y satisfagan las necesidades del usuario, así como el tipo de datos que deben ingresar y el output recibido por parte del sistema.<br>
+<td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los compradores de autos de segunda mano, así como los problemas y oportunidades que enfrentan en su búsqueda. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br> TP1: Durante el desarrollo del proyecto, profundicé mis conocimientos en el sector del desarrollo de software, enfocándome en la implementación de soluciones prácticas a través de la corrección de informes y la planificación de sprints.<br> TB2: Durante este sprint, tuve un rol clave en la implementación del Backend y la actualización de nuestro Frontend para una mejor experiencia de nuestros usuario.<br> TF1: Durante este sprint, logré comunicar por escrito de manera efectiva los avances y actualizaciones del proyecto, adaptando el lenguaje y el nivel de detalle según las necesidades de diferentes rangos de audiencia. A través de documentación clara y bien estructurada, aseguré que tanto los miembros técnicos como no técnicos del equipo pudieran comprender los cambios realizados, facilitando una alineación efectiva y el progreso del proyecto.<br>
+        <br>Carranza Tesen, Joaquin Enrique<br> TB1:  La investigación realizada sobre el mercado de autos de segunda mano me permitió identificar las principales necesidades y desafíos de los compradores, vendedores y talleres mecánicos. Utilicé esta información para desarrollar el Capítulo 2, que incluye un análisis competitivo y la creación de perfiles de usuario, matrices de tareas y mapeos de la experiencia de los usuarios. Al documentar mis hallazgos, adapté el lenguaje y el formato para comunicarme por escrito con efectividad a diferentes rangos de audiencia, asegurando que la información fuera accesible y comprensible. Este trabajo me ayudó a entender mejor el sector y cómo las soluciones de software pueden mejorar la transparencia y la seguridad en las transacciones. La experiencia adquirida me permitió enfocar el proyecto de manera más efectiva, asegurando que las funcionalidades de la plataforma sean útiles y relevantes para este mercado. <br> TP1: En este proyecto, mi enfoque se centró en el sector de la compra y venta de autos de segunda mano, donde desarrollé el frontend de una plataforma que facilita la conexión entre mecánicos, compradores y vendedores. Si bien solo hemos desarrollado la interfaz de usuario hasta ahora, tuve que familiarizarme con los procesos del sector automotriz, especialmente en lo que respecta a las inspecciones y certificaciones de vehículos. Al documentar mis hallazgos y recomendaciones, aseguré que mi comunicación por escrito fuera clara y adaptada a diferentes rangos de audiencia, permitiendo que tanto técnicos como no técnicos comprendieran la información. Esto me permitió entender mejor cómo adaptar la plataforma a las necesidades de los mecánicos y otros usuarios, asegurando que el diseño del frontend fuera intuitivo y que reflejara la información técnica necesaria para este tipo de operaciones. <br> TB2: A lo largo del sprint, me enfoqué en diseñar entrevistas que se adaptaran a diferentes segmentos de audiencia, asegurando que cada grupo objetivo tuviera las preguntas necesarias para recabar información importante. También colaboré en la implementación del bounded context de Interaction, lo que me permitió comunicarme de manera efectiva con distintos equipos. Además, realicé entrevistas con talleres mecánicos, recopilando y presentando conclusiones claras y concisas para cada grupo, de modo que la información fuera accesible y comprensible para todos.<br> TF1:En cuanto a la comunicación escrita, desarrollé reportes y documentación para detallar los avances técnicos, como la integración del backend con el frontend, el deploy de la página y los ajustes realizados a partir de las sugerencias del profesor. También redacté explicaciones sobre las modificaciones hechas en los videos, asegurándome de que fueran comprensibles tanto para mi equipo como para otros interesados. Esto me ayudó a organizar mejor mis ideas y a comunicar los resultados de una manera que se ajustara a las necesidades de cada lector.<br>
+        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: Durante este sprint, participé activamente en la implementación del perfil de usuario, los planes de suscripción y su respectivo formulario de pago, así como en la creación de la vista 'Page not found', utilizando Angular. A través de estas funcionalidades, adquirí experiencia en el sector de ventas y suscripción de servicios, aplicando soluciones de software a un entorno empresarial real. Mi capacidad de comunicación escrita me permitió documentar y compartir de manera efectiva las mejoras implementadas en mis componentes, así como las correcciones que aporté a los de mis compañeros, adaptando el nivel de detalle según la audiencia, desde desarrolladores técnicos hasta partes interesadas no técnicas.<br> TB2: Durante este sprint, participe activamente desarrollando del Bounded Context de Profile, usando Java y Sprint Boot. Pude comunicar mis avances y resultados de manera clara.<br> TF1:Durante este sprint, me enfoqué en el despliegue exitoso del servicio de la base de datos y del web service. Asimismo, logré comunicar de manera clara y efectiva el proceso que seguí, adaptando mi mensaje para garantizar que fuera comprensible y relevante para diferentes audiencias.<br>
+        <br>Medina Chocce, Karito Dianeth<br> TB1: La entrevista realizada a talleres mecánicos me permitió identificar sus principales necesidades y problemas. Utilicé esta información para desarrollar el Capítulo 3, que abarca el mapeo de escenarios futuros, historias de usuario, mapeo del impacto y backlog del producto. Este trabajo me permitió entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me ayudó a enfocar el proyecto de manera efectiva, garantizando que las funcionalidades de la plataforma sean relevantes y útiles para el dominio de aplicación. <br> TP1: Durante el desarrollo del proyecto, profundicé mis conocimientos en el sector del desarrollo de software, enfocándome en la implementación de soluciones prácticas a través de la corrección de informes y la planificación de sprints. Esto me permitió familiarizarme con las metodologías ágiles y las necesidades específicas de los usuarios, contribuyendo así a la efectividad de nuestro trabajo en el sector empresarial.<br> TB2: La entrevista llevada a cabo con talleres mecánicos me permitió identificar sus necesidades y problemas más relevantes. A partir de esta información, realicé las entrevistas de testeo, modifiqué el reporte, implementé el backend y corregí tanto las historias técnicas como las historias de usuario. Este trabajo me ayudó a entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me permitió enfocar el proyecto de manera efectiva, asegurando que las funcionalidades de la plataforma sean pertinentes y útiles para su ámbito de aplicación.<br> TF1:Durante este sprint, me centré en crear Technical Stories y apoyar en el Sprint 4, especialmente en la documentación y los videos. A través de esta experiencia, pude actualizar y mejorar tanto la documentación como los videos, asegurándome de que los avances fueran comunicados de manera clara y efectiva al equipo. Este trabajo me permitió comprender mejor los requerimientos del proyecto y cómo la documentación y los recursos visuales son fundamentales para el buen desarrollo del proyecto. Gracias a esta tarea, pude asegurar que todos los miembros del equipo tuvieran una comprensión más profunda y alineada con los objetivos del proyecto.<br>
+        <br>Serrano Uchuya, Gerald Patricio<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los vendedores de autos, así como los problemas y oportunidades que enfrentan con sus clientes. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br> TP1: Los tests de aceptación desarrollados nos permiten garantizar que las funcionalidades implementadas en la aplicación web cumplan con sus objetivos y satisfagan las necesidades del usuario, así como el tipo de datos que deben ingresar y el output recibido por parte del sistema.<br> TB2: La entrevista de validación fue de utilidad para encontrar áreas de mejora en el diseño de nuestra aplicación web para que nuestros usuarios puedan navegar con facilidad y utilizar las funcionalidades que les ofrecemos.<br> TF1: Durante este sprint, me aseguré de comunicar de manera clara y efectiva los avances realizados, ajustando el contenido y el enfoque según las necesidades de cada rango de audiencia. Utilicé un lenguaje técnico para el equipo de desarrollo y un enfoque más general para otros interesados, logrando que todos comprendieran el impacto de las actualizaciones realizadas y se mantuvieran alineados con los objetivos del proyecto.<br>
 </td>
     <td>Car2Go fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos visuales cuidadosamente seleccionados y la organización meticulosa de la información garantizan una coherencia visual sólida. Además, facilitan la navegación y el acceso a las funciones clave, haciendo que tanto usuarios con experiencia técnica como aquellos menos familiarizados con la tecnología puedan utilizar la plataforma de manera eficiente. <br>
 </tr>
@@ -235,6 +292,29 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+    - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+    - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+    - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+- [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](532-registrode-entrevistas)
+    - [5.3.3. Evaluación según heurísticas](533-evaluación-según-heurísticas)
+- [5.4. Video About-The-Product](54-video-about-the-product)
 ### [VI: Conclusiones y recomendaciones](#vi-conclusiones-y-recomendaciones)
 - [Conclusiones](#conclusiones)
 - [VII. Bibliografía](#vii-bibliografía)
@@ -1330,45 +1410,40 @@ En esta sección, el equipo presenta el To-Be Scenario Mapping para Car2Go, que 
 
 **Technical Stories**
 
-| Technical Story ID | User Story ID | Título                                                              | Descripción                                                                                                                                                           | Escenario                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Epic ID |
-|--------------------|---------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| TS-01              | US-01         | Registro de Usuario a través de la API                              | Como desarrollador quiero registrar usuarios a través de la API para permitirles crear cuentas en la plataforma.                                                      | **Escenario: Registro exitoso de usuario**<br>Given El Endpoint "/api/v1/users/register" está disponible<br>When Se envía una POST Request con datos válidos de usuario<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye un ID de usuario y detalles de la cuenta.<br><br>**Escenario: Registro con datos inválidos**<br>Given El Endpoint "/api/v1/users/register" está disponible<br>When Se envía una POST Request con datos inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado.                                                                                                                                                                                                                    | EP01    |
-| TS-02              | US-02         | Búsqueda de Autos a través de la API                                | Como desarrollador quiero implementar la búsqueda de autos a través de la API para que los compradores puedan filtrar opciones.                                       | **Escenario: Búsqueda de autos con filtros aplicados**<br>Given El Endpoint "/api/v1/cars/search" está disponible<br>When Se envía una GET Request con filtros como marca y modelo<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista de autos que coinciden con los filtros.<br><br>**Escenario: Búsqueda sin resultados**<br>Given El Endpoint "/api/v1/cars/search" está disponible<br>When Se envía una GET Request con filtros que no coinciden con ningún auto<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista vacía.                                                                                                                                                                                               | EP01    |
-| TS-03              | US-03         | Listado de Autos a través de la API                                 | Como desarrollador quiero listar autos a través de la API para permitir que los compradores vean los autos disponibles.                                               | **Escenario: Listar un auto correctamente**<br>Given El Endpoint "/api/v1/cars" está disponible<br>When Se envía una GET Request al endpoint<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista de autos disponibles con detalles como nombre, precio y ubicación.<br><br>**Escenario: Listar autos con parámetros de búsqueda**<br>Given El Endpoint "/api/v1/cars" está disponible<br>When Se envía una GET Request con parámetros de búsqueda como marca, modelo y año<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista de autos que coinciden con los parámetros de búsqueda.<br>And Los detalles de cada auto incluyen nombre, precio, y ubicación.                                                                   | EP01    |
-| TS-04              | US-04         | Edición de Listado de Autos a través de la API                      | Como desarrollador quiero permitir la edición de los listados de autos a través de la API para que los vendedores puedan actualizar la información de sus autos.      | **Escenario: Editar un listado de auto existente**<br>Given El Endpoint "/api/v1/cars/{id}" está disponible<br>When Se envía una PUT Request con el ID del auto y los nuevos detalles<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye los detalles actualizados del auto.<br><br>**Escenario: Editar un listado con datos inválidos**<br>Given El Endpoint "/api/v1/cars/{id}" está disponible<br>When Se envía una PUT Request con el ID del auto y datos inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos.                                                                                                                                                              | EP01    |
-| TS-05              | US-05         | Eliminación de Listado de Autos a través de la API                  | Como desarrollador quiero permitir la eliminación de listados de autos a través de la API para que los vendedores puedan retirar sus autos del mercado.               | **Escenario: Eliminar un listado de auto correctamente**<br>Given El Endpoint "/api/v1/cars/{id}" está disponible<br>When Se envía una DELETE Request con el ID del auto<br>Then Se recibe una respuesta con Status 204<br>And El auto debe ser removido de la lista de autos disponibles.<br><br>**Escenario: Intento de eliminar un auto inexistente**<br>Given El Endpoint "/api/v1/cars/{id}" está disponible<br>When Se envía una DELETE Request con un ID de auto que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que el auto no fue encontrado.                                                                                                                                                                    | EP01    |
-| TS-06              | US-06         | Ver Detalles del Auto a través de la API                            | Como desarrollador quiero mostrar los detalles completos de un auto a través de la API para que los compradores puedan ver información detallada.                     | **Escenario: Ver detalles de un auto**<br>Given El Endpoint "/api/v1/cars/{id}" está disponible<br>When Se envía una GET Request con el ID del auto<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye todos los detalles del auto como nombre, precio, y características.<br><br>**Escenario: Ver detalles de un auto que no existe**<br>Given El Endpoint "/api/v1/cars/{id}" está disponible<br>When Se envía una GET Request con un ID de auto que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que el auto no fue encontrado.                                                                                                                                                                 | EP01    |
-| TS-07              | US-07         | Comparar Autos a través de la API                                   | Como desarrollador quiero permitir la comparación de autos a través de la API para que los compradores puedan tomar decisiones informadas.                            | **Escenario: Comparar autos con múltiples seleccionados**<br>Given El Endpoint "/api/v1/cars/compare" está disponible<br>When Se envía una POST Request con una lista de IDs de autos<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una tabla comparativa con las características clave de cada auto.<br><br>**Escenario: Comparar autos sin selección de autos**<br>Given El Endpoint "/api/v1/cars/compare" está disponible<br>When Se envía una POST Request sin IDs de autos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error indicando que no se seleccionaron autos para comparar.                                                                                                                              | EP01    |
-| TS-08              | US-08         | Guardar Autos Favoritos a través de la API                          | Como desarrollador quiero permitir a los compradores guardar autos favoritos a través de la API para que puedan revisarlos más tarde.                                 | **Escenario: Guardar un auto como favorito**<br>Given El Endpoint "/api/v1/users/{userId}/favorites" está disponible<br>When Se envía una POST Request con el ID del auto a guardar<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta confirma que el auto ha sido añadido a la lista de favoritos del usuario.<br><br>**Escenario: Guardar un auto ya en favoritos**<br>Given El Endpoint "/api/v1/users/{userId}/favorites" está disponible<br>When Se envía una POST Request con un ID de auto que ya está en la lista de favoritos<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta confirma que el auto ya está en la lista de favoritos del usuario.                                                                                                    | EP01    |
-| TS-09              | US-09         | Notificaciones de Nuevos Listados a través de la API                | Como desarrollador quiero enviar notificaciones a los compradores cuando se listan autos que coinciden con sus criterios de búsqueda.                                 | **Escenario: Enviar notificación de nuevo listado**<br>Given El Endpoint "/api/v1/notifications/new-listings" está disponible<br>When Se envía una POST Request con los criterios de búsqueda del comprador<br>Then Se recibe una respuesta con Status 200<br>And El comprador debe recibir una notificación por correo electrónico o en la plataforma.<br><br>**Escenario: No enviar notificación si no hay nuevos listados**<br>Given El Endpoint "/api/v1/notifications/new-listings" está disponible<br>When Se envía una POST Request con criterios de búsqueda y no hay nuevos listados<br>Then Se recibe una respuesta con Status 200<br>And El comprador no recibe notificaciones.                                                                                                       | EP01    |
-| TS-10              | US-10         | Notificación de Actualización de Estado del Auto a través de la API | Como desarrollador quiero enviar notificaciones a los compradores cuando el estado del auto cambia, como si se vende o se actualiza la información.                   | **Escenario: Enviar notificación de cambio de estado del auto**<br>Given El Endpoint "/api/v1/notifications/car-status" está disponible<br>When Se envía una POST Request con el ID del auto y el nuevo estado<br>Then Se recibe una respuesta con Status 200<br>And El comprador debe recibir una notificación sobre el cambio de estado del auto.<br><br>**Escenario: No enviar notificación si el estado no cambia**<br>Given El Endpoint "/api/v1/notifications/car-status" está disponible<br>When Se envía una POST Request con un estado que no cambia<br>Then Se recibe una respuesta con Status 200<br>And El comprador no recibe notificaciones.                                                                                                                                       | EP01    |
-| TS-11              | US-11         | Solicitud de Certificación a través de la API                       | Como desarrollador quiero permitir a los vendedores solicitar certificación para sus autos a través de la API.                                                        | **Escenario: Solicitar certificación para un auto**<br>Given El Endpoint "/api/v1/certifications/request" está disponible<br>When Se envía una POST Request con el ID del auto y los detalles de certificación<br>Then Se recibe una respuesta con Status 201<br>And El taller técnico y el vendedor deben recibir una notificación de la solicitud.<br><br>**Escenario: Solicitud de certificación con datos inválidos**<br>Given El Endpoint "/api/v1/certifications/request" está disponible<br>When Se envía una POST Request con datos inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos.                                                                                                        | EP02    |
-| TS-12              | US-12         | Ver Informe de Certificación a través de la API                     | Como desarrollador quiero permitir a los compradores ver el informe de certificación del auto a través de la API para asegurar la calidad del vehículo.               | **Escenario: Ver informe de certificación**<br>Given El Endpoint "/api/v1/cars/{id}/certification-report" está disponible<br>When Se envía una GET Request con el ID del auto<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye el informe de certificación generado por el taller técnico.<br><br>**Escenario: Ver informe para un auto sin certificación**<br>Given El Endpoint "/api/v1/cars/{id}/certification-report" está disponible<br>When Se envía una GET Request con el ID de un auto sin certificación<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que no se encontró el informe.                                                                                                              | EP02    |
-| TS-13              | US-13         | Solicitud de Inspección de Auto a través de la API                  | Como desarrollador quiero permitir a los vendedores solicitar una inspección de sus autos a través de la API para asegurar su calidad antes de listar.                | **Escenario: Solicitar inspección para un auto**<br>Given El Endpoint "/api/v1/inspections/request" está disponible<br>When Se envía una POST Request con el ID del auto y detalles de la inspección<br>Then Se recibe una respuesta con Status 201<br>And El taller técnico debe recibir una notificación de la solicitud de inspección.<br><br>**Escenario: Solicitud de inspección con datos inválidos**<br>Given El Endpoint "/api/v1/inspections/request" está disponible<br>When Se envía una POST Request con datos inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos.                                                                                                                         | EP02    |
-| TS-14              | US-14         | Confirmación de Inspección a través de la API                       | Como desarrollador quiero permitir a los talleres técnicos confirmar las citas de inspección a través de la API para que los vendedores reciban la confirmación.      | **Escenario: Confirmar una inspección**<br>Given El Endpoint "/api/v1/inspections/{id}/confirm" está disponible<br>When Se envía una PUT Request con el ID de la inspección y los detalles de confirmación<br>Then Se recibe una respuesta con Status 200<br>And El vendedor debe recibir una notificación con los detalles de la inspección confirmada.<br><br>**Escenario: Confirmar una inspección que no existe**<br>Given El Endpoint "/api/v1/inspections/{id}/confirm" está disponible<br>When Se envía una PUT Request con un ID de inspección que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que la inspección no fue encontrada.                                                                               | EP02    |
-| TS-15              | US-15         | Actualización del Estado de Inspección a través de la API           | Como desarrollador quiero permitir a los talleres técnicos actualizar el estado de la inspección a través de la API para que los vendedores reciban actualizaciones.  | **Escenario: Actualizar el estado de la inspección**<br>Given El Endpoint "/api/v1/inspections/{id}/status" está disponible<br>When Se envía una PUT Request con el ID de la inspección y el nuevo estado<br>Then Se recibe una respuesta con Status 200<br>And El vendedor debe recibir una notificación con la actualización del estado de la inspección.<br><br>**Escenario: Actualizar estado para una inspección que no existe**<br>Given El Endpoint "/api/v1/inspections/{id}/status" está disponible<br>When Se envía una PUT Request con un ID de inspección que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que la inspección no fue encontrada.                                                                | EP02    |
-| TS-16              | US-16         | Sistema de Pago Seguro a través de la API                           | Como desarrollador quiero implementar un sistema de pago seguro a través de la API para que los compradores puedan completar sus compras de manera segura.            | **Escenario: Procesar un pago exitoso**<br>Given El Endpoint "/api/v1/payments" está disponible<br>When Se envía una POST Request con los datos de pago válidos<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una confirmación de pago y detalles de la transacción.<br><br>**Escenario: Procesar un pago con datos inválidos**<br>Given El Endpoint "/api/v1/payments" está disponible<br>When Se envía una POST Request con datos de pago inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos.                                                                                                                                                                           | EP03    |
-| TS-17              | US-17         | Confirmación de Transacción a través de la API                      | Como desarrollador quiero enviar una confirmación de la venta al vendedor a través de la API para asegurar que la transacción fue exitosa.                            | **Escenario: Confirmar una transacción exitosa**<br>Given El Endpoint "/api/v1/transactions/{id}/confirm" está disponible<br>When Se envía una PUT Request con el ID de la transacción<br>Then Se recibe una respuesta con Status 200<br>And El vendedor debe recibir una confirmación por correo electrónico y en su perfil.<br><br>**Escenario: Confirmar una transacción que no existe**<br>Given El Endpoint "/api/v1/transactions/{id}/confirm" está disponible<br>When Se envía una PUT Request con un ID de transacción que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que la transacción no fue encontrada.                                                                                                      | EP03    |
-| TS-18              | US-18         | Historial de Transacciones a través de la API                       | Como desarrollador quiero permitir a los usuarios ver un historial de sus transacciones a través de la API para que puedan revisar sus actividades en la plataforma.  | **Escenario: Ver historial de transacciones**<br>Given El Endpoint "/api/v1/users/{userId}/transactions" está disponible<br>When Se envía una GET Request con el ID del usuario<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista de todas las transacciones realizadas por el usuario con detalles.<br><br>**Escenario: Ver historial de transacciones para un usuario sin transacciones**<br>Given El Endpoint "/api/v1/users/{userId}/transactions" está disponible<br>When Se envía una GET Request con el ID de un usuario sin transacciones<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista vacía.                                                                                                                 | EP03    |
-| TS-19              | US-19         | Reembolso de Transacción a través de la API                         | Como desarrollador quiero permitir a los compradores solicitar un reembolso a través de la API en caso de problemas con la compra.                                    | **Escenario: Solicitar un reembolso exitoso**<br>Given El Endpoint "/api/v1/transactions/{id}/refund" está disponible<br>When Se envía una POST Request con el ID de la transacción y detalles de la solicitud de reembolso<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye un estado actualizado de la solicitud de reembolso y notificación al comprador.<br><br>**Escenario: Solicitar un reembolso para una transacción no válida**<br>Given El Endpoint "/api/v1/transactions/{id}/refund" está disponible<br>When Se envía una POST Request con el ID de una transacción que no es reembolsable<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado indicando que la transacción no puede ser reembolsada. | EP03    |
-| TS-20              | US-20         | Mensajería entre Compradores y Vendedores a través de la API        | Como desarrollador quiero implementar un sistema de mensajería entre compradores y vendedores a través de la API para facilitar la comunicación.                      | **Escenario: Enviar un mensaje**<br>Given El Endpoint "/api/v1/messages" está disponible<br>When Se envía una POST Request con los detalles del mensaje (remitente, destinatario y contenido)<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye una confirmación de que el mensaje fue enviado.<br><br>**Escenario: Enviar un mensaje sin contenido**<br>Given El Endpoint "/api/v1/messages" está disponible<br>When Se envía una POST Request sin contenido en el mensaje<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre la falta de contenido.                                                                                                                                                       | EP04    |
-| TS-21              | US-21         | Ver Mensajes Recibidos a través de la API                           | Como desarrollador quiero permitir a los usuarios ver los mensajes recibidos a través de la API para que puedan gestionar sus comunicaciones.                         | **Escenario: Ver mensajes recibidos**<br>Given El Endpoint "/api/v1/users/{userId}/messages" está disponible<br>When Se envía una GET Request con el ID del usuario<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista de todos los mensajes recibidos por el usuario.<br><br>**Escenario: Ver mensajes recibidos para un usuario sin mensajes**<br>Given El Endpoint "/api/v1/users/{userId}/messages" está disponible<br>When Se envía una GET Request con el ID de un usuario sin mensajes<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista vacía.                                                                                                                                                                      | EP04    |
-| TS-22              | US-22         | Marcar Mensajes como Leídos a través de la API                      | Como desarrollador quiero permitir a los usuarios marcar mensajes como leídos a través de la API para gestionar la bandeja de entrada.                                | **Escenario: Marcar un mensaje como leído**<br>Given El Endpoint "/api/v1/messages/{id}/read" está disponible<br>When Se envía una PUT Request con el ID del mensaje<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta confirma que el mensaje ha sido marcado como leído.<br><br>**Escenario: Marcar un mensaje como leído que no existe**<br>Given El Endpoint "/api/v1/messages/{id}/read" está disponible<br>When Se envía una PUT Request con un ID de mensaje que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que el mensaje no fue encontrado.                                                                                                                                                    | EP04    |
-| TS-23              | US-23         | Actualización del Perfil del Usuario a través de la API             | Como desarrollador quiero permitir a los usuarios actualizar su perfil a través de la API para que puedan mantener su información actualizada.                        | **Escenario: Actualizar perfil de usuario**<br>Given El Endpoint "/api/v1/users/{userId}" está disponible<br>When Se envía una PUT Request con el ID del usuario y los nuevos detalles del perfil<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye los detalles actualizados del perfil.<br><br>**Escenario: Actualizar perfil con datos inválidos**<br>Given El Endpoint "/api/v1/users/{userId}" está disponible<br>When Se envía una PUT Request con datos inválidos para el perfil<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos.                                                                                                                                             | EP05    |
-| TS-24              | US-24         | Recuperación de Contraseña a través de la API                       | Como desarrollador quiero implementar una funcionalidad para recuperar contraseñas a través de la API en caso de que los usuarios olviden su contraseña.              | **Escenario: Solicitar recuperación de contraseña**<br>Given El Endpoint "/api/v1/users/forgot-password" está disponible<br>When Se envía una POST Request con el correo electrónico del usuario<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye un mensaje de confirmación y un enlace para restablecer la contraseña.<br><br>**Escenario: Solicitar recuperación con un correo no registrado**<br>Given El Endpoint "/api/v1/users/forgot-password" está disponible<br>When Se envía una POST Request con un correo electrónico que no está registrado<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que el correo electrónico no está registrado.                                                       | EP05    |
-| TS-25              | US-25         | Restablecimiento de Contraseña a través de la API                   | Como desarrollador quiero permitir a los usuarios restablecer su contraseña a través de la API utilizando un enlace recibido en su correo electrónico.                | **Escenario: Restablecer contraseña exitosamente**<br>Given El Endpoint "/api/v1/users/reset-password" está disponible<br>When Se envía una POST Request con el token de recuperación y la nueva contraseña<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una confirmación de que la contraseña ha sido restablecida.<br><br>**Escenario: Restablecer contraseña con un token inválido**<br>Given El Endpoint "/api/v1/users/reset-password" está disponible<br>When Se envía una POST Request con un token inválido<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error indicando que el token no es válido.                                                                                                            | EP05    |
-| TS-26              | US-26         | Gestión de Roles de Usuario a través de la API                      | Como desarrollador quiero permitir la gestión de roles de usuario a través de la API para asignar permisos adecuados a los usuarios.                                  | **Escenario: Asignar un rol a un usuario**<br>Given El Endpoint "/api/v1/users/{userId}/roles" está disponible<br>When Se envía una POST Request con el ID del usuario y el rol a asignar<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una confirmación de que el rol ha sido asignado.<br><br>**Escenario: Asignar un rol a un usuario con datos inválidos**<br>Given El Endpoint "/api/v1/users/{userId}/roles" está disponible<br>When Se envía una POST Request con un rol inválido o un ID de usuario que no existe<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado.                                                                                                                                 | EP05    |
-| TS-27              | US-27         | Gestión de Permisos a través de la API                              | Como desarrollador quiero permitir la gestión de permisos a través de la API para configurar acceso a funcionalidades específicas.                                    | **Escenario: Asignar un permiso a un rol**<br>Given El Endpoint "/api/v1/roles/{roleId}/permissions" está disponible<br>When Se envía una POST Request con el ID del rol y el permiso a asignar<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una confirmación de que el permiso ha sido asignado.<br><br>**Escenario: Asignar un permiso con datos inválidos**<br>Given El Endpoint "/api/v1/roles/{roleId}/permissions" está disponible<br>When Se envía una POST Request con un permiso inválido o un ID de rol que no existe<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado.                                                                                                                          | EP05    |
-| TS-28              | US-28         | Auditoría de Accesos a través de la API                             | Como desarrollador quiero implementar un sistema de auditoría para registrar accesos y cambios realizados a través de la API.                                         | **Escenario: Registrar un acceso a la API**<br>Given El Endpoint "/api/v1/audit/access" está disponible<br>When Se envía una POST Request con detalles del acceso (usuario, endpoint, y acción)<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye una confirmación de que el acceso ha sido registrado.<br><br>**Escenario: Registrar un acceso con datos inválidos**<br>Given El Endpoint "/api/v1/audit/access" está disponible<br>When Se envía una POST Request con datos de acceso inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos.                                                                                                                                   | EP06    |
-| TS-29              | US-29         | Generación de Reportes de Actividad a través de la API              | Como desarrollador quiero generar reportes de actividad a través de la API para analizar el uso y la interacción con la plataforma.                                   | **Escenario: Generar un reporte de actividad**<br>Given El Endpoint "/api/v1/reports/activity" está disponible<br>When Se envía una GET Request con los parámetros de filtro como fecha y tipo de actividad<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye un reporte con los datos de actividad solicitados.<br><br>**Escenario: Generar un reporte con parámetros inválidos**<br>Given El Endpoint "/api/v1/reports/activity" está disponible<br>When Se envía una GET Request con parámetros inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los parámetros inválidos.                                                                                                                   | EP06    |
-| TS-30              | US-30         | Monitoreo y Alerta de Errores a través de la API                    | Como desarrollador quiero implementar un sistema de monitoreo y alertas para errores a través de la API para mejorar la calidad y la estabilidad del sistema.         | **Escenario: Registrar un error en el sistema**<br>Given El Endpoint "/api/v1/monitoring/errors" está disponible<br>When Se envía una POST Request con detalles del error (mensaje, tipo y ubicación)<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye una confirmación de que el error ha sido registrado.<br><br>**Escenario: Registrar un error con datos inválidos**<br>Given El Endpoint "/api/v1/monitoring/errors" está disponible<br>When Se envía una POST Request con datos inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos.                                                                                                                                    | EP06    |
-| TS-31              | US-31         | Publicar Anuncio Destacado a través de la API                       | Como desarrollador quiero permitir a los vendedores publicar anuncios destacados a través de la API para aumentar la visibilidad de sus autos.                        | **Escenario: Publicar un anuncio destacado**<br>Given El Endpoint "/api/v1/cars/{carId}/highlight" está disponible<br>When Se envía una POST Request con el ID del auto y detalles del anuncio destacado<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye una confirmación de que el anuncio ha sido destacado.<br><br>**Escenario: Publicar un anuncio destacado para un auto no existente**<br>Given El Endpoint "/api/v1/cars/{carId}/highlight" está disponible<br>When Se envía una POST Request con un ID de auto que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que el auto no fue encontrado.                                                                                          | EP08    |
-| TS-32              | US-32         | Configuración de Duración del Anuncio Destacado a través de la API  | Como desarrollador quiero permitir a los vendedores elegir la duración de tiempo para la que su anuncio estará destacado a través de la API.                          | **Escenario: Configurar duración del anuncio destacado**<br>Given El Endpoint "/api/v1/cars/{carId}/highlight/duration" está disponible<br>When Se envía una PUT Request con el ID del auto y la duración deseada<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una confirmación de que la duración del anuncio ha sido actualizada.<br><br>**Escenario: Configurar duración con un valor inválido**<br>Given El Endpoint "/api/v1/cars/{carId}/highlight/duration" está disponible<br>When Se envía una PUT Request con una duración inválida<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre la duración inválida.                                                                                 | EP08    |
-| TS-33              | US-33         | Crear Promociones para Compradores a través de la API               | Como desarrollador quiero permitir a los administradores crear promociones y descuentos para compradores a través de la API para atraer más usuarios a la plataforma. | **Escenario: Crear una nueva promoción**<br>Given El Endpoint "/api/v1/promotions" está disponible<br>When Se envía una POST Request con los detalles de la promoción (tipo, descuento, fechas)<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye una confirmación de que la promoción ha sido creada.<br><br>**Escenario: Crear una promoción con datos inválidos**<br>Given El Endpoint "/api/v1/promotions" está disponible<br>When Se envía una POST Request con datos inválidos para la promoción<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos.                                                                                                                              | EP08    |
-| TS-34              | US-34         | Notificaciones de Promociones a través de la API                    | Como desarrollador quiero implementar un sistema para enviar notificaciones a los compradores sobre nuevas promociones y descuentos a través de la API.               | **Escenario: Enviar notificación de nueva promoción**<br>Given El Endpoint "/api/v1/notifications/promotions" está disponible<br>When Se envía una POST Request con los detalles de la promoción y los destinatarios<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una confirmación de que la notificación ha sido enviada.<br><br>**Escenario: Enviar notificación a usuarios sin suscripción**<br>Given El Endpoint "/api/v1/notifications/promotions" está disponible<br>When Se envía una POST Request a usuarios que no han optado por recibir notificaciones<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error indicando que los usuarios no están suscritos a notificaciones.                                   | EP08    |
-| TS-35              | US-35         | Gestión de Promociones para Vendedores a través de la API           | Como desarrollador quiero permitir a los vendedores gestionar sus propias promociones a través de la API para aumentar la visibilidad de sus autos.                   | **Escenario: Crear o actualizar una promoción para un auto**<br>Given El Endpoint "/api/v1/cars/{carId}/promotions" está disponible<br>When Se envía una POST Request con el ID del auto y los detalles de la promoción<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una confirmación de que la promoción ha sido creada o actualizada.<br><br>**Escenario: Crear o actualizar una promoción con datos inválidos**<br>Given El Endpoint "/api/v1/cars/{carId}/promotions" está disponible<br>When Se envía una POST Request con datos inválidos para la promoción<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos.                                                              | EP08    |
-| TS-36              | US-36         | Reportes de Efectividad de Promociones a través de la API           | Como desarrollador quiero implementar funcionalidades para generar reportes sobre la efectividad de las promociones a través de la API para analizar su impacto.      | **Escenario: Generar un reporte de efectividad de promociones**<br>Given El Endpoint "/api/v1/reports/promotions/effectiveness" está disponible<br>When Se envía una GET Request con los parámetros de filtro como fecha y tipo de promoción<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye un reporte con datos detallados sobre la efectividad de las promociones.<br><br>**Escenario: Generar un reporte con parámetros inválidos**<br>Given El Endpoint "/api/v1/reports/promotions/effectiveness" está disponible<br>When Se envía una GET Request con parámetros inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los parámetros inválidos.                                            | EP08    |
-| TS-37              | US-37         | Configuración de Anuncios Publicitarios a través de la API          | Como desarrollador quiero permitir a los administradores configurar anuncios publicitarios en la plataforma a través de la API para monetizar el tráfico.             | **Escenario: Configurar un anuncio publicitario**<br>Given El Endpoint "/api/v1/ads" está disponible<br>When Se envía una POST Request con los detalles del anuncio (ubicación, contenido, duración)<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye una confirmación de que el anuncio ha sido configurado.<br><br>**Escenario: Configurar un anuncio con datos inválidos**<br>Given El Endpoint "/api/v1/ads" está disponible<br>When Se envía una POST Request con datos inválidos para el anuncio<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos.                                                                                                                             | EP08    |
+| Technical Story ID | User Story ID | Título                                             | Descripción                                                                                                           | Escenario                                                                                                                                                                                                           | Epic ID |
+|---------------------|---------------|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| TS-01               | US-01         | Registro de Usuario a través de la API            | Como desarrollador quiero registrar usuarios a través de la API para permitirles crear cuentas en la plataforma.       | **Escenario: Registro exitoso de usuario**<br>Given El Endpoint "/api/v1/users/sign-up" está disponible<br>When Se envía una POST Request con datos válidos de usuario<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye un ID de usuario y detalles de la cuenta.<br><br>**Escenario: Registro con datos inválidos**<br>Given El Endpoint "/api/v1/users/sign-up" está disponible<br>When Se envía una POST Request con datos inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado. | EP01    |
+| TS-02               | US-02         | Búsqueda de Autos a través de la API              | Como desarrollador quiero implementar la búsqueda de autos a través de la API para que los compradores puedan filtrar opciones. | **Escenario: Búsqueda de autos con filtros aplicados**<br>Given El Endpoint "/api/v1/vehicle/all" está disponible<br>When Se envía una GET Request con filtros como marca y modelo<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista de autos que coinciden con los filtros.<br><br>**Escenario: Búsqueda sin resultados**<br>Given El Endpoint "/api/v1/vehicle/all" está disponible<br>When Se envía una GET Request con filtros que no coinciden con ningún auto<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista vacía. | EP01    |
+| TS-03               | US-03         | Listado de Autos a través de la API              | Como desarrollador quiero listar autos a través de la API para permitir que los compradores vean los autos disponibles. | **Escenario: Listar un auto correctamente**<br>Given El Endpoint "/api/v1/vehicle" está disponible<br>When Se envía una GET Request al endpoint<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista de autos disponibles con detalles como nombre, precio y ubicación.<br><br>**Escenario: Listar autos con parámetros de búsqueda**<br>Given El Endpoint "/api/v1/vehicle" está disponible<br>When Se envía una GET Request con parámetros de búsqueda como marca, modelo y año<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista de autos que coinciden con los parámetros de búsqueda.<br>And Los detalles de cada auto incluyen nombre, precio, y ubicación. | EP01    |
+| TS-04               | US-04         | Edición de Listado de Autos a través de la API   | Como desarrollador quiero permitir la edición de los listados de autos a través de la API para que los vendedores puedan actualizar la información de sus autos. | **Escenario: Editar un listado de auto existente**<br>Given El Endpoint "/api/v1/vehicle/{id}" está disponible<br>When Se envía una PUT Request con el ID del auto y los nuevos detalles<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye los detalles actualizados del auto.<br><br>**Escenario: Editar un listado con datos inválidos**<br>Given El Endpoint "/api/v1/vehicle/{id}" está disponible<br>When Se envía una PUT Request con el ID del auto y datos inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos. | EP01    |
+| TS-05               | US-05         | Eliminación de Listado de Autos a través de la API | Como desarrollador quiero permitir la eliminación de listados de autos a través de la API para que los vendedores puedan retirar sus autos del mercado. | **Escenario: Eliminar un listado de auto correctamente**<br>Given El Endpoint "/api/v1/vehicle/{id}" está disponible<br>When Se envía una DELETE Request con el ID del auto<br>Then Se recibe una respuesta con Status 204<br>And El auto debe ser removido de la lista de autos disponibles.<br><br>**Escenario: Intento de eliminar un auto inexistente**<br>Given El Endpoint "/api/v1/vehicle/{id}" está disponible<br>When Se envía una DELETE Request con un ID de auto que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que el auto no fue encontrado. | EP01    |
+| TS-06               | US-06         | Ver Detalles del Auto a través de la API         | Como desarrollador quiero mostrar los detalles completos de un auto a través de la API para que los compradores puedan ver información detallada. | **Escenario: Ver detalles de un auto**<br>Given El Endpoint "/api/v1/vehicle/{id}" está disponible<br>When Se envía una GET Request con el ID del auto<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye todos los detalles del auto como nombre, precio, y características.<br><br>**Escenario: Ver detalles de un auto que no existe**<br>Given El Endpoint "/api/v1/vehicle/{id}" está disponible<br>When Se envía una GET Request con un ID de auto que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que el auto no fue encontrado. | EP01    |
+| TS-07               | US-08         | Guardar Autos Favoritos a través de la API      | Como desarrollador quiero permitir a los compradores guardar autos favoritos a través de la API para que puedan revisarlos más tarde. | **Escenario: Guardar un auto como favorito**<br>Given El Endpoint "/api/v1/users/{userId}/favorites" está disponible<br>When Se envía una POST Request con el ID del auto a guardar<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta confirma que el auto ha sido añadido a la lista de favoritos del usuario.<br><br>**Escenario: Guardar un auto ya en favoritos**<br>Given El Endpoint "/api/v1/users/{userId}/favorites" está disponible<br>When Se envía una POST Request con un ID de auto que ya está en la lista de favoritos<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta confirma que el auto ya está en la lista de favoritos del usuario. | EP01    |
+| TS-08               | US-09         | Nuevos Listados a través de la API | Como desarrollador quiero que los compradores visualicen los vehiculos más recientes en el Home. | **Escenario: Enviar notificación de nuevo listado**<br>Given El Endpoint "/api/v1/notifications/new-listings" está disponible<br>When Se envía una POST Request con los criterios de búsqueda del comprador<br>Then Se recibe una respuesta con Status 200<br>And El comprador debe recibir una notificación por correo electrónico o en la plataforma.<br><br>**Escenario: No enviar notificación si no hay nuevos listados**<br>Given El Endpoint "/api/v1/notifications/new-listings" está disponible<br>When Se envía una POST Request con criterios de búsqueda y no hay nuevos listados<br>Then Se recibe una respuesta con Status 200<br>And El comprador no recibe notificaciones. | EP01    |
+| TS-09               | US-11         | Solicitud de Certificación a través de la API    | Como desarrollador quiero permitir a los vendedores solicitar certificación para sus autos a través de la API. | **Escenario: Solicitar certificación para un auto**<br>Given El Endpoint "/api/v1/certifications/request" está disponible<br>When Se envía una POST Request con el ID del auto y los detalles de certificación<br>Then Se recibe una respuesta con Status 201<br>And El taller técnico y el vendedor deben recibir una notificación de la solicitud.<br><br>**Escenario: Solicitud de certificación con datos inválidos**<br>Given El Endpoint "/api/v1/certifications/request" está disponible<br>When Se envía una POST Request con datos inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos. | EP02    |
+| TS-10               | US-12         | Ver Informe de Certificación a través de la API | Como desarrollador quiero permitir a los compradores ver el informe de certificación del auto a través de la API para asegurar la calidad del vehículo. | **Escenario: Ver informe de certificación**<br>Given El Endpoint "/api/v1/vehicle/{id}/certification-report" está disponible<br>When Se envía una GET Request con el ID del auto<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye el informe de certificación generado por el taller técnico.<br><br>**Escenario: Ver informe para un auto sin certificación**<br>Given El Endpoint "/api/v1/vehicle/{id}/certification-report" está disponible<br>When Se envía una GET Request con el ID de un auto sin certificación<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que no se encontró el informe. | EP02    |
+| TS-11               | US-13         | Solicitud de Inspección de Auto a través de la API | Como desarrollador quiero permitir a los vendedores solicitar una inspección de sus autos a través de la API para asegurar su calidad antes de listar. | **Escenario: Solicitar inspección para un auto**<br>Given El Endpoint "/api/v1/inspections/request" está disponible<br>When Se envía una POST Request con el ID del auto y detalles de la inspección<br>Then Se recibe una respuesta con Status 201<br>And El taller técnico debe recibir una notificación de la solicitud de inspección.<br><br>**Escenario: Solicitud de inspección con datos inválidos**<br>Given El Endpoint "/api/v1/inspections/request" está disponible<br>When Se envía una POST Request con datos inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos. | EP02    |
+| TS-12               | US-14         | Confirmación de Inspección a través de la API   | Como desarrollador quiero permitir a los talleres técnicos confirmar las citas de inspección a través de la API para que los vendedores reciban la confirmación. | **Escenario: Confirmar una inspección**<br>Given El Endpoint "/api/v1/inspections/{id}/confirm" está disponible<br>When Se envía una PUT Request con el ID de la inspección y los detalles de confirmación<br>Then Se recibe una respuesta con Status 200<br>And El vendedor debe recibir una notificación con los detalles de la inspección confirmada.<br><br>**Escenario: Confirmar una inspección que no existe**<br>Given El Endpoint "/api/v1/inspections/{id}/confirm" está disponible<br>When Se envía una PUT Request con un ID de inspección que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que la inspección no fue encontrada. | EP02    |
+| TS-13               | US-15         | Actualización del Estado de Inspección a través de la API | Como desarrollador quiero permitir a los talleres técnicos actualizar el estado de la inspección a través de la API para que los vendedores reciban actualizaciones. | **Escenario: Actualizar el estado de la inspección**<br>Given El Endpoint "/api/v1/inspections/{id}/status" está disponible<br>When Se envía una PUT Request con el ID de la inspección y el nuevo estado<br>Then Se recibe una respuesta con Status 200<br>And El vendedor debe recibir una notificación con la actualización del estado de la inspección.<br><br>**Escenario: Actualizar estado para una inspección que no existe**<br>Given El Endpoint "/api/v1/inspections/{id}/status" está disponible<br>When Se envía una PUT Request con un ID de inspección que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que la inspección no fue encontrada. | EP02    |
+| TS-14               | US-16         | Sistema de Pago Seguro a través de la API       | Como desarrollador quiero implementar un sistema de pago seguro a través de la API para que los compradores puedan completar sus compras de manera segura. | **Escenario: Procesar un pago exitoso**<br>Given El Endpoint "/api/v1/payments" está disponible<br>When Se envía una POST Request con los datos de pago válidos<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una confirmación de pago y detalles de la transacción.<br><br>**Escenario: Procesar un pago con datos inválidos**<br>Given El Endpoint "/api/v1/payments" está disponible<br>When Se envía una POST Request con datos de pago inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos. | EP03    |
+| TS-15               | US-17         | Confirmación de Transacción a través de la API | Como desarrollador quiero enviar una confirmación de la venta al vendedor a través de la API para asegurar que la transacción fue exitosa. | **Escenario: Confirmar una transacción exitosa**<br>Given El Endpoint "/api/v1/transactions/{id}/confirm" está disponible<br>When Se envía una PUT Request con el ID de la transacción<br>Then Se recibe una respuesta con Status 200<br>And El vendedor debe recibir una confirmación por su perfil.<br><br>**Escenario: Confirmar una transacción que no existe**<br>Given El Endpoint "/api/v1/transactions/{id}/confirm" está disponible<br>When Se envía una PUT Request con un ID de transacción que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que la transacción no fue encontrada. | EP03    |
+| TS-16               | US-18         | Historial de Transacciones a través de la API  | Como desarrollador quiero permitir a los usuarios ver un historial de sus transacciones a través de la API para que puedan revisar sus actividades en la plataforma. | **Escenario: Ver historial de transacciones**<br>Given El Endpoint "/api/v1/users/{userId}/transactions" está disponible<br>When Se envía una GET Request con el ID del usuario<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista de todas las transacciones realizadas por el usuario con detalles.<br><br>**Escenario: Ver historial de transacciones para un usuario sin transacciones**<br>Given El Endpoint "/api/v1/users/{userId}/transactions" está disponible<br>When Se envía una GET Request con el ID de un usuario sin transacciones<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista vacía. | EP03    |
+| TS-17               | US-20         | Mensajería entre Compradores y Vendedores a través de la API | Como desarrollador quiero implementar un sistema de mensajería entre compradores y vendedores a través de la API para facilitar la comunicación. | **Escenario: Enviar un mensaje**<br>Given El Endpoint "/api/v1/messages" está disponible<br>When Se envía una POST Request con los detalles del mensaje (remitente, destinatario y contenido)<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye una confirmación de que el mensaje fue enviado.<br><br>**Escenario: Enviar un mensaje sin contenido**<br>Given El Endpoint "/api/v1/messages" está disponible<br>When Se envía una POST Request sin contenido en el mensaje<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre la falta de contenido. | EP04    |
+| TS-18               | US-21         | Ver Mensajes Recibidos a través de la API     | Como desarrollador quiero permitir a los usuarios ver los mensajes recibidos a través de la API para que puedan gestionar sus comunicaciones. | **Escenario: Ver mensajes recibidos**<br>Given El Endpoint "/api/v1/users/{userId}/messages" está disponible<br>When Se envía una GET Request con el ID del usuario<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista de todos los mensajes recibidos por el usuario.<br><br>**Escenario: Ver mensajes recibidos para un usuario sin mensajes**<br>Given El Endpoint "/api/v1/users/{userId}/messages" está disponible<br>When Se envía una GET Request con el ID de un usuario sin mensajes<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una lista vacía. | EP04    |
+| TS-19               | US-22         | Marcar Mensajes como Leídos a través de la API | Como desarrollador quiero permitir a los usuarios marcar mensajes como leídos a través de la API para gestionar la bandeja de entrada. | **Escenario: Marcar un mensaje como leído**<br>Given El Endpoint "/api/v1/messages/{id}/read" está disponible<br>When Se envía una PUT Request con el ID del mensaje<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta confirma que el mensaje ha sido marcado como leído.<br><br>**Escenario: Marcar un mensaje como leído que no existe**<br>Given El Endpoint "/api/v1/messages/{id}/read" está disponible<br>When Se envía una PUT Request con un ID de mensaje que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que el mensaje no fue encontrado. | EP04    |
+| TS-20               | US-23         | Actualización del Perfil del Usuario a través de la API | Como desarrollador quiero permitir a los usuarios actualizar su perfil a través de la API para que puedan mantener su información actualizada. | **Escenario: Actualizar perfil de usuario**<br>Given El Endpoint "/api/v1/users/{userId}" está disponible<br>When Se envía una PUT Request con el ID del usuario y los nuevos detalles del perfil<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye los detalles actualizados del perfil.<br><br>**Escenario: Actualizar perfil con datos inválidos**<br>Given El Endpoint "/api/v1/users/{userId}" está disponible<br>When Se envía una PUT Request con datos inválidos para el perfil<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos. | EP05    |
+| TS-21               | US-26         | Gestión de Roles de Usuario a través de la API | Como desarrollador quiero permitir la gestión de roles de usuario a través de la API para asignar permisos adecuados a los usuarios. | **Escenario: Asignar un rol a un usuario**<br>Given El Endpoint "/api/v1/users/{userId}/roles" está disponible<br>When Se envía una POST Request con el ID del usuario y el rol a asignar<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una confirmación de que el rol ha sido asignado.<br><br>**Escenario: Asignar un rol a un usuario con datos inválidos**<br>Given El Endpoint "/api/v1/users/{userId}/roles" está disponible<br>When Se envía una POST Request con un rol inválido o un ID de usuario que no existe<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado. | EP05    |
+| TS-22               | US-28         | Auditoría de Accesos a través de la API          | Como desarrollador quiero implementar un sistema de auditoría para registrar accesos y cambios realizados a través de la API. | **Escenario: Registrar un acceso a la API**<br>Given El Endpoint "/api/v1/audit/access" está disponible<br>When Se envía una POST Request con detalles del acceso (usuario, endpoint, y acción)<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye una confirmación de que el acceso ha sido registrado.<br><br>**Escenario: Registrar un acceso con datos inválidos**<br>Given El Endpoint "/api/v1/audit/access" está disponible<br>When Se envía una POST Request con datos de acceso inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos. | EP06    |
+| TS-23               | US-29         | Generación de Reportes de Actividad a través de la API | Como desarrollador quiero generar reportes de actividad a través de la API para analizar el uso y la interacción con la plataforma. | **Escenario: Generar un reporte de actividad**<br>Given El Endpoint "/api/v1/reports/activity" está disponible<br>When Se envía una GET Request con los parámetros de filtro como fecha y tipo de actividad<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye un reporte con los datos de actividad solicitados.<br><br>**Escenario: Generar un reporte con parámetros inválidos**<br>Given El Endpoint "/api/v1/reports/activity" está disponible<br>When Se envía una GET Request con parámetros inválidos<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los parámetros inválidos. | EP06    |
+| TS-24               | US-31         | Publicar Anuncio Destacado a través de la API        | Como desarrollador quiero permitir a los vendedores publicar anuncios destacados a través de la API para aumentar la visibilidad de sus autos. | **Escenario: Publicar un anuncio destacado**<br>Given El Endpoint "/api/v1/vehicle/{vehicleId}/highlight" está disponible<br>When Se envía una POST Request con el ID del auto y detalles del anuncio destacado<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye una confirmación de que el anuncio ha sido destacado.<br><br>**Escenario: Publicar un anuncio destacado para un auto no existente**<br>Given El Endpoint "/api/v1/vehicle/{vehicleId}/highlight" está disponible<br>When Se envía una POST Request con un ID de auto que no existe<br>Then Se recibe una respuesta con Status 404<br>And La Respuesta incluye un mensaje de error indicando que el auto no fue encontrado. | EP08    |
+| TS-25               | US-32         | Configuración de Duración del Anuncio Destacado a través de la API | Como desarrollador quiero permitir a los vendedores elegir la duración de tiempo para la que su anuncio estará destacado a través de la API. | **Escenario: Configurar duración del anuncio destacado**<br>Given El Endpoint "/api/v1/vehicle/{vehicleId}/highlight/duration" está disponible<br>When Se envía una PUT Request con el ID del auto y la duración deseada<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una confirmación de que la duración del anuncio ha sido actualizada.<br><br>**Escenario: Configurar duración con un valor inválido**<br>Given El Endpoint "/api/v1/vehicle/{vehicleId}/highlight/duration" está disponible<br>When Se envía una PUT Request con una duración inválida<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre la duración inválida. | EP08    |
+| TS-26               | US-33         | Crear Promociones para Compradores a través de la API | Como desarrollador quiero permitir a los administradores crear promociones y descuentos para compradores a través de la API para atraer más usuarios a la plataforma. | **Escenario: Crear una nueva promoción**<br>Given El Endpoint "/api/v1/promotions" está disponible<br>When Se envía una POST Request con los detalles de la promoción (tipo, descuento, fechas)<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye una confirmación de que la promoción ha sido creada.<br><br>**Escenario: Crear una promoción con datos inválidos**<br>Given El Endpoint "/api/v1/promotions" está disponible<br>When Se envía una POST Request con datos inválidos para la promoción<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos. | EP08    |
+| TS-27               | US-34         | Notificaciones de Promociones a través de la API     | Como desarrollador quiero implementar un sistema para enviar notificaciones a los compradores sobre nuevas promociones y descuentos a través de la API. | **Escenario: Enviar notificación de nueva promoción**<br>Given El Endpoint "/api/v1/notifications/promotions" está disponible<br>When Se envía una POST Request con los detalles de la promoción y los destinatarios<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una confirmación de que la notificación ha sido enviada.<br><br>**Escenario: Enviar notificación a usuarios sin suscripción**<br>Given El Endpoint "/api/v1/notifications/promotions" está disponible<br>When Se envía una POST Request a usuarios que no han optado por recibir notificaciones<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error indicando que los usuarios no están suscritos a notificaciones. | EP08    |
+| TS-28               | US-35         | Gestión de Promociones para Vendedores a través de la API | Como desarrollador quiero permitir a los vendedores gestionar sus propias promociones a través de la API para aumentar la visibilidad de sus autos. | **Escenario: Crear o actualizar una promoción para un auto**<br>Given El Endpoint "/api/v1/vehicle/{vehicleId}/promotions" está disponible<br>When Se envía una POST Request con el ID del auto y los detalles de la promoción<br>Then Se recibe una respuesta con Status 200<br>And La Respuesta incluye una confirmación de que la promoción ha sido creada o actualizada.<br><br>**Escenario: Crear o actualizar una promoción con datos inválidos**<br>Given El Endpoint "/api/v1/vehicle/{vehicleId}/promotions" está disponible<br>When Se envía una POST Request con datos inválidos para la promoción<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos. | EP08    |
+| TS-29               | US-37         | Configuración de Anuncios Publicitarios a través de la API | Como desarrollador quiero permitir a los administradores configurar anuncios publicitarios en la plataforma a través de la API para monetizar el tráfico. | **Escenario: Configurar un anuncio publicitario**<br>Given El Endpoint "/api/v1/ads" está disponible<br>When Se envía una POST Request con los detalles del anuncio (ubicación, contenido, duración)<br>Then Se recibe una respuesta con Status 201<br>And La Respuesta incluye una confirmación de que el anuncio ha sido configurado.<br><br>**Escenario: Configurar un anuncio con datos inválidos**<br>Given El Endpoint "/api/v1/ads" está disponible<br>When Se envía una POST Request con datos inválidos para el anuncio<br>Then Se recibe una respuesta con Status 400<br>And La Respuesta incluye un mensaje de error detallado sobre los datos inválidos. | EP08    |
+| TS-30               | US-16         | Deploy de Web Service Backend                   | Como desarrollador quiero desplegar el servicio backend para que la aplicación web pueda interactuar con los servicios y datos necesarios.                    | **Escenario: Deploy exitoso de Web Service Backend**<br>Given El servidor de producción está configurado correctamente<br>When Se realiza un deploy del backend utilizando el pipeline de CI/CD<br>Then El servicio se despliega correctamente sin errores<br>And El backend está accesible desde la URL de producción.<br><br>**Escenario: Fallo en el deploy de Web Service Backend**<br>Given El servidor de producción está configurado correctamente<br>When Se realiza un deploy del backend utilizando el pipeline de CI/CD<br>Then El deploy falla debido a un error de configuración o de compatibilidad de versiones<br>And Se muestra un mensaje de error detallado con los logs de la falla. | EP03    |
+| TS-31               | US-27         | Deploy de Web Application (Frontend)            | Como desarrollador quiero desplegar la aplicación frontend para que los usuarios puedan interactuar con la interfaz de usuario y consumir los servicios backend. | **Escenario: Deploy exitoso de Web Application (Frontend)**<br>Given La aplicación frontend está lista para producción<br>When Se realiza un deploy de la aplicación frontend a través del pipeline de CI/CD<br>Then La aplicación se despliega correctamente en el servidor de producción<br>And Los usuarios pueden acceder al frontend a través de la URL de producción.<br><br>**Escenario: Fallo en el deploy de Web Application (Frontend)**<br>Given La aplicación frontend está lista para producción<br>When Se realiza un deploy de la aplicación frontend a través del pipeline de CI/CD<br>Then El deploy falla debido a un error en el código o en la configuración de producción<br>And Se muestra un mensaje de error detallado con los logs del fallo. | EP06    |
+| TS-32               | US-18         | Implementación de filtros de estados de transacción | Como desarrollador quiero implementar filtros para los estados de transacción de manera que los usuarios puedan consultar sus transacciones de forma más eficiente. | **Escenario: Filtro exitoso por estado de transacción**<br>Given El sistema tiene transacciones con diferentes estados (Pendiente, Completada, Cancelada)<br>When El usuario selecciona un filtro para el estado "Pendiente"<br>Then Se muestran solo las transacciones con el estado "Pendiente"<br>And La interfaz de usuario refleja correctamente el filtro seleccionado.<br><br>**Escenario: Filtro sin resultados**<br>Given El sistema tiene transacciones con diferentes estados<br>When El usuario selecciona un filtro para el estado "Cancelada" y no hay transacciones en ese estado<br>Then Se muestra un mensaje de que no se encontraron transacciones con ese estado. | EP03    |
 
 <br><br><br><br><br><br><br><br>
 
@@ -1746,7 +1821,7 @@ El diagrama de contexto muestra una vista de alto nivel de las relaciones entre 
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software **Car2Go**.
 
 <div align="center">
-    <img src="assets/containerDiagram.png" alt="Container diagram">
+    <img src="assets/Containers.png" alt="Container diagram">
 </div>
 
 ## 4.6.3. Software Architecture Components Diagrams
@@ -1780,7 +1855,7 @@ Los diagramas de componentes muestran una vista de las relaciones de los compone
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-<img src="assets/class-diagram.png" alt="class diagram"/>
+<img src="assets/diagrama-clases.png" alt="class diagram"/>
 
 ### 4.7.2. Class Dictionary
 
@@ -1788,140 +1863,146 @@ Clase User
 
 | Atributo           | Tipo   | Descripción                     |
 |--------------------|--------|---------------------------------|
-| userID             | int    | Identificador único del usuario |
-| names              | string | Nombres del usuario             |
-| last_name          | string | Apellidos del usuario           |
-| phone_number       | string | Número telefónio del usuario    |
-| email              | string | Correo del usuario              |
-| password           | string | Contraseña del usuario          |
-| role               | string | Rol del usuario                 |
-| subscriptionPlan   | Subscription | Plan de subscripción            |
-| transactionHistory | list   | Historial de transacciones      |
+| id                 | long   | Identificador único del usuario |
+| createdAt          | Date   | Fecha de creación del usuario   |
+| updateAt           | Date   | Última actualización del usuario|
+| username           | String | Nombre de usuario               |
+| password           | String | Contraseña del usuario          |
+| roles              | Set    | Rol del usuario                 |
 
 <br><br/>
-Clase SubscriptionPlan
+Clase Role
+
+| Atributo | Tipo   | Descripción                                  |
+|----------|--------|----------------------------------------------| 
+| id       | Long   | Identificador único del rol                  |
+| name     | String | Nombre del rol                               |
+
+ 
+<br><br/>
+Clase Profile
 
 | Atributo | Tipo   | Descripción                                  |
 |----------|--------|----------------------------------------------|
-| planID   | int    | Identificador único del plan de subscripción |
-| name     | string | Nombre del plan                              |
-| price    | double | Precio del plan                              |
-| startDate| date   | Fecha de inicio de la subscripción           |
-| endDate  | date   | Fecha de expiración de la subscripción       |
-| status   | string | Estado de la subscripción                    |
+| id       | int    | Identificador único del perfil               |
+| name     | String | Nombre del perfil                            |
+| email    | String | Correo electrónico                           |
+| image    | String | Foto de perfil                               |
+| dni      | String | Documento nacional de identidad              |
+| address  | String | Dirección del perfil                         |
+| phone    | String | Número de celular del perfil                 |
+| profileId | Long  | Identificar del perfil                       |
+| paymentMethods | List | Lista de métodos de pago                 |
+ 
  
 <br><br/>
 Clase Transaction
 
 | Atributo      | Tipo    | Descripción                           |
 |---------------|---------|---------------------------------------|
-| transactionID | int     | Identificador único de la transacción |
-| buyer         | User    | Comprador del auto                    |
-| seller        | User    | Vendedor del auto                     |
-| vehicle       | Vehicle | Vehículo vendido                      |
+| id            | int     | Identificador único de la transacción |
+| buyerId       | int     | Identificador del comprador           |
+| sellerId      | int     | Identificar del vendedor              |
+| vehicle       | Vehicle | Vehículo de interés                   |
 | amount        | double  | Precio de venta                       |
 | date          | date    | Fecha de la transacción               |
 | paymentStatus | string  | Estado del pago de la transacción     |
 
-<br><br/>
-Clase Payment
-
-| Atributo      | Tipo        | Descripción                    |
-|---------------|-------------|--------------------------------|
-| paymentID     | int         | Identificador único del pago   |
-| transaction   | Transaction | Transación perteniente al pago |
-| paymentMethod | string      | Método de pago                 |
-| paymentDate   | date        | Fecha del pago                 |
 
 <br><br/>
 
-<br>
-Clase Post
-
-| Atributo    | Tipo    | Descripción                  |
-|-------------|---------|------------------------------|
-| postID      | int     | Identificador único del post |
-| vehicle     | Vehicle | Vehículo en venta            |
-| seller      | User    | Vendedor                     |
-| title       | string  | Título del post              |
-| description | string  | Descripción del post         |
-| price       | double  | Precio del vehículo          |
-| status      | string  | Status del post              |
-| createdDate | date    | Fecha de creación del post   |
-| location    | string  | Ubicación del vehículo       |
-| images      | list    | Imágenes del vehículo        |
-
-<br><br/>
 Clase Vehicle
 
 | Atributo           | Tipo   | Descripción                      |
 |--------------------|--------|----------------------------------|
-| vehicleID          | int    | Identificador único del vehículo |
+| id                 | int    | Identificador único del vehículo |
+| name               | String | Nombre del vendedor              |
+| phone              | String | Teléfono del vendedor            |
+| email              | String | Correo del vendedor              |
 | brand              | string | Marca del vehículo               |
 | model              | string | Modelo                           |
 | year               | int    | Año de fabricación               |
 | price              | double | Precio del vehículo              |
 | color              | string | Color principal del vehículo     |
+| transmission       | String | Tipo de transmisión              |
+| engine             | String | Motor del vehículo               |
 | mileage            | double | Kilometraje                      |
+| doors              | String | Número de puertas del vehículo   |
+| plate              | String | Número de placa                  |
 | location           | string | Ubicación del vehículo           |
-| images             | list   | Imágenes del vehículo            |
-| description        | string | Descripción                      |
-| maintenanceHistory | list   | Historial de mantenimiento       |
+| images             | List   | Imágenes del vehículo            |
+| description        | String | Descripción                      |
+| fuel               | String | Combustible                      |
+| speed              | int    | Velocidad                        |
+| profileId          | long   | Identificador del vendedor       |
+| createdDate        | LocalDateTime | Fecha de creación del post |
+| lastModifiedDate   | LocalDateTime | Fecha de última modificación del post |
+| reviews            | List   | Revisiones del vehículo          |
+| myOffers           | List   | Ofertas recibidas                |
+
 
 <br><br/>
-Clase Contact
 
-| Atributo  | Tipo   | Descripción                                                 |
-|-----------|--------|-------------------------------------------------------------|
-| contactID | int    | Identificador único del contacto entre comprador y vendedor |
-| sender    | User   | Usuario interesado en el vehículo                           |
-| receiver  | User   | Usuario dueño del vehículo                                  |
-| message   | string | Mensaje enviado                                             |
-| date      | date   | Fecha del mensaje                                           |
-
-<br><br/>
 Clase Review
 
 | Atributo | Tipo   | Descripción                                     |
 |----------|--------|-------------------------------------------------|
-| reviewID | int    | Identificador único de la reseña de un vendedor |
-| user     | User   | Usuario que publicó la reseña                   |
-| seller   | User   | Vendedor que recibe las reseñas                 |
-| rating   | int    | Calificación del vendedor                       |
-| comment  | string | Comentarios de la reseña                        |
-| date     | date   | Fecha de publicación                            |
+| id       | long   | Identificador único de la revisión              |
+| vehicle  | Vehicle | Vehículo que recibe la revisión                |
+| reviewedBy | String | Mecánico que realizó la revisión              |
+| notes    | String | Notas de la revisión                            |
+| reviewDate | LocalDateTime | Fecha de la revisión                   |
 
 <br><br/>
-Clase Maintenance
 
-| Atributo      | Tipo     | Descripción                           |
-|---------------|----------|---------------------------------------|
-| maintenanceID | int      | Identificador único del mantenimiento |
-| vehicle       | Vehicle  | Vehículo objetivo del mantenimiento   |
-| date          | date     | Fecha del mantenimiento               |
-| description   | string   | Descripción del mantenimiento         |
-| cost          | double   | Costo del mantenimiento               |
-| mechanic      | Mechanic | Mecánico a cargo del mantenimiento    |
+Clase Subscription
+
+| Atributo      | Tipo    | Descripción                           |
+|---------------|---------|---------------------------------------|
+| id            | long    | Identificador único de la suscripción |
+| createdAt     | Date    | Fecha de suscripción                  |
+| updateAt      | Date    | Fecha de actualización de suscripción |
+| description   | String  | Descripción de la suscripción         |
+| status        | SubscriptionStatus | Precio de venta            |
+| profileId     | Long    | Id del usuario suscrito               |
 
 <br><br/>
-Clase Mechanic
 
-| Atributo    | Tipo   | Descripción                          |
-|-------------|--------|--------------------------------------|
-| mechanicID  | int    | Identificador único del mecánico     |
-| names       | string | Nombres                              |
-| last_name   | string | Apellidos                            |
-| phonenumber | string | Número telefónico                    |
-| address     | string | Dirección del taller automotriz      |
-| company     | string | Nombre del taller automotriz         |
-| email       | string | Correo del mecánico                  |
-| password    | string | Contraseña de la cuenta del mecánico |
+Clase Favorite
+
+| Atributo      | Tipo    | Descripción                           |
+|---------------|---------|---------------------------------------|
+| id            | int     | Identificador del vehículo favorito   | 
+| vehicle       | Vehicle | Vehículo agregado como favorito       |
+| profileId     | Long    | Id del usuario                        |
+| createdAt     | LocalDateTime | Fecha de agregar                |
+
+<br><br/>
+
+Clase PaymentMethod
+
+| Atributo      | Tipo    | Descripción                           |
+|---------------|---------|---------------------------------------|
+| id            | Long    | Identificador del método de pago      | 
+| type          | String  | Tipo de método de pago                |
+| details       | String  | Detalles del método de pago           |
+
+<br><br/>
+
+Clase PersonName
+
+| Atributo      | Tipo    | Descripción                           |
+|---------------|---------|---------------------------------------|
+| firstName     | String  | Primer nombre del usuario             |
+| lastName      | String  | Apellido del usuario                  |
+
+<br><br/>
 
 ## 4.8 Database Design
 El sistema de gestión de bases de datos relacional (RDBMS) que utilizaremos para generar las tablas y establecer sus relaciones en nuestra plataforma será MySQL. Hemos elegido MySQL por su facilidad de uso y por su integración con MySQL Workbench, que nos proporciona una herramienta visual eficiente para la administración de la base de datos.
 
 ### 4.8.1 Database Diagram
-<img src="assets/db-diagram.png" alt="database diagram"/>
+<img src="assets/diagrama-bd.png" alt="database diagram"/>
 
 
 
@@ -2335,6 +2416,475 @@ _Link_: https://car2go-c60fa.web.app/
 
 ![TP1](assets/com-tp1.jpg)
 
+
+## 5.2.3. Sprint 3
+### 5.2.3.1. Sprint Planning 3
+ <div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+
+  | Sprint 3                        | Implementación de funcionalidades y desarrollo del frontend de la aplicación.                                                                                         |
+  |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | Sprint Planning Background      |
+  | Date                            | 19/10/2024                                                                                                                                                            |
+  | Time                            | 17:00 horas (GMT-5)                                                                                                                                                 |
+  | Location                        | Reunión realizada mediante Discord                                                                                                                 |
+  | Prepared By                     | Harold Mayta                                                                                          |
+  | Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
+  | Sprint 1 Review              |
+  | Resumen                         | Se creó el repositorio del Back-End                                                                            |
+  | Sprint 2 Retrospective       |
+  | Resumen                         | En este sprint el Back-End se esta desarrolando en JAVA y Spring Boot                                         |
+  | **Sprint Goal & User Stories**  |
+  | Sprint 3 Velocity               | 41 points                                                                                                                                                          |
+  | Sum of Story Points             | 41 points                                                                                                                                                                                    |
+</div>
+
+### 5.2.3.2. Sprint Backlog 3
+
+![image](assets/sprint3_trello.png)
+*Elaboración propia. Realizado en Trello:* [Trello](https://trello.com/invite/b/672593151a102b5df4062300/ATTIee8d366a57b61466153105a6f5824169062AAAF0/sprint-3)
+
+| | Sprint # | | | | Sprint 3 | | |
+|-|----------|-|-|-|----------|-|-|
+| **User Story/Technical Story**        |                   | **Work Item/Task** |               |                                                    |                   |                 |        |
+| **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation (Hours)**    | **Assigned To** | **Status** |
+| US-01 / TS-01        | Registro de Usuario a través de la API | TW-01   | Implementar registro de usuario | Crear un endpoint para manejar el registro de nuevos usuarios a través de la API | 6                 | Franco Barrionuevo   | Done   |
+| US-02 / TS-02        | Búsqueda de Autos a través de la API | TW-02   | Crear funcion de busqueda de autos | Crear una funcionalidad para implementar un endpoint que permita realizar búsquedas de vehículos a través de la API. | 7                 | Karito Medina   | Done   |
+| US-03 / TS-03        | Listado de Autos a través de la API | TW-03   | Implementar una función de listado de autos | Crear un endpoint para obtener un listado de vehículos desde la API. | 5                 | Gerald Serrano   | Done   |
+| US-04 / TS-04        | Edición de Listado de Autos a través de la API | TW-04   | Permitir que los vendedores actualizen el listado de autos que venden  | Crear una funcionalidad para implementar un endpoint que permita actualizar la información de los vehículos en el listado a través de la API.  | 6                 | Joaquin Carranza   | Done   |
+| US-05 / TS-05        | Eliminación de Listado de Autos a través de la API | TW-05   | Permitir que los vendedores eliminen el listado de autos que venden  | Crear una funcionalidad para implementar un endpoint que permita eliminar la información de los vehículos en el listado a través de la API.  | 8                 | Harold Mayta   | Done   |
+| US-06 / TS-06        | Ver Detalles del Auto a través de la API | TW-06   | Mostrar detalles completos del auto  | Crear un endpoint para permitir la recuperación de información detallada de un vehículo específico a través de la API.  | 5                 | Franco Barrionuevo   | Done   |
+| US-08 / TS-07        | Guardar Autos Favoritos a través de la API | TW-07   | Permitir que compradores guarden autos favoritos  | Crear una funcionalidad para implementar un endpoint que permita a los usuarios guardar vehículos en su lista de favoritos a través de la API.  | 7                 | Gerald Serrano   | Done   |
+| US-09 / TS-08        | Nuevos Listados a través de la API | TW-08   | Implementar visualización de autos recientes en Home  | Crear un endpoint para permitir la inserción de nuevos vehículos en la base de datos a través de la API.  | 5                 | Joaquin Carranza   | Done   |
+| US-11 / TS-09        | Solicitud de Certificación a través de la API | TW-09   | Implementar solicitud de certificación a vendedores | Crear una funcionalidad para implementar un endpoint que permita a los usuarios enviar solicitudes de certificación para vehículos a través de la API.  | 6                 | Harold Mayta   | Done   |
+| US-13 / TS-11        | Solicitud de Inspección de Auto a través de la API | TW-10   | Permitir solicitar a vendedores, inspecciones para sus autos  | Crear un endpoint para permitir a los usuarios enviar solicitudes de inspección para vehículos a través de la API.  | 6                 | Harold Mayta   | Done   |
+| US-14 / TS-12        | Confirmación de Inspección a través de la API | TW-11   | Implementar confirmacion de citas para los mecánicos  | Crear una funcionalidad para implementar un endpoint que permita a los usuarios confirmar el estado de las inspecciones de vehículos a través de la API.  | 6                 | Harold Mayta   | Done   |
+| US-15 / TS-13        | Actualización del Estado de Inspección a través de la API | TW-12   | Permitir actualizar el estado de inspección  | Crear un endpoint para permitir la actualización del estado de las inspecciones de vehículos a través de la API.  | 6                 | Harold Mayta   | Done   |
+| US-16 / TS-14        | Sistema de Pago Seguro a través de la API | TW-13   | Implementar sistema de pago seguro  | Crear una funcionalidad para implementar un endpoint que permita realizar transacciones de pago de manera segura a través de la API.  | 6                 | Harold Mayta   | Done   |
+| US-23 / TS-20        | Actualización del Perfil del Usuario a través de la API | TW-14   | Permitir actualizar el perfil  | Crear un endpoint para permitir a los usuarios actualizar su información de perfil a través de la API.  | 6                 | Harold Mayta   | Done   |
+| US-26 / TS-21        | Gestión de Roles de Usuario a través de la API | TW-15   | Permitir gestión de roles de usuario  | Crear una funcionalidad para implementar un endpoint que permita asignar y gestionar roles de usuario a través de la API.  | 6                 | Harold Mayta   | Done   |
+| US-28 / TS-22        | Auditoría de Accesos a través de la API | TW-16   | Implementar sistema de auditoria para registrar accesos y cambios realizados  | Crear un endpoint para registrar y gestionar los accesos de los usuarios a través de la API.  | 6                 | Harold Mayta   | Done   |
+| US-29 / TS-23        | Generación de Reportes de Actividad a través de la API | TW-17   | Generar reportes de actividad  | Crear una funcionalidad para implementar un endpoint que permita generar reportes de actividad de los usuarios a través de la API.  | 6                 | Harold Mayta   | Done   |
+| US-31 / TS-24        | Publicar Anuncio Destacado a través de la API | TW-19   | Permitir publicar anuncios destacados a los vendedores  | Crear un endpoint para permitir a los usuarios publicar anuncios destacados a través de la API.  | 6                 | Harold Mayta   | Done   |
+
+
+### 5.2.3.3. Development Evidence for Sprint Review
+
+![TB3](assets/spr31.jpg)
+---
+![TB3](assets/spr32.jpg)
+---
+![TB3](assets/spr33.jpg)
+---
+![TB3](assets/spr34.jpg)
+---
+![TB3](assets/spr35.jpg)
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+A partir de las historias de usuario, se generaron los acceptance tests para evaluar la forma en la que deben ejecutarse las funcionalidades de nuestra aplicación web para cumplir con los objetivos de nuestros usuarios.
+
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
+
+| Repository	  | Branch	            | Commit Id | Commit Message	                                     | Committed on (Date) |
+|--------------|--------------------|-----------|-----------------------------------------------------|---------------------|
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 93468bc | first commit | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 3907a7f | feat: add US01.feature | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 9b3baad | fix: fix US01 | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 32eeaaa | feat: add Acceptances Tests | 27/09/24 |
+
+
+</div>
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+
+En esta parte, se muestra la ejecucion de la aplicacion web, tanto del front end como del back end, asi como tambien se muestra el uso de la aplicacion en un servidor de Swagger.
+
+![Swagger](assets/Swagger01.jpg)
+---
+![Swagger](assets/Swagger02.jpg)
+---
+![Swagger](assets/Swagger03.jpg)
+---
+![Swagger](assets/Swagger04.jpg)
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En esta seccion, se muestra la documentacion de los servicios del back end de la aplicacion web, asi como tambien se muestra el uso de Swagger para la documentacion de los servicios.
+
+Utilizamos SpringBoot, Spring Security, JWToken y Spring Data jpa:
+
+- [Sprint Boot](https://docs.spring.io/spring-boot/index.html)
+- [Sprint Boot Security](https://docs.spring.io/spring-boot/reference/web/spring-security.html#page-title)
+- [Json Web Token](https://www.npmjs.com/package/jsonwebtoken)
+- [Sprint Data JPA](https://spring.io/projects/spring-data-jpa)
+
+  
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para el presente sprint se ha creda la base de datos en AZURE y se planea hacer el deploy de Web services:
+
+![AZURE](assets/azure.jpg)
+
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+![TB2](assets/evidencia-tb3.jpg)
+
+## 5.2.4. Sprint 4
+### 5.2.4.1. Sprint Planning 4
+ <div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+
+  | Sprint 4                        | Implementación de la seguridad en el backend e implementación del backend en el frontend.                                                                                         |
+  |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | Sprint Planning Background      |
+  | Date                            | 21/11/2024                                                                                                                                                            |
+  | Time                            | 00:07 horas (GMT-5)                                                                                                                                                 |
+  | Location                        | Reunión realizada mediante Discord                                                                                                                 |
+  | Prepared By                     | Harold Mayta                                                                                          |
+  | Attendees (to planning meeting) | <li>Barrionuevo Reto, Jean Franco</li> <li>Carranza Tesen, Joaquin Enrique</li> <li>Mayta López, Harold</li> <li>Medina Chocce, Karito Dianeth</li> <li>Serrano Uchuya, Gerald Patricio</li> |
+  | Sprint 1 Review              |
+  | Resumen                         | Se creó el repositorio del Back-End                                                                            |
+  | Sprint 2 Retrospective       |
+  | Resumen                         | En este sprint se creo el web application (Frontend)                                         |
+  | Sprint 3 Retrospective       |
+  | Resumen                         | En este sprint el Back-End se esta desarrolando en JAVA y Spring Boot y se realizaron correcciones e integración de seguridad                                         |
+  | **Sprint Goal & User Stories**  |
+  | Sprint 4 Velocity               | 31 points                                                                                                                                                          |
+  | Sum of Story Points             | 31 points                                                                                                                                                                                    |
+</div>
+
+### 5.2.4.2. Sprint Backlog 4
+
+![image](assets/sprint4_trello.png)
+*Elaboración propia. Realizado en Trello: https://trello.com/invite/b/67396fcc6f7b280764d969db/ATTI9e9246c400708c43effc2aae0bf41ce9C52F53AB/sprint-4*
+
+| | Sprint # | | | | Sprint 4 | | |
+|-|----------|-|-|-|----------|-|-|
+| **User Story/Technical Story**        |                   | **Work Item/Task** |               |                                                    |                   |                 |        |
+| **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation (Hours)**    | **Assigned To** | **Status** |
+| US-12 / TS-10        | Ver Informe de Certificación a través de la API | TW-01   | Implementar registro de usuario | Crear un endpoint para manejar el registro de nuevos usuarios a través de la API | 6                 | Franco Barrionuevo   | Done   |
+| US-17 / TS-15        | Confirmación de Transacción a través de la API | TW-02   | Crear funcion de busqueda de autos | Crear una funcionalidad para implementar un endpoint que permita realizar búsquedas de vehículos a través de la API. | 7                 | Karito Medina   | Done   |
+| US-18 / TS-16        | Historial de Transacciones a través de la API | TW-03   | Implementar una función de listado de autos | Crear un endpoint para obtener un listado de vehículos desde la API. | 5                 | Gerald Serrano   | Done   |
+| US-20 / TS-17        | Mensajería entre Compradores y Vendedores a través de la API | TW-04   | Permitir que los vendedores actualizen el listado de autos que venden  | Crear una funcionalidad para implementar un endpoint que permita actualizar la información de los vehículos en el listado a través de la API.  | 6                 | Joaquin Carranza   | Done   |
+| US-21 / TS-18        | Ver Mensajes Recibidos a través de la API | TW-05   | Permitir que los vendedores eliminen el listado de autos que venden  | Crear una funcionalidad para implementar un endpoint que permita eliminar la información de los vehículos en el listado a través de la API.  | 8                 | Harold Mayta   | Done   |
+| US-22 / TS-19        | Marcar Mensajes como Leídos a través de la API | TW-06   | Mostrar detalles completos del auto  | Crear un endpoint para permitir la recuperación de información detallada de un vehículo específico a través de la API.  | 5                 | Franco Barrionuevo   | Done   |
+| US-16 / TS-30        | Deploy de Web Service Backend | TW-07   | Permitir que compradores guarden autos favoritos  | Crear una funcionalidad para implementar un endpoint que permita a los usuarios guardar vehículos en su lista de favoritos a través de la API.  | 7                 | Gerald Serrano   | Done   |
+| US-27 / TS-31        | Deploy de Web Application (Frontend) | TW-08   | Implementar visualización de autos recientes en Home  | Crear un endpoint para permitir la inserción de nuevos vehículos en la base de datos a través de la API.  | 5                 | Joaquin Carranza   | Done   |
+| US-18 / TS-32        | Implementación de filtros de estados de transacción | TW-09   | Implementar solicitud de certificación a vendedores | Crear una funcionalidad para implementar un endpoint que permita a los usuarios enviar solicitudes de certificación para vehículos a través de la API.  | 6                 | Harold Mayta   | Done   |
+
+
+
+### 5.2.4.3. Development Evidence for Sprint Review
+
+![TB3](assets/spr31.jpg)
+---
+![TB3](assets/spr32.jpg)
+---
+![TB3](assets/spr33.jpg)
+---
+![TB3](assets/spr34.jpg)
+---
+![TB3](assets/spr35.jpg)
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+A partir de las historias de usuario, se generaron los acceptance tests para evaluar la forma en la que deben ejecutarse las funcionalidades de nuestra aplicación web para cumplir con los objetivos de nuestros usuarios.
+
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
+
+| Repository	  | Branch	            | Commit Id | Commit Message	                                     | Committed on (Date) |
+|--------------|--------------------|-----------|-----------------------------------------------------|---------------------|
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 93468bc | first commit | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 3907a7f | feat: add US01.feature | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 9b3baad | fix: fix US01 | 27/09/24 |
+| UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Acceptance-Tests | main | 32eeaaa | feat: add Acceptances Tests | 27/09/24 |
+
+
+</div>
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+
+En esta parte, se muestra la ejecucion de la aplicacion web, tanto del front end como del back end, asi como tambien se muestra el uso de la aplicacion en un servidor de Swagger.
+
+![Swagger](assets/Swagger01.jpg)
+---
+![Swagger](assets/Swagger02.jpg)
+---
+![Swagger](assets/Swagger03.jpg)
+---
+![Swagger](assets/Swagger04.jpg)
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+En esta seccion, se muestra la documentacion de los servicios del back end de la aplicacion web, asi como tambien se muestra el uso de Swagger para la documentacion de los servicios.
+
+Utilizamos SpringBoot, Spring Security, JWToken y Spring Data jpa:
+
+- [Sprint Boot](https://docs.spring.io/spring-boot/index.html)
+- [Sprint Boot Security](https://docs.spring.io/spring-boot/reference/web/spring-security.html#page-title)
+- [Json Web Token](https://www.npmjs.com/package/jsonwebtoken)
+- [Sprint Data JPA](https://spring.io/projects/spring-data-jpa)
+
+  
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para este ultimo sprint se uso los servicios de Azure para el deploy de nuestro web services.
+
+- Par nuestra Base de datos se uso el recurso de **Azure Database for MySQL flexive server**:
+
+![Database](assets/database.PNG)
+
+---
+- Para el deploy de nuestro web service se uso el recurso de **Web App**:
+
+_Link_: [Swagger](https://car2go-platform-hpdzhtb8ekceg9gd.canadacentral-01.azurewebsites.net/swagger-ui/index.html)
+
+![Swagger](assets/web.PNG)
+---
+- Tambien el deploy de nuestro web application se realizo en **Firebase**
+
+_Link_: [Car2Go](https://car2go-c60fa.web.app/) 
+
+![deploy](assets/firebase.jpg)
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+![TB2](assets/evidencia-tb3.jpg)
+
+
+## 5.3. Validation Interviews
+En esta sección se detalla el proceso de validación mediante entrevistas con usuarios y expertos. Estas entrevistas son cruciales para evaluar la usabilidad, funcionalidad y eficacia de la aplicación Car2Go, garantizando que cumple con las necesidades y expectativas de nuestros segmentos de mercado.
+
+### 5.3.1. Diseño de Entrevistas
+Se decribe la metodología utilizada para diseñar las entrevistas de validación, incluyendo la selección de participantes, la formulación de preguntas y el enfoque adaptaddo para obtener información relevante y precisa sobre la experiencia del usuario con la aplicación Car2Go.
+
+**Segmento Objetivo 1: Compradores de Autos de Segunda Mano:** <br>
+- **Preguntas Generales**
+  - ¿Cuál es su nombre?
+  - ¿Cuál es su sexo?
+  - ¿Cuántos años tiene?
+  - ¿Cuál es su ocupación?
+  - ¿Qué tan frecuentemente considera comprar un auto?
+        <br>
+- **Preguntas Específicas**
+  - Según lo visto, ¿qué te pareció la estructuración de la página en términos de búsqueda y visualización de autos?
+  - ¿Consideras que la información proporcionada sobre los autos es suficiente y confiable? ¿Qué le agregarías?
+  - ¿Hubo algo que te pareció confuso o difícil de entender?
+  - ¿Cuáles son los puntos positivos y negativos que destacas de la página?
+  - ¿Te sentirías seguro/a de comprar un auto usando esta página? ¿Por qué?
+  
+**Segmento Objetivo 2: Vendedores de Autos de Segunda Mano:** <br>
+- **Preguntas Generales**
+  - ¿Cuál es su nombre?
+  - ¿Cuál es su sexo?
+  - ¿Cuántos años tiene?
+  - ¿Cuál es su ocupación?
+  - ¿Con qué frecuencia pones autos en venta?
+        <br>
+- **Preguntas Específicas**
+  - Según lo visto, ¿qué te pareció la estructuración de la página para listar y gestionar tus autos en venta?
+  - ¿Crees que los pasos para subir fotos y especificaciones del auto son claros y fáciles de seguir?
+  - ¿Hay algo que cambiarías para que el proceso de listado de autos sea más rápido o simple?
+  - ¿Qué tan útil te parecen las herramientas para mejorar la visibilidad de tus autos (por ejemplo, destacar un anuncio)?
+  - ¿Cuáles son los puntos positivos y negativos que destacas de la página?
+  - ¿Confías en el sistema para captar compradores potenciales? ¿Por qué?
+
+**Segmento Objetivo 3: Talleres Mecánicos:** <br>
+- **Preguntas Generales**
+  - ¿Cuál es su nombre?
+  - ¿Cuál es su sexo?
+  - ¿Cuántos años tiene?
+  - ¿Cuál es su ocupación?
+  - ¿Cuántos años lleva trabajando en el rubro automotriz?
+        <br>
+- **Preguntas Específicas**
+  - Según lo visto, ¿qué te pareció la estructuración de la página para acceder y registrar las inspecciones de los autos?
+  - ¿Consideras que las herramientas de carga de datos son claras y fáciles de usar?
+  - ¿Hay alguna sección que te haya parecido complicada o que requiera una capacitación adicional?
+  - ¿Cómo evaluarías la confiabilidad de la plataforma en cuanto a seguridad y privacidad de los datos ingresados?
+  - ¿Cuáles son los puntos positivos y negativos que destacas de la aplicación?
+  - ¿Te sientes cómodo/a recomendando esta página a otros talleres y clientes? ¿Por qué?
+
+### 5.3.2. Registro de Entrevistas
+Esta subsección presenta un registro detallado de las entrevistas realizadas, documentando las respuestas de los participantes, las observaciones clave y los comentarios obtenidos durante las sesiones de validación. Estos registros proporcionan una base sólida para el análisis y la mejora del producto.
+
+**Segmento Objetivo 1: Compradores de Autos de Segunda Mano**
+-------------------------------------------
+**Entrevistado(a) #1:** Gabriel Martel<br>
+**Sexo:** Masculino<br>
+**Edad:** 24 años<br>
+**Ocupación:** Estudiante<br>
+**Enlace del video completo de las entrevistas:** <br>
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
+<br>
+
+**Resumen de la entrevista:** <br>
+Gabriel, estudiante universitario que en su tiempo libre compra y vende autos, comentó que su primera impresión de la página web fue que es muy intuitiva, aunque le hubiera gustado que estuviera completamente terminada, ya que tiene una buena estructura. También sugiere agregar medidas de seguridad a la información mostrada sobre los autos.
+<br><br>
+
+![imagen1](assets/validacion_gabriel.png)
+
+**Entrevistado(a) #2:** Anatoly Noriega<br>
+**Sexo:** Masculino<br>
+**Edad:** 22 años<br>
+**Ocupación:** Estudiante<br>
+**Enlace del video completo de las entrevistas:** <br>
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
+<br>
+
+**Resumen de la entrevista:** <br>
+Anatoly, ingeniero de software que revisa constantemente vehículos para futuras compras, expresó que le agradaron la estructura y el diseño de la plataforma, destacando especialmente las opciones del menú para redirigir a distintas páginas y la forma en que se muestran los autos y su información. Considera confiable la información de los autos, aunque le preocupa la sección de pagos, que encontró confusa y difícil de entender, y señaló que el estilo en la sección de perfil pierde coherencia con el resto del diseño. Sugiere añadir un botón para traducir la página a otros idiomas. Concluyó que usaría la plataforma, ya que la información es transparente y el diseño es atractivo para el usuario.
+<br><br>
+
+![imagen2](assets/validacion_anatoly.png)
+
+**Segmento Objetivo 2: Vendedores de Autos de Segunda Mano**
+-------------------------------------------
+**Entrevistado(a) #1:** Mijael Yen<br>
+**Sexo:** Masculino<br>
+**Edad:** 22 años<br>
+**Ocupación:** Estudiante<br>
+**Enlace del video completo de las entrevistas:** <br>
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
+<br>
+
+**Resumen de la entrevista:**
+Mijael comenta que la estructura de la plataforma es adecuada y cuenta con lo necesario para realizar sus publicaciones y vender autos. Sugiere que en la sección del perfil se incluya un texto que diga “Mi perfil” y que los textos de esta sección sean más grandes para mayor comodidad. También destaca que la plataforma es intuitiva, pero recomienda que la opción de "logout" esté incluida dentro del perfil. Por último, menciona que el botón para guardar datos en el perfil sea más específico, como “guardar cambios,” y que en ciertos campos de información, como el de teléfono, solo se permita ingresar números.
+<br><br>
+
+![imagen3](assets/validacion_mijael.png)
+
+**Entrevistado(a) #2:** Jefrey Sanchez<br>
+**Sexo:** Masculino<br>
+**Edad:** 22 años<br>
+**Ocupación:** Estudiante<br>
+**Enlace del video completo de las entrevistas:** <br>
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
+<br>
+
+**Resumen de la entrevista:** <br>
+Jeffrey actualmente trabaja, pero en su tiempo libre se dedica a la venta de autos. Mencionó que le pareció muy llamativo que la información se muestre de manera clara sin necesidad de entrar en cada tarjeta, y destacó que el diseño en general es muy atractivo. Comentó también que toda la navegación es intuitiva y clara. Como sugerencia, indicó que sería útil agregar un filtro para descartar los autos que no se buscan, facilitando así encontrar el auto deseado. En general, expresó que su experiencia ha sido muy positiva.
+<br><br>
+
+![imagen4](assets/validacion_jefrey.png)
+
+**Segmento Objetivo 2: Talleres Mecánicos**
+-------------------------------------------
+**Entrevistado(a) #1:** Maomed Chocce<br>
+**Sexo:** Masculino<br>
+**Edad:** 29 años<br>
+**Ocupación:** Mecánico<br>
+**Enlace del video completo de las entrevistas:** <br>
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
+<br>
+
+**Resumen de la entrevista:**
+Maomed mencionó que la estructura de la página es intuitiva, aunque sugiere añadir un menú desplegable para acceder a las secciones importantes de forma rápida. Respecto a las herramientas de carga de datos, considera que son claras y fáciles de usar, pero sería útil incluir ejemplos o instrucciones breves junto a cada campo. En cuanto a la sección de reportes, la encontró un poco confusa y recomendó añadir un tutorial o videos explicativos para facilitar su uso. Percibe la plataforma como segura, aunque cree que un ícono o mensaje informando sobre las medidas de seguridad implementadas aumentaría la confianza del usuario. Destacó como puntos positivos el diseño limpio, la facilidad de navegación y el acceso rápido a las funciones principales, pero señaló la falta de instrucciones claras en algunas secciones y la necesidad de una sección de preguntas frecuentes (FAQ) para resolver dudas comunes. Finalmente, expresó que recomendaría la plataforma a otros talleres y clientes, aunque algunos aspectos podrían mejorarse para optimizar la experiencia de usuario.
+<br><br>
+
+![imagen5](assets/validacion_maomed.png)
+
+**Entrevistado(a) #2:** Roberto García<br>
+**Sexo:** Masculino<br>
+**Edad:** 22 años<br>
+**Ocupación:** Estudiante<br>
+**Enlace del video completo de las entrevistas:** <br>
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
+<br>
+
+**Resumen de la entrevista:** <br>
+Roberto es un estudiante universitario que ayuda a su papá, el cual tiene un taller mecánica, en el trabajo cuando tiene tiempo libre. Nos comenta que la página le parece muy intuitiva y atractiva para el usuario. En general no tuvo problemas para poder guiarse al momento de usarlo y que recomendaría su uso a amigos como familiares debido a la seguridad que tiene.
+<br><br>
+
+![imagen6](assets/validacion_roberto.png)
+
+### 5.3.3. Evaluación según heurísticas
+Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
+
+**UX Heuristics & Principles Evaluation Usability - Inclusive Design - Information Architecture**
+
+**Carrera:** Ingeniería de Software
+**Curso:** Desarrollo de Aplicaciones Open Source
+**Sección:** WX51
+**Profesores:** Alberto Wilmer Sanchez Seña
+**Cliente(s):** Maomed Alexander Chocce Cruces, Roberto García, Jefrey Sanchez, Mijael Yen, Anatoly Noriega y Gabriel Martel
+
+**Site o App a Evaluar:** Car2Go
+
+**Tareas a Evaluar:**
+**Escala de Severidad:**
+Los errores serán puntiados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+|   1   | Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+|   2   | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja de cara resolverlo al siguiente release. |
+|   3   | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+|   4   | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**Tabla Resumen:**
+
+| # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|---------------------|
+| 1 | Incluir un texto que diga "Mi perfil" y aumentar el tamaño de los textos para mayor comodidad. | 2 | No cumplir con un diseño visual atractivo podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios. |
+| 2 | Integrar la opción de "logout" dentro del perfil y especificar el botón de guardar como “guardar cambios”. | 2 | No cumplir con un diseño visual atractivo podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios. |
+| 3 | Mejorar la coherencia del estilo en la sección de perfil. | 2 | No cumplir con un diseño visual atractivo podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios. |
+| 4 | Implementar un botón para traducir la página a otros idiomas. | 2 | Inclusive Design: No capturar efectivamente las percepciones de los clientes al entrar podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios, al no asegurar una retroalimentación inicial inclusiva y adecuada desde el inicio de la interacción con el producto. |
+| 5 | Aclarar la sección de pagos, que fue considerada confusa por algunos usuarios. | 2 | INo cumplir con un diseño visual atractivo podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios. |
+
+----
+<br>
+
+**Descripción del Problemas:**
+
+- **Problema #1:** Incluir un texto que diga "Mi perfil" y aumentar el tamaño de los textos para mayor comodidad.
+- **Severidad:** 2
+- **Heurística/Principio violado(a):** No cumplir con un diseño visual atractivo podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios.
+- **Recomendación:** Añadir un texto "Mi perfil", aumentar el tamaño de los textos para mayor comodidad.
+
+---
+
+- **Problema #2:** Integrar la opción de "logout" dentro del perfil y especificar el botón de guardar como “guardar cambios”.
+- **Severidad:** 2
+- **Heurística/Principio violada(o):** No cumplir con un diseño visual atractivo podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios.
+- **Recomendación:** Asegurarse de que la opción de "logout" esté claramente disponible y cambiar el diseño del botón para que se más fácil de entender.
+
+---
+
+- **Problema #3:** Mejorar la coherencia del estilo en la sección de perfil.
+- **Severidad:** 2
+- **Heurística/Principio violado(a):** No cumplir con un diseño visual atractivo podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios.
+- **Recomendación:** Mantener la coherencia del estilo en todas las secciones, especialmente en el perfil de usuario.
+
+---
+
+- **Problema #4:** Implementar un botón para traducir la página a otros idiomas.
+- **Severidad:** 2
+- **Heurística/Principio violado(a):** Inclusive Design: No capturar efectivamente las percepciones de los clientes al entrar podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios, al no asegurar una retroalimentación inicial inclusiva y adecuada desde el inicio de la interacción con el producto.
+- **Recomendación:** Implementar un botón de traducción para facilitar el acceso a usuarios que hablan diferentes idiomas.
+
+---
+
+- **Problema #5:** Aclarar la sección de pagos, que fue considerada confusa por algunos usuarios.
+- **Severidad:** 2
+- **Heurística/Principio violado(a):** No cumplir con un diseño visual atractivo podría violar el principio de proporcionar experiencias comparables y equitativas para todos los usuarios.
+- **Recomendación:** Simplificar y aclarar la sección de pagos para que sea más comprensible.
+<br>
+
+
+## 5.4. Video About-The-Product
+En esta sección se presenta un video explicatiovo sobre la aplicación Car2Go. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidad de los clientes. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
+
+Link: [About-The-Product](https://youtu.be/QHxKoa7xo-E)
+
 # VI. Conclusiones y recomendaciones
 ## Conclusiones
 
@@ -2342,12 +2892,12 @@ _Link_: https://car2go-c60fa.web.app/
   <br><br>
 - El diseño de Car2Go se desarrolló con el objetivo de ofrecer una experiencia de usuario superior y establecer una clara diferenciación respecto a la competencia. Los estilos seleccionados, junto con una organización cuidadosa de la información, no solo aportan coherencia visual, sino que también facilitan la navegación y el acceso a las funcionalidades más relevantes para los usuarios.
 
+## Video About-the-Team.
+
+Link: [About-the-Team](https://www.youtube.com/watch?v=TY3OxDDQNhE)
 
 ## VII. Bibliografía
 
-- Asociación Automotriz del Perú. (s.f.). Inestabilidad y desempeño de la economía del país se refleja en ventas de vehículos. Recuperado de
-  https://aap.org.pe/inestabilidad-y-desempeño-de-la-economia-del-pais-se-refleja-en-ventas-de-vehiculos-sunarp/
-  <br><br>
 - Dittrich, J. (s.f.). A Beginner's Guide to Finding User Needs. Recuperado de
   https://jdittrich.github.io/userNeedResearchBook/
   <br><br>
@@ -2372,21 +2922,25 @@ _Link_: https://car2go-c60fa.web.app/
 
 ## VIII. Anexos
 
-* Diseño Landing Page:  https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?node-id=32-311&t=7O5WsCcQsFaskDcW-1
+* Diseño Landing Page:  [Figma](https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?node-id=32-311&t=7O5WsCcQsFaskDcW-1)
   <br><br>
-* Landing Page: https://upc-pre-si729-2402-wx51-g3-cibersofa.github.io/Landing-page/
+* Landing Page: [Landing Page](https://upc-pre-si729-2402-wx51-g3-cibersofa.github.io/Landing-page/)
   <br><br>
-* Miro: https://miro.com/app/board/uXjVMm70eUI=/
+* Miro: [Miro](https://miro.com/app/board/uXjVMm70eUI=/)
   <br><br>
-* Organización Github: https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa
+* Organización Github: [Organización](https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa) 
   <br><br>
 * [Registro de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219284_upc_edu_pe/EU3ocaW1vF9KhmOYIXX3j44BM3JEIi_35Pc0mA_-rIpoQA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b769rK)
   <br><br>
-* Structurizr: https://structurizr.com/share/84499/5dafae81-8afd-492f-9fd0-3742913235d5
+* Structurizr: [Structurizr](https://structurizr.com/share/84499/5dafae81-8afd-492f-9fd0-3742913235d5)
   <br><br>
-* Style Guidelines: https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?t=7O5WsCcQsFaskDcW-1
+* Style Guidelines: [Style Guidelines](https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?t=7O5WsCcQsFaskDcW-1)
   <br><br>
-* Web Applications: https://www.figma.com/design/T9hwKnrPJuHl19YGdNb9mg/Open-source?node-id=32-311&t=7O5WsCcQsFaskDcW-1
+* Web Applications: [Car2Go](https://car2go-c60fa.web.app/) 
   <br><br>
-* Exposición TB1: https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq
-* Exposicion TP1: 
+* Exposición TB1: [Link](https://youtu.be/Zb57q8cjGd0?si=k1vKumN4gezw2Lyq)
+* Exposicion TB2: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/EU3C5Ale3ipDk2jD7nrlmQQBDTs2EBhWG9qFHJ4d1wSIBA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JsW3ez)
+* Trello: [Link](https://trello.com/invite/b/672593151a102b5df4062300/ATTIee8d366a57b61466153105a6f5824169062AAAF0/sprint-3)
+* Entrevistas: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114851_upc_edu_pe/ESsGiH2lXEFMofBRTbj8MMsBmmRiMvGANFghatGlMzFqSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ACVtah)
+* [About-The-Product](https://youtu.be/QHxKoa7xo-E)
+* [Swagger](https://car2go-platform-hpdzhtb8ekceg9gd.canadacentral-01.azurewebsites.net/swagger-ui/index.html)
