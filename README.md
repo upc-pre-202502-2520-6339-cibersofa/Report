@@ -199,15 +199,15 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
     <td><b>Conclusiones</b></td>
   </tr>
   <tr>
-    <td><b>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.</b></td>
-    <td> Chávarri Zarzosa, Daniel Jhared<br> Avance 1: <br> Para el primer avance, realicé el capítulo 1 de manera colaborativa, actualizando y reforzando conceptos de documentación técnica y organización de proyectos en soluciones de software. Me aseguré de que todos los puntos fueran abordados correctamente, verifiqué que mis compañeros cumplieran con sus entregables a tiempo y realicé la reorganización del informe para mantener la coherencia y calidad del documento.  <br>
+    <td text-align="justify"><b>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.</b></td>
+    <td text-align="justify"> Chávarri Zarzosa, Daniel Jhared<br> Avance 1: <br> Para el primer avance, realicé el capítulo 1 de manera colaborativa, actualizando y reforzando conceptos de documentación técnica y organización de proyectos en soluciones de software. Me aseguré de que todos los puntos fueran abordados correctamente, verifiqué que mis compañeros cumplieran con sus entregables a tiempo y realicé la reorganización del informe para mantener la coherencia y calidad del documento.  <br>
         <br>Sihuar Ccotarma Ttito, Eduardo Eusebio<br> Avance 1: <br> ...
         <br>Vera Nuñez, Nicolas Alejandro<br> Avance 1: <br> ...
    </td>
-    <td>Car2Go fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y diferenciarse de la competencia. Los estilos visuales seleccionados, junto con una cuidadosa organización de la información, garantizan no solo coherencia estética, sino también una navegación intuitiva y un acceso simplificado a las funciones clave para todos los usuarios, independientemente de su nivel de experiencia.<br>
+    <td text-align="justify">Car2Go fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y diferenciarse de la competencia. Los estilos visuales seleccionados, junto con una cuidadosa organización de la información, garantizan no solo coherencia estética, sino también una navegación intuitiva y un acceso simplificado a las funciones clave para todos los usuarios, independientemente de su nivel de experiencia.<br>
 </tr>
 <br><br>
-  <tr>
+  <tr text-align="justify">
     <td><b>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</b></td>
 <td> Chávarri Zarzosa, Daniel Jhared<br> Avance 1: <br> Durante el desarrollo del proyecto reconocí la importancia del aprendizaje permanente, ya que el área de soluciones de software evoluciona constantemente con nuevas herramientas, metodologías y lenguajes de programación. Identifiqué que para lograr un mejor desempeño profesional debo mantenerme actualizado mediante la investigación continua, el uso de recursos en línea y la práctica colaborativa. Este hábito de aprendizaje me permitirá adaptarme a los cambios tecnológicos y garantizar la calidad de los proyectos de software en los que participe.<br>
         <br>Sihuar Ccotarma Ttito, Eduardo Eusebio <br> Avance 1: <br> ...
