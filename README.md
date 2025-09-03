@@ -1435,7 +1435,7 @@ En esta sección, el equipo presenta el To-Be Scenario Mapping para Car2Go, que 
 
 <br><br><br><br><br><br><br><br>
 
-## 3.3. Impact Mapping
+## 3.3. Impact Map
 
 En esta sección, se presenta el Impact Mapping para Car2Go, diseñado para alcanzar el objetivo de establecerse como la plataforma líder en la compra y venta de autos de segunda mano en el mercado nacional en el próximo año. El Impact Mapping se centra en tres segmentos clave: Compradores de Autos Usados, Vendedores de Autos Usados y Talleres Técnicos. Para cada segmento, se han definido impactos específicos que contribuirán a lograr el objetivo general, junto con los entregables necesarios para provocar estos impactos. Las historias de usuario resultantes guiarán el desarrollo de funcionalidades y características, asegurando que Car2Go cumpla con las expectativas de sus usuarios y facilite una experiencia de compra y venta de autos que sea intuitiva, segura y confiable. Esta planificación se ha realizado utilizando la plataforma UXPressia.
 
@@ -1461,7 +1461,40 @@ En esta sección, se presenta el Impact Mapping para Car2Go, diseñado para alca
 ![image](assets/impact-map3.png)
 *Imagen (N°15). Elaboración propia. Realizado en UXPRESSIA*
 <br><br><br><br>
-## 3.4. Product Backlog
+
+## 3.4. Alcance
+El proyecto Car2Go busca consolidarse como una plataforma digital que transforme la experiencia de compra y venta de autos de segunda mano, alineándose con su misión de ofrecer un proceso sencillo, seguro y confiable.
+
+**Alcance del MVP (Producto Mínimo Viable):**
+
+- Publicación de vehículos: Los vendedores podrán registrar autos usados en la plataforma, incluyendo información detallada, fotografías y documentación básica.
+
+- Verificación técnica: Cada vehículo deberá contar con un reporte de inspección emitido por talleres certificados, visible para los compradores antes de concretar la compra.
+
+- Búsqueda y filtrado: Los compradores podrán buscar autos por criterios como marca, modelo, año y rango de precios, mejorando la eficiencia en la selección.
+
+- Visualización de reportes técnicos: El comprador tendrá acceso directo a la información técnica del vehículo para tomar decisiones informadas.
+
+- Proceso de compra segura: El sistema permitirá iniciar transacciones con validación de comprobante de pago y confirmación por parte del vendedor.
+
+- Gestión de usuarios: Implementación de perfiles básicos para compradores y vendedores, con datos de contacto y registro en la plataforma.
+
+**Fuera de alcance en esta etapa:**
+
+- Integración con entidades financieras para créditos o préstamos.
+
+- Servicios adicionales como seguros vehiculares o garantías extendidas.
+
+- Envío y logística de vehículos a nivel nacional.
+
+- Funcionalidades de subastas o pujas en línea.
+
+- Chat en tiempo real entre compradores y vendedores.
+
+**Enfoque estratégico:**
+Este alcance inicial permitirá a Car2Go validar su propuesta de valor, construir confianza en la comunidad de usuarios y establecer las bases para crecer hacia la visión de convertirse en la principal plataforma nacional de autos de segunda mano.
+
+## 3.5. Product Backlog
 
 En esta sección del Product Backlog se encuentran recopiladas todas las User Stories identificadas para el desarrollo de nuestra plataforma Car2Go. Cada User Story representa una funcionalidad o requerimiento específico que contribuirá a mejorar la experiencia del usuario y a alcanzar los objetivos del proyecto. Las historias están ordenadas por prioridad, considerando tanto la importancia para los usuarios como la complejidad técnica y el valor de negocio. El Product Backlog será actualizado periódicamente a medida que se avanza en el desarrollo y se obtienen nuevos requerimientos, asegurando que siempre refleje las necesidades actuales del proyecto.
 
