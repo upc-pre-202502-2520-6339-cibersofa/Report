@@ -338,11 +338,11 @@ La industria de autos de segunda mano enfrenta problemas de seguridad, confianza
 
 Car2Go responde a estas brechas mediante:
 
-Un entorno seguro de compra/venta con verificación digital y validación de pagos.
+- Un entorno seguro de compra/venta con verificación digital y validación de pagos.
 
-Herramientas que reducen la fricción en las transacciones y generan confianza en ambas partes.
+- Herramientas que reducen la fricción en las transacciones y generan confianza en ambas partes.
 
-Un modelo que impulsa la digitalización del mercado automotriz informal, contribuyendo a la formalización de la industria y generando un impacto positivo en la economía local.
+- Un modelo que impulsa la digitalización del mercado automotriz informal, contribuyendo a la formalización de la industria y generando un impacto positivo en la economía local.
 
 
 -   **What?**   
