@@ -18,11 +18,11 @@
     <strong>Producto:  Car2Go </strong>
 </p>
 
-<h3 align="center" >Team Members:</h3>
+<h3 align="center" >Relación de integrantes:</h3>
 <table align="center">
   <tr>
-      <th style="text-align:center;">Member</th>
-      <th style="text-align:center;">Code</th>
+      <th style="text-align:center;">Integrante</th>
+      <th style="text-align:center;">Codigo</th>
   </tr>
   <tr>
       <td>Vera Nuñez, Nicolas Alejandro</td>
@@ -38,154 +38,31 @@
   </tr>
 </table>
 
+<p align="center">
+    <strong>Setiembre, 2025</strong>
+</p>
+
 # Registro de Versiones del Informe
 
 |Versión|Fecha|Autor|Descripción de modificación|
 |-------|-----|-----|---------------------------|
-|V0.1|23/09/2024|Harold|Creación del repositorio|
-|V0.2|24/08/2024|Franco| Capitulo 1|
-|V0.3|03/09/2024|Franco<br>Joaquin|Finalización del capitulo 2|
-|V0.4|04/09/2024|Karito|Finalización del capitulo 3|
-|V0.5|04/09/2024|Harold<br>Gerald<br>Franco|Finalización del capitulo 4|
-|V0.6|04/09/2024|Franco|Finalización del capitulo 5|
-|V1.0|08/09/2024|Todos|Entrega de TB1|
-|V1.1|15/09/2024|Todos|Reunion para correcciones de TB1 y planteamiento de TP1 (sprint 2)|
-|V1.2|22/09/2024|Harold|Creación de repositorio para FronEnd|
-|V1.3|23/08/2024|Franco|Implemetacion de vista para BC autenthication y correciones para el deploy|
-|V1.4|25/08/2024|Joaquin|Implemetacion de vista para BC interaction|
-|V1.5|25/08/2024|Gerald|Implemetacion de vista para BC vehicle|
-|V1.6|26/08/2024|Karito|Implemetacion de vista para BC vehicle|
-|V1.7|26/08/2024|Harold|Implemetacion de vista para BC payment|
-|V2.0|28/09/2024|Todos|Entrega de TP1|
-|V2.1|18/10/2024|Harold|Creación de repositorio para BackEnd|
-|V2.2|19/10/2024|Todos|Reunion para correcciones de TP1 y planteamiento de TB2 (sprint 3)|
-|V2.3|24/10/2024|Franco|Implemetacion de BC vechile en el Backend|
-|V2.4|24/10/2024|Harold|Implemetacion de BC IAM y Shared en el Backend|
-|V2.5|24/10/2024|Geral|Implemetacion de BC Payment en el Backend|
-|V2.6|26/10/2024|Franco|Actualización de FrontEnd|
-|V2.7|28/10/2024|Harold|Implemetacion de BC Profile en el Backend|
-|V2.8|01/11/2024|Karito|Actualización de BC Payment en el Backend|
-|V2.9|01/11/2024|Joaquin|Actualización de BC Payment en el Backend|
-|V2.10|01/11/2024|Karito - Joaquin|Actualización de documento|
-|V3.0|03/11/2024|Todos|Entrega de TB2|
-|V3.1|14/11/2024|Gerald|Actualizacion del BackEnd|
-|V3.2|15/11/2024|Harold|Implementación de servicio de MySQL|
-|V3.3|17/11/2024|Harold|Deploy de Web Services|
-|V3.4|19/11/2024|Franco|Actualizacion del BackEnd|
-|V3.5|20/11/2024|Karito|Actualización de documento|
-|V3.6|20/11/2024|Joaquin|Actualización videos **About The Product** y **About The Team**|
-|V3.7|21/11/2024|Franco|Actualizacion del FrontEnd|
-|V3.7|21/11/2024|Gerald|Actualización y revision de documenot|
-|V4.0|21/11/2024|Todos|Entrega de TF1
+|V0.1|03/09/2025|Daniel y Eduardo|Capítulo 1|
+|V0.2|03/09/2025|Nicolas| Capitulo 2|
+|V0.3|03/09/2025|Daniel<br>Eduardo<br>Nicolas|Capítulo 3|
 
 
-
----
 **Project Report Collaboration Insights**
-URL del repositorio de GitHub de la organización: [https://github.com/Cibersofa](https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa)
+URL del repositorio de GitHub de la organización: [[https://github.com/Cibersofa](https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa](https://github.com/upc-pre-202502-2520-6339-cibersofa)
 
-_TB1_
+Avance 1
 
-Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma:
-
-| Integrante                          | Actvidades Asignadas                                                                                                                                                |
-|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Barrionuevo Reto,  Jean Franco Joel | - Entrevista <br> - Capitulo 1<br> - Capitulo 2: Correción de entrevistas y competidores <br> - Capitulo 4: Software Architecture Context Diagram <br> - Capítulo 5 |
-| Carranza Tesen, Joaquin Enrique     | - Entrevista <br> - Capitulo 2 <br> - Ppt de exposición                                                                                                             |
-| Mayta López, Harold                 | - Entrevista <br> - Capitulo 4 <br> - Ppt de exposición <br>                                                                                                        |
-| Medina Chocce, Karito Dianeth       | - Entrevista <br> - Capitulo 3                                                                                                                                      |
-| Serrano Uchuya, Gerald Patricio     | - Entrevista <br> - Capitulo 4                                                                                                                                      |
-
-**Evidencia**:
-
-![TB1](assets/commit.jpg)
-
----
-_TP1_
-
-Para el desarrollo de la entrega TP1, se opto por dividir el trabajo de la siguiente forma:
+Para el desarrollo del Avance 1, se optó por dividir el trabajo de la siguiente forma:
 
 | Integrante                          | Actvidades Asignadas                                                                                                                                                |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Barrionuevo Reto,  Jean Franco Joel | - LandingPage <br> - BC autenthication <br> - Deploy de FrontEnd |
-| Carranza Tesen, Joaquin Enrique     | - BC interaction                                                                                                             |
-| Mayta López, Harold                 | - BC payment                                                                                                        |
-| Medina Chocce, Karito Dianeth       | - BC vehicle                                                                                                                                    |
-| Serrano Uchuya, Gerald Patricio     | - BC vehicle                                                                                                                                     |
-
-**Evidencia**:
-
-![TP1](assets/com-tp1.jpg)
-----
-_TB2_
-
-Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la siguiente forma:
-
-| Integrante                          | Actvidades Asignadas                                                                                                                                                |
-|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Barrionuevo Reto,  Jean Franco Joel | - Entrevista <br> - BC vechile <br> - Actualización en el Frontend|
-| Carranza Tesen, Joaquin Enrique     | - Entrevista <br> - BC Payment <br> - Actualización en el Frontend|
-| Mayta López, Harold                 | - Entrevista <br> - BC Profile <br> - Actualización en el Frontend|
-| Medina Chocce, Karito Dianeth       | - Entrevista <br> - BC Payment <br> - Actualización en el Frontend|
-| Serrano Uchuya, Gerald Patricio     | - Entrevista <br> - BC Payment <br> - Actualización en el Frontend|
-
-**Evidencia**:
-
-![TB2](assets/evidencia-tb3.jpg)
-
-----
-_TF1_
-
-Para el desarrollo de la entrega TF1, se opto por dividir el trabajo de la siguiente forma:
-
-| Integrante                          | Actvidades Asignadas                                                                                                                                                |
-|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Barrionuevo Reto,  Jean Franco Joel | - Actualización del FrontEnd y Landing page |
-| Carranza Tesen, Joaquin Enrique     | - Video de About the team y project|
-| Mayta López, Harold                 | - Actualizacion de BackEnd y deploy data base y web service|
-| Medina Chocce, Karito Dianeth       | - Actualización de documento|
-| Serrano Uchuya, Gerald Patricio     | - Actualización de backend|
-
-**Evidencia**:
-
-![TB2](assets/tf1.PNG)
-
-----
-# Student Outcome
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
-
-<table>
-  <tr>
-    <td><b>Criterio específico</b></td>
-    <td><b>Acciones realizadas</b></td>
-    <td><b>Conclusiones</b></td>
-  </tr>
-  <tr>
-    <td><b>Comunica oralmente con efectividad a diferentes rangos de audiencia.</b></td>
-    <td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo. Trabajé en el Capítulo 1. En el Capítulo 2, me encargué de la corrección de las entrevistas y de la investigación de los competidores. Diseñé el Diagrama de Contexto de la Arquitectura del Software para el Capítulo 4. Finalmente, en el Capítulo 5, trabajé en la implementación de las funcionalidades del sistema. <br> TP1: Para esta entrega me encargué de conectar y desplegar la aplicación web junto con el fake-api.<br> TB2: Durante este sprint, tuve un rol clave en la implementación del Backend y la actualización de nuestro Frontend para una mejor experiencia de nuestros usuario. <br> TF1: Durante este sprint, me enfoqué en la conexión entre el frontend y el backend, asegurando una integración exitosa. También trabajé en el deploy del frontend, logrando que estuviera disponible en el entorno de producción. Además, me encargué de actualizar los videos y mejorar la documentación, con el objetivo de garantizar que la información estuviera clara y actualizada para todo el equipo.<br>
-        <br>Carranza Tesen, Joaquin Enrique<br> TB1: Para esta entrega, desarrollé el Capítulo 2, en el cual busqué competidores para nuestra startup, realicé un análisis competitivo y evalué las estrategias y tácticas frente a ellos. Al presentar estos hallazgos, adapté mi comunicación a diferentes rangos de audiencia, asegurándome de que todos comprendieran la información. Además, modelé las entrevistas para cada segmento objetivo con el fin de recopilar información de manera óptima. Posteriormente, analicé cada entrevista según su respectivo segmento. Con base en la información recopilada, elaboré los User Persona, User Task Matrix, User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping, presentando los resultados de forma clara y accesible para cada grupo interesado.  <br> TP1:Mi enfoque principal fue en la creación de un apartado dirigido a talleres mecánicos, donde era crucial que los datos técnicos y las interacciones fueran claros y fáciles de usar para los mecánicos. Al estar en la etapa de frontend, la comunicación con el resto del equipo fue clave para asegurar que la interfaz respondiera a las necesidades del usuario final. Adapté mi estilo de comunicación según el rango de audiencia, facilitando el entendimiento entre los miembros del equipo. Aprendí a colaborar de manera eficiente, participando en reuniones para validar el diseño y asegurándome de que las decisiones se tomaran objetivamente, con base en la usabilidad y la experiencia del usuario.<br> TB2: 
-Durante el sprint, me enfoqué en diseñar entrevistas adaptadas a diferentes segmentos de audiencia, asegurándome de que cada grupo objetivo recibiera las preguntas adecuadas para obtener información valiosa. Además, participé activamente en la implementación del bounded context de Interaction, lo que me permitió comunicarme de manera efectiva con diversos equipos. También realicé entrevistas con talleres mecánicos, donde presenté mis conclusiones de forma clara y accesible, facilitando así una comunicación oral efectiva que se adaptara a las necesidades y niveles de comprensión de cada audiencia.<br> TF1: En el desarrollo de Car2Go, he aprendido a comunicarme oralmente de manera efectiva con diferentes tipos de audiencia. Por ejemplo, al explicar la conexión entre el backend y el frontend o el proceso de despliegue de la página web, he tenido que adaptar mi lenguaje dependiendo de si estaba hablando con mis compañeros, el profesor o personas menos técnicas. Además, al presentar las mejoras que hice a partir de las recomendaciones del profesor y las modificaciones en los videos del grupo y el proyecto, busqué que mi explicación fuera clara y organizada para que todos pudieran entender el impacto de esos cambios.<br>
-        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: Durante este sprint, tuve un rol clave en la implementación del perfil de usuario, los planes de suscripción y el formulario de pago, además de desarrollar la vista 'Page not found', utilizando Angular. Pude comunicar mis avances y resultados de manera clara, destacando las mejoras en mis componentes y las correcciones que implementé en los de mis compañeros, ajustando mi mensaje según el nivel de comprensión técnica de los miembros del equipo y otras audiencias involucradas.<br> TB2: Durante este sprint, tuve el rol en la implementación del Bounded Context de Profile, usando Java y Sprint Boot. Pude comunicar mis avances y resultados de manera clara.<br> TF1:Durante este sprint, me centré en el despliegue del servicio de la base de datos y del web service. Además, logré establecer una comunicación clara y efectiva para explicar el proceso que seguí y cómo alcancé los objetivos planteados.<br>
-        <br>Medina Chocce, Karito Dianeth<br> TB1: Para esta entrega, realicé una entrevista al segmento objetivo de talleres mecánicos para comprender mejor sus necesidades y desafíos. Con base en la información recopilada, desarrollé el Capítulo 3 del proyecto, que incluyó el mapeo de escenarios futuros (To-Be Scenario Mapping), la creación de historias de usuario (User Stories), el mapeo del impacto (Impact Mapping) y la elaboración del backlog del producto (Product Backlog). Estas actividades fueron fundamentales para asegurar que el desarrollo de la plataforma se alinee con las expectativas del sector y para colaborar de manera efectiva con el equipo multidisciplinario en el proyecto. <br> TP1: En mi participación en un equipo multidisciplinario, trabajé en la implementación del edit-profile en el frontend utilizando Angular. Mi enfoque en la eficacia y eficiencia se reflejó en las correcciones que realicé en el reporte del proyecto, en particular en el capítulo 5, donde revisé y optimicé el sprint backlog 1 y completé el sprint backlog 2, asegurando que nuestro progreso fuera claro y coherente.<br> TB2: Para esta entrega, realicé entrevistas de testeo enfocadas en el segmento de talleres mecánicos para comprender mejor sus necesidades y desafíos. A partir de la información recopilada, llevé a cabo varias tareas, incluyendo modificaciones en el reporte, la implementación del backend, y correcciones tanto de las historias técnicas como de las historias de usuario. Estas acciones fueron esenciales para garantizar que el desarrollo de la plataforma cumpla con las expectativas del sector y para facilitar una colaboración efectiva con el equipo multidisciplinario del proyecto.<br> TF1:Durante este sprint, me enfoqué en la creación de varias Technical Stories y en apoyar en el Sprint 4, especialmente en la parte de documentación. Mi objetivo fue garantizar que la información estuviera clara y actualizada para todo el equipo. Además, trabajé en la actualización de los videos y en la mejora de la documentación, logrando comunicar mis avances de manera efectiva. Estas acciones fueron clave para facilitar el entendimiento de los procesos y asegurar que todos los miembros del equipo estuvieran alineados en el progreso del proyecto.<br>
-        <br>Serrano Uchuya, Gerald Patricio<br> TB1: Para esta entrega, realicé una entrevista enfocada en nuestro segmento objetivo de vendedores. Además, desarrollé la sección de Information Architecture, donde organizamos la información relevante de la plataforma en grupos, añadimos etiquetas, y describimos la navegación y el sistema de búsqueda. Finalmente, diseñé los diagramas de clases y de base de datos. <br> TP1: Para esta entrega, implementé el componente que muestra los detalles de los autos en venta tanto para la vista de comprador como vendedor. Además, agregué los acceptance tests a partir de los user stories. <br> TB2: En esta entrega, realicé el bounded context de payment para el backend, el cual se encarga de las transacciones de vehiculos y el manejo de suscripciones para los vendedores. Además, se realizó la entrevista de validación para comprobar los puntos positivos y negativos de nuestra aplicación web con el fin de mejorar según la experiencia del usuario. <br> TF1: Durante este sprint, me enfoqué en la implementación del backend de Payment, asegurando su correcto funcionamiento y alineación con los requisitos del proyecto. También trabajé en el deploy del frontend, logrando que estuviera disponible en el entorno de producción. Además, actualicé los videos y mejoré la documentación relacionada, con el objetivo de garantizar que la información estuviera clara y actualizada para todo el equipo.<br>
-   </td>
-    <td>Car2Go fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y diferenciarse de la competencia. Los estilos visuales seleccionados, junto con una cuidadosa organización de la información, garantizan no solo coherencia estética, sino también una navegación intuitiva y un acceso simplificado a las funciones clave para todos los usuarios, independientemente de su nivel de experiencia.<br>
-</tr>
-<br><br>
-  <tr>
-    <td><b>Comunica por escrito con efectividad a diferentes rangos de audiencia</b></td>
-<td> Barrionuevo Reto,  Jean Franco Joel<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los compradores de autos de segunda mano, así como los problemas y oportunidades que enfrentan en su búsqueda. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br> TP1: Durante el desarrollo del proyecto, profundicé mis conocimientos en el sector del desarrollo de software, enfocándome en la implementación de soluciones prácticas a través de la corrección de informes y la planificación de sprints.<br> TB2: Durante este sprint, tuve un rol clave en la implementación del Backend y la actualización de nuestro Frontend para una mejor experiencia de nuestros usuario.<br> TF1: Durante este sprint, logré comunicar por escrito de manera efectiva los avances y actualizaciones del proyecto, adaptando el lenguaje y el nivel de detalle según las necesidades de diferentes rangos de audiencia. A través de documentación clara y bien estructurada, aseguré que tanto los miembros técnicos como no técnicos del equipo pudieran comprender los cambios realizados, facilitando una alineación efectiva y el progreso del proyecto.<br>
-        <br>Carranza Tesen, Joaquin Enrique<br> TB1:  La investigación realizada sobre el mercado de autos de segunda mano me permitió identificar las principales necesidades y desafíos de los compradores, vendedores y talleres mecánicos. Utilicé esta información para desarrollar el Capítulo 2, que incluye un análisis competitivo y la creación de perfiles de usuario, matrices de tareas y mapeos de la experiencia de los usuarios. Al documentar mis hallazgos, adapté el lenguaje y el formato para comunicarme por escrito con efectividad a diferentes rangos de audiencia, asegurando que la información fuera accesible y comprensible. Este trabajo me ayudó a entender mejor el sector y cómo las soluciones de software pueden mejorar la transparencia y la seguridad en las transacciones. La experiencia adquirida me permitió enfocar el proyecto de manera más efectiva, asegurando que las funcionalidades de la plataforma sean útiles y relevantes para este mercado. <br> TP1: En este proyecto, mi enfoque se centró en el sector de la compra y venta de autos de segunda mano, donde desarrollé el frontend de una plataforma que facilita la conexión entre mecánicos, compradores y vendedores. Si bien solo hemos desarrollado la interfaz de usuario hasta ahora, tuve que familiarizarme con los procesos del sector automotriz, especialmente en lo que respecta a las inspecciones y certificaciones de vehículos. Al documentar mis hallazgos y recomendaciones, aseguré que mi comunicación por escrito fuera clara y adaptada a diferentes rangos de audiencia, permitiendo que tanto técnicos como no técnicos comprendieran la información. Esto me permitió entender mejor cómo adaptar la plataforma a las necesidades de los mecánicos y otros usuarios, asegurando que el diseño del frontend fuera intuitivo y que reflejara la información técnica necesaria para este tipo de operaciones. <br> TB2: A lo largo del sprint, me enfoqué en diseñar entrevistas que se adaptaran a diferentes segmentos de audiencia, asegurando que cada grupo objetivo tuviera las preguntas necesarias para recabar información importante. También colaboré en la implementación del bounded context de Interaction, lo que me permitió comunicarme de manera efectiva con distintos equipos. Además, realicé entrevistas con talleres mecánicos, recopilando y presentando conclusiones claras y concisas para cada grupo, de modo que la información fuera accesible y comprensible para todos.<br> TF1:En cuanto a la comunicación escrita, desarrollé reportes y documentación para detallar los avances técnicos, como la integración del backend con el frontend, el deploy de la página y los ajustes realizados a partir de las sugerencias del profesor. También redacté explicaciones sobre las modificaciones hechas en los videos, asegurándome de que fueran comprensibles tanto para mi equipo como para otros interesados. Esto me ayudó a organizar mejor mis ideas y a comunicar los resultados de una manera que se ajustara a las necesidades de cada lector.<br>
-        <br>Mayta López, Harold<br> TB1: En esta entrega, se realizaron entrevistas a dos segmentos clave: compradores y vendedores de automóviles. Además, en el capítulo 4 se trataron los temas de "Style Guidelines", "Landing Page UI Design" y "Web Applications UX/UI Design", con el objetivo de desarrollar un diseño intuitivo que no sobrecargue a los usuarios con información excesiva. De este modo, se propuso una solución integral para la venta de vehículos de segunda mano.<br> TP1: Durante este sprint, participé activamente en la implementación del perfil de usuario, los planes de suscripción y su respectivo formulario de pago, así como en la creación de la vista 'Page not found', utilizando Angular. A través de estas funcionalidades, adquirí experiencia en el sector de ventas y suscripción de servicios, aplicando soluciones de software a un entorno empresarial real. Mi capacidad de comunicación escrita me permitió documentar y compartir de manera efectiva las mejoras implementadas en mis componentes, así como las correcciones que aporté a los de mis compañeros, adaptando el nivel de detalle según la audiencia, desde desarrolladores técnicos hasta partes interesadas no técnicas.<br> TB2: Durante este sprint, participe activamente desarrollando del Bounded Context de Profile, usando Java y Sprint Boot. Pude comunicar mis avances y resultados de manera clara.<br> TF1:Durante este sprint, me enfoqué en el despliegue exitoso del servicio de la base de datos y del web service. Asimismo, logré comunicar de manera clara y efectiva el proceso que seguí, adaptando mi mensaje para garantizar que fuera comprensible y relevante para diferentes audiencias.<br>
-        <br>Medina Chocce, Karito Dianeth<br> TB1: La entrevista realizada a talleres mecánicos me permitió identificar sus principales necesidades y problemas. Utilicé esta información para desarrollar el Capítulo 3, que abarca el mapeo de escenarios futuros, historias de usuario, mapeo del impacto y backlog del producto. Este trabajo me permitió entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me ayudó a enfocar el proyecto de manera efectiva, garantizando que las funcionalidades de la plataforma sean relevantes y útiles para el dominio de aplicación. <br> TP1: Durante el desarrollo del proyecto, profundicé mis conocimientos en el sector del desarrollo de software, enfocándome en la implementación de soluciones prácticas a través de la corrección de informes y la planificación de sprints. Esto me permitió familiarizarme con las metodologías ágiles y las necesidades específicas de los usuarios, contribuyendo así a la efectividad de nuestro trabajo en el sector empresarial.<br> TB2: La entrevista llevada a cabo con talleres mecánicos me permitió identificar sus necesidades y problemas más relevantes. A partir de esta información, realicé las entrevistas de testeo, modifiqué el reporte, implementé el backend y corregí tanto las historias técnicas como las historias de usuario. Este trabajo me ayudó a entender mejor el sector y cómo las soluciones de software pueden adaptarse a sus requerimientos específicos. La experiencia adquirida me permitió enfocar el proyecto de manera efectiva, asegurando que las funcionalidades de la plataforma sean pertinentes y útiles para su ámbito de aplicación.<br> TF1:Durante este sprint, me centré en crear Technical Stories y apoyar en el Sprint 4, especialmente en la documentación y los videos. A través de esta experiencia, pude actualizar y mejorar tanto la documentación como los videos, asegurándome de que los avances fueran comunicados de manera clara y efectiva al equipo. Este trabajo me permitió comprender mejor los requerimientos del proyecto y cómo la documentación y los recursos visuales son fundamentales para el buen desarrollo del proyecto. Gracias a esta tarea, pude asegurar que todos los miembros del equipo tuvieran una comprensión más profunda y alineada con los objetivos del proyecto.<br>
-        <br>Serrano Uchuya, Gerald Patricio<br> TB1: La entrevista que realicé me permitió identificar las principales necesidades de los vendedores de autos, así como los problemas y oportunidades que enfrentan con sus clientes. Esta información se utilizó para enfocar mejor el contenido y las funcionalidades de nuestra plataforma. <br> TP1: Los tests de aceptación desarrollados nos permiten garantizar que las funcionalidades implementadas en la aplicación web cumplan con sus objetivos y satisfagan las necesidades del usuario, así como el tipo de datos que deben ingresar y el output recibido por parte del sistema.<br> TB2: La entrevista de validación fue de utilidad para encontrar áreas de mejora en el diseño de nuestra aplicación web para que nuestros usuarios puedan navegar con facilidad y utilizar las funcionalidades que les ofrecemos.<br> TF1: Durante este sprint, me aseguré de comunicar de manera clara y efectiva los avances realizados, ajustando el contenido y el enfoque según las necesidades de cada rango de audiencia. Utilicé un lenguaje técnico para el equipo de desarrollo y un enfoque más general para otros interesados, logrando que todos comprendieran el impacto de las actualizaciones realizadas y se mantuvieran alineados con los objetivos del proyecto.<br>
-</td>
-    <td>Car2Go fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos visuales cuidadosamente seleccionados y la organización meticulosa de la información garantizan una coherencia visual sólida. Además, facilitan la navegación y el acceso a las funciones clave, haciendo que tanto usuarios con experiencia técnica como aquellos menos familiarizados con la tecnología puedan utilizar la plataforma de manera eficiente. <br>
-</tr>
-<br><br>
-</table>
-
+| Chávarri Zarzosa, Daniel Jhared  | - Capitulo 1 <br> - Capitulo 3
+| Sihuar Ccotarma Ttito, Eduardo Eusebio     | - Capitulo 1 <br> - Capítulo 3                                                                                                     |
+| Vera Nuñez, Nicolas Alejandro                 | - Capitulo 2 <br> - Capítulo 3 <br>                                                                                                                                                                                                                                         
 # Contenido
 ## Tabla de Contenidos
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
@@ -310,21 +187,49 @@ Durante el sprint, me enfoqué en diseñar entrevistas adaptadas a diferentes se
 
 <br><br>
 
-# Chapter I: Introducción
+----
+# Student Outcome
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 7.
+
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+  <tr>
+    <td><b>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.</b></td>
+    <td> Chávarri Zarzosa, Daniel Jhared<br> Avance 1: <br> Para el primer avance, realicé el capítulo 1 de manera colaborativa, actualizando y reforzando conceptos de documentación técnica y organización de proyectos en soluciones de software. Me aseguré de que todos los puntos fueran abordados correctamente, verifiqué que mis compañeros cumplieran con sus entregables a tiempo y realicé la reorganización del informe para mantener la coherencia y calidad del documento.  <br>
+        <br>Sihuar Ccotarma Ttito, Eduardo Eusebio<br> Avance 1: <br> ...
+        <br>Vera Nuñez, Nicolas Alejandro<br> Avance 1: <br> ...
+   </td>
+    <td>Car2Go fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y diferenciarse de la competencia. Los estilos visuales seleccionados, junto con una cuidadosa organización de la información, garantizan no solo coherencia estética, sino también una navegación intuitiva y un acceso simplificado a las funciones clave para todos los usuarios, independientemente de su nivel de experiencia.<br>
+</tr>
+<br><br>
+  <tr>
+    <td><b>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</b></td>
+<td> Chávarri Zarzosa, Daniel Jhared<br> Avance 1: <br> Durante el desarrollo del proyecto reconocí la importancia del aprendizaje permanente, ya que el área de soluciones de software evoluciona constantemente con nuevas herramientas, metodologías y lenguajes de programación. Identifiqué que para lograr un mejor desempeño profesional debo mantenerme actualizado mediante la investigación continua, el uso de recursos en línea y la práctica colaborativa. Este hábito de aprendizaje me permitirá adaptarme a los cambios tecnológicos y garantizar la calidad de los proyectos de software en los que participe.<br>
+        <br>Sihuar Ccotarma Ttito, Eduardo Eusebio <br> Avance 1: <br> ...
+        <br>Vera Nuñez, Nicolas Alejandro <br> Avance 1: <br> ... 
+    <td>Car2Go fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos visuales cuidadosamente seleccionados y la organización meticulosa de la información garantizan una coherencia visual sólida. Además, facilitan la navegación y el acceso a las funciones clave, haciendo que tanto usuarios con experiencia técnica como aquellos menos familiarizados con la tecnología puedan utilizar la plataforma de manera eficiente. <br>
+</tr>
+<br><br>
+</table>
+
+# Capítulo I: Introducción
 ## 1.1. StartUp Profile
 En esta sección describiremos el perfil de nuestra Startup.
 
-### 1.1.1. Description de la StartUp
+### 1.1.1. Descripción de la Startup
 
 Car2Go es una startup creada en 2024 por un grupo de estudiantes de Ingeniería de Software.
 Nuestra plataforma está dedicada a transformar el mercado de autos de segunda mano,
 ofreciendo una solución innovadora y accesible para personas que desean comprar o vender vehículos usados.
 
-
 - Misión: Nuestra misión es facilitar la compra y venta de autos de segunda mano mediante
   una plataforma intuitiva y eficiente, proporcionando a nuestros usuarios todas
   las herramientas necesarias para que el proceso sea sencillo, seguro y confiable.
-
 
 - Visión: Aspiramos a convertirnos en la principal plataforma Nacional para la compra y
   venta de autos de segunda mano, impulsando la confianza y
@@ -335,12 +240,12 @@ ofreciendo una solución innovadora y accesible para personas que desean comprar
 <table align="center"  border="1" width="70%" style="text-align:center;">
      <tr align="center">
         <td rowspan="3">
-<img src="assets/integrante-Franco.jpeg">
+<img src="assets/">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-Jean Franco Barrionuevo Reto
+Chávarri Zarzosa, Daniel Jhared
         </td>
     </tr>
     <tr>
@@ -354,17 +259,17 @@ Jean Franco Barrionuevo Reto
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Soy Franco Barrionuevo, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, responsable y con muchas ganas de aprender. Me gusta trabajar en equipo y aportar ideas para el desarrollo de proyectos.
+        Soy estudiante de la UPC, tengo 20 años. Estoy en la carrera de Ingeniería de Software, ya que, siempre me gustó la tecnología, los videojuegos, las páginas web, pero sobre todo cómo crearlos. Estoy cursando el 7mo ciclo de la carrera y mis habilidades son C++, Python, HTML y JavaScript. También soy bueno en ser responsable con cada curso y organizar mi tiempo en ellos.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="assets/integrante-Karito.jpeg">
+<img src="assets/">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-Karito Dianeth Medina Chocce
+Sihuar Ccotarma Ttito, Eduardo Eusebio
         </td>
     </tr>
     <tr>
@@ -378,17 +283,17 @@ Karito Dianeth Medina Chocce
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Hola, soy Karito Medina, actualmente estudio Ingeniería de Software en la Universidad de Ciencias Aplicadas (UPC). Me considero una persona responsable, respetuosa y con una fuerte habilidad para trabajar en equipo. Me esfuerzo por contribuir positivamente a cada proyecto en el que participo, buscando siempre mejorar los resultados grupales y alcanzar los objetivos comunes. Estoy entusiasmada por aplicar mis conocimientos y habilidades para enfrentar nuevos desafíos y seguir creciendo en el campo de la tecnología.
+       ...
         </td>
     </tr>
 <tr align="center">
         <td rowspan="3">
-<img src="assets/integrante-Gerald.jpeg">
+<img src="assets/">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-Gerald Patricio Serrano Uchuya
+Vera Nuñez, Nicolas Alejandro
         </td>
     </tr>
     <tr>
@@ -402,55 +307,7 @@ Gerald Patricio Serrano Uchuya
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Soy Gerald Serrano. Estoy en 6to ciclo de Ingeniería de software. Me enfoco en las tecnologías web como React, ASP.net y Spring. Soy alguien muy entusiasta al momento de aprender nuevas tecnologías y me gusta cumplir lo mejor que pueda mis responsibilidades en un grupo de trabajo.
-        </td>
-    </tr>
-    <tr align="center">
-        <td rowspan="3">
-<img src="assets/Harold-integrante.jpg">
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-Harold Jaime Mayta Lopez
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ing. de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Hola, soy Harold Mayta, actualmente estudio Ingeniería de Software en la Univerisidad Peruana de Ciencias Aplicadas. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante.Asi mismo, considero que puedo aportar al grupo con soluciones optimas a futuros porblemas.
-        </td>
-    </tr>
-    <tr align="center">
-        <td rowspan="3">
-<img src="assets/integrante-Joaquin.png">
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-Joaquín Enrique Carranza Tesén
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ing. de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Soy Joaquín Carranza, estudiante de la carrera de ingeniería de software. Me considero una persona responsable y comunicativa. Me gusta hacer deporte así como los videojuegos. Soy proactivo a la hora de proponer soluciones y me gusta trabajar en equipo.
+        ...
         </td>
     </tr>
 </table>
@@ -460,28 +317,32 @@ Joaquín Enrique Carranza Tesén
 En esta sección se detallan los aspectos claves de nuestra solución de software, incluyendo sus
 características distintivas, propuestas de valor y estrategias de monetización.
 
-**Nombre del producto:** Car2Go
+## 1.2.1. Nombre del producto: Car2Go
 
-**Descripción:** Car2Go es una plataforma innovadora diseñada para facilitar la compra y
-venta de autos de segunda mano, conectando de manera eficiente a compradores y vendedores.
-La plataforma ofrece una experiencia fluida y sin problemas, permitiendo a los usuarios explorar vehículos,
-gestionar sus publicaciones y comunicarse de manera efectiva. Car2Go proporciona herramientas de seguimiento
-en tiempo real para las transacciones y opciones de personalización que garantizan una experiencia óptima y segura.
+Car2Go es una plataforma innovadora diseñada para transformar la compra y venta de autos de segunda mano, conectando de manera rápida y segura a compradores y vendedores. A diferencia de otras plataformas tradicionales, Car2Go integra verificación digital de identidad, validación de pagos en línea y un sistema de recomendación inteligente que sugiere vehículos en función de las preferencias del usuario. La experiencia del usuario es fluida: explorar vehículos, gestionar publicaciones y comunicarse directamente en un entorno confiable. Además, Car2Go ofrece herramientas de seguimiento en tiempo real para cada transacción y dashboards personalizados que garantizan seguridad y transparencia.
 
-**Monetización:**  Car2Go generará ingresos mediante una combinación de planes de suscripción y
-comisiones por venta. Los vendedores podrán elegir entre diferentes planes de suscripción,
-que ofrecen acceso a funciones avanzadas como la destacación de anuncios, herramientas de marketing
-y análisis detallados. Además, se aplicará una comisión básica por cada transacción completada.
-Los compradores realizarán el pago a través de transferencia bancaria, subiendo una captura de pantalla
-del comprobante para que el vendedor confirme la transacción. Esta estrategia mixta asegura que tanto los usuarios que opten por un plan de
-suscripción como aquellos que prefieran pagar por transacción puedan beneficiarse de la plataforma.
+Monetización:
+- Car2Go generará ingresos mediante una estrategia híbrida que combina planes de suscripción y comisiones por transacción.
+  
+- Tendrá planes de suscripción para vendedores, con beneficios como destacación de anuncios, herramientas de marketing digital, reportes de rendimiento y estadísticas de mercado.
 
-### 1.2.1. Antecedentes y problemática
-La industria de compra y venta de autos de segunda mano enfrenta desafíos significativos
-en términos de seguridad, eficiencia y accesibilidad. Los compradores y vendedores se encuentran
-bajo presión debido a la creciente demanda de vehículos usados, pero enfrentan obstáculos como la falta
-de plataformas seguras, la dificultad para verificar la autenticidad de los pagos,
-y la escasez de herramientas tecnológicas que faciliten transacciones confiables y sin fricciones.
+- Hará Comisiones por venta completada, asegurando la sostenibilidad del modelo y el acceso inclusivo a vendedores que no desean suscribirse.
+
+- Habrá un proceso de pago seguro, en el que los compradores realizarán transferencias bancarias y subirán comprobantes digitales para validación automática por parte del   sistema y confirmación del vendedor.
+  
+- Este modelo garantiza confianza, flexibilidad y escalabilidad, al tiempo que ofrece una propuesta de valor diferenciada frente a la competencia.
+
+## 1.2.2. Antecedentes y problemática
+
+La industria de autos de segunda mano enfrenta problemas de seguridad, confianza y transparencia. Muchos compradores desconfían por el riesgo de fraude, la falta de garantías en el vehículo y la informalidad en los pagos. Los vendedores, por su parte, enfrentan dificultades para llegar a clientes confiables y obtener métricas claras de su oferta. Aunque existen plataformas en línea, pocas ofrecen un ecosistema integral que combine tecnología avanzada, seguridad en las transacciones y experiencia personalizada.
+
+Car2Go responde a estas brechas mediante:
+
+Un entorno seguro de compra/venta con verificación digital y validación de pagos.
+
+Herramientas que reducen la fricción en las transacciones y generan confianza en ambas partes.
+
+Un modelo que impulsa la digitalización del mercado automotriz informal, contribuyendo a la formalización de la industria y generando un impacto positivo en la economía local.
 
 
 -   **What?**   
@@ -512,8 +373,9 @@ y la escasez de herramientas tecnológicas que faciliten transacciones confiable
     El costo de implementar estas soluciones tecnológicas puede variar según la escala de la plataforma y los
     recursos disponibles para la adopción de tecnología en el mercado de autos de segunda mano.
     <br><br>
-### 1.2.2. Lean UX Process
-#### 1.2.2.1. Lean UX Problem Statements
+    
+### 1.2.3. Lean UX Process
+#### 1.2.3.1. Lean UX Problem Statements
 - En la industria de compra y venta de autos de segunda mano, existe
   una falta de plataformas tecnológicas integradas que permitan a los compradores y vendedores realizar
   transacciones de manera segura y eficiente. Este vacío tecnológico dificulta la confianza entre las partes y
@@ -521,8 +383,7 @@ y la escasez de herramientas tecnológicas que faciliten transacciones confiable
   Además, mejorar la colaboración entre compradores, vendedores y talleres técnicos es crucial para garantizar transacciones transparentes y
   satisfactorias para todas las partes involucradas.
 
-
-#### 1.2.2.2. Lean UX Assumptions
+#### 1.2.3.2. Lean UX Assumptions
 
 **Business Outcomes:**
 
@@ -531,7 +392,6 @@ y la escasez de herramientas tecnológicas que faciliten transacciones confiable
 - Tener al menos 200 vehículos vendidos a través de la plataforma en el primer año de lanzamiento.
   <br><br>
 - Alcanzar una tasa de satisfacción del 85% entre los usuarios al final del primer año, lo que indicará una alta retención y confianza en la plataforma.
-
 
 **Users Assumptions :**
 
@@ -556,7 +416,6 @@ y la escasez de herramientas tecnológicas que faciliten transacciones confiable
 - La plataforma será utilizada durante todo el proceso de compra y venta, desde la búsqueda del vehículo hasta
   la confirmación del pago. Los talleres técnicos usarán aquella información para ofrecer sus servicios.
 
-
 **5. ¿Que caracteristicas son importantes?**
 - Sistema de filtrado y verificación de vehículos
 - Transacciones seguras mediante verificación de pago.
@@ -564,16 +423,13 @@ y la escasez de herramientas tecnológicas que faciliten transacciones confiable
 - Información detallada y transparente sobre los vehículos
 - Comunicación eficiente entre compradores y vendedores
 
-
 **6. ¿Como deberia nuestro producto verse o comportarse?**
 -  El producto debe verse con una interfaz simple, interactiva, atractiva e inclusiva. Debe poder comportarse correctamente, ser capaz de llamar la atención de quien la use, pero tambien otorgar una experiencia innovadora y acogedora a nuestro segmento objetivo.
-
 
 **User Outcomes:**
 - **Compradores de Autos Usados:** Establecer como objetivo aumentar la confianza en el proceso de compra de vehículos usados, logrando una reducción del 30% en el número de incidencias críticas reportadas por compradores durante el primer año de uso de Car2Go.
 - **Vendedores de Autos Usados:** Mejorar la tasa de conversión de ventas en un 25% durante el primer año, garantizando que solo los vehículos verificados y aprobados sean listados en la plataforma. Esto reducirá los problemas relacionados con la venta y aumentará la satisfacción del vendedor.
 - **Talleres Técnicos:** Incrementar el número de inspecciones y certificaciones realizadas en un 40% durante el primer año, facilitando una mayor colaboración con Car2Go. Este aumento se logrará mediante la integración eficiente de sus servicios en la plataforma y la generación de más oportunidades de verificación.
-
 
 ¿Que está intentando conseguir el usuario?
 - **Compradores:** Quiero encontrar un auto confiable y realizar la compra de manera segura.
@@ -590,7 +446,6 @@ y la escasez de herramientas tecnológicas que faciliten transacciones confiable
 - **Compradores de autos usados:** Les proporciona una plataforma segura para encontrar y comprar vehículos usados.
 - **Vendedores de autos usados:** Les facilita el proceso de venta, asegurando la transacción y reduciendo riesgos.
 - **Talleres Técnicos:** Les conecta con clientes potenciales, incrementando la demanda de sus servicios.
-
 
 ¿Por que nuestros usuarios se interesarian por nuestro producto? ¿Que beneficio podrian obtener?
 
@@ -609,7 +464,6 @@ y la escasez de herramientas tecnológicas que faciliten transacciones confiable
   lo que indicará que los usuarios confían en su trabajo y están dispuestos a pagar por sus servicios. Un incremento en el número de inspecciones
   y certificaciones realizadas a través de Car2Go demostrará que los talleres técnicos están obteniendo beneficios significativos de su colaboración con la plataforma.
 
-
 **Feature Assumptions**
 
 - **Creemos que** el producto debe contar con planes estándar y premium que se adapten a las necesidades del usuario, ofreciendo flexibilidad y valor agregado.
@@ -620,7 +474,7 @@ y la escasez de herramientas tecnológicas que faciliten transacciones confiable
   <br><br>
 - **Creemos que** el producto debe facilitar la comunicación directa entre compradores y vendedores para mejorar la transparencia y la confianza.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements
+#### 1.2.3.3. Lean UX Hypothesis
 
 - Creemos que al implementar un proceso riguroso de verificación para cada vehículo antes de su inclusión en la plataforma, podemos aumentar la confianza de los compradores en la calidad y la transparencia de las ofertas, lo que resultará en una mayor seguridad en las transacciones y una reducción en las disputas.
   <br><br>
@@ -636,11 +490,11 @@ y la escasez de herramientas tecnológicas que faciliten transacciones confiable
 <br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-#### 1.2.2.4. Lean UX Canvas
+#### 1.2.3.4. Lean UX Canvas
 
 <table>
     <tr>
-        <th >BUSINESS PROBLEM</th>
+        <th>BUSINESS PROBLEM</th>
         <th>SOLUTION IDEAS</th>
         <th>BUSINESS OUTCOMES</th>
     </tr>
