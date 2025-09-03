@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="center" >Team Members:</h3>
-<table style="padding-left:30px;">
+<table align="center">
   <tr>
       <th style="text-align:center;">Member</th>
       <th style="text-align:center;">Code</th>
