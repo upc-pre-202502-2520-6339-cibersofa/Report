@@ -344,6 +344,7 @@ Car2Go responde a estas brechas mediante:
 
 - Un modelo que impulsa la digitalización del mercado automotriz informal, contribuyendo a la formalización de la industria y generando un impacto positivo en la economía local.
 
+**5Ws y 2Hs:**
 
 -   **What?**   
     La industria automotriz de segunda mano enfrenta desafíos importantes en la
