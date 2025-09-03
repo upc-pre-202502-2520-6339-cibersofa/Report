@@ -488,9 +488,6 @@ Car2Go responde a estas brechas mediante:
 - Creemos que al implementar un sistema de verificación de pagos y transacciones seguras, podemos reducir los riesgos de fraude y estafas, lo que aumentará la confianza de los usuarios en la plataforma y fomentará la realización de transacciones seguras y confiables.
 
 <br><br>
-<br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 #### 1.2.3.4. Lean UX Canvas
 
 <table>
