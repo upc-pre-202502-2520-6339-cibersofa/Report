@@ -5,14 +5,13 @@
 <br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"><br>
 <br>
-    <strong>Ingeniería de Software - 5to Ciclo</strong><br>
+    <strong>Ingeniería de Software - 7mo Ciclo</strong><br>
 <br>
-    <strong>Desarrollo de Aplicaciones Open Source - WX51</strong><br>  
+    <strong>Fundamentos de Arquitectura de Software - 6339</strong><br>  
 <br>
-    <strong>Profesor: Alberto Wilmer Sanchez Seña</strong><br>
+    <strong>Profesor: Ernesto Ocampo Tello</strong><br>
     <br> <strong>INFORME DE TRABAJO FINAL - TF </strong> 
 </p>
-
 
 <p align="center">
     <strong>Startup: Viajeros del cibersofá </strong><br>
@@ -26,31 +25,20 @@
       <th style="text-align:center;">Code</th>
   </tr>
   <tr>
-      <td>Barrionuevo Reto,  Jean Franco Joel</td>
-      <td>U202219284</td>
+      <td>Vera Nuñez, Nicolas Alejandro</td>
+      <td>U202214869</td>
   </tr>
   <tr>
-      <td>Carranza Tesen, Joaquin Enrique</td>
-      <td>U20191B935</td>
+      <td>Chávarri Zarzosa, Daniel Jhared</td>
+      <td>U202211108</td>
   </tr>
   <tr>
-      <td>Mayta López, Harold</td>
-      <td>U202114851</td>
-  </tr>
-  <tr>
-      <td>Medina Chocce, Karito Dianeth</td>
-      <td>U20221C769</td>
-  </tr>
-  <tr>
-      <td>Serrano Uchuya, Gerald Patricio</td>
-      <td>U202122876</td>
+      <td>Sihuar Ccotarma Ttito, Eduardo Eusebio</td>
+      <td>U20211c736</td>
   </tr>
 </table>
 
 # Registro de Versiones del Informe
-
-
-
 
 |Versión|Fecha|Autor|Descripción de modificación|
 |-------|-----|-----|---------------------------|
