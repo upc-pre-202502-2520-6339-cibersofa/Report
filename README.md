@@ -317,7 +317,7 @@ Vera Nuñez, Nicolas Alejandro
 En esta sección se detallan los aspectos claves de nuestra solución de software, incluyendo sus
 características distintivas, propuestas de valor y estrategias de monetización.
 
-## 1.2.1. Nombre del producto: Car2Go
+## 1.2.1. Nombre del producto: AutoMatch
 
 AutoMatch es una plataforma innovadora diseñada para transformar la compra y venta de autos de segunda mano, conectando de manera rápida y segura a compradores y vendedores. A diferencia de otras plataformas tradicionales, AutoMatch integra verificación digital de identidad, validación de pagos en línea y un sistema de recomendación inteligente que sugiere vehículos en función de las preferencias del usuario. La experiencia del usuario es fluida: explorar vehículos, gestionar publicaciones y comunicarse directamente en un entorno confiable. Además, Car2Go ofrece herramientas de seguimiento en tiempo real para cada transacción y dashboards personalizados que garantizan seguridad y transparencia.
 
