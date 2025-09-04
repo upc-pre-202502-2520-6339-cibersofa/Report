@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-    <strong>Startup: Viajeros del cibersofá </strong><br>
-    <strong>Producto:  Car2Go </strong>
+    <strong>Startup: DriveTrust </strong><br>
+    <strong>Producto: AutoMatch </strong>
 </p>
 
 <h3 align="center" >Relación de integrantes:</h3>
@@ -223,7 +223,7 @@ En esta sección describiremos el perfil de nuestra Startup.
 
 ### 1.1.1. Descripción de la Startup
 
-Car2Go es una startup creada en 2024 por un grupo de estudiantes de Ingeniería de Software.
+AutoMatch es una startup creada en 2024 por un grupo de estudiantes de Ingeniería de Software.
 Nuestra plataforma está dedicada a transformar el mercado de autos de segunda mano,
 ofreciendo una solución innovadora y accesible para personas que desean comprar o vender vehículos usados.
 
@@ -319,10 +319,10 @@ características distintivas, propuestas de valor y estrategias de monetización
 
 ## 1.2.1. Nombre del producto: Car2Go
 
-Car2Go es una plataforma innovadora diseñada para transformar la compra y venta de autos de segunda mano, conectando de manera rápida y segura a compradores y vendedores. A diferencia de otras plataformas tradicionales, Car2Go integra verificación digital de identidad, validación de pagos en línea y un sistema de recomendación inteligente que sugiere vehículos en función de las preferencias del usuario. La experiencia del usuario es fluida: explorar vehículos, gestionar publicaciones y comunicarse directamente en un entorno confiable. Además, Car2Go ofrece herramientas de seguimiento en tiempo real para cada transacción y dashboards personalizados que garantizan seguridad y transparencia.
+AutoMatch es una plataforma innovadora diseñada para transformar la compra y venta de autos de segunda mano, conectando de manera rápida y segura a compradores y vendedores. A diferencia de otras plataformas tradicionales, AutoMatch integra verificación digital de identidad, validación de pagos en línea y un sistema de recomendación inteligente que sugiere vehículos en función de las preferencias del usuario. La experiencia del usuario es fluida: explorar vehículos, gestionar publicaciones y comunicarse directamente en un entorno confiable. Además, Car2Go ofrece herramientas de seguimiento en tiempo real para cada transacción y dashboards personalizados que garantizan seguridad y transparencia.
 
 Monetización:
-- Car2Go generará ingresos mediante una estrategia híbrida que combina planes de suscripción y comisiones por transacción.
+- AutoMatch generará ingresos mediante una estrategia híbrida que combina planes de suscripción y comisiones por transacción.
   
 - Tendrá planes de suscripción para vendedores, con beneficios como destacación de anuncios, herramientas de marketing digital, reportes de rendimiento y estadísticas de mercado.
 
@@ -336,7 +336,7 @@ Monetización:
 
 La industria de autos de segunda mano enfrenta problemas de seguridad, confianza y transparencia. Muchos compradores desconfían por el riesgo de fraude, la falta de garantías en el vehículo y la informalidad en los pagos. Los vendedores, por su parte, enfrentan dificultades para llegar a clientes confiables y obtener métricas claras de su oferta. Aunque existen plataformas en línea, pocas ofrecen un ecosistema integral que combine tecnología avanzada, seguridad en las transacciones y experiencia personalizada.
 
-Car2Go responde a estas brechas mediante:
+AutoMatch responde a estas brechas mediante:
 
 - Un entorno seguro de compra/venta con verificación digital y validación de pagos.
 
@@ -388,7 +388,7 @@ Car2Go responde a estas brechas mediante:
 
 **Business Outcomes:**
 
-- Lograr un crecimiento mensual del 20% en el número de usuarios activos de la plataforma, medido por el número de transacciones realizadas a través de Car2Go.
+- Lograr un crecimiento mensual del 20% en el número de usuarios activos de la plataforma, medido por el número de transacciones realizadas a través de AutoMatch.
   <br><br>
 - Tener al menos 200 vehículos vendidos a través de la plataforma en el primer año de lanzamiento.
   <br><br>
@@ -404,7 +404,7 @@ Car2Go responde a estas brechas mediante:
 - Talleres técnicos
 
 **2. ¿Donde entra nuestro producto en su trabajo o su vida?**
-- Car2Go se integra directamente en la vida de los compradores y vendedores al facilitar el proceso de transacción, haciéndolo más seguro y accesible.
+- AutoMatch se integra directamente en la vida de los compradores y vendedores al facilitar el proceso de transacción, haciéndolo más seguro y accesible.
 
 **3. ¿Cual es el problema que nuestro producto soluciona?**
 - Falta de transparencia y confianza en las transacciones de autos usados.
@@ -430,7 +430,7 @@ Car2Go responde a estas brechas mediante:
 **User Outcomes:**
 - **Compradores de Autos Usados:** Establecer como objetivo aumentar la confianza en el proceso de compra de vehículos usados, logrando una reducción del 30% en el número de incidencias críticas reportadas por compradores durante el primer año de uso de Car2Go.
 - **Vendedores de Autos Usados:** Mejorar la tasa de conversión de ventas en un 25% durante el primer año, garantizando que solo los vehículos verificados y aprobados sean listados en la plataforma. Esto reducirá los problemas relacionados con la venta y aumentará la satisfacción del vendedor.
-- **Talleres Técnicos:** Incrementar el número de inspecciones y certificaciones realizadas en un 40% durante el primer año, facilitando una mayor colaboración con Car2Go. Este aumento se logrará mediante la integración eficiente de sus servicios en la plataforma y la generación de más oportunidades de verificación.
+- **Talleres Técnicos:** Incrementar el número de inspecciones y certificaciones realizadas en un 40% durante el primer año, facilitando una mayor colaboración con AutoMatch. Este aumento se logrará mediante la integración eficiente de sus servicios en la plataforma y la generación de más oportunidades de verificación.
 
 ¿Que está intentando conseguir el usuario?
 - **Compradores:** Quiero encontrar un auto confiable y realizar la compra de manera segura.
@@ -458,12 +458,12 @@ Car2Go responde a estas brechas mediante:
 
 - **Compradores y Vendedores:** Esperamos que la plataforma se utilice de manera constante para todas las transacciones
   de autos usados, lo que indicará un aumento en la confianza y la seguridad en el proceso. Un incremento en el número de
-  transacciones realizadas a través de Car2Go, junto con una reducción en las quejas o disputas relacionadas con la transparencia
+  transacciones realizadas a través de AutoMatch, junto con una reducción en las quejas o disputas relacionadas con la transparencia
   y la verificación, nos indicará que la plataforma está cumpliendo su objetivo de mejorar la confianza en el mercado de autos usados.
 
 - **Talleres Técnicos:** Esperamos que los talleres técnicos vean un aumento en la demanda de sus servicios a través de la plataforma,
   lo que indicará que los usuarios confían en su trabajo y están dispuestos a pagar por sus servicios. Un incremento en el número de inspecciones
-  y certificaciones realizadas a través de Car2Go demostrará que los talleres técnicos están obteniendo beneficios significativos de su colaboración con la plataforma.
+  y certificaciones realizadas a través de AutoMatch demostrará que los talleres técnicos están obteniendo beneficios significativos de su colaboración con la plataforma.
 
 **Feature Assumptions**
 
@@ -483,7 +483,7 @@ Car2Go responde a estas brechas mediante:
   <br><br>
 - Creemos que al ofrecer una plataforma exclusiva sin freemium y con un filtro de calidad para los vehículos, podemos mejorar la eficiencia del proceso de compra-venta, aumentando la satisfacción del cliente y optimizando las transacciones al asegurar que solo los vehículos que cumplen con los estándares de calidad sean mostrados.
   <br><br>
-- Creemos que al proporcionar una interfaz intuitiva y amigable, podemos mejorar la experiencia general del usuario en la plataforma, resultando en una mayor satisfacción y un aumento en el uso continuo de Car2Go.
+- Creemos que al proporcionar una interfaz intuitiva y amigable, podemos mejorar la experiencia general del usuario en la plataforma, resultando en una mayor satisfacción y un aumento en el uso continuo de AutoMatch.
   <br><br>
 - Creemos que al implementar un sistema de verificación de pagos y transacciones seguras, podemos reducir los riesgos de fraude y estafas, lo que aumentará la confianza de los usuarios en la plataforma y fomentará la realización de transacciones seguras y confiables.
 
@@ -548,7 +548,7 @@ Car2Go responde a estas brechas mediante:
                 <li>Creemos que, al implementar un riguroso proceso de verificación para cada vehículo, podemos aumentar la confianza de los compradores en la calidad y la transparencia de las ofertas, lo que reducirá las disputas y aumentará la seguridad en las transacciones.</li>
                 <li>Creemos que, al ofrecer un proceso de compra-venta optimizado y sin freemium, podemos mejorar la eficiencia del proceso, lo que resultará en una mayor satisfacción del cliente y optimizará las transacciones al asegurar que solo se muestren vehículos que cumplen con los estándares de calidad.</li>
                 <li>Creemos que, al integrar un sistema de inspecciones y certificaciones realizadas por talleres técnicos, podemos fortalecer la demanda de servicios técnicos, lo que beneficiará a los talleres y garantizará la calidad de los vehículos disponibles.</li>
-                <li>Creemos que, al proporcionar una interfaz intuitiva y amigable, podemos mejorar la experiencia general del usuario para hacer más fácil el proceso de compra-venta, lo que resultará en mayor adopción de la plataforma de compra-venta de autos de 2Go.</li>
+                <li>Creemos que, al proporcionar una interfaz intuitiva y amigable, podemos mejorar la experiencia general del usuario para hacer más fácil el proceso de compra-venta, lo que resultará en mayor adopción de la plataforma de compra-venta de autos de AutoMatch.</li>
             </ul>
         </td>
         <td>
@@ -589,16 +589,15 @@ Car2Go responde a estas brechas mediante:
 - Empresas y profesionales que ofrecen servicios de inspección y certificación de vehículos.
 - Buscan una plataforma que les permita promocionar sus servicios y colaborar con compradores y vendedores.
 - Interesados en una mayor visibilidad y demanda de sus servicios, con la posibilidad de ofrecer valor agregado a los usuarios.
-  <br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br>
 
-# Chapter II: Requirements Elicitation & Analysis
+# Capítulo II: Requirements & Analysis
 
 ## 2.1. Competidores
 
 Nuestros competidores abarcan una variedad de empresas en el mercado de autos de segunda mano, que se han ido fortaleciendo a lo largo del tiempo en plataformas digitales. Esto abarca grandes sitios webs de venta de vehículos usados.
 
 Aquí unos competidores directos que proporcionan servicios similares al nuestro:
-
 
 - **NeoAuto**: [NeoAuto](https://neoauto.com/venta-de-autos-usados-en-lima?gad_source=1&gclid=Cj0KCQjw_sq2BhCUARIsAIVqmQtS4NTpmRTLgjG9aqoxczpnBP_zQPfrGnqWX53OOE22ruL_N90cup8aAvHuEALw_wcB)
 
@@ -1168,12 +1167,9 @@ Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo
 
 9. **Kilometraje:** Distancia total recorrida por el auto, un indicador clave del desgaste del vehículo.
 
+<br><br>
 
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-# Chapter III: Requirements Specifications
+# Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
 En esta sección, el equipo presenta el To-Be Scenario Mapping para Car2Go, que ilustra las mejoras propuestas en el proceso de compra y venta de autos de segunda mano a través de nuestra plataforma. Este proceso comenzó con una fase de preparación, seguida de una lluvia de ideas individual para identificar mejoras potenciales. Posteriormente, se llevó a cabo una revisión y se identificaron las fases relevantes, que se organizaron en las columnas de Phases, Doing, Thinking y Feeling en la herramienta de mapeo seleccionada. El To-Be Scenario Mapping se comparó con el As-Is Scenario Mapping para identificar y resaltar los cambios propuestos que optimizarán la experiencia del usuario. La captura del mapeo realizado proporciona una visión clara de cómo estas mejoras impactarán en las diferentes etapas del proceso, abordando las necesidades y expectativas de cada User Persona y contribuyendo a nuestra misión de facilitar un proceso de compra y venta intuitivo, seguro y eficiente.
