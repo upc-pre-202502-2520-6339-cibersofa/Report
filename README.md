@@ -1095,23 +1095,8 @@ A continuación, presentaremos los User Task Matrix de los segmentos objetivos q
 Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo se diferencian en ciertas partes técnicas, como el mecánico, y estética, en cuanto a los vendedores y compradores.
 <br><br><br><br>
 
-## 2.3.3. User Journey Mapping.
 
-### Compradores de segunda mano:
-
-<img src="assets/Journey_Comprador.png">
-<br><br><br><br><br><br><br><br>
-
-### Vendedores de segunda mano:
-
-<img src="assets/Journey_Vendedor.png">
-
-### Talleres mecánicos:
-
-<img src="assets/Journey_Talleres.png">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-## 2.3.4. Empathy Mapping.
+## 2.3.3. Empathy Maps
 
 ### Compradores de segunda mano:
 
@@ -1147,26 +1132,61 @@ Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo
 [LINK DEL MIRO](https://miro.com/app/board/uXjVMm70eUI=/?share_link_id=313743584808)
 <br><br>
 
-## 2.4 Ubiquitous Language
+## 2.4 Requisitos Funcionales y no Funcionales
+## 2.4.1 Requisitos Funcionales
+- RF-01: Registro de usuarios
+  El sistema debe permitir el registro de compradores, vendedores y talleres técnicos mediante formulario con validación de datos esenciales (email, nombre, contraseña).
 
-1. **Comprador:** Persona que está interesada en adquirir un auto de segunda mano.
+- RF-02: Gestión de perfiles
+  El sistema debe permitir editar perfiles con datos adicionales (ej. información de contacto, ubicación, rol: comprador/vendedor/taller).
 
-2. **Vendedor:** Persona que ofrece su auto para la venta en la plataforma.
+- RF-03: Publicación de vehículos
+  Vendedores deben poder crear, editar y eliminar publicaciones de autos con detalles (marca, modelo, año, fotos, precio).
 
-3. **Auto Verificado:** Vehículo que ha pasado por una inspección técnica realizada por un taller mecánico asociado.
+- RF-04: Búsqueda y filtrado de vehículos
+  Compradores deben poder buscar autos por atributos (marca, modelo, precio, año) y aplicar filtros (kilometraje, estado, certificación).
 
-4. **Taller Mecánico:** Entidad o empresa encargada de revisar y certificar el estado de los autos listados en la plataforma.
+- RF-05: Verificación de vehículos
+  Talleres técnicos pueden registrar inspecciones, reportes técnicos o certificaciones asociadas a una publicación, accesibles desde la ficha del auto.
 
-5. **Transacción Segura:** Proceso de compra-venta en el que se utiliza el sistema de pagos de la plataforma para asegurar que ambas partes cumplan con sus compromisos.
+- RF-06: Verificación de pagos
+  El sistema debe permitir que compradores suban comprobantes de pago y que vendedores los validen dentro de la plataforma (archivo adjunto + confirmación).
 
-6. **Anuncio Destacado:** Publicación que aparece en la parte superior de los resultados de búsqueda para mejorar la visibilidad del auto que está en venta.
+- RF-07: Comunicación integrada
+  Incluye chat o mensajería interna para que compradores y vendedores puedan comunicarse de forma segura y fluida.
 
-7. **Inspección Técnica:** Proceso mediante el cual un taller verifica el estado del auto en términos de mecánica, carrocería, y documentación.
+- RF-08: Subscripciones y planes
+  El sistema debe gestionar planes de suscripción para vendedores. Incluir selección de plan, método de pago y activación de beneficios premium (p. ej. destacar anuncio).
 
-8. **Historial del Auto:** Registro de los eventos relevantes asociados al vehículo, como reparaciones, multas o accidentes anteriores.
+- RF-09: Reportes y análisis
+  El sistema debe mostrar métricas para vendedores: número de visitas, publicaciones activas, ventas realizadas, y estadísticas de su plan contratado.
 
-9. **Kilometraje:** Distancia total recorrida por el auto, un indicador clave del desgaste del vehículo.
+  ## 2.4.2. Requisitos no Funcionales
+- RNF-01: Rendimiento
+  La plataforma debe responder a solicitudes de página en menos de 2 segundos bajo carga normal (hasta 500 usuarios simultáneos).
 
+- RNF-02: Escalabilidad
+  La arquitectura debe soportar el aumento de usuarios sin degradar la experiencia, permitiendo escalamiento horizontal de servicios clave (API, base de datos).
+
+- RNF-03: Seguridad
+  Autenticación segura con almacenamiento de contraseñas cifradas (hash).
+  Conexión segura (HTTPS/TLS).
+  Control de acceso basado en roles (comprador/vendedor/taller).
+
+- RNF-04: Usabilidad
+  La interfaz debe ser responsive para dispositivos móviles y desktops. Navegación intuitiva, accesible a usuarios sin experiencia técnica.
+
+- RNF-05: Disponibilidad
+  El sistema debe tener una disponibilidad mínima del 99 % mensual, excluyendo ventanas planificadas de mantenimiento.
+
+- RNF-06: Mantenibilidad
+  Código modular, documentado y probado (unitario y de integración). Adopción de buenas prácticas y estilo de codificación estandarizado.
+
+- RNF-07: Privacidad de datos
+  Cumplimiento con normativas de protección de datos (GDPR u otras locales). Los datos sensibles (como comprobantes de pago) deben almacenarse cifrados.
+
+- RNF-08: Internacionalización
+  Interfaz preparada para varios idiomas y formatos (fechas, precios), permitiendo fácil traducción y localización.
 <br><br>
 
 # Capítulo III: Requirements Specification
