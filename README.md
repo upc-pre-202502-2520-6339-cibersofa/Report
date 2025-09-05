@@ -204,7 +204,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
         <br>Sihuar Ccotarma Ttito, Eduardo Eusebio<br> Avance 1: <br> ...
         <br>Vera Nuñez, Nicolas Alejandro<br> Avance 1: <br> ...
    </td>
-    <td text-align="justify">Car2Go fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y diferenciarse de la competencia. Los estilos visuales seleccionados, junto con una cuidadosa organización de la información, garantizan no solo coherencia estética, sino también una navegación intuitiva y un acceso simplificado a las funciones clave para todos los usuarios, independientemente de su nivel de experiencia.<br>
+    <td text-align="justify">AutoMatch fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y diferenciarse de la competencia. Los estilos visuales seleccionados, junto con una cuidadosa organización de la información, garantizan no solo coherencia estética, sino también una navegación intuitiva y un acceso simplificado a las funciones clave para todos los usuarios, independientemente de su nivel de experiencia.<br>
 </tr>
 <br><br>
   <tr text-align="justify">
@@ -212,7 +212,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
 <td> Chávarri Zarzosa, Daniel Jhared<br> Avance 1: <br> Durante el desarrollo del proyecto reconocí la importancia del aprendizaje permanente, ya que el área de soluciones de software evoluciona constantemente con nuevas herramientas, metodologías y lenguajes de programación. Identifiqué que para lograr un mejor desempeño profesional debo mantenerme actualizado mediante la investigación continua, el uso de recursos en línea y la práctica colaborativa. Este hábito de aprendizaje me permitirá adaptarme a los cambios tecnológicos y garantizar la calidad de los proyectos de software en los que participe.<br>
         <br>Sihuar Ccotarma Ttito, Eduardo Eusebio <br> Avance 1: <br> ...
         <br>Vera Nuñez, Nicolas Alejandro <br> Avance 1: <br> ... 
-    <td>Car2Go fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos visuales cuidadosamente seleccionados y la organización meticulosa de la información garantizan una coherencia visual sólida. Además, facilitan la navegación y el acceso a las funciones clave, haciendo que tanto usuarios con experiencia técnica como aquellos menos familiarizados con la tecnología puedan utilizar la plataforma de manera eficiente. <br>
+    <td>AutoMatch fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos visuales cuidadosamente seleccionados y la organización meticulosa de la información garantizan una coherencia visual sólida. Además, facilitan la navegación y el acceso a las funciones clave, haciendo que tanto usuarios con experiencia técnica como aquellos menos familiarizados con la tecnología puedan utilizar la plataforma de manera eficiente. <br>
 </tr>
 <br><br>
 </table>
@@ -319,7 +319,7 @@ características distintivas, propuestas de valor y estrategias de monetización
 
 ## 1.2.1. Nombre del producto: AutoMatch
 
-AutoMatch es una plataforma innovadora diseñada para transformar la compra y venta de autos de segunda mano, conectando de manera rápida y segura a compradores y vendedores. A diferencia de otras plataformas tradicionales, AutoMatch integra verificación digital de identidad, validación de pagos en línea y un sistema de recomendación inteligente que sugiere vehículos en función de las preferencias del usuario. La experiencia del usuario es fluida: explorar vehículos, gestionar publicaciones y comunicarse directamente en un entorno confiable. Además, Car2Go ofrece herramientas de seguimiento en tiempo real para cada transacción y dashboards personalizados que garantizan seguridad y transparencia.
+AutoMatch es una plataforma innovadora diseñada para transformar la compra y venta de autos de segunda mano, conectando de manera rápida y segura a compradores y vendedores. A diferencia de otras plataformas tradicionales, AutoMatch integra verificación digital de identidad, validación de pagos en línea y un sistema de recomendación inteligente que sugiere vehículos en función de las preferencias del usuario. La experiencia del usuario es fluida: explorar vehículos, gestionar publicaciones y comunicarse directamente en un entorno confiable. Además, AutoMatch ofrece herramientas de seguimiento en tiempo real para cada transacción y dashboards personalizados que garantizan seguridad y transparencia.
 
 Monetización:
 - AutoMatch generará ingresos mediante una estrategia híbrida que combina planes de suscripción y comisiones por transacción.
@@ -328,7 +328,7 @@ Monetización:
 
 - Hará Comisiones por venta completada, asegurando la sostenibilidad del modelo y el acceso inclusivo a vendedores que no desean suscribirse.
 
-- Habrá un proceso de pago seguro, en el que los compradores realizarán transferencias bancarias y subirán comprobantes digitales para validación automática por parte del   sistema y confirmación del vendedor.
+- Habrá un proceso de pago seguro, en el que los compradores realizarán transferencias bancarias y subirán comprobantes digitales para validación automática por parte del sistema y confirmación del vendedor.
   
 - Este modelo garantiza confianza, flexibilidad y escalabilidad, al tiempo que ofrece una propuesta de valor diferenciada frente a la competencia.
 
@@ -1134,65 +1134,65 @@ Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo
 
 ## 2.4 Requisitos Funcionales y no Funcionales
 ## 2.4.1 Requisitos Funcionales
-- RF-01: Registro de usuarios: <br>
+- **RF-01: Registro de usuarios:** <br>
   El sistema debe permitir el registro de compradores, vendedores y talleres técnicos mediante formulario con validación de datos esenciales (email, nombre, contraseña). <br>
 
-- RF-02: Gestión de perfiles: <br>
+- **RF-02: Gestión de perfiles:** <br>
   El sistema debe permitir editar perfiles con datos adicionales (ej. información de contacto, ubicación, rol: comprador/vendedor/taller). <br>
 
-- RF-03: Publicación de vehículos: <br>
+- **RF-03: Publicación de vehículos:** <br>
   Vendedores deben poder crear, editar y eliminar publicaciones de autos con detalles (marca, modelo, año, fotos, precio). <br>
 
-- RF-04: Búsqueda y filtrado de vehículos: <br>
+- **RF-04: Búsqueda y filtrado de vehículos:** <br>
   Compradores deben poder buscar autos por atributos (marca, modelo, precio, año) y aplicar filtros (kilometraje, estado, certificación). <br>
 
-- RF-05: Verificación de vehículos: <br>
+- **RF-05: Verificación de vehículos:** <br>
   Talleres técnicos pueden registrar inspecciones, reportes técnicos o certificaciones asociadas a una publicación, accesibles desde la ficha del auto. <br>
 
-- RF-06: Verificación de pagos: <br>
+- **RF-06: Verificación de pagos:** <br>
   El sistema debe permitir que compradores suban comprobantes de pago y que vendedores los validen dentro de la plataforma (archivo adjunto + confirmación). <br>
 
-- RF-07: Comunicación integrada: <br>
+- **RF-07: Comunicación integrada:** <br>
   Incluye chat o mensajería interna para que compradores y vendedores puedan comunicarse de forma segura y fluida. <br>
 
-- RF-08: Subscripciones y planes <br>
+- **RF-08: Subscripciones y planes** <br>
   El sistema debe gestionar planes de suscripción para vendedores. Incluir selección de plan, método de pago y activación de beneficios premium (p. ej. destacar anuncio). <br>
 
-- RF-09: Reportes y análisis: <br>
+- **RF-09: Reportes y análisis:** <br>
   El sistema debe mostrar métricas para vendedores: número de visitas, publicaciones activas, ventas realizadas, y estadísticas de su plan contratado. <br>
 
   ## 2.4.2. Requisitos no Funcionales
-- RNF-01: Rendimiento: <br>
+- **RNF-01: Rendimiento:** <br>
   La plataforma debe responder a solicitudes de página en menos de 2 segundos bajo carga normal (hasta 500 usuarios simultáneos). <br>
 
-- RNF-02: Escalabilidad: <br>
+- **RNF-02: Escalabilidad:** <br>
   La arquitectura debe soportar el aumento de usuarios sin degradar la experiencia, permitiendo escalamiento horizontal de servicios clave (API, base de datos). <br>
 
-- RNF-03: Seguridad: <br>
-  . Autenticación segura con almacenamiento de contraseñas cifradas (hash). 
-  . Conexión segura (HTTPS/TLS).
-  . Control de acceso basado en roles (comprador/vendedor/taller). <br>
+- **RNF-03: Seguridad:** <br>
+  - Autenticación segura con almacenamiento de contraseñas cifradas (hash). 
+  - Conexión segura (HTTPS/TLS).
+  - Control de acceso basado en roles (comprador/vendedor/taller). <br>
 
-- RNF-04: Usabilidad: <br>
+- **RNF-04: Usabilidad:** <br>
   La interfaz debe ser responsive para dispositivos móviles y desktops. Navegación intuitiva, accesible a usuarios sin experiencia técnica. <br>
 
-- RNF-05: Disponibilidad: <br>
+- **RNF-05: Disponibilidad:** <br>
   El sistema debe tener una disponibilidad mínima del 99 % mensual, excluyendo ventanas planificadas de mantenimiento. <br>
 
-- RNF-06: Mantenibilidad: <br>
+- **RNF-06: Mantenibilidad:** <br>
   Código modular, documentado y probado (unitario y de integración). Adopción de buenas prácticas y estilo de codificación estandarizado. <br>
 
-- RNF-07: Privacidad de datos: <br>
+- **RNF-07: Privacidad de datos:** <br>
   Cumplimiento con normativas de protección de datos (GDPR u otras locales). Los datos sensibles (como comprobantes de pago) deben almacenarse cifrados. <br>
 
-- RNF-08: Internacionalización: <br>
+- **RNF-08: Internacionalización:** <br>
   Interfaz preparada para varios idiomas y formatos (fechas, precios), permitiendo fácil traducción y localización.
 <br><br>
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
-En esta sección, el equipo presenta el To-Be Scenario Mapping para Car2Go, que ilustra las mejoras propuestas en el proceso de compra y venta de autos de segunda mano a través de nuestra plataforma. Este proceso comenzó con una fase de preparación, seguida de una lluvia de ideas individual para identificar mejoras potenciales. Posteriormente, se llevó a cabo una revisión y se identificaron las fases relevantes, que se organizaron en las columnas de Phases, Doing, Thinking y Feeling en la herramienta de mapeo seleccionada. El To-Be Scenario Mapping se comparó con el As-Is Scenario Mapping para identificar y resaltar los cambios propuestos que optimizarán la experiencia del usuario. La captura del mapeo realizado proporciona una visión clara de cómo estas mejoras impactarán en las diferentes etapas del proceso, abordando las necesidades y expectativas de cada User Persona y contribuyendo a nuestra misión de facilitar un proceso de compra y venta intuitivo, seguro y eficiente.
+En esta sección, el equipo presenta el To-Be Scenario Mapping para AutoMatch, que ilustra las mejoras propuestas en el proceso de compra y venta de autos de segunda mano a través de nuestra plataforma. Este proceso comenzó con una fase de preparación, seguida de una lluvia de ideas individual para identificar mejoras potenciales. Posteriormente, se llevó a cabo una revisión y se identificaron las fases relevantes, que se organizaron en las columnas de Phases, Doing, Thinking y Feeling en la herramienta de mapeo seleccionada. El To-Be Scenario Mapping se comparó con el As-Is Scenario Mapping para identificar y resaltar los cambios propuestos que optimizarán la experiencia del usuario. La captura del mapeo realizado proporciona una visión clara de cómo estas mejoras impactarán en las diferentes etapas del proceso, abordando las necesidades y expectativas de cada User Persona y contribuyendo a nuestra misión de facilitar un proceso de compra y venta intuitivo, seguro y eficiente.
 
 **Segmento objetivo: Compradores de Autos Usados**
 ![image](assets/tobeMap-compradores.jpg)
@@ -1305,7 +1305,7 @@ En esta sección, el equipo presenta el To-Be Scenario Mapping para Car2Go, que 
 
 ## 3.3. Impact Map
 
-En esta sección, se presenta el Impact Mapping para Car2Go, diseñado para alcanzar el objetivo de establecerse como la plataforma líder en la compra y venta de autos de segunda mano en el mercado nacional en el próximo año. El Impact Mapping se centra en tres segmentos clave: Compradores de Autos Usados, Vendedores de Autos Usados y Talleres Técnicos. Para cada segmento, se han definido impactos específicos que contribuirán a lograr el objetivo general, junto con los entregables necesarios para provocar estos impactos. Las historias de usuario resultantes guiarán el desarrollo de funcionalidades y características, asegurando que Car2Go cumpla con las expectativas de sus usuarios y facilite una experiencia de compra y venta de autos que sea intuitiva, segura y confiable. Esta planificación se ha realizado utilizando la plataforma UXPressia.
+En esta sección, se presenta el Impact Mapping para AutoMatch, diseñado para alcanzar el objetivo de establecerse como la plataforma líder en la compra y venta de autos de segunda mano en el mercado nacional en el próximo año. El Impact Mapping se centra en tres segmentos clave: Compradores de Autos Usados, Vendedores de Autos Usados y Talleres Técnicos. Para cada segmento, se han definido impactos específicos que contribuirán a lograr el objetivo general, junto con los entregables necesarios para provocar estos impactos. Las historias de usuario resultantes guiarán el desarrollo de funcionalidades y características, asegurando que Car2Go cumpla con las expectativas de sus usuarios y facilite una experiencia de compra y venta de autos que sea intuitiva, segura y confiable. Esta planificación se ha realizado utilizando la plataforma UXPressia.
 
 
 **Segmento objetivo: Compradores de Autos Usados**
@@ -1331,7 +1331,7 @@ En esta sección, se presenta el Impact Mapping para Car2Go, diseñado para alca
 <br><br><br><br>
 
 ## 3.4. Alcance
-El proyecto Car2Go busca consolidarse como una plataforma digital que transforme la experiencia de compra y venta de autos de segunda mano, alineándose con su misión de ofrecer un proceso sencillo, seguro y confiable.
+El proyecto AutoMatch busca consolidarse como una plataforma digital que transforme la experiencia de compra y venta de autos de segunda mano, alineándose con su misión de ofrecer un proceso sencillo, seguro y confiable.
 
 **Alcance del MVP (Producto Mínimo Viable):**
 
@@ -1360,11 +1360,11 @@ El proyecto Car2Go busca consolidarse como una plataforma digital que transforme
 - Chat en tiempo real entre compradores y vendedores.
 
 **Enfoque estratégico:**
-Este alcance inicial permitirá a Car2Go validar su propuesta de valor, construir confianza en la comunidad de usuarios y establecer las bases para crecer hacia la visión de convertirse en la principal plataforma nacional de autos de segunda mano.
+Este alcance inicial permitirá a AutoMatch validar su propuesta de valor, construir confianza en la comunidad de usuarios y establecer las bases para crecer hacia la visión de convertirse en la principal plataforma nacional de autos de segunda mano.
 
 ## 3.5. Product Backlog
 
-En esta sección del Product Backlog se encuentran recopiladas todas las User Stories identificadas para el desarrollo de nuestra plataforma Car2Go. Cada User Story representa una funcionalidad o requerimiento específico que contribuirá a mejorar la experiencia del usuario y a alcanzar los objetivos del proyecto. Las historias están ordenadas por prioridad, considerando tanto la importancia para los usuarios como la complejidad técnica y el valor de negocio. El Product Backlog será actualizado periódicamente a medida que se avanza en el desarrollo y se obtienen nuevos requerimientos, asegurando que siempre refleje las necesidades actuales del proyecto.
+En esta sección del Product Backlog se encuentran recopiladas todas las User Stories identificadas para el desarrollo de nuestra plataforma AutoMatch. Cada User Story representa una funcionalidad o requerimiento específico que contribuirá a mejorar la experiencia del usuario y a alcanzar los objetivos del proyecto. Las historias están ordenadas por prioridad, considerando tanto la importancia para los usuarios como la complejidad técnica y el valor de negocio. El Product Backlog será actualizado periódicamente a medida que se avanza en el desarrollo y se obtienen nuevos requerimientos, asegurando que siempre refleje las necesidades actuales del proyecto.
 
 | #Orden | User Story ID | Título                                           | Descripción                                                                                                                                               | Story Points (1/2/3/5/8) |
 |--------|---------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
