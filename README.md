@@ -191,7 +191,6 @@ Para el desarrollo del Avance 1, se optó por dividir el trabajo de la siguiente
 # Student Outcome
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 7.
-
 <table>
   <tr>
     <td><b>Criterio específico</b></td>
