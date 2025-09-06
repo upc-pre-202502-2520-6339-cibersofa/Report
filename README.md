@@ -240,7 +240,7 @@ ofreciendo una solución innovadora y accesible para personas que desean comprar
 <table align="center"  border="1" width="70%" style="text-align:center;">
      <tr align="center">
         <td rowspan="3">
-<img src="assets/">
+<img src="assets/daniel.jpeg">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
