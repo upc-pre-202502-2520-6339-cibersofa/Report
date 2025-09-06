@@ -69,20 +69,21 @@ Para el desarrollo del Avance 1, se optó por dividir el trabajo de la siguiente
 ### [Project Report Collaboration Insights](#project-report-collaboration-insights)
 ### [Contenido](#contenido)
 ### [Student Outcome](#student-outcome-1)
-### [Chapter I: Introducción](#chapter-i-introducción)
+### [Capítulo I: Introducción](#capítulo-i-introducción)
 - [1.1. Startup Profile](#11-startup-profile)
-  - [1.1.1. Descripción de la Startup](#111-description-de-la-startup)
+  - [1.1.1. Descripción de la Startup](#111-descripcion-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
 - [1.2. Solution Profile](#12-solution-profile)
-  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-  - [1.2.2 Lean UX Process](#122-lean-ux-process)
-    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  -[1.2.1. Nombre del producto](#121-nombre-del-producto)
+  - [1.2.2 Antecedentes y problemática](#122-antecedentes-y-problemática)
+  - [1.2.3 Lean UX Process](#123-lean-ux-process)
+    - [1.2.3.1. Lean UX Problem Statements](#1231-lean-ux-problem-statements)
+    - [1.2.3.2. Lean UX Assumptions](#1232-lean-ux-assumptions)
+    - [1.2.3.3. Lean UX Hypothesis Statements](#1233-lean-ux-hypothesis-statements)
+    - [1.2.3.4. Lean UX Canvas](#1234-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-### [Chapter II: Requirements Elicitation & Analysis](#chapter-ii-requirements-elicitation--analysis)
+### [Capítulo II: Requirements & Analysis](#capítulo-ii-requirements-&-analysis)
 - [2.1. Competidores](#21-competidores)
   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
   - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -93,15 +94,15 @@ Para el desarrollo del Avance 1, se optó por dividir el trabajo de la siguiente
 - [2.3. Needfinding](#23-needfinding)
   - [2.3.1. User Personas](#231-user-personas)
   - [2.3.2. User Task Matrix](#232-user-task-matrix)
-  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-  - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.3.3. Empathy Mapping](#233-empathy-mapping)
+  - [2.3.4. As-is Scenario Mapping](#234-as-is-scenario-mapping)
 
-### [Chapter III: Requirements Specifications](#chapter-iii-requirements-specifications)
+### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
 - [3.3. Impact Mapping](#33-impact-mapping)
-- [3.4. Product Backlog](#34-product-backlog)
+- [3.4. Alcance](#34-alcance)
+- [3.5. Product Backlog](#35-product-backlog)
 
 ### [Chapter IV: Product Design](#chapter-iv-product-design)
 - [4.1. Style Guidelines](#41-style-guidelines)
@@ -1394,7 +1395,6 @@ En esta sección del Product Backlog se encuentran recopiladas todas las User St
 | 35     | US-29         | Reportes de Transacciones                        | Como administrador quiero generar reportes de transacciones para analizar el rendimiento de la plataforma.                                                | 5                        |
 | 36     | US-30         | Análisis de Datos de Uso                         | Como administrador quiero analizar datos de uso de la plataforma para identificar tendencias y oportunidades de mejora.                                   | 5                        |
 | 37     | US-01         | Registro de Usuario                              | Como visitante quiero registrarme en la plataforma para poder comprar o vender autos.                                                                     | 3                        |
-
 
 
 # Chapter IV: Product Design
