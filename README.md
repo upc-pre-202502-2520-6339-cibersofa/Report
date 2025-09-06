@@ -218,7 +218,7 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
 </table>
 
 # Capítulo I: Introducción
-## 1.1. StartUp Profile
+## 1.1. Startup Profile
 En esta sección describiremos el perfil de nuestra Startup.
 
 ### 1.1.1. Descripción de la Startup
@@ -376,7 +376,7 @@ AutoMatch responde a estas brechas mediante:
     <br><br>
     
 ### 1.2.3. Lean UX Process
-#### 1.2.3.1. Lean UX Problem Statements
+#### 1.2.3.1. Lean UX Problem Statement
 - En la industria de compra y venta de autos de segunda mano, existe
   una falta de plataformas tecnológicas integradas que permitan a los compradores y vendedores realizar
   transacciones de manera segura y eficiente. Este vacío tecnológico dificulta la confianza entre las partes y
@@ -799,7 +799,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 9.  ¿Cómo valorarías la oportunidad de aumentar tus ingresos a través de estas revisiones pagadas?
 10. ¿Qué consideraciones adicionales tendrías al integrarte en una plataforma que busca asegurar la credibilidad de los autos en venta?
 
-<br><br><br><br>
+<br><br>
 
 ## 2.2.2. Registro de entrevistas.
 
@@ -825,7 +825,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   Gabriel Martel, de 24 años, es un estudiante de ingeniería de software interesado en adquirir un auto de segunda mano. Durante la entrevista, mencionó que sus principales preocupaciones al comprar un auto incluyen el estado estético del vehículo, especialmente la pintura, ya que considera que este aspecto refleja el cuidado que el propietario le ha dado al automóvil. También evalúa el kilometraje como un indicador clave del uso del vehículo. Además, Gabriel destacó la importancia de verificar los antecedentes del auto, tales como multas y reparaciones previas, para evitar futuros problemas. Comentó que prefiere comprar un auto que tenga una clara documentación y que haya pasado revisiones técnicas confiables.
 
 ---
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 ### **Entrevistado 2:**
 - **Nombre y Apellido:** Anatoly Noriega
@@ -847,7 +847,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   Anatoly Noriega, de 22 años, es un comprador que ya ha adquirido autos de segunda mano en el pasado. En la entrevista, mencionó que lo más importante para ella al comprar un auto es la transparencia del vendedor, especialmente en cuanto a las reparaciones y el historial de mantenimiento del vehículo. Considera fundamental que el auto haya pasado revisiones técnicas recientes, ya que le proporciona seguridad sobre su estado. También mencionó que preferiría un proceso de compra más digitalizado y que incluya certificaciones verificadas por plataformas o talleres mecánicos de confianza.
 
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 ### **Segmento 2: Vendedores de Autos de Segunda Mano**
 
@@ -870,7 +870,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   Mijael Yen, de 22 años, es analista de ciberseguridad y vendedor ocasional de autos junto a su padre. Explicó que uno de los mayores desafíos al vender autos de segunda mano es generar confianza con los compradores, ya que la venta implica una inversión significativa. Por ello, Mijael enfatiza la importancia de proporcionar toda la documentación del auto, incluyendo certificados de revisión técnica y detalles sobre reparaciones. Comentó que un comprador informado y que tiene acceso a los antecedentes del auto es más probable que confíe en la venta, lo que agiliza el proceso.
 
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 ### **Entrevistado 2:**
 - **Nombre y Apellido:** Jefrey Sanchez
@@ -892,8 +892,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   Jefrey Sanchez, de 22 años, estudiante de ingeniería de software, habló sobre su experiencia al intentar vender su auto de segunda mano. Mencionó que, en su experiencia, la desconfianza de los compradores es el principal obstáculo en la venta de autos usados. Para él, uno de los puntos clave es establecer un precio justo para que el vehículo se venda rápidamente. Jefrey comentó que muchas veces la espera para vender un auto puede ser larga debido a la negociación constante sobre el precio y las preocupaciones de los compradores sobre el estado del vehículo.
 
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<br><br>
 
 ### **Segmento 3: Talleres mecánicos**
 
@@ -917,7 +916,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   Maomed Chocce, de 29 años, trabaja en un taller mecánico especializado en la revisión y reparación de autos usados. Durante la entrevista, explicó que su equipo se enfoca en la revisión integral de los componentes más importantes del auto, como los frenos, el motor y la batería. También mencionó que el estado de la carrocería es una prioridad, ya que, según su experiencia, los compradores tienden a fijarse mucho en la estética del vehículo. Además, Maomed resaltó la importancia de ofrecer un informe claro y detallado después de la inspección, para que el vendedor pueda mostrarlo a potenciales compradores.
 
 ---
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 ### **Entrevistado 2:**
 - **Nombre y Apellido:** Oscar Román
@@ -939,9 +938,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
 
   Oscar Román, de 26 años, trabaja en una concesionaria de autos y tiene amplia experiencia en la revisión de vehículos de segunda mano. Mencionó que el kilometraje es uno de los factores más importantes para determinar el estado general de un auto. Según él, un kilometraje bajo generalmente indica menos desgaste, lo cual es un atractivo para los compradores. Oscar también expresó su interés en utilizar aplicaciones tecnológicas que le permitan encontrar clientes interesados en revisiones técnicas, ya que cree que le ayudaría a ampliar su red de contactos y aumentar sus ingresos.
 
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 ## 2.2.3. Análisis de entrevistas
 **Segmento objetivo: Compradores de Autos de Segunda Mano**
@@ -956,8 +953,7 @@ Mijael Yen y Jefrey Sanchez coincidieron en que la desconfianza de los comprador
 
 Tanto Maomed Chocce como Oscar Román destacaron la importancia de revisar los componentes clave del vehículo, como los frenos, el motor y la batería, antes de ponerlos a la venta. Ambos coincidieron en que el kilometraje es uno de los factores más importantes para evaluar el estado del auto. Además, ambos ven en las plataformas tecnológicas una oportunidad para atraer más clientes interesados en revisar autos antes de comprarlos, lo que mejoraría la seguridad en las transacciones.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<br><br>
 
 ## 2.3. Needfinding.
 ## 2.3.1. User Personas.
@@ -965,8 +961,6 @@ Tanto Maomed Chocce como Oscar Román destacaron la importancia de revisar los c
 ### Compradores de segunda mano:
 
 <img src="assets/UserPersona_Comprador.png">
-
-
 
 ### Vendedores de segunda mano:
 
@@ -978,7 +972,6 @@ Tanto Maomed Chocce como Oscar Román destacaron la importancia de revisar los c
 
 <img src="assets/UserPersona_Talleres.png">
 <br><br><br><br>
-
 
 ## 2.3.2. User Task Matrix.
 
@@ -1093,28 +1086,27 @@ A continuación, presentaremos los User Task Matrix de los segmentos objetivos q
 </table>
 
 Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo se diferencian en ciertas partes técnicas, como el mecánico, y estética, en cuanto a los vendedores y compradores.
-<br><br><br><br>
-
+<br><br>
 
 ## 2.3.3. Empathy Maps
 
 ### Compradores de segunda mano:
 
 <img src="assets/Empathy_Comprador.png">
-<br><br><br><br><br><br>
+<br><br>
 
 ### Vendedores de segunda mano:
 
 <img src="assets/Empathy_Vendedor.png">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 ### Talleres mecánicos:
 
 <img src="assets/Empathy_Talleres.png">
-<br><br><br><br><br><br><br><br><br>
+<br><br>
 
-## 2.3.5. As-is Scenario Mapping
+## 2.3.4. As-is Scenario Mapping
 
 ### Segmento Objetivo #1:  Compradores de autos de segunda mano (25-45 años)
 
@@ -1127,7 +1119,6 @@ Podemos ver que hay muchas actividades que comparten los 3 segmentos sin embargo
 ### Segmento Objetivo #3:  Talleres mecánicos
 
 <img src="assets/As-Is_Talleres.png">
-
 
 [LINK DEL MIRO](https://miro.com/app/board/uXjVMm70eUI=/?share_link_id=313743584808)
 <br><br>
@@ -1301,12 +1292,11 @@ En esta sección, el equipo presenta el To-Be Scenario Mapping para AutoMatch, q
 | TS-31               | US-27         | Deploy de Web Application (Frontend)            | Como desarrollador quiero desplegar la aplicación frontend para que los usuarios puedan interactuar con la interfaz de usuario y consumir los servicios backend. | **Escenario: Deploy exitoso de Web Application (Frontend)**<br>Given La aplicación frontend está lista para producción<br>When Se realiza un deploy de la aplicación frontend a través del pipeline de CI/CD<br>Then La aplicación se despliega correctamente en el servidor de producción<br>And Los usuarios pueden acceder al frontend a través de la URL de producción.<br><br>**Escenario: Fallo en el deploy de Web Application (Frontend)**<br>Given La aplicación frontend está lista para producción<br>When Se realiza un deploy de la aplicación frontend a través del pipeline de CI/CD<br>Then El deploy falla debido a un error en el código o en la configuración de producción<br>And Se muestra un mensaje de error detallado con los logs del fallo. | EP06    |
 | TS-32               | US-18         | Implementación de filtros de estados de transacción | Como desarrollador quiero implementar filtros para los estados de transacción de manera que los usuarios puedan consultar sus transacciones de forma más eficiente. | **Escenario: Filtro exitoso por estado de transacción**<br>Given El sistema tiene transacciones con diferentes estados (Pendiente, Completada, Cancelada)<br>When El usuario selecciona un filtro para el estado "Pendiente"<br>Then Se muestran solo las transacciones con el estado "Pendiente"<br>And La interfaz de usuario refleja correctamente el filtro seleccionado.<br><br>**Escenario: Filtro sin resultados**<br>Given El sistema tiene transacciones con diferentes estados<br>When El usuario selecciona un filtro para el estado "Cancelada" y no hay transacciones en ese estado<br>Then Se muestra un mensaje de que no se encontraron transacciones con ese estado. | EP03    |
 
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 ## 3.3. Impact Map
 
 En esta sección, se presenta el Impact Mapping para AutoMatch, diseñado para alcanzar el objetivo de establecerse como la plataforma líder en la compra y venta de autos de segunda mano en el mercado nacional en el próximo año. El Impact Mapping se centra en tres segmentos clave: Compradores de Autos Usados, Vendedores de Autos Usados y Talleres Técnicos. Para cada segmento, se han definido impactos específicos que contribuirán a lograr el objetivo general, junto con los entregables necesarios para provocar estos impactos. Las historias de usuario resultantes guiarán el desarrollo de funcionalidades y características, asegurando que Car2Go cumpla con las expectativas de sus usuarios y facilite una experiencia de compra y venta de autos que sea intuitiva, segura y confiable. Esta planificación se ha realizado utilizando la plataforma UXPressia.
-
 
 **Segmento objetivo: Compradores de Autos Usados**
 
@@ -1328,7 +1318,7 @@ En esta sección, se presenta el Impact Mapping para AutoMatch, diseñado para a
 
 ![image](assets/impact-map3.png)
 *Imagen (N°15). Elaboración propia. Realizado en UXPRESSIA*
-<br><br><br><br>
+<br><br>
 
 ## 3.4. Alcance
 El proyecto AutoMatch busca consolidarse como una plataforma digital que transforme la experiencia de compra y venta de autos de segunda mano, alineándose con su misión de ofrecer un proceso sencillo, seguro y confiable.
