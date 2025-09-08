@@ -264,7 +264,7 @@ Chávarri Zarzosa, Daniel Jhared
     </tr>
     <tr align="center">
         <td rowspan="3">
-<img src="assets/">
+<img src="assets/Eduardo.png">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
