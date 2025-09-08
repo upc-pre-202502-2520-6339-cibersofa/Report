@@ -288,7 +288,7 @@ Sihuar Ccotarma Ttito, Eduardo Eusebio
     </tr>
 <tr align="center">
         <td rowspan="3">
-<img src="assets/">
+<img src="assets/nicolas.png">
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -307,7 +307,7 @@ Vera Nuñez, Nicolas Alejandro
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        ...
+         Soy estudiante de la UPC, tengo 21 años. Estoy en la carrera de Ingeniería de Software, ya que, siempre me gustó la tecnología, el analisis de datos y el desarrollo web. Estoy cursando el 7mo ciclo de la carrera y mis habilidades son Angular, Java con Springboot, Docker, Python, HTML y JavaScript. También soy una persona analitica y que encuentra soluciones inovadoras a varios problemas.
         </td>
     </tr>
 </table>
