@@ -201,8 +201,8 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
   <tr>
     <td text-align="justify"><b>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.</b></td>
     <td text-align="justify"> Chávarri Zarzosa, Daniel Jhared<br> Avance 1: <br> Para el primer avance, realicé el capítulo 1 de manera colaborativa, actualizando y reforzando conceptos de documentación técnica y organización de proyectos en soluciones de software. Me aseguré de que todos los puntos fueran abordados correctamente, verifiqué que mis compañeros cumplieran con sus entregables a tiempo y realicé la reorganización del informe para mantener la coherencia y calidad del documento.  <br>
-        <br>Sihuar Ccotarma Ttito, Eduardo Eusebio<br> Avance 1: <br> ...
-        <br>Vera Nuñez, Nicolas Alejandro<br> Avance 1: <br> ...
+        <br>Sihuar Ccotarma Ttito, Eduardo Eusebio<br> Avance 1: <br>En el primer avance, participé en la elaboración de los capítulos 2 y 3 de forma conjunta, revisando y fortaleciendo los conceptos relacionados con la documentación técnica y la gestión de proyectos de software. Me aseguré de que cada apartado estuviera correctamente cubierto, confirmé que mis compañeros entregaran sus tareas en los plazos establecidos y realicé una reestructuración del informe para preservar la consistencia y la calidad del documento.<br>
+        <br>Vera Nuñez, Nicolas Alejandro<br> Avance 1: <br> En el primer avance, participé en la elaboración de los capítulos 2 y 3 de forma conjunta, revisando y fortaleciendo los conceptos de documentación técnica y gestión de proyectos en el ámbito del software. Me aseguré de que todos los apartados fueran tratados adecuadamente, confirmé que mis compañeros cumplieran con sus entregas en los plazos establecidos y realicé una reestructuración del informe para conservar la consistencia y la calidad del documento.
    </td>
     <td text-align="justify">AutoMatch fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y diferenciarse de la competencia. Los estilos visuales seleccionados, junto con una cuidadosa organización de la información, garantizan no solo coherencia estética, sino también una navegación intuitiva y un acceso simplificado a las funciones clave para todos los usuarios, independientemente de su nivel de experiencia.<br>
 </tr>
@@ -210,8 +210,8 @@ conclusiones cual por parte del grupo, que permiten sustentar el haber alcanzado
   <tr text-align="justify">
     <td><b>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</b></td>
 <td> Chávarri Zarzosa, Daniel Jhared<br> Avance 1: <br> Durante el desarrollo del proyecto reconocí la importancia del aprendizaje permanente, ya que el área de soluciones de software evoluciona constantemente con nuevas herramientas, metodologías y lenguajes de programación. Identifiqué que para lograr un mejor desempeño profesional debo mantenerme actualizado mediante la investigación continua, el uso de recursos en línea y la práctica colaborativa. Este hábito de aprendizaje me permitirá adaptarme a los cambios tecnológicos y garantizar la calidad de los proyectos de software en los que participe.<br>
-        <br>Sihuar Ccotarma Ttito, Eduardo Eusebio <br> Avance 1: <br> ...
-        <br>Vera Nuñez, Nicolas Alejandro <br> Avance 1: <br> ... 
+        <br>Sihuar Ccotarma Ttito, Eduardo Eusebio <br> Avance 1: <br> Durante la ejecución del proyecto entendí la importancia del aprendizaje constante, ya que el ámbito de las soluciones de software se transforma de manera continua con nuevas herramientas, enfoques y lenguajes de programación. Reconocí que, para lograr un desempeño profesional más sólido, resulta indispensable mantenerme actualizado a través de la investigación permanente, el uso de recursos digitales y el trabajo colaborativo. Este hábito de aprendizaje me permitirá responder a los cambios tecnológicos y garantizar la calidad en los proyectos de software en los que participe.<br>
+        <br>Vera Nuñez, Nicolas Alejandro <br> Avance 1: <br> A lo largo del desarrollo del proyecto comprendí la relevancia del aprendizaje continuo, ya que el campo de las soluciones de software cambia constantemente con nuevas herramientas, metodologías y lenguajes de programación. Reconocí que, para alcanzar un mejor rendimiento profesional, es necesario mantenerme actualizado mediante la investigación permanente, el aprovechamiento de recursos digitales y la práctica en equipo. Este hábito de aprendizaje me permitirá adaptarme a los avances tecnológicos y asegurar la calidad de los proyectos de software en los que participe.
     <td>AutoMatch fue diseñado con el objetivo de ofrecer una experiencia de usuario excepcional y destacar frente a la competencia. Los estilos visuales cuidadosamente seleccionados y la organización meticulosa de la información garantizan una coherencia visual sólida. Además, facilitan la navegación y el acceso a las funciones clave, haciendo que tanto usuarios con experiencia técnica como aquellos menos familiarizados con la tecnología puedan utilizar la plataforma de manera eficiente. <br>
 </tr>
 <br><br>
@@ -259,7 +259,7 @@ Chávarri Zarzosa, Daniel Jhared
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Soy estudiante de la UPC, tengo 20 años. Estoy en la carrera de Ingeniería de Software, ya que, siempre me gustó la tecnología, los videojuegos, las páginas web, pero sobre todo cómo crearlos. Estoy cursando el 7mo ciclo de la carrera y mis habilidades son C++, Python, HTML y JavaScript. También soy bueno en ser responsable con cada curso y organizar mi tiempo en ellos.
+        Soy estudiante de la UPC, tengo 20 años. Estoy en la carrera de Ingeniería de Software, ya que, siempre me gustó la tecnología y los videojuegos. Estoy cursando el 8va ciclo de la carrera y mis habilidades son C++, Python, HTML y JavaScript. También soy bueno en ser responsable con cada curso y organizar mi tiempo en ellos.
         </td>
     </tr>
     <tr align="center">
@@ -283,7 +283,7 @@ Sihuar Ccotarma Ttito, Eduardo Eusebio
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       ...
+       Soy estudiante de la UPC y tengo 22 años. Curso la carrera de Ingeniería de Software, motivado por mi interés en la tecnología, el análisis de datos y el desarrollo web. Actualmente me encuentro en el séptimo ciclo y mis competencias incluyen Angular, Java con Spring Boot, Docker, Python, HTML y JavaScript. Además, me caracterizo por ser una persona analítica que plantea soluciones innovadoras frente a diferentes problemas.
         </td>
     </tr>
 <tr align="center">
@@ -428,7 +428,7 @@ AutoMatch responde a estas brechas mediante:
 -  El producto debe verse con una interfaz simple, interactiva, atractiva e inclusiva. Debe poder comportarse correctamente, ser capaz de llamar la atención de quien la use, pero tambien otorgar una experiencia innovadora y acogedora a nuestro segmento objetivo.
 
 **User Outcomes:**
-- **Compradores de Autos Usados:** Establecer como objetivo aumentar la confianza en el proceso de compra de vehículos usados, logrando una reducción del 30% en el número de incidencias críticas reportadas por compradores durante el primer año de uso de Car2Go.
+- **Compradores de Autos Usados:** Establecer como objetivo aumentar la confianza en el proceso de compra de vehículos usados, logrando una reducción del 30% en el número de incidencias críticas reportadas por compradores durante el primer año de uso de AutoMatch.
 - **Vendedores de Autos Usados:** Mejorar la tasa de conversión de ventas en un 25% durante el primer año, garantizando que solo los vehículos verificados y aprobados sean listados en la plataforma. Esto reducirá los problemas relacionados con la venta y aumentará la satisfacción del vendedor.
 - **Talleres Técnicos:** Incrementar el número de inspecciones y certificaciones realizadas en un 40% durante el primer año, facilitando una mayor colaboración con AutoMatch. Este aumento se logrará mediante la integración eficiente de sus servicios en la plataforma y la generación de más oportunidades de verificación.
 
@@ -479,7 +479,7 @@ AutoMatch responde a estas brechas mediante:
 
 - Creemos que al implementar un proceso riguroso de verificación para cada vehículo antes de su inclusión en la plataforma, podemos aumentar la confianza de los compradores en la calidad y la transparencia de las ofertas, lo que resultará en una mayor seguridad en las transacciones y una reducción en las disputas.
   <br><br>
-- Creemos que al integrar un sistema de inspecciones y certificaciones realizadas por talleres técnicos a través de Car2Go, podemos incrementar la demanda de servicios técnicos, lo que beneficiará a los talleres y garantizará la calidad de los vehículos disponibles en la plataforma.
+- Creemos que al integrar un sistema de inspecciones y certificaciones realizadas por talleres técnicos a través de AutoMatch, podemos incrementar la demanda de servicios técnicos, lo que beneficiará a los talleres y garantizará la calidad de los vehículos disponibles en la plataforma.
   <br><br>
 - Creemos que al ofrecer una plataforma exclusiva sin freemium y con un filtro de calidad para los vehículos, podemos mejorar la eficiencia del proceso de compra-venta, aumentando la satisfacción del cliente y optimizando las transacciones al asegurar que solo los vehículos que cumplen con los estándares de calidad sean mostrados.
   <br><br>
@@ -626,7 +626,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
   <tr>
     <th></th>
     <th></th>
-    <th>Car2Go</th>
+    <th>AutoMatch</th>
     <th>NeoAuto</th>
     <th>AutoLand Perú</th>
     <th>Autopia.pe</th>
@@ -696,7 +696,7 @@ Aquí unos competidores directos que proporcionan servicios similares al nuestro
     <td>Costos operativos altos debido a las inspecciones mensuales, lo que puede traducirse en precios más altos para los usuarios.</td>
     <td>Menor enfoque en la verificación continua de datos, lo que puede generar dudas sobre la autenticidad de la información.</td>
     <td>Dependencia de puntos de venta físicos puede limitar el alcance y la comodidad en comparación con plataformas digitales puras.</td>
-    <td>Inspección única puede no ofrecer el mismo nivel de garantía continua que la verificación mensual de Car2Go.</td>
+    <td>Inspección única puede no ofrecer el mismo nivel de garantía continua que la verificación mensual de AutoMatch.</td>
   </tr>
   <tr>
     <td><strong>Oportunidades</strong></td>
@@ -1296,7 +1296,7 @@ En esta sección, el equipo presenta el To-Be Scenario Mapping para AutoMatch, q
 
 ## 3.3. Impact Map
 
-En esta sección, se presenta el Impact Mapping para AutoMatch, diseñado para alcanzar el objetivo de establecerse como la plataforma líder en la compra y venta de autos de segunda mano en el mercado nacional en el próximo año. El Impact Mapping se centra en tres segmentos clave: Compradores de Autos Usados, Vendedores de Autos Usados y Talleres Técnicos. Para cada segmento, se han definido impactos específicos que contribuirán a lograr el objetivo general, junto con los entregables necesarios para provocar estos impactos. Las historias de usuario resultantes guiarán el desarrollo de funcionalidades y características, asegurando que Car2Go cumpla con las expectativas de sus usuarios y facilite una experiencia de compra y venta de autos que sea intuitiva, segura y confiable. Esta planificación se ha realizado utilizando la plataforma UXPressia.
+En esta sección, se presenta el Impact Mapping para AutoMatch, diseñado para alcanzar el objetivo de establecerse como la plataforma líder en la compra y venta de autos de segunda mano en el mercado nacional en el próximo año. El Impact Mapping se centra en tres segmentos clave: Compradores de Autos Usados, Vendedores de Autos Usados y Talleres Técnicos. Para cada segmento, se han definido impactos específicos que contribuirán a lograr el objetivo general, junto con los entregables necesarios para provocar estos impactos. Las historias de usuario resultantes guiarán el desarrollo de funcionalidades y características, asegurando que AutoMatch cumpla con las expectativas de sus usuarios y facilite una experiencia de compra y venta de autos que sea intuitiva, segura y confiable. Esta planificación se ha realizado utilizando la plataforma UXPressia.
 
 **Segmento objetivo: Compradores de Autos Usados**
 
