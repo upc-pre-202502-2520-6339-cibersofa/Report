@@ -1352,14 +1352,6 @@ El proyecto AutoMatch busca consolidarse como una plataforma digital que transfo
 **Enfoque estratégico:**
 Este alcance inicial permitirá a AutoMatch validar su propuesta de valor, construir confianza en la comunidad de usuarios y establecer las bases para crecer hacia la visión de convertirse en la principal plataforma nacional de autos de segunda mano.
 
-## 3.5. Métricas
-
-![image](assets/metrica1.JPG) <br> <br>
-![image](assets/metrica2.JPG) <br> <br>
-![image](assets/metrica3.JPG) <br> <br>
-![image](assets/metrica4.JPG) <br> <br>
-![image](assets/metrica5.JPG) <br> <br>
-
 ## 3.6. Product Backlog
 
 En esta sección del Product Backlog se encuentran recopiladas todas las User Stories identificadas para el desarrollo de nuestra plataforma AutoMatch. Cada User Story representa una funcionalidad o requerimiento específico que contribuirá a mejorar la experiencia del usuario y a alcanzar los objetivos del proyecto. Las historias están ordenadas por prioridad, considerando tanto la importancia para los usuarios como la complejidad técnica y el valor de negocio. El Product Backlog será actualizado periódicamente a medida que se avanza en el desarrollo y se obtienen nuevos requerimientos, asegurando que siempre refleje las necesidades actuales del proyecto.
@@ -1426,7 +1418,7 @@ En esta sección del Product Backlog se encuentran recopiladas todas las User St
 
 ### 4.1.3. Context Diagram
 
-![image](assets/Context Diagram.png)
+<img src="assets/Context Diagram.png"> <br>
 
 ### 4.1.4. Approach driven ViewPoints Diagrams
 ### 4.1.5. Relational/Non Relational Database Diagram 
