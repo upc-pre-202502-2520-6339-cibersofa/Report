@@ -1470,7 +1470,7 @@ Garantizar una arquitectura modular, escalable y mantenible que soporte el creci
 - Costos de infraestructura cloud.
 
 ## 4.3. ADD Iterations
-### 4.2.1. Iteration 1: <Definiciónn de Microservicios Base>
+### 4.2.1. Iteration 1: <Definición de Microservicios Base>
 
 - **Backlog:** Registro de usuarios, autenticación y gestión de cuentas.
 - **Drivers:** Seguridad, escalabilidad.
