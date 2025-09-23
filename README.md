@@ -1420,18 +1420,68 @@ En esta sección del Product Backlog se encuentran recopiladas todas las User St
 
 <img src="assets/Context Diagram.png"> <br>
 
+El diagrama de contexto representa la visión de alto nivel (C4 – Nivel 1) del sistema AutoMatch y su interacción con usuarios y sistemas externos. Su construcción se justifica en función de los requisitos funcionales y no funcionales definidos para el proyecto, buscando mostrar los límites del sistema y las dependencias tecnológicas críticas.
+
 ### 4.1.4. Approach driven ViewPoints Diagrams
 ### 4.1.5. Relational/Non Relational Database Diagram 
 ### 4.1.6. Design Patterns
+
+- **Repository Pattern:** Para abstraer la lógica de acceso a datos.
+- **Factory Pattern:** Creación controlada de objetos complejos.
+- **Observer/Event Driven:** Para emitir notificaciones en tiempo real.
+- **Circuit Breaker:** Resiliencia en llamadas a microservicios externos.
+- **API Gateway Pattern:** Punto de entrada unificado para clientes.
+
 ### 4.1.7. Tactics
+
+- **Disponibilidad:** Redundancia de instancias y balanceo de carga.
+- **Modificabilidad:** Código desacoplado, uso de interfaces y versionamiento de APIs.
+- **Performance:** Caching de datos frecuentes y uso de colas asíncronas.
+- **Seguridad:** Validación de entrada, cifrado en tránsito y en reposo.
+- **Usabilidad:** Diseños consistentes y experiencia de usuario simplificada.
+
 ## 4.2. Architectural Drivers
 ### 4.1.8. Design Purpose
+
+Garantizar una arquitectura modular, escalable y mantenible que soporte el crecimiento del sistema, minimice riesgos de integración y maximice la satisfacción del usuario final.
+
 ### 4.1.9. Primary Functionality (Primary User Stories)
 ### 4.1.10. Quality Attribute Scenarios
+
+- **Disponibilidad:**
+ - **Fuente de estímulo: Cliente.**
+ - **Estímulo:** Solicitud de servicio durante horario de alta demanda.
+ - **Entorno:** Sistema en carga máxima.
+ - **Artefacto:** API de pagos.
+ - **Respueta:** El sistema responde en < 2s.
+ - **Medida:** 99.9% uptime.
+
 ### 4.1.11. Constraints
+
+- Uso obligatorio de PostgreSQL como BD relacional.
+- Infraestructura desplegada en Google Cloud.
+- Tiempo máximo de entrega: 16 semanas.
+
 ### 4.1.12. Architectural Concerns
+
+- Seguridad de datos sensibles.
+- Escalabilidad frente a picos de usuarios.
+- Interoperabilidad con APIs de terceros.
+- Costos de infraestructura cloud.
+
 ## 4.3. ADD Iterations
-### 4.2.X. Iteration N: <Iteration Name>
+### 4.2.1. Iteration 1: <Definiciónn de Microservicios Base>
+
+- **Backlog:** Registro de usuarios, autenticación y gestión de cuentas.
+- **Drivers:** Seguridad, escalabilidad.
+- **Elementos refinados:** Servicio de autenticación.
+- **Diseño aplicado:** API Gateway + Auth Service (JWT).
+- **Vistas:**
+
+ - C4 nivel 2 (Containers).
+ - UML caso de uso “registro de usuario”.
+- **Análisis:** Validación de seguridad inicial y escalabilidad para múltiples sesiones concurrentes.
+
 ### 4.2.X.1. Architectural Design Backlog N
 ### 4.2.X.2. Establish Iteration Goal by Selecting Drivers
 ### 4.2.X.3. Choose One or More Elements of the System to Refine
