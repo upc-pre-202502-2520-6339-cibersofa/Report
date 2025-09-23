@@ -1426,7 +1426,7 @@ En esta sección del Product Backlog se encuentran recopiladas todas las User St
 
 ### 4.1.3. Context Diagram
 
-![image](assets/ContextDiagram.png)
+![image](assets/Context Diagram.png)
 
 ### 4.1.4. Approach driven ViewPoints Diagrams
 ### 4.1.5. Relational/Non Relational Database Diagram 
