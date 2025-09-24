@@ -1628,6 +1628,61 @@ El diagrama de contenedores de AutoMatch muestra la arquitectura de alto nivel d
 <img src="assets/Component Diagram.png"> <br><br><br>
 
 ### 4.1.5. Relational/Non Relational Database Diagram 
+
+**Descripción de la base de datos relacional** <br>
+
+La base de datos AutoMatch está diseñada bajo un modelo relacional en SQL Server, estructurando la información de usuarios, vehículos, certificaciones, reportes técnicos, pagos, notificaciones y auditorías.
+Cada entidad se encuentra normalizada y vinculada mediante claves foráneas que garantizan la integridad referencial, lo que permite manejar de manera segura las transacciones y la trazabilidad de cada operación dentro de la plataforma de compra y venta de autos usados. <br><br>
+
+<table>
+  <thead>
+    <tr>
+      <th>Entidad</th>
+      <th>Descripción</th>
+      <th>Justificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>User</b></td>
+      <td>Almacena datos de usuarios: nombre, email, contraseña y rol.</td>
+      <td>Gestiona compradores, vendedores, especialistas y administradores en una sola tabla.</td>
+    </tr>
+    <tr>
+      <td><b>Vehicle</b></td>
+      <td>Contiene la información de los autos: marca, modelo, año y estado.</td>
+      <td>Permite publicar, gestionar y asociar vehículos a usuarios y certificaciones.</td>
+    </tr>
+    <tr>
+      <td><b>Certification</b></td>
+      <td>Registra solicitudes y resultados de inspecciones técnicas.</td>
+      <td>Garantiza que los vehículos pasen por revisión antes de ser vendidos.</td>
+    </tr>
+    <tr>
+      <td><b>Report</b></td>
+      <td>Incluye reportes técnicos con detalles y estado del vehículo.</td>
+      <td>Da soporte documental al proceso de certificación y estado del vehículo.</td>
+    </tr>
+    <tr>
+      <td><b>Payment</b></td>
+      <td>Gestiona las transacciones: monto, método, estado y fecha.</td>
+      <td>Permite validar los pagos seguros entre compradores y vendedores.</td>
+    </tr>
+    <tr>
+      <td><b>Notification</b></td>
+      <td>Contiene los mensajes, fecha y estado de las notificaciones.</td>
+      <td>Envía alertas a usuarios sobre pagos, estados de vehículos y certificaciones.</td>
+    </tr>
+    <tr>
+      <td><b>AuditLogs</b></td>
+      <td>Registra acciones de los usuarios (auditoría de eventos).</td>
+      <td>Brinda trazabilidad y seguridad en la plataforma.</td>
+    </tr>
+  </tbody>
+</table> <br><br><br>
+
+<img src="assets/AutoMatch Database Diagram.PNG"> <br><br><br>
+
 ### 4.1.6. Design Patterns
 
 - **Repository Pattern:** Para abstraer la lógica de acceso a datos.
