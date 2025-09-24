@@ -1417,10 +1417,56 @@ En esta sección del Product Backlog se encuentran recopiladas todas las User St
  - **Patrones aplicados:** Repository, Factory, Observer (para eventos), Circuit Breaker (resiliencia).
 
 ### 4.1.3. Context Diagram
+El diagrama de contexto representa la visión de alto nivel (C4 – Nivel 1) del sistema AutoMatch y su interacción con usuarios y sistemas externos. Su construcción se justifica en función de los requisitos funcionales y no funcionales definidos para el proyecto, buscando mostrar los límites del sistema y las dependencias tecnológicas críticas. <br>
 
-<img src="assets/Context Diagram.png"> <br>
+<table>
+  <thead>
+    <tr>
+      <th>Relación</th>
+      <th>Texto corto en el diagrama</th>
+      <th>Justificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Comprador → AutoMatch</strong></td>
+      <td><em>buscar/comprar</em></td>
+      <td>El comprador interactúa con la plataforma para explorar vehículos, aplicar filtros y concretar la compra.</td>
+    </tr>
+    <tr>
+      <td><strong>Vendedor → AutoMatch</strong></td>
+      <td><em>publicar vehículo</em></td>
+      <td>El vendedor usa el sistema para registrar y gestionar la publicación de autos en venta.</td>
+    </tr>
+    <tr>
+      <td><strong>Especialista Taller → AutoMatch</strong></td>
+      <td><em>realizar inspección</em></td>
+      <td>El especialista sube reportes técnicos y certifica el estado del vehículo a través del sistema.</td>
+    </tr>
+    <tr>
+      <td><strong>Administrador → AutoMatch</strong></td>
+      <td><em>supervisar y gestionar</em></td>
+      <td>El administrador gestiona usuarios, métricas y supervisa el correcto funcionamiento de la plataforma.</td>
+    </tr>
+    <tr>
+      <td><strong>AutoMatch → Pasarela de Pagos</strong></td>
+      <td><em>procesar pago</em></td>
+      <td>La plataforma delega la validación y procesamiento de transacciones a un servicio externo de pagos.</td>
+    </tr>
+    <tr>
+      <td><strong>AutoMatch → Servicio de Notificaciones</strong></td>
+      <td><em>enviar notificación</em></td>
+      <td>El sistema utiliza un servicio externo para notificar al usuario vía SMS, email o push.</td>
+    </tr>
+    <tr>
+      <td><strong>AutoMatch → Servicio de Verificación</strong></td>
+      <td><em>verificar identidad</em></td>
+      <td>La verificación de identidad de compradores y vendedores se realiza a través de un servicio externo especializado.</td>
+    </tr>
+  </tbody>
+</table>
 
-El diagrama de contexto representa la visión de alto nivel (C4 – Nivel 1) del sistema AutoMatch y su interacción con usuarios y sistemas externos. Su construcción se justifica en función de los requisitos funcionales y no funcionales definidos para el proyecto, buscando mostrar los límites del sistema y las dependencias tecnológicas críticas.
+<img src="assets/Context Diagram.png"> <br><br><br>
 
 ### 4.1.4. Approach driven ViewPoints Diagrams
 
@@ -1449,7 +1495,137 @@ Muestra las entidades principales del sistema (Usuario, Vehículo, Pago, Reporte
 **Diagrama de Contenedores (C4 Model – Nivel 2)** <br>
 Presenta la vista arquitectónica, definiendo los contenedores principales: Frontend Web, App Móvil, API Gateway y microservicios especializados (Users, Vehicles, Payments, Notifications, Messaging, etc.), cada uno con su propia base de datos y conexión a servicios externos. Esto justifica la separación de responsabilidades y la escalabilidad del sistema. <br>
 
+<table>
+  <thead>
+    <tr>
+      <th>Relación</th>
+      <th>Texto corto en el diagrama</th>
+      <th>Justificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Usuarios → App Web / App Móvil</strong></td>
+      <td><em>usa portal web / app móvil</em></td>
+      <td>Los actores acceden al sistema mediante interfaces web o móviles para interactuar con la plataforma.</td>
+    </tr>
+    <tr>
+      <td><strong>App Web / App Móvil → API Gateway</strong></td>
+      <td><em>consume APIs REST</em></td>
+      <td>Los frontends se comunican con el backend a través del API Gateway para mantener seguridad y control.</td>
+    </tr>
+    <tr>
+      <td><strong>API Gateway → Vehicle Service</strong></td>
+      <td><em>gestiona vehículos</em></td>
+      <td>El gateway redirige las solicitudes relacionadas con búsqueda, alta, edición o eliminación de autos.</td>
+    </tr>
+    <tr>
+      <td><strong>API Gateway → User Service</strong></td>
+      <td><em>gestiona usuarios</em></td>
+      <td>Encargado de manejar autenticación, perfiles, roles y favoritos de los usuarios.</td>
+    </tr>
+    <tr>
+      <td><strong>API Gateway → Payment Service</strong></td>
+      <td><em>procesar pagos</em></td>
+      <td>Centraliza las solicitudes de pago seguro, validación de transacciones y reembolsos.</td>
+    </tr>
+    <tr>
+      <td><strong>API Gateway → Certification / Inspection Service</strong></td>
+      <td><em>solicitudes de inspección</em></td>
+      <td>Gestión de certificaciones técnicas y reportes de estado del vehículo.</td>
+    </tr>
+    <tr>
+      <td><strong>API Gateway → Notification Service</strong></td>
+      <td><em>enviar notificaciones</em></td>
+      <td>Se encarga de avisar a los usuarios sobre pagos, cambios de estado o promociones.</td>
+    </tr>
+    <tr>
+      <td><strong>API Gateway → Messaging Service</strong></td>
+      <td><em>canal de mensajería</em></td>
+      <td>Permite la comunicación en tiempo real entre compradores y vendedores.</td>
+    </tr>
+    <tr>
+      <td><strong>API Gateway → Advertising &amp; Promotions</strong></td>
+      <td><em>gestiona anuncios</em></td>
+      <td>Administra anuncios destacados y campañas de promoción para vehículos.</td>
+    </tr>
+    <tr>
+      <td><strong>API Gateway → Support &amp; Reports</strong></td>
+      <td><em>reportes / métricas</em></td>
+      <td>Centraliza estadísticas, soporte a usuarios y análisis del sistema.</td>
+    </tr>
+    <tr>
+      <td><strong>Cada Servicio → Su Base de Datos</strong></td>
+      <td><em>CRUD datos</em></td>
+      <td>Cada microservicio persiste y gestiona su propia información siguiendo el enfoque DDD.</td>
+    </tr>
+    <tr>
+      <td><strong>Payment Service → Pasarela de Pagos</strong></td>
+      <td><em>procesa pagos seguros</em></td>
+      <td>Delegación externa de transferencias monetarias para garantizar seguridad y cumplimiento.</td>
+    </tr>
+    <tr>
+      <td><strong>User Service → Servicio de Verificación</strong></td>
+      <td><em>valida identidad</em></td>
+      <td>El sistema valida la identidad de los usuarios a través de un servicio externo especializado.</td>
+    </tr>
+    <tr>
+      <td><strong>Notification Service → Servicio de Notificaciones</strong></td>
+      <td><em>envía SMS/email</em></td>
+      <td>Canaliza mensajes a los usuarios finales mediante SMS, correo o push notification.</td>
+    </tr>
+  </tbody>
+</table>
+
 <img src="assets/Container Diagram.png"> <br><br><br>
+
+**Diagrama de Componentes (C4 Model - Nivel 3)** <br>
+
+El diagrama de contenedores de AutoMatch muestra la arquitectura de alto nivel del sistema, incluyendo aplicaciones frontend, el API Gateway, microservicios y sus bases de datos. Refleja cómo cada módulo cumple una función específica (usuarios, vehículos, pagos, notificaciones, etc.) y cómo se integran con sistemas externos como la pasarela de pagos y verificación de identidad. Este diseño asegura modularidad, escalabilidad y seguridad en las transacciones de la plataforma. <br>
+
+<table>
+  <thead>
+    <tr>
+      <th>Relación</th>
+      <th>Texto corto en el diagrama</th>
+      <th>Justificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Pagos → Notificaciones</strong></td>
+      <td><em>envía confirmación de pago</em></td>
+      <td>Cada vez que un pago se procesa o un reembolso es ejecutado, el componente de <strong>Pagos</strong> genera un evento que debe ser comunicado al usuario. <strong>Notificaciones</strong> transforma ese evento en correo, SMS o push.</td>
+    </tr>
+    <tr>
+      <td><strong>Notificaciones → Mensajería</strong></td>
+      <td><em>dispara alertas de mensajes</em></td>
+      <td>Cuando hay una interacción relevante en el chat, <strong>Notificaciones</strong> envía alertas push o correos para informar en tiempo real a los usuarios.</td>
+    </tr>
+    <tr>
+      <td><strong>Mensajería → Promociones &amp; Publicidad</strong></td>
+      <td><em>canal de comunicación</em></td>
+      <td><strong>Mensajería</strong> puede difundir promociones personalizadas durante la conversación, por ello se integra con <strong>Promociones &amp; Publicidad</strong>.</td>
+    </tr>
+    <tr>
+      <td><strong>Promociones &amp; Publicidad → Reportes &amp; Soporte</strong></td>
+      <td><em>registra métricas de campañas</em></td>
+      <td>Cada campaña genera métricas (alcance, clics, interacciones) que <strong>Reportes &amp; Soporte</strong> consolida para análisis y auditoría.</td>
+    </tr>
+    <tr>
+      <td><strong>Gestión de Usuarios → Gestión de Vehículos</strong></td>
+      <td><em>asocia usuario con autos</em></td>
+      <td>El <strong>Gestión de Usuarios</strong> garantiza la relación correcta entre usuarios (compradores/vendedores) y los vehículos publicados o comprados en <strong>Gestión de Vehículos</strong>.</td>
+    </tr>
+    <tr>
+      <td><strong>Gestión de Vehículos → Certificación / Inspección</strong></td>
+      <td><em>solicita/verifica inspección</em></td>
+      <td>Al publicar o poner en venta un vehículo, <strong>Gestión de Vehículos</strong> invoca a <strong>Certificación/Inspección</strong> para registrar inspecciones y validar el estado técnico.</td>
+    </tr>
+  </tbody>
+</table>
+
+<img src="assets/Component Diagram.png"> <br><br><br>
 
 ### 4.1.5. Relational/Non Relational Database Diagram 
 ### 4.1.6. Design Patterns
