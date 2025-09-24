@@ -1683,6 +1683,54 @@ Cada entidad se encuentra normalizada y vinculada mediante claves foráneas que 
 
 <img src="assets/AutoMatch Database Diagram.PNG"> <br><br><br>
 
+La base de datos No Relacional de AutoMatch fue implementada en MongoDB, estructurada en colecciones que representan entidades clave del sistema, como Users, Vehicles, Payments, Certifications, entre otras. Este modelo basado en documentos JSON ofrece flexibilidad y escalabilidad, permitiendo almacenar información heterogénea y evolucionar fácilmente el esquema según las necesidades de la plataforma. <br><br>
+
+<table>
+  <tr>
+    <th>Colección</th>
+    <th>Campos principales</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Users</td>
+    <td>name, email, password, role, favorites</td>
+    <td>Almacena información de los usuarios (compradores, vendedores, admins, técnicos).</td>
+  </tr>
+  <tr>
+    <td>Vehicles</td>
+    <td>brand, model, year, status, ownerId, certifications</td>
+    <td>Registra los vehículos publicados en la plataforma y sus certificaciones.</td>
+  </tr>
+  <tr>
+    <td>Payments</td>
+    <td>amount, status, method, date, buyerId, vehicleId</td>
+    <td>Gestiona pagos realizados por los compradores hacia los vendedores.</td>
+  </tr>
+  <tr>
+    <td>Certifications</td>
+    <td>type, date, result, vehicleId, inspectorId</td>
+    <td>Documenta inspecciones técnicas y certificaciones emitidas por especialistas.</td>
+  </tr>
+  <tr>
+    <td>Reports</td>
+    <td>message, date, status, vehicleId</td>
+    <td>Guarda reportes técnicos asociados a vehículos.</td>
+  </tr>
+  <tr>
+    <td>Notifications</td>
+    <td>message, date, status, userId</td>
+    <td>Registra notificaciones enviadas a los usuarios.</td>
+  </tr>
+  <tr>
+    <td>AuditLog</td>
+    <td>action, timestamp, userId</td>
+    <td>Almacena trazabilidad y acciones realizadas por los usuarios.</td>
+  </tr>
+</table> <br><br><br>
+
+<img src="assets/AutoMatch-DB-No-Relational.PNG"> <br><br><br>
+
+
 ### 4.1.6. Design Patterns
 
 - **Repository Pattern:** Para abstraer la lógica de acceso a datos.
