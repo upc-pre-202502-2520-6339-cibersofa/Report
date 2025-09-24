@@ -1875,46 +1875,331 @@ Las tácticas arquitectónicas definidas para AutoMatch se orientan a cumplir co
 </table> <br><br><br>
 
 ## 4.2. Architectural Drivers
+Los drivers arquitectónicos son los factores críticos que influyen en el diseño de la solución. Incluyen los propósitos principales de la arquitectura, la funcionalidad esperada, los atributos de calidad a garantizar, las restricciones técnicas y las preocupaciones arquitectónicas que deben ser atendidas. Estos drivers aseguran que la arquitectura no solo cumpla con los requisitos funcionales, sino que también sea robusta, segura y escalable. <br>
+
 ### 4.1.8. Design Purpose
 
 Garantizar una arquitectura modular, escalable y mantenible que soporte el crecimiento del sistema, minimice riesgos de integración y maximice la satisfacción del usuario final.
 
 ### 4.1.9. Primary Functionality (Primary User Stories)
+
+Las historias de usuario representan la funcionalidad esencial que el sistema debe ofrecer para cumplir con los objetivos principales. Estas describen las interacciones clave entre los usuarios y la plataforma, asegurando que las necesidades del negocio y del cliente estén alineadas con el diseño de la arquitectura. <br>
+
+<table>
+  <tr>
+    <th>User Story</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Registro de usuarios</td>
+    <td>Como comprador o vendedor quiero registrarme en el sistema para poder acceder a la plataforma.</td>
+  </tr>
+  <tr>
+    <td>Publicar vehículo</td>
+    <td>Como vendedor quiero publicar mi auto con fotos y detalles para llegar a posibles compradores.</td>
+  </tr>
+  <tr>
+    <td>Búsqueda y filtros</td>
+    <td>Como comprador quiero buscar vehículos usando filtros (marca, modelo, año, precio) para encontrar opciones adecuadas.</td>
+  </tr>
+  <tr>
+    <td>Pagos seguros</td>
+    <td>Como comprador quiero realizar el pago del vehículo de forma segura para garantizar la validez de la transacción.</td>
+  </tr>
+  <tr>
+    <td>Notificaciones</td>
+    <td>Como usuario quiero recibir alertas (correo, app) sobre el estado de mis transacciones o mensajes.</td>
+  </tr>
+</table> <br><br><br>
+
 ### 4.1.10. Quality Attribute Scenarios
 
-- **Disponibilidad:**
- - **Fuente de estímulo: Cliente.**
- - **Estímulo:** Solicitud de servicio durante horario de alta demanda.
- - **Entorno:** Sistema en carga máxima.
- - **Artefacto:** API de pagos.
- - **Respueta:** El sistema responde en < 2s.
- - **Medida:** 99.9% uptime.
+Los escenarios de atributos de calidad permiten medir y validar propiedades no funcionales del sistema, como disponibilidad, rendimiento o seguridad. Estos escenarios sirven como criterios para evaluar el comportamiento de la arquitectura bajo diferentes condiciones. <br>
+
+<table>
+  <tr>
+    <th>Atributo</th>
+    <th>Fuente de estímulo</th>
+    <th>Estímulo</th>
+    <th>Entorno</th>
+    <th>Artefacto</th>
+    <th>Respuesta</th>
+    <th>Medida</th>
+  </tr>
+  <tr>
+    <td>Disponibilidad</td>
+    <td>Cliente</td>
+    <td>Solicitud de servicio durante horario de alta demanda</td>
+    <td>Sistema en carga máxima</td>
+    <td>API de pagos</td>
+    <td>El sistema responde en menos de 2 segundos</td>
+    <td>99.9% uptime</td>
+  </tr>
+</table> <br><br><br>
 
 ### 4.1.11. Constraints
 
-- Uso obligatorio de PostgreSQL como BD relacional.
-- Infraestructura desplegada en Google Cloud.
-- Tiempo máximo de entrega: 16 semanas.
+Las restricciones arquitectónicas son decisiones impuestas por requerimientos externos o limitaciones técnicas que deben cumplirse obligatoriamente. Definen el marco dentro del cual se diseña y construye el sistema. <br>
+
+<table>
+  <tr>
+    <th>Restricción</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Base de datos</td>
+    <td>Uso obligatorio de PostgreSQL como base de datos relacional.</td>
+  </tr>
+  <tr>
+    <td>Infraestructura</td>
+    <td>Despliegue obligatorio en Google Cloud.</td>
+  </tr>
+  <tr>
+    <td>Tiempo</td>
+    <td>Tiempo máximo de entrega: 16 semanas.</td>
+  </tr>
+</table> <br><br><br>
 
 ### 4.1.12. Architectural Concerns
 
-- Seguridad de datos sensibles.
-- Escalabilidad frente a picos de usuarios.
-- Interoperabilidad con APIs de terceros.
-- Costos de infraestructura cloud.
+Las preocupaciones arquitectónicas reflejan los aspectos críticos que deben abordarse para garantizar que el sistema cumpla con los objetivos de negocio. Involucran seguridad, escalabilidad, interoperabilidad y costos, asegurando sostenibilidad en el tiempo. <br>
+
+<table>
+  <tr>
+    <th>Preocupación</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Seguridad</td>
+    <td>Protección de datos sensibles mediante cifrado y control de accesos.</td>
+  </tr>
+  <tr>
+    <td>Escalabilidad</td>
+    <td>Capacidad de manejar picos de usuarios concurrentes sin degradar el servicio.</td>
+  </tr>
+  <tr>
+    <td>Interoperabilidad</td>
+    <td>Compatibilidad con APIs de terceros como pasarelas de pago y servicios externos.</td>
+  </tr>
+  <tr>
+    <td>Costos</td>
+    <td>Control del gasto en infraestructura cloud manteniendo alta disponibilidad.</td>
+  </tr>
+</table> <br><br><br>
 
 ## 4.3. ADD Iterations
+
+La arquitectura de AutoMatch se diseñó aplicando el método Attribute-Driven Design (ADD), lo que permitió construir la solución en cinco iteraciones progresivas. Cada iteración fue definida para introducir gradualmente los servicios más críticos, garantizando seguridad, escalabilidad y experiencia de usuario desde el inicio. <br>
+
 ### 4.2.1. Iteration 1: <Definición de Microservicios Base>
 
-- **Backlog:** Registro de usuarios, autenticación y gestión de cuentas.
-- **Drivers:** Seguridad, escalabilidad.
-- **Elementos refinados:** Servicio de autenticación.
-- **Diseño aplicado:** API Gateway + Auth Service (JWT).
-- **Vistas:**
+Se establecieron los cimientos del sistema, incluyendo el registro de usuarios, autenticación y gestión de cuentas. Aquí se priorizó la seguridad (mediante JWT) y la escalabilidad inicial con un API Gateway. Esta etapa era imprescindible porque todo el ecosistema de servicios depende de una base sólida de gestión de usuarios y accesos. <br>
 
- - C4 nivel 2 (Containers).
- - UML caso de uso “registro de usuario”.
-- **Análisis:** Validación de seguridad inicial y escalabilidad para múltiples sesiones concurrentes.
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Backlog</td>
+    <td>Registro de usuarios, autenticación y gestión de cuentas.</td>
+  </tr>
+  <tr>
+    <td>Drivers</td>
+    <td>Seguridad, escalabilidad.</td>
+  </tr>
+  <tr>
+    <td>Elementos refinados</td>
+    <td>Servicio de autenticación.</td>
+  </tr>
+  <tr>
+    <td>Diseño aplicado</td>
+    <td>API Gateway + Auth Service (JWT).</td>
+  </tr>
+  <tr>
+    <td>Vistas</td>
+    <td>
+      <ul>
+        <li>C4 nivel 2 (Containers).</li>
+        <li>UML caso de uso “registro de usuario”.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Análisis</td>
+    <td>Validación de seguridad inicial y escalabilidad para múltiples sesiones concurrentes.</td>
+  </tr>
+</table> <br><br><br>
+
+### 4.2.2. Iteration 2: <Gestión de Vehículos y Certificación>
+
+Se desarrollaron los servicios de publicación, búsqueda, edición y certificación de autos, integrando talleres técnicos en el proceso. Esta iteración garantiza transparencia y confianza en la plataforma, al asegurar que los autos listados tengan verificación técnica. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Backlog</td>
+    <td>Publicación, edición y eliminación de autos; solicitudes de certificación e inspección.</td>
+  </tr>
+  <tr>
+    <td>Drivers</td>
+    <td>Confiabilidad, transparencia, seguridad de datos.</td>
+  </tr>
+  <tr>
+    <td>Elementos refinados</td>
+    <td>Servicio de gestión de vehículos y Servicio de certificación/inspección.</td>
+  </tr>
+  <tr>
+    <td>Diseño aplicado</td>
+    <td>Microservicio Vehicle Service + Certification/Inspection Service, integrados a través del API Gateway.</td>
+  </tr>
+  <tr>
+    <td>Vistas</td>
+    <td>
+      <ul>
+        <li>C4 nivel 2 (Containers).</li>
+        <li>UML caso de uso “publicar vehículo”.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Análisis</td>
+    <td>Se asegura la trazabilidad de los vehículos listados y la confianza mediante certificaciones validadas por talleres técnicos.</td>
+  </tr>
+</table> <br><br><br>
+
+### 4.2.3. Iteration 3: <Pagos Seguros>
+
+Se implementó el servicio de pagos y transacciones, conectado con una pasarela externa. El objetivo fue garantizar seguridad financiera y disponibilidad, dos atributos de calidad críticos en un sistema de compra y venta. Esta iteración era clave porque los ingresos de la startup dependen de operaciones seguras y confiables. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Backlog</td>
+    <td>Procesamiento de pagos, validación de transacciones, historial y reembolsos.</td>
+  </tr>
+  <tr>
+    <td>Drivers</td>
+    <td>Seguridad, disponibilidad, cumplimiento regulatorio.</td>
+  </tr>
+  <tr>
+    <td>Elementos refinados</td>
+    <td>Servicio de pagos y transacciones conectado con pasarela externa.</td>
+  </tr>
+  <tr>
+    <td>Diseño aplicado</td>
+    <td>Payment Service con integración a pasarela de pagos (ej. Stripe/PayPal) y TransactionDB.</td>
+  </tr>
+  <tr>
+    <td>Vistas</td>
+    <td>
+      <ul>
+        <li>C4 nivel 2 (Containers).</li>
+        <li>UML caso de uso “pago de vehículo”.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Análisis</td>
+    <td>Se garantiza un sistema de pago seguro, resiliente y con registros claros de todas las operaciones financieras.</td>
+  </tr>
+</table> <br><br><br>
+
+### 4.2.4. Iteration 4: <Notificaciones y Mensajería en Tiempo Real>
+
+Se añadieron notificaciones automáticas (listados, promociones, cambios de estado) y un sistema de mensajería directa entre usuarios. Esto incrementa el engagement y mejora la comunicación sin depender de canales externos, reforzando la usabilidad. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Backlog</td>
+    <td>Notificaciones de nuevos listados, cambios de estado, promociones y sistema de mensajería entre usuarios.</td>
+  </tr>
+  <tr>
+    <td>Drivers</td>
+    <td>Usabilidad, inmediatez, engagement de usuario.</td>
+  </tr>
+  <tr>
+    <td>Elementos refinados</td>
+    <td>Notification Service y Messaging Service.</td>
+  </tr>
+  <tr>
+    <td>Diseño aplicado</td>
+    <td>Servicios desacoplados con colas asíncronas (ej. RabbitMQ/Kafka) y Firebase Cloud Messaging para notificaciones móviles.</td>
+  </tr>
+  <tr>
+    <td>Vistas</td>
+    <td>
+      <ul>
+        <li>C4 nivel 2 (Containers).</li>
+        <li>UML caso de uso “enviar mensaje a vendedor”.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Análisis</td>
+    <td>Se mejora la experiencia de usuario con comunicación instantánea y alertas personalizadas, sin sobrecargar el backend.</td>
+  </tr>
+</table> <br><br><br>
+
+### 4.2.5. Iteration 5: <Reportes, Métricas y Soporte>
+
+Finalmente, se incluyeron servicios de reportes, métricas de uso y soporte a usuarios, lo que aporta visibilidad y capacidad de mejora continua. Esta fase asegura la mantenibilidad a largo plazo y facilita la toma de decisiones estratégicas para la evolución del producto. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Backlog</td>
+    <td>Generación de reportes, métricas de uso, monitoreo de transacciones y sistema de soporte a usuarios.</td>
+  </tr>
+  <tr>
+    <td>Drivers</td>
+    <td>Mantenibilidad, analítica, satisfacción del cliente.</td>
+  </tr>
+  <tr>
+    <td>Elementos refinados</td>
+    <td>Reports & Support Service.</td>
+  </tr>
+  <tr>
+    <td>Diseño aplicado</td>
+    <td>Microservicio con dashboards de métricas (ej. Grafana/ELK) y módulo de soporte integrado.</td>
+  </tr>
+  <tr>
+    <td>Vistas</td>
+    <td>
+      <ul>
+        <li>C4 nivel 2 (Containers).</li>
+        <li>UML caso de uso “generar reporte de actividad”.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Análisis</td>
+    <td>La plataforma obtiene visibilidad de su rendimiento y ofrece soporte directo a usuarios, facilitando mejoras continuas.</td>
+  </tr>
+</table> <br><br><br>
+
+## Por qué 5 Iteraciones?
+
+El diseño en cinco iteraciones se justifica porque cada etapa: <br>
+
+1. Cubre un dominio funcional completo antes de avanzar al siguiente (usuarios, autos, pagos, comunicación, analítica).
+2. Prioriza atributos de calidad en orden de importancia: primero seguridad y escalabilidad, luego confiabilidad de la información, después seguridad financiera, seguido de usabilidad,    y finalmente mantenibilidad.
+3. Minimiza riesgos de integración: se avanza de lo más crítico y transversal (usuarios y accesos) hacia lo más especializado (reportes y métricas).
+4. Permite entregas incrementales: cada iteración entrega valor al usuario y puede ponerse en producción de manera progresiva.
+5. Balancea tiempo y complejidad: se logró dividir el proyecto en bloques manejables dentro del plazo de 16 semanas establecido como restricción.
 
 ### 4.2.X.1. Architectural Design Backlog N
 ### 4.2.X.2. Establish Iteration Goal by Selecting Drivers
