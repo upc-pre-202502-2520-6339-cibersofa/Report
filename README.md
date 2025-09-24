@@ -1683,6 +1683,8 @@ Cada entidad se encuentra normalizada y vinculada mediante claves foráneas que 
 
 <img src="assets/AutoMatch Database Diagram.PNG"> <br><br><br>
 
+**Descripción de la base de datos relacional** <br>
+
 La base de datos No Relacional de AutoMatch fue implementada en MongoDB, estructurada en colecciones que representan entidades clave del sistema, como Users, Vehicles, Payments, Certifications, entre otras. Este modelo basado en documentos JSON ofrece flexibilidad y escalabilidad, permitiendo almacenar información heterogénea y evolucionar fácilmente el esquema según las necesidades de la plataforma. <br><br>
 
 <table>
