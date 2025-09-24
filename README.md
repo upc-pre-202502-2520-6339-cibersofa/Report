@@ -1426,27 +1426,27 @@ El diagrama de contexto representa la visión de alto nivel (C4 – Nivel 1) del
 
 En esta sección se presentan los diferentes diagramas utilizados para modelar el sistema AutoMatch, aplicando una visión approach-driven que va desde el nivel funcional (qué hace el sistema) hasta el nivel arquitectónico (cómo se implementa).
 
-**Diagrama de Casos de Uso**
+**Diagrama de Casos de Uso** <br>
 Representa las funcionalidades principales que el sistema ofrece a los actores: comprador, vendedor, especialista de taller técnico y administrador. Justifica los user stories y permite identificar qué operaciones son críticas en el sistema (registro, búsqueda, publicación, pagos, certificaciones, notificaciones). <br>
 
 <img src="assets/Use Case Diagram.png"> <br><br><br>
 
-**Diagrama de Actividades**
+**Diagrama de Actividades** <br>
 Describe el flujo de acciones en un proceso clave: la compra de un vehículo. Refleja el “happy path” desde la búsqueda hasta la confirmación de la transacción y recepción de notificaciones. Esto permite entender cómo se orquestan los pasos y qué condiciones se deben cumplir en cada fase. <br>
 
 <img src="assets/Compra de Vehiculo Diagram.PNG"> <br><br><br>
 
-**Diagrama de Estados**
+**Diagrama de Estados** <br>
 Modela el ciclo de vida de un vehículo dentro de la plataforma, pasando por estados como Publicado, En revisión, Disponible, Reservado, Vendido o Retirado. Con esto se asegura un control estricto de la trazabilidad y disponibilidad de los autos en todo momento. <br>
 
 <img src="assets/Vehicle Diagram.PNG"> <br><br><br>
 
-**Diagrama de Clases**
+**Diagrama de Clases** <br>
 Muestra las entidades principales del sistema (Usuario, Vehículo, Pago, Reporte Técnico, Notificación) y sus relaciones. Refleja herencias, asociaciones y operaciones clave, garantizando que la lógica de negocio se soporte en una estructura robusta y extensible. <br>
 
 <img src="assets/Class Diagram.PNG"> <br><br><br>
 
-**Diagrama de Contenedores (C4 Model – Nivel 2)**
+**Diagrama de Contenedores (C4 Model – Nivel 2)** <br>
 Presenta la vista arquitectónica, definiendo los contenedores principales: Frontend Web, App Móvil, API Gateway y microservicios especializados (Users, Vehicles, Payments, Notifications, Messaging, etc.), cada uno con su propia base de datos y conexión a servicios externos. Esto justifica la separación de responsabilidades y la escalabilidad del sistema. <br>
 
 <img src="assets/Container Diagram.png"> <br><br><br>
