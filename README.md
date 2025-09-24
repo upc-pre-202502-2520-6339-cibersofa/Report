@@ -1650,7 +1650,7 @@ Presenta la vista arquitectónica, definiendo los contenedores principales: Fron
 
 **Diagrama de Componentes (C4 Model - Nivel 3)** <br>
 
-El diagrama de contenedores de AutoMatch muestra la arquitectura de alto nivel del sistema, incluyendo aplicaciones frontend, el API Gateway, microservicios y sus bases de datos. Refleja cómo cada módulo cumple una función específica (usuarios, vehículos, pagos, notificaciones, etc.) y cómo se integran con sistemas externos como la pasarela de pagos y verificación de identidad. Este diseño asegura modularidad, escalabilidad y seguridad en las transacciones de la plataforma. <br><br>
+El diagrama de componentes de AutoMatch representa la estructura interna del sistema dentro de un contenedor backend basado en Spring Boot. Cada componente refleja un módulo funcional clave, independiente y con responsabilidades bien definidas, los cuales se comunican entre sí a través del API Gateway. Cada componente está asociado a su base de datos independiente (PostgreSQL o MongoDB), garantizando la autonomía de cada módulo y facilitando la escalabilidad. Además, el sistema interactúa con servicios externos como la Pasarela de Pagos y el Servicio de Notificaciones, asegurando integraciones críticas. En conjunto, este diagrama refleja cómo el sistema está desacoplado, modular y orientado a microservicios, siguiendo principios de escalabilidad, resiliencia y mantenibilidad. <br><br>
 
 <table>
   <thead>
