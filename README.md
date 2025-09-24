@@ -1398,23 +1398,92 @@ En esta sección del Product Backlog se encuentran recopiladas todas las User St
 
 
 # Capítulo IV: Product Architecture Design
-## 4.1. Design Concepts, ViewPoints & ER Diagrams
-### 4.1.1. Principles Statements
+En este capítulo se presenta el diseño de la arquitectura del producto AutoMatch, detallando los conceptos, puntos de vista y modelos que orientan la construcción del sistema. El objetivo es mostrar cómo las decisiones arquitectónicas responden tanto a los requisitos funcionales como a los no funcionales, asegurando una solución robusta, escalable y alineada con las necesidades del negocio. <br>
 
-- **Desacoplamiento y escalabilidad:** La solución debe diseñarse con microservicios independientes, que puedan evolucionar y escalarse sin afectar al resto del sistema.
-- **Disponibilidad sobre complejidad:** Se prioriza la resiliencia y la tolerancia a fallos sobre la sofisticación del código.
-- **Comunicación ligera:** Preferencia por APIs RESTful y mensajería asíncrona para reducir latencia y evitar dependencias fuertes.
-- **Seguridad desde el diseño:** Aplicación de autenticación y autorización con estándares (JWT, OAuth2).
-- **Bases de datos autónomas:** Cada microservicio tendrá su propia base de datos, alineado con la autonomía del contexto delimitado (Bounded Context).
+## 4.1. Design Concepts, ViewPoints & ER Diagrams
+Esta sección desarrolla los conceptos de diseño, principios y diagramas que sustentan la arquitectura de AutoMatch. Se abordan los puntos de vista clave (contexto, contenedores, componentes y bases de datos), así como la forma en que estos se integran para brindar soporte a los distintos casos de uso y usuarios del sistema. <br>
+
+### 4.1.1. Principles Statements
+Los principios arquitectónicos definen las directrices fundamentales que guían las decisiones de diseño del sistema. Estos principios aseguran coherencia en la construcción de los módulos, facilitan la mantenibilidad y permiten evolucionar la solución de manera ordenada frente a cambios futuros. <br>
+
+<table>
+  <tr>
+    <th>Principio</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Desacoplamiento y escalabilidad</td>
+    <td>La solución debe diseñarse con microservicios independientes, que puedan evolucionar y escalarse sin afectar al resto del sistema.</td>
+  </tr>
+  <tr>
+    <td>Disponibilidad sobre complejidad</td>
+    <td>Se prioriza la resiliencia y la tolerancia a fallos sobre la sofisticación del código.</td>
+  </tr>
+  <tr>
+    <td>Comunicación ligera</td>
+    <td>Preferencia por APIs RESTful y mensajería asíncrona para reducir latencia y evitar dependencias fuertes.</td>
+  </tr>
+  <tr>
+    <td>Seguridad desde el diseño</td>
+    <td>Aplicación de autenticación y autorización con estándares (JWT, OAuth2).</td>
+  </tr>
+  <tr>
+    <td>Bases de datos autónomas</td>
+    <td>Cada microservicio tendrá su propia base de datos, alineado con la autonomía del contexto delimitado (Bounded Context).</td>
+  </tr>
+</table> <br><br><br>
   
 ### 4.1.2. Approaches Statements Architectural Styles & Patterns
 
-- **Estilo principal:** Arquitectura Microservicios
-- **Complementos:**
- - **DDD (Domain Driven Design)** para estructurar bounded contexts y un lenguaje ubicuo
- - **Capa en N-Tier** para separar presentación, lógica de negocio y persistencia
- - **Message-Bus** para la comunicación asíncrona entre servicios cuando se requiera alta integración.
- - **Patrones aplicados:** Repository, Factory, Observer (para eventos), Circuit Breaker (resiliencia).
+En esta sección se describen los estilos arquitectónicos y patrones aplicados en AutoMatch, los cuales guían la forma en que los componentes se organizan e interactúan. Estas aproximaciones permiten garantizar que la solución sea escalable, mantenible y resiliente, a la vez que alineada con buenas prácticas de diseño de software. <br>
+
+<table>
+  <tr>
+    <th>Enfoque / Estilo</th>
+    <th>Descripción</th>
+    <th>Aplicación en AutoMatch</th>
+  </tr>
+  <tr>
+    <td>Arquitectura de Microservicios</td>
+    <td>Divide el sistema en servicios independientes y escalables.</td>
+    <td>Cada módulo (usuarios, vehículos, pagos, notificaciones, etc.) se desarrolla como microservicio autónomo.</td>
+  </tr>
+  <tr>
+    <td>Domain Driven Design (DDD)</td>
+    <td>Organiza el sistema en <i>bounded contexts</i> y fomenta un lenguaje ubicuo.</td>
+    <td>Separa claramente dominios como vehículos, pagos, certificaciones y usuarios.</td>
+  </tr>
+  <tr>
+    <td>Capa en N-Tier</td>
+    <td>Separa responsabilidades en capas: presentación, negocio y persistencia.</td>
+    <td>Frontend (web/móvil), lógica de negocio (backend), y persistencia (bases de datos).</td>
+  </tr>
+  <tr>
+    <td>Message-Bus</td>
+    <td>Facilita la comunicación asíncrona y desacoplada entre servicios.</td>
+    <td>Se usa en notificaciones y actualizaciones en tiempo real.</td>
+  </tr>
+  <tr>
+    <td>Repository Pattern</td>
+    <td>Abstrae la lógica de acceso a datos.</td>
+    <td>Gestión de usuarios, vehículos y transacciones con repositorios dedicados.</td>
+  </tr>
+  <tr>
+    <td>Factory Pattern</td>
+    <td>Centraliza la creación de objetos complejos.</td>
+    <td>Creación estandarizada de notificaciones, reportes y entidades de dominio.</td>
+  </tr>
+  <tr>
+    <td>Observer Pattern</td>
+    <td>Permite reaccionar automáticamente a eventos.</td>
+    <td>Notificaciones emitidas cuando cambian estados de autos, pagos o inspecciones.</td>
+  </tr>
+  <tr>
+    <td>Circuit Breaker</td>
+    <td>Previene fallos en cascada al depender de servicios externos.</td>
+    <td>Protege al sistema cuando la pasarela de pagos o servicios externos fallan.</td>
+  </tr>
+</table> <br><br><br>
 
 ### 4.1.3. Context Diagram
 El diagrama de contexto representa la visión de alto nivel (C4 – Nivel 1) del sistema AutoMatch y su interacción con usuarios y sistemas externos. Su construcción se justifica en función de los requisitos funcionales y no funcionales definidos para el proyecto, buscando mostrar los límites del sistema y las dependencias tecnológicas críticas. <br><br>
@@ -1733,21 +1802,77 @@ La base de datos No Relacional de AutoMatch fue implementada en MongoDB, estruct
 <img src="assets/AutoMatch-DB-No-Relational.PNG"> <br><br><br>
 
 
-### 4.1.6. Design Patterns
+### 4.1.6. Design Patterns 
+En el diseño de AutoMatch se aplican diversos patrones de diseño que permiten mejorar la mantenibilidad, escalabilidad y robustez del sistema. Estos patrones aseguran que los módulos estén desacoplados y facilitan la integración con servicios externos. <br>
 
-- **Repository Pattern:** Para abstraer la lógica de acceso a datos.
-- **Factory Pattern:** Creación controlada de objetos complejos.
-- **Observer/Event Driven:** Para emitir notificaciones en tiempo real.
-- **Circuit Breaker:** Resiliencia en llamadas a microservicios externos.
-- **API Gateway Pattern:** Punto de entrada unificado para clientes.
+<table>
+  <tr>
+    <th>Patrón</th>
+    <th>Propósito</th>
+    <th>Aplicación en AutoMatch</th>
+  </tr>
+  <tr>
+    <td>Repository</td>
+    <td>Separar la lógica de acceso a datos de la lógica de negocio.</td>
+    <td>Gestión de entidades como usuarios, vehículos y pagos de manera desacoplada, facilitando mantenimiento y pruebas.</td>
+  </tr>
+  <tr>
+    <td>Factory</td>
+    <td>Centralizar y controlar la creación de objetos complejos.</td>
+    <td>Creación de instancias de notificaciones o reportes de manera estandarizada según las reglas del negocio.</td>
+  </tr>
+  <tr>
+    <td>Observer / Event Driven</td>
+    <td>Permitir que los componentes reaccionen automáticamente a eventos.</td>
+    <td>Emisión de notificaciones en tiempo real hacia compradores y vendedores al registrarse pagos o actualizaciones.</td>
+  </tr>
+  <tr>
+    <td>Circuit Breaker</td>
+    <td>Asegurar resiliencia en llamadas a microservicios externos.</td>
+    <td>Evitar fallos en cascada al interactuar con la pasarela de pagos o servicios externos.</td>
+  </tr>
+  <tr>
+    <td>API Gateway</td>
+    <td>Centralizar el acceso de clientes y manejar enrutamiento/autenticación.</td>
+    <td>Punto de entrada único para las apps web y móvil, gestionando seguridad y distribución hacia microservicios.</td>
+  </tr>
+</table> <br><br><br>
 
 ### 4.1.7. Tactics
+Las tácticas arquitectónicas definidas para AutoMatch se orientan a cumplir con los atributos de calidad no funcionales, tales como disponibilidad, modificabilidad, rendimiento, seguridad y usabilidad. Cada táctica refuerza un aspecto clave para garantizar la confiabilidad y eficiencia del sistema. <br>
 
-- **Disponibilidad:** Redundancia de instancias y balanceo de carga.
-- **Modificabilidad:** Código desacoplado, uso de interfaces y versionamiento de APIs.
-- **Performance:** Caching de datos frecuentes y uso de colas asíncronas.
-- **Seguridad:** Validación de entrada, cifrado en tránsito y en reposo.
-- **Usabilidad:** Diseños consistentes y experiencia de usuario simplificada.
+<table>
+  <tr>
+    <th>Táctica</th>
+    <th>Objetivo de Calidad</th>
+    <th>Aplicación en AutoMatch</th>
+  </tr>
+  <tr>
+    <td>Disponibilidad</td>
+    <td>Garantizar operación continua del sistema.</td>
+    <td>Uso de balanceadores de carga y replicación de instancias para asegurar alta disponibilidad.</td>
+  </tr>
+  <tr>
+    <td>Modificabilidad</td>
+    <td>Facilitar cambios y evolución del sistema.</td>
+    <td>Código desacoplado, uso de interfaces y versionamiento de APIs.</td>
+  </tr>
+  <tr>
+    <td>Performance</td>
+    <td>Optimizar tiempos de respuesta y eficiencia.</td>
+    <td>Aplicación de caché en consultas frecuentes y colas asíncronas para tareas pesadas.</td>
+  </tr>
+  <tr>
+    <td>Seguridad</td>
+    <td>Proteger la información y transacciones.</td>
+    <td>Cifrado de datos en tránsito y reposo, validación de entradas y autenticación con JWT.</td>
+  </tr>
+  <tr>
+    <td>Usabilidad</td>
+    <td>Mejorar la experiencia del usuario final.</td>
+    <td>Diseños consistentes, interfaz intuitiva y procesos simplificados.</td>
+  </tr>
+</table> <br><br><br>
 
 ## 4.2. Architectural Drivers
 ### 4.1.8. Design Purpose
