@@ -1797,7 +1797,7 @@ La base de datos No Relacional de AutoMatch fue implementada en MongoDB, estruct
     <td>action, timestamp, userId</td>
     <td>Almacena trazabilidad y acciones realizadas por los usuarios.</td>
   </tr>
-</table> <br><br><br>
+</table> <br><br>
 
 <img src="assets/AutoMatch-DB-No-Relational.PNG"> <br><br><br>
 
@@ -1836,7 +1836,7 @@ En el diseño de AutoMatch se aplican diversos patrones de diseño que permiten 
     <td>Centralizar el acceso de clientes y manejar enrutamiento/autenticación.</td>
     <td>Punto de entrada único para las apps web y móvil, gestionando seguridad y distribución hacia microservicios.</td>
   </tr>
-</table> <br><br><br>
+</table> <br><br>
 
 ### 4.1.7. Tactics
 Las tácticas arquitectónicas definidas para AutoMatch se orientan a cumplir con los atributos de calidad no funcionales, tales como disponibilidad, modificabilidad, rendimiento, seguridad y usabilidad. Cada táctica refuerza un aspecto clave para garantizar la confiabilidad y eficiencia del sistema. <br>
@@ -1872,7 +1872,7 @@ Las tácticas arquitectónicas definidas para AutoMatch se orientan a cumplir co
     <td>Mejorar la experiencia del usuario final.</td>
     <td>Diseños consistentes, interfaz intuitiva y procesos simplificados.</td>
   </tr>
-</table> <br><br><br>
+</table> <br><br>
 
 ## 4.2. Architectural Drivers
 Los drivers arquitectónicos son los factores críticos que influyen en el diseño de la solución. Incluyen los propósitos principales de la arquitectura, la funcionalidad esperada, los atributos de calidad a garantizar, las restricciones técnicas y las preocupaciones arquitectónicas que deben ser atendidas. Estos drivers aseguran que la arquitectura no solo cumpla con los requisitos funcionales, sino que también sea robusta, segura y escalable. <br>
@@ -1910,7 +1910,7 @@ Las historias de usuario representan la funcionalidad esencial que el sistema de
     <td>Notificaciones</td>
     <td>Como usuario quiero recibir alertas (correo, app) sobre el estado de mis transacciones o mensajes.</td>
   </tr>
-</table> <br><br><br>
+</table> <br><br>
 
 ### 4.1.10. Quality Attribute Scenarios
 
@@ -1958,7 +1958,7 @@ Las restricciones arquitectónicas son decisiones impuestas por requerimientos e
     <td>Tiempo</td>
     <td>Tiempo máximo de entrega: 16 semanas.</td>
   </tr>
-</table> <br><br><br>
+</table> <br><br>
 
 ### 4.1.12. Architectural Concerns
 
@@ -1985,7 +1985,7 @@ Las preocupaciones arquitectónicas reflejan los aspectos críticos que deben ab
     <td>Costos</td>
     <td>Control del gasto en infraestructura cloud manteniendo alta disponibilidad.</td>
   </tr>
-</table> <br><br><br>
+</table> <br><br>
 
 ## 4.3. ADD Iterations
 
@@ -2029,7 +2029,7 @@ Se establecieron los cimientos del sistema, incluyendo el registro de usuarios, 
     <td>Análisis</td>
     <td>Validación de seguridad inicial y escalabilidad para múltiples sesiones concurrentes.</td>
   </tr>
-</table> <br><br><br>
+</table> <br><br>
 
 ### 4.2.2. Iteration 2: <Gestión de Vehículos y Certificación>
 
@@ -2069,7 +2069,7 @@ Se desarrollaron los servicios de publicación, búsqueda, edición y certificac
     <td>Análisis</td>
     <td>Se asegura la trazabilidad de los vehículos listados y la confianza mediante certificaciones validadas por talleres técnicos.</td>
   </tr>
-</table> <br><br><br>
+</table> <br><br>
 
 ### 4.2.3. Iteration 3: <Pagos Seguros>
 
@@ -2109,7 +2109,7 @@ Se implementó el servicio de pagos y transacciones, conectado con una pasarela 
     <td>Análisis</td>
     <td>Se garantiza un sistema de pago seguro, resiliente y con registros claros de todas las operaciones financieras.</td>
   </tr>
-</table> <br><br><br>
+</table> <br><br>
 
 ### 4.2.4. Iteration 4: <Notificaciones y Mensajería en Tiempo Real>
 
@@ -2149,7 +2149,7 @@ Se añadieron notificaciones automáticas (listados, promociones, cambios de est
     <td>Análisis</td>
     <td>Se mejora la experiencia de usuario con comunicación instantánea y alertas personalizadas, sin sobrecargar el backend.</td>
   </tr>
-</table> <br><br><br>
+</table> <br><br>
 
 ### 4.2.5. Iteration 5: <Reportes, Métricas y Soporte>
 
@@ -2189,26 +2189,792 @@ Finalmente, se incluyeron servicios de reportes, métricas de uso y soporte a us
     <td>Análisis</td>
     <td>La plataforma obtiene visibilidad de su rendimiento y ofrece soporte directo a usuarios, facilitando mejoras continuas.</td>
   </tr>
-</table> <br><br><br>
+</table> <br><br>
 
 ## Por qué 5 Iteraciones?
 
 El diseño en cinco iteraciones se justifica porque cada etapa: <br>
 
-1. Cubre un dominio funcional completo antes de avanzar al siguiente (usuarios, autos, pagos, comunicación, analítica).
-2. Prioriza atributos de calidad en orden de importancia: primero seguridad y escalabilidad, luego confiabilidad de la información, después seguridad financiera, seguido de usabilidad,    y finalmente mantenibilidad.
-3. Minimiza riesgos de integración: se avanza de lo más crítico y transversal (usuarios y accesos) hacia lo más especializado (reportes y métricas).
-4. Permite entregas incrementales: cada iteración entrega valor al usuario y puede ponerse en producción de manera progresiva.
-5. Balancea tiempo y complejidad: se logró dividir el proyecto en bloques manejables dentro del plazo de 16 semanas establecido como restricción.
+- 1. Cubre un dominio funcional completo antes de avanzar al siguiente (usuarios, autos, pagos, comunicación, analítica).
+- 2. Prioriza atributos de calidad en orden de importancia: primero seguridad y escalabilidad, luego confiabilidad de la información, después seguridad financiera, seguido de    usabilidad,    y finalmente mantenibilidad.
+- 3. Minimiza riesgos de integración: se avanza de lo más crítico y transversal (usuarios y accesos) hacia lo más especializado (reportes y métricas).
+- 4. Permite entregas incrementales: cada iteración entrega valor al usuario y puede ponerse en producción de manera progresiva.
+- 5. Balancea tiempo y complejidad: se logró dividir el proyecto en bloques manejables dentro del plazo de 16 semanas establecido como restricción.
 
-### 4.2.X.1. Architectural Design Backlog N
-### 4.2.X.2. Establish Iteration Goal by Selecting Drivers
-### 4.2.X.3. Choose One or More Elements of the System to Refine
-### 4.2.X.4. Choose One or More Design Concepts That Satisfy the Selected Drivers
-### 4.2.X.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
-### 4.2.X.6. Sketch Views (C4 & UML) and Record Design Decisions
-### 4.2.X.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)
+### 4.2.1.1. Architectural Design Backlog 1
 
+Este apartado define qué funcionalidades forman parte del alcance de la primera iteración y por qué son prioritarias en el diseño de la arquitectura. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Architectural Design Backlog</td>
+    <td>Registro de usuarios, autenticación y gestión de cuentas. Constituyen la base de seguridad y acceso de la plataforma, necesarias para habilitar los demás módulos.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.1.2. Establish Iteration Goal by Selecting Drivers
+
+Este apartado identifica los drivers de calidad y negocio que guían el diseño de la iteración, priorizando atributos clave como seguridad, rendimiento, escalabilidad o disponibilidad. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Establish Iteration Goal by Selecting Drivers</td>
+    <td>
+      <ul>
+        <li><b>Seguridad:</b> Garantizar acceso protegido a la plataforma mediante autenticación robusta.</li>
+        <li><b>Escalabilidad:</b> Soportar múltiples sesiones concurrentes sin degradar el rendimiento.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.1.3. Choose One or More Elements of the System to Refine
+
+Este apartado selecciona los elementos de la arquitectura que deben detallarse o ajustarse en la iteración, con base en los drivers definidos. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Choose Elements to Refine</td>
+    <td>
+      <ul>
+        <li><b>Auth Service:</b> Microservicio encargado de autenticación y autorización.</li>
+        <li><b>API Gateway:</b> Control de entrada, enrutamiento de peticiones y aplicación de políticas de seguridad.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.1.4. Choose One or More Design Concepts That Satisfy the Selected Drivers
+
+Este apartado define los conceptos de diseño o patrones arquitectónicos que permiten cumplir con los drivers seleccionados, garantizando calidad y coherencia en la solución. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Choose Design Concepts</td>
+    <td>
+      <ul>
+        <li><b>API Gateway Pattern:</b> Centralizar peticiones y aplicar políticas de seguridad.</li>
+        <li><b>JWT (JSON Web Token):</b> Asegurar sesiones de usuario sin sobrecargar la base de datos.</li>
+        <li><b>Repository Pattern:</b> Desacoplar el acceso a datos de usuarios para mayor mantenibilidad.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.1.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
+
+En este paso se definen los elementos arquitectónicos específicos, sus responsabilidades y las interfaces expuestas, garantizando una separación clara de funciones. <br>
+
+<table>
+  <tr>
+    <th>Elemento</th>
+    <th>Responsabilidad</th>
+    <th>Interfaces</th>
+  </tr>
+  <tr>
+    <td>Auth Service</td>
+    <td>Validar credenciales, emitir tokens JWT, gestionar roles de usuario.</td>
+    <td>/api/v1/auth (login, register, refresh)</td>
+  </tr>
+  <tr>
+    <td>UserDB</td>
+    <td>Almacenar usuarios y roles de forma segura.</td>
+    <td>Consultas SQL (PostgreSQL)</td>
+  </tr>
+  <tr>
+    <td>API Gateway</td>
+    <td>Exponer endpoints públicos y enrutar peticiones a microservicios.</td>
+    <td>/api/v1/* (proxy hacia servicios internos)</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.1.6. Sketch Views (C4 & UML) and Record Design Decisions
+
+Este paso documenta la arquitectura de manera visual usando C4 (nivel 2 - Contenedores) y UML, además de registrar las decisiones clave de diseño que guían la implementación. <br>
+
+<table>
+  <tr>
+    <th>Vista / Decisión</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>C4 Nivel 2 (Containers)</td>
+    <td>Representa API Gateway, Auth Service y UserDB, mostrando cómo interactúan en la autenticación.</td>
+  </tr>
+  <tr>
+    <td>UML Caso de Uso</td>
+    <td>“Registro de Usuario” con actores Comprador/Vendedor accediendo a la plataforma.</td>
+  </tr>
+  <tr>
+    <td>Decisión Clave</td>
+    <td>Implementar autenticación centralizada desde la primera iteración para reducir riesgos futuros.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.1.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)
+
+Aquí se evalúa si el diseño cumple con los drivers establecidos. Se documenta el estado de las tareas mediante un Kanban Board y se revisa el objetivo de la iteración. <br>
+
+<table>
+  <tr>
+    <th>Estado</th>
+    <th>Tarea</th>
+  </tr>
+  <tr>
+    <td>To Do</td>
+    <td>Definir endpoints de autenticación (login, registro, refresh token).</td>
+  </tr>
+  <tr>
+    <td>In Progress</td>
+    <td>Implementación del Auth Service en Spring Boot.</td>
+  </tr>
+  <tr>
+    <td>Done</td>
+    <td>Validación con JWT y pruebas de concurrencia para múltiples usuarios.</td>
+  </tr>
+  <tr>
+    <td>Revisión</td>
+    <td>Se cumplió el objetivo de seguridad inicial y se validó que la arquitectura soporta crecimiento de usuarios sin comprometer rendimiento.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.2.1. Architectural Design Backlog 2
+
+Este apartado define las funcionalidades incluidas en la iteración 2, enfocándose en el ciclo de vida de los vehículos dentro de la plataforma. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Architectural Design Backlog</td>
+    <td>Búsqueda, listado, edición y eliminación de autos; visualización de detalles. Constituyen el núcleo de la plataforma de compra-venta.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.2.2. Establish Iteration Goal by Selecting Drivers
+
+Este apartado selecciona los drivers que guían el diseño para esta iteración, priorizando usabilidad y rendimiento. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Establish Iteration Goal by Selecting Drivers</td>
+    <td>
+      <ul>
+        <li><b>Usabilidad:</b> Interfaz clara para vendedores y compradores.</li>
+        <li><b>Performance:</b> Respuestas rápidas en búsquedas y listados.</li>
+        <li><b>Escalabilidad:</b> Soporte para miles de listados simultáneamente.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.2.3. Choose One or More Elements of the System to Refine
+
+Este apartado selecciona los elementos del sistema que serán refinados para cumplir los drivers establecidos. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Choose Elements to Refine</td>
+    <td>
+      <ul>
+        <li><b>Vehicle Service:</b> Gestión completa de autos (crear, editar, eliminar, buscar).</li>
+        <li><b>VehicleDB:</b> Base de datos para almacenar autos y listados.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.2.4. Choose One or More Design Concepts That Satisfy the Selected Drivers
+
+Aquí se definen los patrones de diseño y estilos que permiten cumplir los drivers de rendimiento, usabilidad y escalabilidad. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Choose Design Concepts</td>
+    <td>
+      <ul>
+        <li><b>Repository Pattern:</b> Abstracción del acceso a datos de vehículos.</li>
+        <li><b>DTOs (Data Transfer Objects):</b> Para optimizar transferencia de información en listados.</li>
+        <li><b>Indexación en BD:</b> Mejorar la velocidad de búsquedas.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.2.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
+
+Definición clara de los elementos arquitectónicos, sus responsabilidades y las interfaces expuestas. <br>
+
+<table>
+  <tr>
+    <th>Elemento</th>
+    <th>Responsabilidad</th>
+    <th>Interfaces</th>
+  </tr>
+  <tr>
+    <td>Vehicle Service</td>
+    <td>Gestionar operaciones CRUD de autos, búsquedas, comparaciones y favoritos.</td>
+    <td>/api/v1/vehicle (GET, POST, PUT, DELETE)</td>
+  </tr>
+  <tr>
+    <td>VehicleDB</td>
+    <td>Almacenar detalles de vehículos: marca, modelo, año, precio, estado.</td>
+    <td>Consultas SQL optimizadas en PostgreSQL</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.2.6. Sketch Views (C4 & UML) and Record Design Decisions
+
+Representación visual de la interacción de los elementos refinados y las decisiones clave. <br>
+
+<table>
+  <tr>
+    <th>Vista / Decisión</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>C4 Nivel 2 (Containers)</td>
+    <td>Vehicle Service conectado al API Gateway y persistiendo datos en VehicleDB.</td>
+  </tr>
+  <tr>
+    <td>UML Caso de Uso</td>
+    <td>“Listar Vehículo” con actor Vendedor publicando un auto y Comprador consultando.</td>
+  </tr>
+  <tr>
+    <td>Decisión Clave</td>
+    <td>Implementar búsquedas con filtros e indexación para mejorar experiencia del usuario.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.2.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)
+
+Análisis del cumplimiento de drivers y documentación de progreso en un tablero Kanban. <br>
+
+<table>
+  <tr>
+    <th>Estado</th>
+    <th>Tarea</th>
+  </tr>
+  <tr>
+    <td>To Do</td>
+    <td>Diseñar esquema de VehicleDB con índices en campos clave (marca, modelo, año).</td>
+  </tr>
+  <tr>
+    <td>In Progress</td>
+    <td>Implementación de endpoints CRUD en Vehicle Service.</td>
+  </tr>
+  <tr>
+    <td>Done</td>
+    <td>Pruebas iniciales de búsqueda con filtros y carga de listados.</td>
+  </tr>
+  <tr>
+    <td>Revisión</td>
+    <td>La arquitectura asegura consultas rápidas y escalabilidad al crecer el número de autos listados.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.3.1. Architectural Design Backlog 3
+
+Este apartado define las funcionalidades de certificación e inspección de autos como prioridad para asegurar la confianza de los compradores. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Architectural Design Backlog</td>
+    <td>Solicitud de certificaciones, inspecciones técnicas, informes de estado y actualizaciones de resultados. Refuerzan la confianza del comprador en la plataforma.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.3.2. Establish Iteration Goal by Selecting Drivers
+
+Drivers que guían esta iteración, priorizando confiabilidad y trazabilidad. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Establish Iteration Goal by Selecting Drivers</td>
+    <td>
+      <ul>
+        <li><b>Confiabilidad:</b> Garantizar que los informes de certificación sean precisos y verificables.</li>
+        <li><b>Trazabilidad:</b> Mantener historial de inspecciones y certificaciones de cada vehículo.</li>
+        <li><b>Notificación:</b> Informar a compradores y vendedores sobre cambios de estado en tiempo real.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.3.3. Choose One or More Elements of the System to Refine
+
+Se seleccionan los elementos que soportan los procesos de certificación e inspección. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Choose Elements to Refine</td>
+    <td>
+      <ul>
+        <li><b>Certification/Inspection Service:</b> Coordina solicitudes de inspección, genera informes y actualiza estados.</li>
+        <li><b>VehicleDB:</b> Almacena resultados de certificaciones vinculados a vehículos.</li>
+        <li><b>Notification Service:</b> Envía alertas a usuarios sobre actualizaciones en procesos de inspección.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.3.4. Choose One or More Design Concepts That Satisfy the Selected Drivers
+
+Patrones y conceptos aplicados para garantizar confiabilidad y trazabilidad. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Choose Design Concepts</td>
+    <td>
+      <ul>
+        <li><b>Event-Driven Architecture:</b> Publicar eventos al completarse inspecciones o certificaciones.</li>
+        <li><b>Repository Pattern:</b> Acceso estructurado a datos de inspecciones.</li>
+        <li><b>Observer Pattern:</b> Notificaciones automáticas cuando cambian los estados.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.3.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
+
+Asignación de responsabilidades a los elementos principales y definición de interfaces. <br>
+
+<table>
+  <tr>
+    <th>Elemento</th>
+    <th>Responsabilidad</th>
+    <th>Interfaces</th>
+  </tr>
+  <tr>
+    <td>Certification/Inspection Service</td>
+    <td>Gestionar solicitudes, generar informes y actualizar estados.</td>
+    <td>/api/v1/certifications, /api/v1/inspections</td>
+  </tr>
+  <tr>
+    <td>VehicleDB</td>
+    <td>Persistir información de inspecciones y certificaciones asociadas a vehículos.</td>
+    <td>Consultas SQL (PostgreSQL)</td>
+  </tr>
+  <tr>
+    <td>Notification Service</td>
+    <td>Emitir alertas en tiempo real sobre cambios en inspecciones.</td>
+    <td>/api/v1/notifications</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.3.6. Sketch Views (C4 & UML) and Record Design Decisions
+
+Representaciones gráficas y decisiones clave para la iteración. <br>
+
+<table>
+  <tr>
+    <th>Vista / Decisión</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>C4 Nivel 2 (Containers)</td>
+    <td>Certification/Inspection Service integrado al API Gateway, con persistencia en VehicleDB y conexión al Notification Service.</td>
+  </tr>
+  <tr>
+    <td>UML Caso de Uso</td>
+    <td>“Solicitar Certificación de Auto” con actores Vendedor (solicita) y Taller Técnico (responde).</td>
+  </tr>
+  <tr>
+    <td>Decisión Clave</td>
+    <td>Integrar inspecciones y certificaciones en el flujo de compra para aumentar la confianza del usuario.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.3.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)
+
+Evaluación de cumplimiento y seguimiento de tareas mediante Kanban. <br>
+
+<table>
+  <tr>
+    <th>Estado</th>
+    <th>Tarea</th>
+  </tr>
+  <tr>
+    <td>To Do</td>
+    <td>Diseñar esquema de VehicleDB para almacenar resultados de certificaciones.</td>
+  </tr>
+  <tr>
+    <td>In Progress</td>
+    <td>Implementación del Certification/Inspection Service.</td>
+  </tr>
+  <tr>
+    <td>Done</td>
+    <td>Integración con Notification Service para alertar sobre cambios de estado.</td>
+  </tr>
+  <tr>
+    <td>Revisión</td>
+    <td>Se logró trazabilidad de inspecciones y notificación en tiempo real a los usuarios.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.4.1. Architectural Design Backlog 4
+
+Este apartado define las funcionalidades de la iteración, centradas en garantizar transacciones seguras y confiables. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Architectural Design Backlog</td>
+    <td>Pagos seguros, confirmación de transacciones, historial y gestión de reembolsos. Constituyen el corazón de la monetización de la plataforma.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.4.2. Establish Iteration Goal by Selecting Drivers
+
+Drivers seleccionados para guiar el diseño, priorizando seguridad y disponibilidad. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Establish Iteration Goal by Selecting Drivers</td>
+    <td>
+      <ul>
+        <li><b>Seguridad:</b> Garantizar que los pagos y transacciones estén cifrados y autenticados.</li>
+        <li><b>Disponibilidad:</b> Asegurar que el servicio de pagos esté siempre operativo.</li>
+        <li><b>Trazabilidad:</b> Mantener registros completos de cada operación para auditoría.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.4.3. Choose One or More Elements of the System to Refine
+
+Elementos clave seleccionados para esta iteración. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Choose Elements to Refine</td>
+    <td>
+      <ul>
+        <li><b>Payment Service:</b> Procesamiento de pagos, validaciones y reembolsos.</li>
+        <li><b>TransactionDB:</b> Almacena registros de transacciones y estados.</li>
+        <li><b>Pasarela de Pagos Externa:</b> Integración con sistemas de pago de terceros.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.4.4. Choose One or More Design Concepts That Satisfy the Selected Drivers
+
+Conceptos aplicados para garantizar seguridad y resiliencia en pagos. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Choose Design Concepts</td>
+    <td>
+      <ul>
+        <li><b>Secure API Design:</b> Validación estricta de entradas y cifrado TLS.</li>
+        <li><b>Circuit Breaker Pattern:</b> Resiliencia ante fallos de la pasarela externa.</li>
+        <li><b>Event Sourcing:</b> Registro inmutable de transacciones para trazabilidad.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.4.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
+
+Asignación de responsabilidades y definición de interfaces del sistema de pagos. <br>
+
+<table>
+  <tr>
+    <th>Elemento</th>
+    <th>Responsabilidad</th>
+    <th>Interfaces</th>
+  </tr>
+  <tr>
+    <td>Payment Service</td>
+    <td>Procesar pagos, validar información, gestionar reembolsos y enviar confirmaciones.</td>
+    <td>/api/v1/payments, /api/v1/refunds</td>
+  </tr>
+  <tr>
+    <td>TransactionDB</td>
+    <td>Almacenar pagos, reembolsos y estados de cada transacción.</td>
+    <td>Consultas SQL (PostgreSQL)</td>
+  </tr>
+  <tr>
+    <td>Pasarela de Pagos</td>
+    <td>Intermediar en el procesamiento de pagos con entidades externas.</td>
+    <td>API REST de proveedor externo (Stripe/PayPal)</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.4.6. Sketch Views (C4 & UML) and Record Design Decisions
+
+Representaciones gráficas y decisiones de diseño tomadas en esta iteración. <br>
+
+<table>
+  <tr>
+    <th>Vista / Decisión</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>C4 Nivel 2 (Containers)</td>
+    <td>Payment Service integrado al API Gateway, con persistencia en TransactionDB y conexión a la Pasarela de Pagos.</td>
+  </tr>
+  <tr>
+    <td>UML Caso de Uso</td>
+    <td>“Pago Seguro” con actor Comprador realizando una transacción y el sistema confirmando la operación.</td>
+  </tr>
+  <tr>
+    <td>Decisión Clave</td>
+    <td>Implementar el patrón Circuit Breaker para evitar indisponibilidad por fallas externas.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.4.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)
+
+Revisión del cumplimiento de drivers y documentación en Kanban. <br>
+
+<table>
+  <tr>
+    <th>Estado</th>
+    <th>Tarea</th>
+  </tr>
+  <tr>
+    <td>To Do</td>
+    <td>Configurar integración con la pasarela de pagos externa.</td>
+  </tr>
+  <tr>
+    <td>In Progress</td>
+    <td>Implementación del Payment Service con validaciones y confirmaciones.</td>
+  </tr>
+  <tr>
+    <td>Done</td>
+    <td>Persistencia en TransactionDB y pruebas de reembolso.</td>
+  </tr>
+  <tr>
+    <td>Revisión</td>
+    <td>La arquitectura garantiza seguridad y resiliencia frente a fallos externos en pagos.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.5.1. Architectural Design Backlog 5
+
+Este apartado define las funcionalidades orientadas a engagement, observabilidad y monetización. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Architectural Design Backlog</td>
+    <td>Envío de notificaciones (push/email), mensajería interna, generación de reportes/métricas y gestión de promociones/anuncios.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.5.2. Establish Iteration Goal by Selecting Drivers
+
+Drivers que priorizan experiencia de usuario, analítica y modelo de negocio. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Establish Iteration Goal by Selecting Drivers</td>
+    <td>
+      <ul>
+        <li><b>Usabilidad & Engagement:</b> Informar en tiempo real y facilitar comunicación.</li>
+        <li><b>Observabilidad:</b> Medir el uso y desempeño de la plataforma.</li>
+        <li><b>Monetización:</b> Gestionar anuncios y promociones efectivas.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.5.3. Choose One or More Elements of the System to Refine
+
+Elementos que cubren notificación, comunicación, analítica y publicidad. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Choose Elements to Refine</td>
+    <td>
+      <ul>
+        <li><b>Notification Service:</b> Push/email/SMS según preferencias del usuario.</li>
+        <li><b>Messaging Service:</b> Chat comprador–vendedor con lectura/estado.</li>
+        <li><b>Reports & Support Service:</b> Métricas, reportes y soporte.</li>
+        <li><b>Advertising & Promotions Service:</b> Campañas, anuncios destacados y promociones.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.5.4. Choose One or More Design Concepts That Satisfy the Selected Drivers
+
+Patrones y conceptos para tiempo real, analítica y campañas. <br>
+
+<table>
+  <tr>
+    <th>Aspecto</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>Choose Design Concepts</td>
+    <td>
+      <ul>
+        <li><b>Event-Driven + Pub/Sub:</b> Disparar notificaciones ante eventos del dominio.</li>
+        <li><b>WebSocket/FCM:</b> Mensajería en tiempo real y notificaciones móviles.</li>
+        <li><b>Outbox Pattern:</b> Confiabilidad en entrega de eventos.</li>
+        <li><b>CQRS/ETL para Reporting:</b> Lecturas analíticas sin impactar OLTP.</li>
+        <li><b>Feature Flags:</b> Activar campañas y promociones de forma controlada.</li>
+      </ul>
+    </td>
+  </tr>
+</table> <br><br>
+
+### 4.2.5.5. Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
+
+Responsabilidades y contratos de cada servicio. <br>
+
+<table>
+  <tr>
+    <th>Elemento</th>
+    <th>Responsabilidad</th>
+    <th>Interfaces</th>
+  </tr>
+  <tr>
+    <td>Notification Service</td>
+    <td>Enviar notificaciones push/email/SMS y gestionar plantillas y preferencias.</td>
+    <td>/api/v1/notifications (send, topics, preferences)</td>
+  </tr>
+  <tr>
+    <td>Messaging Service</td>
+    <td>Chats, estados de lectura, archivos adjuntos ligeros, historial.</td>
+    <td>/api/v1/messages (send, inbox, read)</td>
+  </tr>
+  <tr>
+    <td>Reports & Support Service</td>
+    <td>Dashboards de uso, reportes descargables, tickets de soporte.</td>
+    <td>/api/v1/reports (activity, metrics), /api/v1/support (tickets)</td>
+  </tr>
+  <tr>
+    <td>Advertising & Promotions Service</td>
+    <td>Gestión de campañas, anuncios destacados, segmentación.</td>
+    <td>/api/v1/promotions, /api/v1/ads</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.5.6. Sketch Views (C4 & UML) and Record Design Decisions
+
+Vistas y decisiones relevantes de diseño. <br>
+
+<table>
+  <tr>
+    <th>Vista / Decisión</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>C4 Nivel 2 (Containers)</td>
+    <td>Servicios conectados al API Gateway; Pub/Sub central para eventos; stores dedicados (NotificationDB, MessageDB, ReportsDB).</td>
+  </tr>
+  <tr>
+    <td>UML Actividad</td>
+    <td>“Enviar notificación por nuevo listado” desde evento de Vehicle Service hasta entrega por canal preferido.</td>
+  </tr>
+  <tr>
+    <td>Decisión Clave</td>
+    <td>Adoptar patrón Outbox para garantizar entrega de eventos y evitar pérdida de mensajes.</td>
+  </tr>
+</table> <br><br>
+
+### 4.2.5.7. Analysis of Current Design and Review Iteration Goal (Kanban Board)
+
+Evaluación del cumplimiento y estado del trabajo. <br>
+
+<table>
+  <tr>
+    <th>Estado</th>
+    <th>Tarea</th>
+  </tr>
+  <tr>
+    <td>To Do</td>
+    <td>Configurar topics de eventos (nuevo listado, cambio de estado, pago confirmado).</td>
+  </tr>
+  <tr>
+    <td>In Progress</td>
+    <td>Implementación de Notification Service con plantillas y preferencias de usuario.</td>
+  </tr>
+  <tr>
+    <td>Done</td>
+    <td>Mensajería en tiempo real (WebSocket/FCM) y generación de reportes básicos.</td>
+  </tr>
+  <tr>
+    <td>Revisión</td>
+    <td>Se mejora engagement y visibilidad del sistema sin afectar rendimiento del core transaccional.</td>
+  </tr>
+</table> <br><br>
 
 ## VII. Bibliografía
 
