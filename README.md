@@ -1417,7 +1417,7 @@ En esta sección del Product Backlog se encuentran recopiladas todas las User St
  - **Patrones aplicados:** Repository, Factory, Observer (para eventos), Circuit Breaker (resiliencia).
 
 ### 4.1.3. Context Diagram
-El diagrama de contexto representa la visión de alto nivel (C4 – Nivel 1) del sistema AutoMatch y su interacción con usuarios y sistemas externos. Su construcción se justifica en función de los requisitos funcionales y no funcionales definidos para el proyecto, buscando mostrar los límites del sistema y las dependencias tecnológicas críticas. <br>
+El diagrama de contexto representa la visión de alto nivel (C4 – Nivel 1) del sistema AutoMatch y su interacción con usuarios y sistemas externos. Su construcción se justifica en función de los requisitos funcionales y no funcionales definidos para el proyecto, buscando mostrar los límites del sistema y las dependencias tecnológicas críticas. <br><br>
 
 <table>
   <thead>
@@ -1464,7 +1464,7 @@ El diagrama de contexto representa la visión de alto nivel (C4 – Nivel 1) del
       <td>La verificación de identidad de compradores y vendedores se realiza a través de un servicio externo especializado.</td>
     </tr>
   </tbody>
-</table>
+</table> <br><br>
 
 <img src="assets/Context Diagram.png"> <br><br><br>
 
@@ -1493,7 +1493,7 @@ Muestra las entidades principales del sistema (Usuario, Vehículo, Pago, Reporte
 <img src="assets/Class Diagram.PNG"> <br><br><br>
 
 **Diagrama de Contenedores (C4 Model – Nivel 2)** <br>
-Presenta la vista arquitectónica, definiendo los contenedores principales: Frontend Web, App Móvil, API Gateway y microservicios especializados (Users, Vehicles, Payments, Notifications, Messaging, etc.), cada uno con su propia base de datos y conexión a servicios externos. Esto justifica la separación de responsabilidades y la escalabilidad del sistema. <br>
+Presenta la vista arquitectónica, definiendo los contenedores principales: Frontend Web, App Móvil, API Gateway y microservicios especializados (Users, Vehicles, Payments, Notifications, Messaging, etc.), cada uno con su propia base de datos y conexión a servicios externos. Esto justifica la separación de responsabilidades y la escalabilidad del sistema. <br><br>
 
 <table>
   <thead>
@@ -1575,13 +1575,13 @@ Presenta la vista arquitectónica, definiendo los contenedores principales: Fron
       <td>Canaliza mensajes a los usuarios finales mediante SMS, correo o push notification.</td>
     </tr>
   </tbody>
-</table>
+</table> <br><br>
 
 <img src="assets/Container Diagram.png"> <br><br><br>
 
 **Diagrama de Componentes (C4 Model - Nivel 3)** <br>
 
-El diagrama de contenedores de AutoMatch muestra la arquitectura de alto nivel del sistema, incluyendo aplicaciones frontend, el API Gateway, microservicios y sus bases de datos. Refleja cómo cada módulo cumple una función específica (usuarios, vehículos, pagos, notificaciones, etc.) y cómo se integran con sistemas externos como la pasarela de pagos y verificación de identidad. Este diseño asegura modularidad, escalabilidad y seguridad en las transacciones de la plataforma. <br>
+El diagrama de contenedores de AutoMatch muestra la arquitectura de alto nivel del sistema, incluyendo aplicaciones frontend, el API Gateway, microservicios y sus bases de datos. Refleja cómo cada módulo cumple una función específica (usuarios, vehículos, pagos, notificaciones, etc.) y cómo se integran con sistemas externos como la pasarela de pagos y verificación de identidad. Este diseño asegura modularidad, escalabilidad y seguridad en las transacciones de la plataforma. <br><br>
 
 <table>
   <thead>
@@ -1623,7 +1623,7 @@ El diagrama de contenedores de AutoMatch muestra la arquitectura de alto nivel d
       <td>Al publicar o poner en venta un vehículo, <strong>Gestión de Vehículos</strong> invoca a <strong>Certificación/Inspección</strong> para registrar inspecciones y validar el estado técnico.</td>
     </tr>
   </tbody>
-</table>
+</table> <br><br>
 
 <img src="assets/Component Diagram.png"> <br><br><br>
 
