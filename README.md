@@ -1434,17 +1434,17 @@ Representa las funcionalidades principales que el sistema ofrece a los actores: 
 **Diagrama de Actividades**
 Describe el flujo de acciones en un proceso clave: la compra de un vehículo. Refleja el “happy path” desde la búsqueda hasta la confirmación de la transacción y recepción de notificaciones. Esto permite entender cómo se orquestan los pasos y qué condiciones se deben cumplir en cada fase. <br>
 
-<img src="assets/Compra de Vehiculo Diagram.png"> <br>
+<img src="assets/Compra de Vehiculo Diagram.PNG"> <br>
 
 **Diagrama de Estados**
 Modela el ciclo de vida de un vehículo dentro de la plataforma, pasando por estados como Publicado, En revisión, Disponible, Reservado, Vendido o Retirado. Con esto se asegura un control estricto de la trazabilidad y disponibilidad de los autos en todo momento. <br>
 
-<img src="assets/Vehicle Diagram.png"> <br>
+<img src="assets/Vehicle Diagram.PNG"> <br>
 
 **Diagrama de Clases**
 Muestra las entidades principales del sistema (Usuario, Vehículo, Pago, Reporte Técnico, Notificación) y sus relaciones. Refleja herencias, asociaciones y operaciones clave, garantizando que la lógica de negocio se soporte en una estructura robusta y extensible. <br>
 
-<img src="assets/Class Diagram.png"> <br>
+<img src="assets/Class Diagram.PNG"> <br>
 
 **Diagrama de Contenedores (C4 Model – Nivel 2)**
 Presenta la vista arquitectónica, definiendo los contenedores principales: Frontend Web, App Móvil, API Gateway y microservicios especializados (Users, Vehicles, Payments, Notifications, Messaging, etc.), cada uno con su propia base de datos y conexión a servicios externos. Esto justifica la separación de responsabilidades y la escalabilidad del sistema. <br>
