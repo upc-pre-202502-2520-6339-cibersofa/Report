@@ -3033,53 +3033,52 @@ public class AdminValidator implements RoleValidator {
 
 **Requirements Management**
 
-**Trello:** Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
+**Trello:** <br> Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar. <br>
 
-**Ruta de referencia:** **https://trello.com/es**
+**Ruta de referencia: <br> https://trello.com/es** <br>
 
-**Product UX/UI Design**
+**Product UX/UI Design** <br>
 
-**Figma:** Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
+**Figma:** <br> Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser. <br>
 
-**Ruta de referencia: https://www.figma.com/login**
-**Lucidchart:** Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación.
+**Ruta de referencia: https://www.figma.com/login** <br>
+**Lucidchart:** Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación. <br>
 
-**Ruta de referencia: https://www.lucidchart.com/**
+**Ruta de referencia: <br> https://www.lucidchart.com/** <br>
 
-**Software Development**
+**Software Development** <br>
 
-**Visual Studio Code:** Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios.
+**Visual Studio Code:** <br> Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios. <br>
 
-**Ruta de referencia: https://code.visualstudio.com/**
+**Ruta de referencia: <br> https://code.visualstudio.com/** <br>
 
-**HTML5:** HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
+**HTML5:** <br> HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. <br>
 
-**Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp**
+**Ruta de referencia: <br> https://www.w3schools.com/html/html5_syntax.asp** <br>
 
-**CSS:** Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML.
+**CSS:** <br> Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML. <br>
 
-**Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html**
+**Ruta de referencia: <br> https://google.github.io/styleguide/htmlcssguide.html** <br>
 
-**Bootstrap:** Framework CSS que permitirá crear componentes web de manera rápida y eficiente. Bootstrap se utilizará para la creación de la interfaz responsiva, asegurando que la plataforma funcione correctamente en distintos dispositivos.
+**Bootstrap:** Framework CSS que permitirá crear componentes web de manera rápida y eficiente. Bootstrap se utilizará para la creación de la interfaz responsiva, asegurando que la plataforma funcione correctamente en distintos dispositivos. <br>
 
-**Ruta de referencia: https://getbootstrap.com/**
+**Ruta de referencia: <br> https://getbootstrap.com/** <br>
 
-**Next.js:** Este framework basado en React es utilizado para optimizar el desarrollo del frontend. Next.js proporciona funcionalidades como el renderizado del lado del servidor (SSR), rutas dinámicas, y la generación estática de sitios (SSG), lo cual mejora la experiencia del usuario y el SEO de la página.
+**Next.js:** Este framework basado en React es utilizado para optimizar el desarrollo del frontend. Next.js proporciona funcionalidades como el renderizado del lado del servidor (SSR), rutas dinámicas, y la generación estática de sitios (SSG), lo cual mejora la experiencia del usuario y el SEO de la página. <br>
 
-**Ruta de referencia: https://nextjs.org/**
+**Ruta de referencia: <br> https://nextjs.org/** <br>
 
 **Software Deployment**
 
-**Git:** Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo accederán a través de la línea de comandos en sus sistemas locales.
+**Git:** <br> Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo accederán a través de la línea de comandos en sus sistemas locales. <br>
 
-**Ruta de referencia: https://git-scm.com/**
+**Ruta de referencia: <br> https://git-scm.com/** <br>
 
 **Software Documentation and Project Management**
 
+**Github:** <br> Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web. <br>
 
-**Github:** Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web.
-
-**Ruta de referencia: https://github.com/**
+**Ruta de referencia: <br> https://github.com/** <br>
 
 ### 5.2.2. Source Code Management
 
