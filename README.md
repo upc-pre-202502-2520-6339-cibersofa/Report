@@ -2976,6 +2976,375 @@ Evaluación del cumplimiento y estado del trabajo. <br>
   </tr>
 </table> <br><br>
 
+# Capítulo V: Product Implementation, Validation & Deployment
+## 5.1. Testing Suites & General Patterns
+### 5.1.1. Backend Application Core Testing Suite 
+
+Se implementó un conjunto de pruebas unitarias y de integración para validar la lógica del backend desarrollado en Spring Boot.
+
+- Frameworks utilizados: JUnit 5, Mockito.
+- Cobertura de pruebas:
+- Registro y autenticación de usuarios.
+- Creación, edición y eliminación de publicaciones de autos.
+- Procesos de verificación de pagos.
+- Búsqueda y filtrado de vehículos.
+
+Estas pruebas garantizan que los servicios principales funcionen correctamente antes del despliegue en producción.
+
+### 5.1.2. Pattern Based Backend Application(s)
+
+El backend se desarrolló aplicando patrones de diseño que permiten mayor escalabilidad y mantenibilidad:
+
+- **Repository Pattern:** encapsula la lógica de acceso a datos en clases repositorio, separando la persistencia de la lógica de negocio.
+- **DTO (Data Transfer Object):** evita exponer entidades directamente en los controladores, facilitando el intercambio de datos entre capas.
+- **Dependency Injection:** mediante el contenedor de Spring se gestionan dependencias de forma automática.
+
+### 5.1.3. Pattern Based Custom Software Library
+
+Se desarrollaron librerías internas para:
+
+- Validación de autenticación mediante JWT.
+- Encriptación de contraseñas con BCrypt.
+- Validación de comprobantes de pago.
+
+Estas librerías siguen los principios SOLID y pueden reutilizarse en otros proyectos.
+
+### 5.1.4. Framework Pattern Driven Refactoring Report
+
+Se aplicaron refactorizaciones basadas en patrones para mejorar el diseño del código:
+
+- **Antes:** múltiples bloques if-else en la validación de roles de usuario.
+- **Después (Strategy Pattern):** cada rol implementa su estrategia de validación, reduciendo complejidad y favoreciendo extensibilidad.
+
+Ejemplo simplificado:
+
+public interface RoleValidator {
+    boolean validate(User user);
+}
+
+public class AdminValidator implements RoleValidator {
+    public boolean validate(User user) {
+        return user.hasPermission("ADMIN");
+    }
+}
+
+## 5.2. Software Configuration Management
+### 5.2.1. Software Development Environment Configuration
+
+**Requirements Management**
+
+**Trello:** Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar.
+
+**Ruta de referencia:** **https://trello.com/es**
+
+**Product UX/UI Design**
+
+**Figma:** Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
+
+**Ruta de referencia: https://www.figma.com/login**
+**Lucidchart:** Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación.
+
+**Ruta de referencia: https://www.lucidchart.com/**
+
+**Software Development**
+
+**Visual Studio Code:** Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios.
+
+**Ruta de referencia: https://code.visualstudio.com/**
+
+**HTML5:** HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
+
+**Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp**
+
+**CSS:** Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML.
+
+**Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html**
+
+**Bootstrap:** Framework CSS que permitirá crear componentes web de manera rápida y eficiente. Bootstrap se utilizará para la creación de la interfaz responsiva, asegurando que la plataforma funcione correctamente en distintos dispositivos.
+
+**Ruta de referencia: https://getbootstrap.com/**
+
+**Next.js:** Este framework basado en React es utilizado para optimizar el desarrollo del frontend. Next.js proporciona funcionalidades como el renderizado del lado del servidor (SSR), rutas dinámicas, y la generación estática de sitios (SSG), lo cual mejora la experiencia del usuario y el SEO de la página.
+
+**Ruta de referencia: https://nextjs.org/**
+
+**Software Deployment**
+
+**Git:** Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo accederán a través de la línea de comandos en sus sistemas locales.
+
+**Ruta de referencia: https://git-scm.com/**
+
+**Software Documentation and Project Management**
+
+
+**Github:** Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web.
+
+**Ruta de referencia: https://github.com/**
+
+### 5.2.2. Source Code Management
+
+**Repositorio de GitHub:**
+- Enlace para acceder a la [organización](https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa)
+- Enlace para acceder al repositorio de la [landing page](https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/Landing-page)
+- Enlace para acceder al repositorio del [informe](https://github.com/UPC-PRE-SI729-2402-WX51-G3-Cibersofa/project-report)
+
+**Flujo de trabajo GitFlow**
+
+El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
+
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+<img src="assets/gitflow.png" alt="gitflow">
+</div>
+
+Gitflow es un modelo de ramificación para Git que se centra en la organización de las ramas de un proyecto de software. El modelo de Gitflow define una serie de ramas estándar y reglas para su uso, lo que facilita la colaboración y la gestión del código en un equipo de desarrollo. En UniRider, utilizamos el modelo de Gitflow para organizar y gestionar las ramas de nuestro proyecto, lo que nos permite trabajar de forma eficiente y colaborativa en el desarrollo de nuestra aplicación web.
+
+La rama **main** es la rama principal de nuestro proyecto, que contiene la versión estables, operativas y listas para implementar de UniRider. Estas variantes han sido previamente evaluadas y se ha verificado la total funcionalidad de estas tras su implementación. Emplearemos etiquetas para identificar cada variante estable y lista para implementar, lo que nos permitirá tener un seguimiento preciso de las variantes y simplificar la administración de futuras actualizaciones.
+
+La rama **develop** es la rama de desarrollo de nuestro proyecto, que contiene la versión en desarrollo de UniRider que aún no han sido sometidas a pruebas, aunque están completadas al 100% y contienen todas las características que se esperan hasta ese momento. Este canal se emplea para cargar la versión y llevar a cabo pruebas finales con el fin de corregir cualquier inconveniente antes de la publicación final en la rama main.
+
+La rama **feature** es la rama de características de nuestro proyecto, que contiene las nuevas características y funcionalidades que se están desarrollando para UniRider. Cada nueva característica se desarrolla en una rama de características separada, lo que permite a los miembros del equipo trabajar de forma independiente en diferentes aspectos de la aplicación y facilita la integración de las nuevas características en la rama de desarrollo.
+
+#### 5.2.3. Source Code Style Guide & Conventions
+
+Para asegurar la coherencia y mantenibilidad del código en **AutoMatch**, se seguirán las siguientes convenciones de estilo:
+
+**HTML:**
+- Todos los elementos deben estar correctamente cerrados.
+- Declarar el tipo de documento en la primera línea como `<!DOCTYPE html>`.
+- Utilizar comillas en los atributos que contengan espacios.
+- Especificar los atributos `alt`, `width`, y `height` en las imágenes para garantizar la accesibilidad y el rendimiento de la página.
+
+**CSS:**
+- Sangría de 2 espacios para mantener el código legible.
+- Todo el código en minúsculas.
+- Usar comentarios explicativos y eliminar espacios en blanco innecesarios.
+- Nombres de clase deben ser descriptivos, reflejando la función o propósito del elemento.
+
+**Bootstrap:**
+- Usar las utilidades predefinidas de Bootstrap para componentes y grillas responsivas.
+- Evitar la sobrecarga de estilos personalizados y priorizar el uso de las clases estándar de Bootstrap.
+
+**Next.js:**
+- Seguir las convenciones de componentes funcionales de React.
+- Utilizar hooks cuando sea necesario y modularizar el código en componentes reutilizables.
+
+### 5.2.4. Software Deployment Configuration
+
+<img src="assets/github_pages.png" alt="github-pages">
+
+Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear una carpeta llamada "docs" para alojar la Landing Page.
+2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para la landing page; "input.css" y "output.css" para poder utilizar Tailwind y una carpeta llamada "img" que contenga las imágenes.
+3. Cargar los archivos al repositorio mediante un commit.
+4. Dirigirse a **Settings > Pages** y seleccionar el branch correspondiente, en nuestro caso es el "main".
+5. Especificar la carpeta "docs" como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
+
+Link de la landing page desplegada: [AutoMatch](https://upc-pre-si729-2402-wx51-g3-cibersofa.github.io/Landing-page/)
+
+## 5.3. Microservices Implementation
+
+Aunque el proyecto se implementó bajo un monolito modular, se definió la estructura siguiendo principios de microservicios para futura escalabilidad:
+
+- Módulo de usuarios: autenticación y gestión de perfiles.
+- Módulo de publicaciones: CRUD de autos.
+- Módulo de pagos: validación de transferencias.
+- Módulo de reportes: métricas y estadísticas.
+
+Cada módulo expone endpoints REST documentados con Swagger.
+
+### 5.2.1. Sprint 1
+ <div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+
+| Sprint 1                        | Implementación de funcionalidades y diseño de la aplicación.                                                                                                                                 |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |
+| Date                            | 01/09/2025                                                                                                                                                                                   |
+| Time                            | 22:00 horas (GMT-5)                                                                                                                                                                          |
+| Location                        | Reunión realizada mediante Discord                                                                                                                                                           |
+| Prepared By                     | Vera Nuñez, Nicolas Alejandro                                                                                                                                                             |
+| Attendees (to planning meeting) | <li>Vera Nuñez, Nicolas Alejandro   </li> <li>Chávarri Zarzosa, Daniel Jhared</li> <li>Sihuar Ccotarma Ttito, Eduardo Eusebio</li> |
+| Sprint  -1 Review               |
+| Resumen                         | No hubo sprint anterior.                                                                                                                                                                     |
+| Sprint  1 Retrospective         |
+| Resumen                         | Se creará la organización de Car2Go en Github y el repositorio de la organización.                                                                                                                  |
+| **Sprint Goal & User Stories**  |
+| Sprint 1 Velocity               | 21 points                                                                                                                                                                                    |
+| Sum of Story Points             | 21 points                                                                                                                                                                                    |
+</div>
+
+##### 5.2.1.1. Sprint Backlog 1
+
+| | Sprint # | | | | Sprint 1 | | |
+|-|----------|-|-|-|----------|-|-|
+| **User Story**        |                   | **Work Item/Task** |               |                                                    |                   |                 |        |
+| **Id**            | **Title**         | **Id**         | **Title**     | **Description**                                    | **Estimation (Hours)**    | **Assigned To** | **Status** |
+| US-01          | Registro de Usuario | TW-01   | Implementar formulario de registro | Desarrollar el frontend del formulario de registro, incluyendo validaciones de entrada. | 6                 | Nicolas Vera   | Done   |
+| US-01          | Registro de Usuario | TW-02   | Estilizar formulario de registro | Aplicar estilos CSS al formulario de registro para mejorar la experiencia visual. | 4                 | Daniel Chávarri   | Done   |
+| US-02          | Búsqueda de Autos | TW-03   | Implementar sección de búsqueda | Crear la interfaz de búsqueda con HTML y CSS, añadiendo filtros y funcionalidad en JavaScript. | 5                 | Eduardo Sihuar   | Done   |
+| US-02          | Búsqueda de Autos | TW-04   | Estilizar sección de búsqueda  | Aplicar estilos CSS a la sección de búsqueda para que sea más atractiva y funcional.  | 4                 | Daniel Chávarri   | Done   |
+| US-03          | Listado de Autos | TW-05   | Desarrollar listado de autos  | Implementar la visualización del listado de autos usando HTML y CSS, con interactividad en JavaScript.  | 7                 | Nicolas Vera   | Done   |
+| US-03          | Listado de Autos | TW-06   | Estilizar listado de autos  | Aplicar estilos CSS al listado de autos para mejorar la presentación y legibilidad.  | 4                 | Eduardo Sihuar   | Done   |
+| US-09          | Notificaciones de Nuevos Listados | TW-07   | Implementar sistema de notificaciones  | Desarrollar la funcionalidad de notificaciones usando JavaScript para alertar a los compradores sobre nuevos listados.  | 6                 | Nicolas Vera   | Done   |
+| US-10          | Notificación de Actualización de Estado del Auto | TW-08   | Implementar notificaciones de estado  | Crear la funcionalidad en JavaScript que notifique a los compradores sobre cambios en el estado de los autos.  | 5                 | Daniel Chávarri   | Done   |
+
+Estimación: 41 horas.
+
+#### 5.2.1.2. Development Evidence for Sprint Review
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
+
+| Repository	  | Branch	            | Commit Id | Commit Message	                                     | Commit Message Body | Committed on (Date) |
+|--------------|--------------------|-----------|-----------------------------------------------------|---------------------|---------------------|
+| landing-page | feature/index.html | 759cc14   | feat: (Landing page) Header                         | -                   | 1/09/2025           |
+| landing-page | feature/index.html | 40c7f15   | feat: (Landing page) agregué Header y Navbar        | -                   | 1/09/2025           |
+| landing-page | feature/index.html | abdd069   | feat: Agregar sección Home                          | -                   | 1/09/2025           |
+| landing-page | feature/index.html | ea53c5f   | feat: (Landing page) agregar sección Sobre Nosotros | -                   | 1/09/2025           |
+| landing-page | feature/index.html | f269ea5   | feat: (Landing Page) implementar sección Producto   | -                   | 1/09/2025           |
+| landing-page | feature/index.html | 076717c   | feat: (Landing page) agregar sección de Planes      | -                   | 1/09/2025           |
+| landing-page | feature/index.html | bc1bc4a   | feat: (Landing Page) agregar sección Equipo         | -                   | 1/09/2025           |
+| landing-page | feature/index.html | 166d6a4   | feat: (Landing Page) agregar sección de Contacto    | -                   | 1/09/2025           |
+| landing-page | feature/index.html | 6371146   | feat: (Landing page) agregar Footer                 | -                   | 1/09/2025           |
+| landing-page | feature/index.html | 02f2eld   | feat: (Landing Page) implementar responsividad      | -                   | 1/09/2025           |
+
+</div>
+
+#### 5.2.1.3. Testing Suite Evidence for Sprint Review
+
+Para la entrega del Sprint 1, logramos completar el desarrollo, la implementación y el despliegue del Landing Page. Por esta razón, nos enfocamos en la sección de "acceptance-tests" en la implementación de los archivos feature que componen nuestro landing page. Estos features se basan en las Historias de Usuario especificadas en el sprint backlog, detallando cada uno de los escenarios que planeamos desarrollar.
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
+<table>
+  <tr>
+    <th>Repository</th>
+    <th >Branch</th>
+    <th>Commit</th>
+    <th>Author</th>
+    <th>Message</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>landing-page</td>
+    <td>Features_testing</td>
+    <td>07fa8d6</td>
+    <td>Nicolas Vera</td>
+    <td>doc: add acceptance tests</td>
+    <td>3/09/2024</td>
+  </tr>
+</table>
+</div>
+
+
+<br><br>
+
+Para la entrega del Sprint 1 se buscó alcanzar el desarrollo completo, implementación y despliegue de la landing page. La sección de "Testing" se centró en la implementación y prueba de los archivos feature que contienen las funcionalidades de la landing page de AutoMatch.
+
+### 5.2.1.4. Execution Evidence for Sprint Review
+
+En el sprint 1 se alcanzó un desarrollo parcial en la implementación del despliegue de la landing page. La página muestra varias secciones en las que el usuario puede encontrar información relevante sobre los servicios, planes y equipo de AutoMatch. A continuación se presentan evidencias del progreso logrado:
+
+- **Sección What We Offer**: El usuario puede ver las características clave que ofrecemos, como transacciones seguras, verificación de calidad, talleres especializados y pagos seguros.
+  ![What We Offer](assets/whatweoffer.png)
+  <br><br>
+- **Sección Planes**: En la sección de planes, el usuario puede visualizar e interactuar con los diferentes planes disponibles, eligiendo la opción que mejor se adapte a sus necesidades.
+  ![Planes](assets/planes.png)
+  <br><br>
+- **Sección About Us**: En esta sección, el usuario puede conocer más sobre la misión y visión de AutoMatch, así como entender nuestro compromiso con la seguridad y el servicio al cliente.
+  ![About Us](assets/aboutus.png)
+  <br><br>
+- **Sección Our Team**: El usuario puede conocer a los miembros clave del equipo de AutoMatch y leer sus testimonios.
+  ![Our Team](assets/ourteam.png)
+  <br><br>
+- **Sección Contacto**: El usuario puede enviar sus consultas directamente a través de un formulario de contacto, o utilizar las opciones de contacto directo proporcionadas.
+  ![Contacto](assets/contacto.png)
+
+
+#### 5.2.1.5 Microservices Documentation Evidence for Sprint Review
+
+Documentación de endpoints con Swagger.
+
+**Ejemplo:**
+
+GET /api/v1/autos  
+POST /api/v1/users/register  
+POST /api/v1/auth/login  
+
+#### 5.2.1.6. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa.
+
+**https://upc-pre-si729-2402-wx51-g3-cibersofa.github.io/Landing-page/**
+
+Para el presente sprint se ha desarrollado la landing page. Para el despliegue se emplearon las siguientes herramientas:
+
+- **Git:** Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la landing page en un repositorio remoto.
+- **Gitflow:** Flujo de trabajo colaborativo. Nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
+- **GitHub:** Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+- **Vercel:** Plataforma que automatiza webs que nos permitió alojar y desplegar nuestra el landing page.
+
+#### 5.2.4.7. Team Collaboration Insights during Sprint
+
+![TB2](assets/evidencia-tb3.jpg) <br>
+
+#### 5.2.1.8. Kanban Board 
+
+<h3>5.2.1.8 Kanban Board – Sprint 1 (AutoMatch)</h3>
+<p><em>Evaluación del cumplimiento y estado del trabajo.</em></p>
+
+<table border="1" cellspacing="0" cellpadding="6" style="border-collapse:collapse; width:100%; text-align:left;">
+  <thead style="background-color:#f2f2f2;">
+    <tr>
+      <th style="width:20%;">Estado</th>
+      <th>Tarea</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>To Do</strong></td>
+      <td>
+        - Configurar entorno de desarrollo (Spring Boot, Angular, PostgreSQL, GitHub).<br>
+        - Implementar registro de usuarios (US-01).<br>
+        - Preparar endpoints para login con autenticación JWT (US-02).<br>
+        - Diseñar formulario de publicación de vehículos (US-03).<br>
+        - Definir filtros iniciales para búsqueda de autos (US-04).
+      </td>
+    </tr>
+    <tr>
+      <td><strong>In Progress</strong></td>
+      <td>
+        - Desarrollo del módulo de autenticación (login + encriptación con BCrypt).<br>
+        - Implementación del CRUD de publicaciones (vehículos).<br>
+        - Configuración de Swagger para documentación de APIs.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Done</strong></td>
+      <td>
+        - Historias de usuario definidas en backlog.<br>
+        - Diagramas de arquitectura (contexto, contenedores y componentes).<br>
+        - Configuración de repositorio GitHub con ramas principales (<code>main</code>, <code>develop</code>, <code>feature/*</code>).
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Revisión</strong></td>
+      <td>
+        - Validación de pruebas unitarias en backend (JUnit + Mockito).<br>
+        - Ejecución de consultas en PostgreSQL para verificar persistencia.<br>
+        - Despliegue inicial en Render/Vercel validado por el equipo.<br>
+        - Evaluación de la colaboración en equipo mediante tablero Trello/GitHub Projects.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## VII. Bibliografía
 
 - Dittrich, J. (s.f.). A Beginner's Guide to Finding User Needs. Recuperado de
